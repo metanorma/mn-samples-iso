@@ -1,0 +1,87 @@
+GIT
+  remote: https://github.com/riboseinc/asciidoctor-iso
+  revision: a80c8e4405134b4806eb60a36b3df41a7d45a620
+  specs:
+    asciidoctor-iso (0.7.3)
+      asciidoctor (~> 1.5.6)
+      html2doc
+      htmlentities (~> 4.3.4)
+      isodoc
+      nokogiri
+      ruby-jing
+      sass
+      thread_safe
+      uuidtools
+
+GIT
+  remote: https://github.com/riboseinc/html2doc
+  revision: 6a1577902a0a978382f5a5d51965136498ea6e05
+  specs:
+    html2doc (0.7.0)
+      asciimath
+      htmlentities (~> 4.3.4)
+      image_size
+      mime-types
+      nokogiri
+      ruby-xslt
+      thread_safe
+      uuidtools
+
+GIT
+  remote: https://github.com/riboseinc/isodoc
+  revision: 7473a3a350eb74c383309c2702c683d0506c3a55
+  specs:
+    isodoc (0.5.8)
+      asciimath
+      html2doc
+      htmlentities (~> 4.3.4)
+      image_size
+      liquid
+      mime-types
+      nokogiri
+      roman-numerals
+      ruby-xslt
+      thread_safe
+      uuidtools
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciidoctor (1.5.6.2)
+    asciimath (1.0.4)
+    ffi (1.9.23)
+    htmlentities (4.3.4)
+    image_size (1.5.0)
+    liquid (4.0.0)
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
+    optout (0.0.2)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
+    roman-numerals (0.3.0)
+    ruby-jing (0.0.1)
+      optout (>= 0.0.2)
+    ruby-xslt (0.9.10)
+    sass (3.5.6)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    thread_safe (0.3.6)
+    uuidtools (2.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asciidoctor-iso!
+  html2doc!
+  isodoc!
+
+BUNDLED WITH
+   1.16.1
