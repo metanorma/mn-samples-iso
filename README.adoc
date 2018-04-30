@@ -1,0 +1,14 @@
+= isodoc-rice
+
+Samples of https://github.com/riboseinc/asciidoctor-iso[Asciidoctor-ISO] documents and outputs,
+based on the https://www.iso.org/publication/PUB100407.html["Rice document"], the ISO's
+model document of an international standard.
+
+* iso-rice-en.adoc: Asciidoctor-ISO markup source document for the Rice document, in English
+* iso-rice-en.xml: The ISO XML output corresponding to the iso-rice-en.adoc source
+* iso-rice-en.html: The HTML output generated for the English Rice document
+* iso-rice-en.doc: The Word output generated for the English Rice document
+* iso-rice-zh.adoc: Asciidoctor-ISO markup source document for the Rice document, in Chinese
+* iso-rice-zh.xml: The ISO XML output corresponding to the iso-rice-zh.adoc source
+* iso-rice-zh.html: The HTML output generated for the Chinese Rice document
+* iso-rice-zh.doc: The Word output generated for the Chinese Rice document
