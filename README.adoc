@@ -12,3 +12,5 @@ model document of an international standard.
 * iso-rice-zh.xml: The ISO XML output corresponding to the iso-rice-zh.adoc source
 * iso-rice-zh.html: The HTML output generated for the Chinese Rice document
 * iso-rice-zh.doc: The Word output generated for the Chinese Rice document
+
+Refer to https://github.com/riboseinc/asciidoctor-iso/wiki/Quickstart-Guide for a quick start on editing Asciidoctor-ISO documents.
