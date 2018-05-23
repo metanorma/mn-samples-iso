@@ -1,0 +1,52 @@
+= Rice model
+:docnumber: 17301
+:tc-docnumber: 17301
+:ref-docnumber: ISO 17301-1:2016(E)
+:partnumber: 1
+:edition: 2
+:revdate: 2016-05-01
+:copyright-year: 2016
+:language: en
+:title-intro-en: Cereals and pulses
+:title-main-en: Specifications and test methods
+:title-part-en: Rice
+:title-intro-fr: Céréales et légumineuses
+:title-main-fr: Spécification et méthodes d'essai
+:title-part-fr: Riz
+:doctype: international-standard
+:docstage: 30
+:docsubstage: 92
+:draft:
+:technical-committee-number: 34
+:technical-committee: Food products
+:subcommittee-number: 4
+:subcommittee: Cereals and pulses
+:workgroup-number: 3
+:workgroup: Rice Group
+:toc:
+:sectnumlevels: 7
+:stem:
+:xrefstyle: short
+:appendix-caption: Annex
+:appendix-refsig: Annex
+:section-refsig: Clause
+:table-caption: Table
+:example-caption: Figure
+
+include::sections/00-foreword.adoc[]
+include::sections/00-introduction.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-normref.adoc[]
+include::sections/03-termdef.adoc[]
+include::sections/04-specifications.adoc[]
+include::sections/05-sampling.adoc[]
+include::sections/06-testmethods.adoc[]
+include::sections/07-testreport.adoc[]
+include::sections/08-packaging.adoc[]
+include::sections/09-marking.adoc[]
+include::sections/aa-annex-a.adoc[]
+include::sections/ab-annex-b.adoc[]
+include::sections/ac-annex-c.adoc[]
+include::sections/ad-annex-d.adoc[]
+include::sections/ae-annex-e.adoc[]
+include::sections/b0-bibliography.adoc[]
