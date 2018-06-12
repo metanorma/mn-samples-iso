@@ -1,5 +1,7 @@
 = isodoc-rice
 
+image:https://img.shields.io/travis/riboseinc/isodoc-rice/master.svg["Build Status", link="https://travis-ci.org/riboseinc/isodoc-rice"]
+
 Samples of https://github.com/riboseinc/asciidoctor-iso[Asciidoctor-ISO] documents and outputs,
 based on the https://www.iso.org/publication/PUB100407.html["Rice document"], the ISO's
 model document of an international standard.
