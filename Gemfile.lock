@@ -1,23 +1,18 @@
 GIT
   remote: https://github.com/riboseinc/asciidoctor-iso
-  revision: a80c8e4405134b4806eb60a36b3df41a7d45a620
+  revision: f09dade3af894db3a8a44f32ef193499abc6c52a
   specs:
-    asciidoctor-iso (0.7.3)
-      asciidoctor (~> 1.5.6)
-      html2doc
-      htmlentities (~> 4.3.4)
-      isodoc
-      nokogiri
+    asciidoctor-iso (0.8.1)
+      asciidoctor (~> 1.5.7)
+      isobib (~> 0.1.4)
+      isodoc (>= 0.7.0)
       ruby-jing
-      sass
-      thread_safe
-      uuidtools
 
 GIT
   remote: https://github.com/riboseinc/html2doc
-  revision: 6a1577902a0a978382f5a5d51965136498ea6e05
+  revision: f8bd693d8748c622bbe8f24ab30ac142b2543a0a
   specs:
-    html2doc (0.7.0)
+    html2doc (0.8.0)
       asciimath
       htmlentities (~> 4.3.4)
       image_size
@@ -29,11 +24,11 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/isodoc
-  revision: 7473a3a350eb74c383309c2702c683d0506c3a55
+  revision: d5ba56a61de82de41f722ee32eb3680cbcc81170
   specs:
-    isodoc (0.5.8)
+    isodoc (0.7.0)
       asciimath
-      html2doc
+      html2doc (>= 0.7.1)
       htmlentities (~> 4.3.4)
       image_size
       liquid
@@ -41,17 +36,30 @@ GIT
       nokogiri
       roman-numerals
       ruby-xslt
+      sass
       thread_safe
       uuidtools
 
 GEM
   remote: https://rubygems.org/
   specs:
-    asciidoctor (1.5.6.2)
+    algoliasearch (1.22.0)
+      httpclient (~> 2.8, >= 2.8.3)
+      json (>= 1.5.1)
+    asciidoctor (1.5.7.1)
     asciimath (1.0.4)
-    ffi (1.9.23)
+    ffi (1.9.25)
     htmlentities (4.3.4)
-    image_size (1.5.0)
+    httpclient (2.8.3)
+    image_size (2.0.0)
+    iso-bib-item (0.1.5)
+      isoics (~> 0.1.6)
+      nokogiri
+    isobib (0.1.5)
+      algoliasearch
+      iso-bib-item (~> 0.1.2)
+    isoics (0.1.6)
+    json (2.1.0)
     liquid (4.0.0)
     mime-types (3.1)
       mime-types-data (~> 3.2015)
@@ -84,4 +92,4 @@ DEPENDENCIES
   isodoc!
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
