@@ -12,6 +12,7 @@ clean:
 
 %.xml %.doc %.html: %.adoc
 	bundle exec asciidoctor -b iso -r 'asciidoctor-iso' $^ --trace
+	#bundle exec metanorma -t iso $^
 
 open:
 	open $(HTML)
