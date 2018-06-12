@@ -6,14 +6,16 @@ model document of an international standard.
 
 * iso-rice-en.adoc: Asciidoctor-ISO markup source document for the Rice document, in English
 * iso-rice-en.xml: The ISO XML output corresponding to the iso-rice-en.adoc source
-* iso-rice-en.html: The HTML output generated for the English Rice document
+* iso-rice-en.html: The Default HTML output generated for the English Rice document
+* iso-rice-en-alt.html: The Alternative HTML output generated for the English Rice document
 * iso-rice-en.doc: The Word output generated for the English Rice document
 * sections/*: The Asciidoctor-ISO markup source document for the Rice document, broken up into separate files for each section
 * iso-rice-en-sections.adoc: Asciidoctor-ISO markup source document for the Rice document, referencing the individual files in sections/*
 * iso-rice-en-sections.*: ISO XML, HTML and Word output generated from iso-rice-en-sections.adoc
 * iso-rice-zh.adoc: Asciidoctor-ISO markup source document for the Rice document, in Chinese
 * iso-rice-zh.xml: The ISO XML output corresponding to the iso-rice-zh.adoc source
-* iso-rice-zh.html: The HTML output generated for the Chinese Rice document
+* iso-rice-zh.html: The Default HTML output generated for the Chinese Rice document
+* iso-rice-zh-alt.html: The Alternative HTML output generated for the Chinese Rice document
 * iso-rice-zh.doc: The Word output generated for the Chinese Rice document
 
 Refer to https://github.com/riboseinc/asciidoctor-iso/wiki/Quickstart-Guide for a quick start on editing Asciidoctor-ISO documents.
