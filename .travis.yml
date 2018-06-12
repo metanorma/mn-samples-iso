@@ -1,0 +1,14 @@
+dist: trusty
+# sudo:false runs in container mode, but its setup is really slow and causes asciidoctor to crash
+sudo: true
+language: ruby
+env:
+  - IDNITS_URL=https://tools.ietf.org/tools/idnits/
+rvm:
+  - 2.4.1
+before_install:
+  - gem install bundler
+install:
+  - bundle install --path vendor/bundle
+script:
+  - make clean all
