@@ -1,18 +1,32 @@
 SRC  := $(wildcard iso-*.adoc)
-DOC  := $(patsubst %.adoc,%.doc,$(SRC))
 XML  := $(patsubst %.adoc,%.xml,$(SRC))
 HTML := $(patsubst %.adoc,%.html,$(SRC))
+DOC  := $(patsubst %.adoc,%.doc,$(SRC))
 
 SHELL := /bin/bash
 
-all: $(HTML) $(XML) $(DOC)
+all: $(HTML) $(XML) $(PDF) $(DOC)
 
-clean:
-	rm -f $(HTML) $(DOC) $(XML)
+clean: clean-doc clean-xml clean-html
 
-%.xml %.doc %.html: %.adoc
-	bundle exec metanorma -t iso -x html,doc $^
+clean-doc:
+	rm -f $(DOC)
+
+clean-xml:
+	rm -f $(XML)
+
+clean-html:
+	rm -f $(HTML)
+
+bundle:
+	bundle
+
+%.xml %.html %.doc:	%.adoc | bundle
+	bundle exec metanorma -t iso -x doc,xml,html $^
+
+html: clean-html $(HTML)
 
 open:
 	open $(HTML)
 
+.PHONY: bundle all open
