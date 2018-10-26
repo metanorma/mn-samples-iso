@@ -1,54 +1,88 @@
-= isodoc-rice
+= ISO Rice document in Metanorma (Metanorma-ISO)
 
 image:https://img.shields.io/travis/riboseinc/isodoc-rice/master.svg["Build Status", link="https://travis-ci.org/riboseinc/isodoc-rice"]
 
-Samples of https://github.com/riboseinc/asciidoctor-iso[Asciidoctor-ISO] documents and outputs,
-based on the https://www.iso.org/publication/PUB100407.html["Rice document"], the ISO's
-model document of an international standard.
+== Introduction
 
-* iso-rice-en.adoc: Asciidoctor-ISO markup source document for the Rice document, in English
-* iso-rice-en.xml: The ISO XML output corresponding to the iso-rice-en.adoc source
-* iso-rice-en.html: The Default HTML output generated for the English Rice document
-* iso-rice-en-alt.html: The Alternative HTML output generated for the English Rice document
-* iso-rice-en.doc: The Word output generated for the English Rice document
-* sections/*: The Asciidoctor-ISO markup source document for the Rice document, broken up into separate files for each section
-* iso-rice-en-sections.adoc: Asciidoctor-ISO markup source document for the Rice document, referencing the individual files in sections/*
-* iso-rice-en-sections.*: ISO XML, HTML and Word output generated from iso-rice-en-sections.adoc
-* iso-rice-zh.adoc: Asciidoctor-ISO markup source document for the Rice document, in Chinese
-* iso-rice-zh.xml: The ISO XML output corresponding to the iso-rice-zh.adoc source
-* iso-rice-zh.html: The Default HTML output generated for the Chinese Rice document
-* iso-rice-zh-alt.html: The Alternative HTML output generated for the Chinese Rice document
-* iso-rice-zh.doc: The Word output generated for the Chinese Rice document
+This repository provides a readily usable  https://github.com/riboseinc/metanorma-iso[Metanorma-ISO]
+source document based on the
+https://www.iso.org/publication/PUB100407.html["`Rice document`"],
+the ISO's model document of an international standard.
 
-Refer to https://github.com/riboseinc/asciidoctor-iso/wiki/Quickstart-Guide for a quick start on editing Asciidoctor-ISO documents.
+Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quickstart] for a primer on creating Metanorma-ISO documents.
+
+
+== Source files provided in this repo
+
+* `iso-rice-en.adoc`: Metanorma-ISO markup source document for the Rice document, in English
+
+* `sections/*`: The Metanorma-ISO markup source document for the Rice document, broken up into separate files for each section
+
+* `iso-rice-en-sections.adoc`: Metanorma-ISO markup source document for the Rice document, referencing the individual files in `sections/*`
+
+* `iso-rice-zh.adoc`: Metanorma-ISO markup source document for the Rice document, in Chinese
+
+
+== Description of generated artifacts
+
+* `{filename}-{lang}.xml`: Metanorma-ISO XML output corresponding to the `{filename}-{lang}.adoc` source
+
+* `{filename}-{lang}.html`: Metanorma-ISO HTML output corresponding to the `{filename}-{lang}.adoc` source
+
+* `{filename}-{lang}-alt.html`: Metanorma-ISO "`readability-optimized`" HTML output corresponding to the `{filename}-{lang}.adoc` source
+
+
+== Compiling the document
 
 To build the document:
 
-[source,asciidoc]
-====
+[source,sh]
+----
 $ bundle update
-$ make clean
-$ make
-====
+$ make clean all
+----
 
-The Rice document in English is given here both as a single source document and broken up into separate files, to illustrate both ways of managing Asciidoctor content. The section files are listed in order of appearance in the document, and each corresponds to a first-level clause of the Rice document:
 
-* 00-foreword.adoc: Foreword
-* 00-introduction.adoc: Introduction
-* 01-scope.adoc: Scope
-* 02-normref.adoc: Normative References
-* 03-termdef.adoc: Terms and Definitions
-* 04-specifications.adoc: Clause 4: Specifications
-* 05-sampling.adoc: Clause 5: Sampling
-* 06-testmethods.adoc: Clause 6: Test Methods
-* 07-testreport.adoc: Clause 7: Test Report
-* 08-packaging.adoc: Clause 8: Packaging
-* 09-marking.adoc: Clause 9: Marking
-* aa-annex-a.adoc: Annex A
-* ab-annex-b.adoc: Annex B
-* ac-annex-c.adoc: Annex C
-* ad-annex-d.adoc: Annex D
-* ae-annex-e.adoc: Annex E (not in original Rice document, included to illustrate further formatting options)
-* b0-bibliography.adoc: Bibliography
+== Managing an IsoDoc
 
-The document shell iso-rice-en-sections.adoc includes each of these files, and also contains the document header.
+=== General
+
+The Rice document is given here both as a single source document and broken up into separate files, to illustrate both ways of managing Metanorma content.
+
+=== Single file
+
+There are two document examples provided here:
+
+* `iso-rice-en.adoc`: the Rice document in English
+* `iso-rice-zh.adoc`: the Rice document as translated to Chinese
+
+For each language:
+
+* the file `iso-rice-{lang}.adoc` provides the document header
+* the file `body/body-{lang}.adoc` provides the content body.
+
+
+=== Multiple files
+
+The document `iso-rice-en-sections.adoc` includes the document header and the following files.
+
+The section files are listed in order of appearance in the document, and each corresponds to a first-level clause of the Rice document:
+
+* `00-foreword.adoc`: Foreword
+* `00-introduction.adoc`: Introduction
+* `01-scope.adoc`: Scope
+* `02-normref.adoc`: Normative References
+* `03-termdef.adoc`: Terms and Definitions
+* `04-specifications.adoc`: Clause 4: Specifications
+* `05-sampling.adoc`: Clause 5: Sampling
+* `06-testmethods.adoc`: Clause 6: Test Methods
+* `07-testreport.adoc`: Clause 7: Test Report
+* `08-packaging.adoc`: Clause 8: Packaging
+* `09-marking.adoc`: Clause 9: Marking
+* `aa-annex-a.adoc`: Annex A
+* `ab-annex-b.adoc`: Annex B
+* `ac-annex-c.adoc`: Annex C
+* `ad-annex-d.adoc`: Annex D
+* `ae-annex-e.adoc`: Annex E (not in original Rice document, included to illustrate further formatting options)
+* `b0-bibliography.adoc`: Bibliography
+
