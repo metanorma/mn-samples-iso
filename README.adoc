@@ -1,6 +1,26 @@
+:repo-name: isodoc-rice
+
 = ISO Rice document in Metanorma (Metanorma-ISO)
 
-image:https://img.shields.io/travis/riboseinc/isodoc-rice/master.svg["Build Status", link="https://travis-ci.org/riboseinc/isodoc-rice"]
+image:https://travis-ci.com/riboseinc/isodoc-rice.svg?branch=master["Build Status", link="https://travis-ci.com/riboseinc/isodoc-rice"]
+
+This document is available in its rendered forms here:
+
+* ISO Rice document (English)
+
+** https://riboseinc.github.io/isodoc-rice/[ISO Rice document (English) (HTML)]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-en.alt.html[ISO Rice document (English) (Pretty HTML)]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-en.pdf[(English) PDF]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-en.xml[(English) Metanorma XML]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-en.rxl[(English) Relaton XML (Bibliographic item)]
+
+* ISO Rice document (Chinese)
+
+** https://riboseinc.github.io/isodoc-rice/iso-rice-zh.html[ISO Rice document (Chinese) (HTML)]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-zh.alt.html[ISO Rice document (Chinese) (Pretty HTML)]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-zh.pdf[(Chinese) PDF]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-zh.xml[(Chinese) Metanorma XML]
+** https://riboseinc.github.io/isodoc-rice/iso-rice-zh.rxl[(Chinese) Relaton XML (Bibliographic item)]
 
 == Introduction
 
@@ -10,6 +30,36 @@ https://www.iso.org/publication/PUB100407.html["`Rice document`"],
 the ISO's model document of an international standard.
 
 Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quickstart] for a primer on creating Metanorma-ISO documents.
+
+
+== Fetching the document
+
+[source,sh]
+----
+git clone https://gitlab.com/calconnect/csd-calspam-bcp/
+----
+
+== Installing Build Tools
+
+See https://www.metanorma.com/overview/getting-started/
+
+
+== Running via Docker or locally
+
+If you have installed the build tools locally, and wish to run the
+locally-installed compilation tools, there is nothing further to set.
+
+If you don't want to deal with local dependencies, use the docker
+version by:
+
+[source,sh]
+----
+export METANORMA_DOCKER=1
+----
+
+The `Makefile` will automatically choose the proper command to
+execute.
+
 
 
 == Source files provided in this repo
@@ -30,17 +80,6 @@ Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quick
 * `{filename}-{lang}.html`: Metanorma-ISO HTML output corresponding to the `{filename}-{lang}.adoc` source
 
 * `{filename}-{lang}-alt.html`: Metanorma-ISO "`readability-optimized`" HTML output corresponding to the `{filename}-{lang}.adoc` source
-
-
-== Compiling the document
-
-To build the document:
-
-[source,sh]
-----
-$ bundle update
-$ make clean all
-----
 
 
 == Managing an IsoDoc
