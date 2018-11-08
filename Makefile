@@ -107,11 +107,15 @@ watch-serve: $(NODE_BIN_DIR)/run-p
 # Deploy jobs
 #
 
-publish:
-	mkdir -p published  && \
-	cp -a $(basename $(SRC)).* published/ && \
+publish: published $(addprefix published/,$(SRC))
 	cp $(firstword $(HTML)) published/index.html; \
 	if [ -d "images" ]; then cp -a images published; fi
+
+published:
+	mkdir -p published
+
+published/%:
+	cp -a $(basename $*).* published/
 
 deploy_key:
 	openssl aes-256-cbc -K $(encrypted_$(ENCRYPTION_LABEL)_key) \
