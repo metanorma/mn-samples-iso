@@ -7,12 +7,9 @@
 :revdate: 2016-05-01
 :copyright-year: 2016
 :language: en
-:title-intro-zh: 谷物和豆类
-:title-main-zh: 规格和测试方法
-:title-part-zh: 米
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
-:title-part-en: Rice
+:title-part-en: Rice (in English)
 :title-intro-fr: Céréales et légumineuses
 :title-main-fr: Spécification et méthodes d'essai
 :title-part-fr: Riz
@@ -26,12 +23,10 @@
 :subcommittee: Cereals and pulses
 :workgroup-number: 3
 :workgroup: Rice Group
+:docfile: iso-rice-en.adoc
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt
 :local-cache-only:
 :data-uri-image:
-:appendix-caption: 附件
-:appendix-refsig: 附件
-:section-refsig: 章
-:table-caption: 表
-:example-caption: 例
 
-include::body/body-zh.adoc[]
+include::body/body-en.adoc[]
