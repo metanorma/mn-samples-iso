@@ -9,7 +9,7 @@
 :language: en
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
-:title-part-en: Rice
+:title-part-en: Rice (in English, split sections)
 :title-intro-fr: Céréales et légumineuses
 :title-main-fr: Spécification et méthodes d'essai
 :title-part-fr: Riz
@@ -23,6 +23,9 @@
 :subcommittee: Cereals and pulses
 :workgroup-number: 3
 :workgroup: Rice Group
+:docfile: iso-rice-en-sections.adoc
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt
 :local-cache-only:
 :data-uri-image:
 
