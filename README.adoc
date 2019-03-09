@@ -2,7 +2,7 @@
 
 = ISO Rice document in Metanorma (Metanorma-ISO)
 
-image:https://travis-ci.com/riboseinc/isodoc-rice.svg?branch=master["Build Status", link="https://travis-ci.org/riboseinc/isodoc-rice"]
+image:https://travis-ci.com/metanorma/isodoc-rice.svg?branch=master["Build Status", link="https://travis-ci.org/metanorma/isodoc-rice"]
 
 This document is available in its rendered forms here:
 
@@ -10,7 +10,7 @@ This document is available in its rendered forms here:
 
 == Introduction
 
-This repository provides a readily usable  https://github.com/riboseinc/metanorma-iso[Metanorma-ISO]
+This repository provides a readily usable  https://github.com/metanorma/metanorma-iso[Metanorma-ISO]
 source document based on the
 https://www.iso.org/publication/PUB100407.html["`Rice document`"],
 the ISO's model document of an international standard.
@@ -22,7 +22,7 @@ Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quick
 
 [source,sh]
 ----
-git clone https://github.com/riboseinc/isodoc-rice/
+git clone https://github.com/metanorma/isodoc-rice/
 ----
 
 == Installing Build Tools
