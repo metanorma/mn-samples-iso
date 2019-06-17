@@ -1,0 +1,12 @@
+---
+metanorma:
+  deploy:
+    email: "travis-ci@metanorma.org"
+  source:
+    files:
+      - sources/iso-rice-en.adoc
+      - sources/iso-rice-zh.adoc
+relaton:
+  collection:
+    organization: "Metanorma : Standards for standards"
+    name: "The ISO Rice document in Metanorma (AsciiISO syntax)"

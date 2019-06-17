@@ -5,10 +5,14 @@ dist: xenial
 env:
   global:
     - JAVA_OPTS="java.awt.headless=true"
-    - COMMIT_AUTHOR_EMAIL="travis-ci@metanorma.org"
+    - COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
 rvm:
   - 2.5
 cache: bundler
+addons:
+  snaps:
+    - jq
+    - yq
 before_install:
   - gem update --system
   - gem install bundler
