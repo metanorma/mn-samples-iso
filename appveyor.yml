@@ -20,6 +20,7 @@ install:
   - ps: Invoke-WebRequest -Uri "https://github.com/mikefarah/yq/releases/download/2.4.0/yq_windows_amd64.exe " -OutFile ".\yq.exe"
   - refreshenv
   - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
+  - gem install bundler -v "~> 2"
   - bundle config --local path vendor/bundle
   - bundle update
 
