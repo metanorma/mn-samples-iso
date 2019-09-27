@@ -33,8 +33,14 @@ jobs:
     - uses: actions/download-artifact@master
       with:
         name: published
+    - name: touch-files
+      run: |
+        mkdir -p published
+        echo "foobar" > published/index.html
     - name: deploy-to-gh
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+        GH_DEPLOY_KEY: ${{ secrets.GH_DEPLOY_KEY }}
+        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
       run: |
-        bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/ghactions-deploy-gh-pages.sh | bash"
+        curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/ghactions-deploy-to-gh-pages.sh | bash
