@@ -16,10 +16,10 @@ OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
 OUTPUT_HTML := $(patsubst %.xml,%.html,$(OUTPUT_XML))
 
 ifdef METANORMA_DOCKER
-  COMPILE_CMD := echo "Compiling via docker..."; docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER) metanorma $$FILENAME
+  PREFIX_CMD := echo "Running via docker..."; docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER)
 
 else
-  COMPILE_CMD := echo "Compiling locally..."; bundle exec metanorma $$FILENAME
+  PREFIX_CMD := echo "Running locally..."; bundle exec
 endif
 
 _OUT_FILES := $(foreach FORMAT,$(FORMATS),$(shell echo $(FORMAT) | tr '[:lower:]' '[:upper:]'))
@@ -36,17 +36,17 @@ documents/%.xml: documents sources/%.xml
 %.xml %.html:	%.adoc | bundle
 	pushd $(dir $^); \
 	FILENAME=$(notdir $^); \
-	${COMPILE_CMD}; \
+	${PREFIX_CMD} metanorma $$FILENAME; \
 	popd
 
 documents.rxl: $(OUTPUT_XML)
-	bundle exec relaton concatenate \
+	${PREFIX_CMD} relaton concatenate \
 	  -t "$(shell yq r metanorma.yml relaton.collection.name)" \
 		-g "$(shell yq r metanorma.yml relaton.collection.organization)" \
 		documents $@
 
 documents.html: documents.rxl
-	bundle exec relaton xml2html documents.rxl
+	${PREFIX_CMD} relaton xml2html documents.rxl
 
 %.adoc:
 
@@ -125,13 +125,4 @@ published: documents.html
 	cp $< published/index.html; \
 	if [ -d "images" ]; then cp -a images published; fi
 
-deploy_key:
-	openssl aes-256-cbc -K $(encrypted_$(ENCRYPTION_LABEL)_key) \
-		-iv $(encrypted_$(ENCRYPTION_LABEL)_iv) -in $@.enc -out $@ -d && \
-	chmod 600 $@
-
-deploy: deploy_key
-	export COMMIT_AUTHOR_EMAIL=$(COMMIT_AUTHOR_EMAIL); \
-	./deploy.sh
-
-.PHONY: publish deploy
+.PHONY: publish
