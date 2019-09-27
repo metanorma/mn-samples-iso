@@ -8,6 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup snaps
+        run: |
+          sudo snap install jq
+          sudo snap install yq
       - uses: actions/checkout@master
       - name: Fetch Metanorma container
         uses: docker://metanorma/metanorma:latest
