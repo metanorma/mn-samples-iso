@@ -13,8 +13,6 @@ jobs:
           sudo snap install jq
           sudo snap install yq
       - uses: actions/checkout@master
-      - name: Fetch Metanorma container
-        uses: docker://metanorma/mn:latest
       - name: Build document in the Metanorma container
         env:
           METANORMA_DOCKER: metanorma/mn:latest
@@ -33,10 +31,6 @@ jobs:
     - uses: actions/download-artifact@master
       with:
         name: published
-    - name: touch-files
-      run: |
-        mkdir -p published
-        echo "foobar" > published/index.html
     - name: deploy-to-gh
       env:
         GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
