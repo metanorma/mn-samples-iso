@@ -1,12 +1,10 @@
-:repo-name: isodoc-rice
-
 = ISO Rice document in Metanorma (Metanorma-ISO)
 
-image:https://travis-ci.com/metanorma/isodoc-rice.svg?branch=master["Build Status", link="https://travis-ci.org/metanorma/isodoc-rice"]
+image:https://github.com/metanorma/mn-samples-iso/workflows/publish/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?workflow=publish"]
 
 This document is available in its rendered forms here:
 
-* https://metanorma.github.io/isodoc-rice/[ISO Rice document (repository)]
+* https://metanorma.github.io/mn-samples-iso/[ISO Rice document (repository)]
 
 == Introduction
 
@@ -22,7 +20,7 @@ Refer to the https://www.metanorma.com/overview/getting-started/[Metanorma quick
 
 [source,sh]
 ----
-git clone https://github.com/metanorma/isodoc-rice/
+git clone https://github.com/metanorma/mn-samples-iso/
 ----
 
 == Installing Build Tools
