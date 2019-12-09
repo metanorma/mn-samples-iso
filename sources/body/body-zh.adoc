@@ -247,14 +247,14 @@ stem:[w_max]
 | 烤大米，煮熟 | 1,0 | 1,0 | 不适用 | 1,0
 | 精米，煮熟 | 1,0 | 1,0 | 1,0 | 不适用
 | Chips | 0,1 | 0,1 | 0,1 | 0,1
-| HDK | 2,0 footnoteref:[defectsmass,缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。] | 2,0 | 2,0 footnoteref:[defectsmass] | 2,0
+| HDK | 2,0 footnote:defectsmass[缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。] | 2,0 | 2,0 footnote:defectsmass[] | 2,0
 | 损坏的内核 | 4,0 | 3,0 | 4,0 | 3,0
 | 不成熟和/或畸形的内核 | 8,0 | 2,0 | 8,0 | 2,0
-| 垩白粒 | 5,0 footnoteref:[defectsmass] | 5,0 | 不适用 | 不适用
-| 红仁和红色条纹的内核 | 12,0 | 12,0 | 12,0 footnoteref:[defectsmass] | 12,0
-| 部分糊化内核 | 不适用 | 不适用 | 11,0 footnoteref:[defectsmass] | 11,0
+| 垩白粒 | 5,0 footnote:defectsmass[] | 5,0 | 不适用 | 不适用
+| 红仁和红色条纹的内核 | 12,0 | 12,0 | 12,0 footnote:defectsmass[] | 12,0
+| 部分糊化内核 | 不适用 | 不适用 | 11,0 footnote:defectsmass[] | 11,0
 | 米斗 | 不适用 | 不适用 | 4,0 | 2,0
-| 糯米 | 1,0 footnoteref:[defectsmass] | 1,0 | 1,0 footnoteref:[defectsmass] | 1,0
+| 糯米 | 1,0 footnote:defectsmass[] | 1,0 | 1,0 footnote:defectsmass[] | 1,0
 
 5+a| 活昆虫不得存在。 死虫应包含在异物中。
 |===
