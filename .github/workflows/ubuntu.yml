@@ -4,10 +4,9 @@ name: ubuntu
 
 on:
   push:
-    branch: master
+    branches: [ master ]
   pull_request:
-    branches:
-    - '**'
+    branches: [ '**' ]
 
 jobs:
   test-linux:
