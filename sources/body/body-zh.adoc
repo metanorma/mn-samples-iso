@@ -36,6 +36,7 @@ ISO / IEC指令第1部分描述了用于开发此文件的程序和用于进一�
 ****
 
 :sectnums!:
+[heading=Introduction]
 == 引言
 
 本文件是为满足世界范围内对大米最低规格要求而开发的，因为大多数未经过筛选或吸入的商品大块含有一定比例的其他谷物，杂草种子，谷壳，稻草，石头，沙子，植物材料可具有不同于主要成分的物理和生物学特性，因此可影响储存行为。
@@ -67,7 +68,7 @@ gehf@vacheequipment.fic
 
 此文件并不适用于熟食米饭制品。
 
-[bibliography]
+[bibliography,heading=Normative References]
 == 规范性引用文件
 
 下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。
@@ -86,7 +87,7 @@ gehf@vacheequipment.fic
 
 * [[[ISO24333,ISO 24333:2009]]], _谷物和谷物制品 - 取样，Cereals and cereal products -- Sampling_
 
-[source="ISO712,ISO24333"]
+[source="ISO712,ISO24333",heading=Terms and definitions]
 == 术语和定义
 
 :sectnums!:
@@ -631,7 +632,7 @@ ENR [水稻研究中心（意大利）]在根据<<ISO5725-1>>和<<ISO5725-2>>要
 | 再现性限制, stem:[R] (= 2,83 stem:[s_R]) | 2,89 | 0,57 | 2,26 | 6,06
 |===
 
-[bibliography]
+[bibliography,heading=Bibliography]
 == 参考文献
 
 * [[[ISO3696,ISO 3696]]], _分析实验室用水 - 规范和试验方法，Water for analytical laboratory use -- Specification and test methods_
