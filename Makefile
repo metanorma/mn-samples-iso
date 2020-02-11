@@ -5,6 +5,9 @@ MAIN_ADOC_SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-99
 ifeq ($(MAIN_ADOC_SRC),ll)
 MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
 endif
+ifeq ($(SRC),)
+SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
+endif
 
 CSV_SRC := $(wildcard sources/data/*.csv)
 # CSV_SRC := sources/data/codes.csv

@@ -34,7 +34,9 @@ jobs:
           bundle install --jobs 4 --retry 3
       - name: Use Metanorma
         run: |
-          brew install yq metanorma
+          brew install yq
+          brew unlink node@12
+          brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
       - name: Metanorma compile
         env:
           JAVA_OPTS: "java.awt.headless=true"

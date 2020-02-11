@@ -68,7 +68,9 @@ $(foreach FORMAT,$(FORMATS),$(eval $(FORMAT_TASKS)))
 open: open-html
 
 clean:
-	rm -rf documents published *_images sources/*.{rxl,xml,html,doc}
+	rm -rf documents published $(OUT_FILES)
+	del /q *_images
+
 
 bundle:
 	IF  "x" == "%METANORMA_DOCKER%" bundle
