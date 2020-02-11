@@ -5,6 +5,7 @@ name: publish
 on:
   push:
     branches: master
+  pull_request:
 
 jobs:
   build:
@@ -27,6 +28,7 @@ jobs:
           path: published
 
   deploy-gh-pages:
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     needs: build
     steps:

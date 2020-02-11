@@ -17,7 +17,6 @@ jobs:
         ruby: [ '2.6', '2.5', '2.4' ]
     steps:
       - uses: actions/checkout@master
-      - uses: actions/checkout@v2
       - name: Checkout submodules
         shell: bash
         run: |
@@ -44,7 +43,6 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
           source $HOME/.nvm/nvm.sh
           nvm use mn-node
           make clean all publish
