@@ -32,7 +32,7 @@ documents:
 	mkdir $@
 
 documents/%.xml: documents sources/%.xml
-	mv sources/$*.{xml,html,doc,rxl} documents
+	cp sources/$(addsuffix .*,$*) documents
 
 %.xml %.html:	%.adoc | bundle
 	${COMPILE_CMD} $(^:.adoc=.rxl) $^
@@ -73,7 +73,7 @@ clean:
 
 
 bundle:
-	IF  "x" == "%METANORMA_DOCKER%" bundle
+	IF "" == "%METANORMA_DOCKER%" bundle install
 
 .PHONY: bundle all open clean
 
