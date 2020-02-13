@@ -39,5 +39,4 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
           make clean all
