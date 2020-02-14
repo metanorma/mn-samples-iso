@@ -5,6 +5,9 @@ MAIN_ADOC_SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-99
 ifeq ($(MAIN_ADOC_SRC),ll)
 MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
 endif
+ifeq ($(MAIN_ADOC_SRC),)
+MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
+endif
 
 CSV_SRC := $(wildcard sources/data/*.csv)
 # CSV_SRC := sources/data/codes.csv
@@ -50,7 +53,7 @@ documents/%.xml: sources/%.xml | documents
 # Otherwise, build it using adoc
 %.xml %.html: %.adoc $(ALL_ADOC_SRC) $(DERIVED_ADOC) | bundle
 	BUILT_TARGET=$(shell yq r metanorma.yml metanorma.source.built_targets[$@]); \
-	if [ "$$BUILT_TARGET" != "null" ]; then \
+	if [ "$$BUILT_TARGET" != "null" && "$$BUILT_TARGET" != "" ]; then \
 		if [ -f "$$BUILT_TARGET" ] && [ "$${BUILT_TARGET##*.}" == "xml" ]; then \
 			cp "$$BUILT_TARGET" $@; \
 		else \

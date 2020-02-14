@@ -23,18 +23,26 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: Cache xml2rfc
+        id: cache-xml2rfc
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/xml2rfc
+          key: xml2rfc
+          restore-key: xml2rfc
       - name: Use Ruby
         uses: actions/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
           architecture: 'x64'
-      - name: Update gems
+      - name: Install bundler
         run: |
-          sudo gem install bundler --force
-          bundle install --jobs 4 --retry 3
+          sudo gem install bundler
       - name: Use Metanorma
         run: |
-          brew install yq metanorma
+          brew install yq
+          brew unlink node@12
+          brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
       - name: Metanorma compile
         env:
           JAVA_OPTS: "java.awt.headless=true"

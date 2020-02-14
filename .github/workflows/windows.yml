@@ -17,22 +17,24 @@ jobs:
         ruby: [ '2.6', '2.5', '2.4' ]
     steps:
       - uses: actions/checkout@master
+      - name: Cache xml2rfc
+        id: cache-xml2rfc
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/xml2rfc
+          key: xml2rfc
+          restore-key: xml2rfc
       - name: Checkout submodules
         shell: bash
         run: |
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
+      - name: Use Python
+        uses: actions/setup-python@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
+          python-version: '2.7'
           architecture: 'x64'
-      - name: Update gems
-        shell: pwsh
-        run: |
-          gem install bundler
-          bundle install --jobs 4 --retry 3
       - name: Use Metanorma
         shell: pwsh
         run: |
@@ -41,6 +43,15 @@ jobs:
         shell: pwsh
         run: |
           Invoke-WebRequest -Uri "https://github.com/mikefarah/yq/releases/download/2.4.0/yq_windows_amd64.exe " -OutFile ".\yq.exe"
+      - name: Use Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          architecture: 'x64'
+      - name: Install bundler
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
       - name: Metanorma compile
         run: |
           make -f Makefile.win clean all SHELL=cmd
