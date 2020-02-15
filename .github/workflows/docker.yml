@@ -19,6 +19,9 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: Bundle
+        run: |
+          bundle install --jobs 4 --retry 3
       - name: Build document in the Metanorma container
         run: |
           make clean all publish

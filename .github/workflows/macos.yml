@@ -38,6 +38,7 @@ jobs:
       - name: Install bundler
         run: |
           sudo gem install bundler
+          sudo bundle install --jobs 4 --retry 3
       - name: Use Metanorma
         run: |
           brew install yq
@@ -47,5 +48,4 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
           make clean all
