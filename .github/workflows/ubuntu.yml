@@ -23,7 +23,6 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
-      - uses: actions/checkout@master
       - name: Cache xml2rfc
         id: cache-xml2rfc
         uses: actions/cache@v1
@@ -39,6 +38,7 @@ jobs:
       - name: Install bundler
         run: |
           gem install bundler
+          bundle install --jobs 4 --retry 3
       - name: Use Metanorma
         run: |
           curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | sudo bash
@@ -52,5 +52,4 @@ jobs:
         run: |
           source $HOME/.nvm/nvm.sh
           nvm use mn-node
-          make clean all
-
+          make clean all publish
