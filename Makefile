@@ -1,18 +1,31 @@
 #!make
 SHELL := /bin/bash
 
-IGNORE := $(shell mkdir -p $(HOME)/.cache/xml2rfc)
-
-SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-999)
-ifeq ($(SRC),ll)
-SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
+MAIN_ADOC_SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-999)
+ifeq ($(MAIN_ADOC_SRC),ll)
+MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
+endif
+ifeq ($(MAIN_ADOC_SRC),)
+MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
 endif
 
-FORMAT_MARKER := mn-output-
-FORMATS := $(shell grep "$(FORMAT_MARKER)" $(SRC) | cut -f 2 -d " " | tr "," "\\n" | sort | uniq | tr "\\n" " ")
+CSV_SRC := $(wildcard sources/data/*.csv)
+# CSV_SRC := sources/data/codes.csv
 
-INPUT_XML  := $(patsubst %.adoc,%.xml,$(SRC))
-OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
+ALL_ADOC_SRC := $(ADOC_SRC) $(wildcard sources/sections*/*.adoc)
+ALL_SRC      := $(ALL_ADOC_SRC) $(CSV_SRC)
+
+DERIVED_ADOC   := $(patsubst %.csv,%.adoc,$(CSV_SRC))
+ADOC_GENERATOR := scripts/split_codes.rb
+
+FORMATS := $(shell yq r metanorma.yml metanorma.formats | tr -d '[:space:]' | tr -s '-' ' ')
+ifeq ($(FORMATS),null)
+FORMAT_MARKER := mn-output-
+FORMATS := $(shell grep "$(FORMAT_MARKER)" $(MAIN_ADOC_SRC) | cut -f 2 -d ' ' | tr ',' '\n' | sort | uniq | tr '\n' ' ')
+endif
+
+INPUT_XML   := $(patsubst %.adoc,%.xml,$(MAIN_ADOC_SRC))
+OUTPUT_XML  := $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(MAIN_ADOC_SRC)))
 OUTPUT_HTML := $(patsubst %.xml,%.html,$(OUTPUT_XML))
 
 ifdef METANORMA_DOCKER
@@ -30,14 +43,35 @@ all: documents.html
 documents:
 	mkdir -p $@
 
-documents/%.xml: documents sources/%.xml
-	mv sources/$*.{xml,html,doc,rxl} documents
+documents/%.xml: sources/%.xml | documents
+	export GLOBIGNORE=sources/$*.adoc; \
+	mv sources/$(addsuffix .*,$*) documents; \
+	unset GLOBIGNORE
 
-%.xml %.html:	%.adoc | bundle
-	pushd $(dir $^); \
-	FILENAME=$(notdir $^); \
-	${PREFIX_CMD} metanorma $$FILENAME; \
-	popd
+# Build canonical XML output
+# If XML file is provided, copy it over
+# Otherwise, build it using adoc
+%.xml %.html: %.adoc $(ALL_ADOC_SRC) $(DERIVED_ADOC) | bundle
+	BUILT_TARGET=$(shell yq r metanorma.yml metanorma.source.built_targets[$@]); \
+	if [ "$$BUILT_TARGET" != "null" && "$$BUILT_TARGET" != "" ]; then \
+		if [ -f "$$BUILT_TARGET" ] && [ "$${BUILT_TARGET##*.}" == "xml" ]; then \
+			cp "$$BUILT_TARGET" $@; \
+		else \
+			${PREFIX_CMD} metanorma $$BUILT_TARGET; \
+			cp "$${BUILT_TARGET//adoc/xml}" $@; \
+		fi; \
+	else \
+		${PREFIX_CMD} metanorma $<; \
+	fi
+
+# Build derivative output
+sources/%.html sources/%.doc sources/%.pdf:	sources/%.xml
+	BUILT_TYPE=$(shell yq r metanorma.yml metanorma.source.built_type[$<]); \
+	if [ "$$BUILT_TYPE" != "null" ]; then \
+		${PREFIX_CMD} metanorma -t $$BUILT_TYPE $<; \
+	else \
+		${PREFIX_CMD} metanorma $<; \
+	fi
 
 documents.rxl: $(OUTPUT_XML)
 	${PREFIX_CMD} relaton concatenate \
@@ -47,8 +81,6 @@ documents.rxl: $(OUTPUT_XML)
 
 documents.html: documents.rxl
 	${PREFIX_CMD} relaton xml2html documents.rxl
-
-%.adoc:
 
 define FORMAT_TASKS
 OUT_FILES-$(FORMAT) := $($(shell echo $(FORMAT) | tr '[:lower:]' '[:upper:]'))
@@ -70,7 +102,7 @@ $(foreach FORMAT,$(FORMATS),$(eval $(FORMAT_TASKS)))
 open: open-html
 
 clean:
-	rm -rf documents published *_images sources/*.{rxl,xml,html,doc}
+	rm -rf documents documents.{html,rxl} published *_images $(OUT_FILES)
 
 bundle:
 	if [ "x" == "${METANORMA_DOCKER}x" ]; then bundle; fi
@@ -104,7 +136,7 @@ endef
 
 $(foreach FORMAT,$(FORMATS),$(eval $(WATCH_TASKS)))
 
-serve: $(NODE_BIN_DIR)/live-server revealjs-css reveal.js images
+serve: $(NODE_BIN_DIR)/live-server revealjs-css reveal.js
 	export PORT=$${PORT:-8123} ; \
 	port=$${PORT} ; \
 	for html in $(HTML); do \
@@ -118,11 +150,10 @@ watch-serve: $(NODE_BIN_DIR)/run-p
 #
 # Deploy jobs
 #
-publish: published
-published: documents.html
-	mkdir -p published && \
-	cp -a documents $@/ && \
-	cp $< published/index.html; \
-	if [ -d "images" ]; then cp -a images published; fi
 
-.PHONY: publish
+publish: published
+
+published: documents.html
+	mkdir -p $@ && \
+	cp -a documents $@/ && \
+	cp $< $@/index.html;

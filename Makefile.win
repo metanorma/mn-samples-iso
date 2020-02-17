@@ -32,7 +32,7 @@ documents:
 	mkdir $@
 
 documents/%.xml: documents sources/%.xml
-	mv sources/$*.{xml,html,doc,rxl} documents
+	cp sources/$(addsuffix .*,$*) documents
 
 %.xml %.html:	%.adoc | bundle
 	${COMPILE_CMD} $(^:.adoc=.rxl) $^
@@ -68,10 +68,12 @@ $(foreach FORMAT,$(FORMATS),$(eval $(FORMAT_TASKS)))
 open: open-html
 
 clean:
-	rm -rf documents published *_images sources/*.{rxl,xml,html,doc}
+	rm -rf documents published $(OUT_FILES)
+	del /q *_images
+
 
 bundle:
-	IF  "x" == "%METANORMA_DOCKER%" bundle
+	IF "" == "%METANORMA_DOCKER%" bundle install
 
 .PHONY: bundle all open clean
 
