@@ -40,6 +40,7 @@ jobs:
           sudo gem install bundler
       - name: Use Metanorma
         run: |
+          brew update
           brew install yq
           brew unlink node@12
           brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
