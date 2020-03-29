@@ -40,12 +40,14 @@ jobs:
           sudo gem install bundler
       - name: Use Metanorma
         run: |
+          brew update
           brew install yq
           brew unlink node@12
           brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
+          metanorma version
       - name: Metanorma compile
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
+          export NODE_PATH=$(echo /usr/local/Cellar/metanorma/*/libexec/lib/node_modules)
           make clean all
