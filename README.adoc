@@ -1,6 +1,9 @@
 = ISO Rice document in Metanorma (Metanorma-ISO)
 
-image:https://github.com/metanorma/mn-samples-iso/workflows/publish/badge.svg["Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?workflow=publish"]
+image:https://github.com/metanorma/mn-samples-iso/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Aubuntu"]
+image:https://github.com/metanorma/mn-samples-iso/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Amacos"]
+image:https://github.com/metanorma/mn-samples-iso/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/mn-samples-iso/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/mn-samples-iso/actions?query=workflow%3Adocker"]
 
 This document is available in its rendered forms here:
 
