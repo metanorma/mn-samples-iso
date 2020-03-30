@@ -4,7 +4,7 @@ name: docker
 
 on:
   push:
-    branches: master
+    branches: [ master ]
   pull_request:
 
 jobs:
@@ -19,6 +19,13 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - uses: actions/setup-go@v2-beta
+        with:
+          go-version: '^1.13.1'
+      - name: Install yq
+        run: |
+          GO111MODULE=on go get github.com/mikefarah/yq/v3
+          ln -s $GOPATH/bin/yq /usr/local/bin/yq
       - name: Build document in the Metanorma container
         run: |
           make clean all publish
@@ -36,9 +43,12 @@ jobs:
     - uses: actions/download-artifact@master
       with:
         name: published
-    - name: deploy-to-gh
-      env:
-        GH_DEPLOY_KEY: ${{ secrets.GH_DEPLOY_KEY }}
-        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
-      run: |
-        curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/ghactions-deploy-to-gh-pages.sh | bash
+    - name: Deploy to GH Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.GH_DEPLOY_KEY }}
+        publish_dir: ./published
+        force_orphan: true
+        user_name: ${{ github.actor }}
+        user_email: ${{ format('{0}@users.noreply.github.com', github.actor) }}
+        commit_message: "${{ format('Deploy to GitHub Pages: {0}', github.sha) }}"
