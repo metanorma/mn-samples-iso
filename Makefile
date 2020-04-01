@@ -40,11 +40,8 @@ endif
 XML  ?= $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
 HTML := $(patsubst %.xml,%.html,$(XML))
 
-METANORMA_DOCKER_IMAGE ?= metanorma/metanorma
-
 ifdef METANORMA_DOCKER
   PREFIX_CMD := echo "Running via docker..."; docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER)
-
 else
   PREFIX_CMD := echo "Running locally..."; bundle exec
 endif
@@ -52,9 +49,14 @@ endif
 _OUT_FILES := $(foreach FORMAT,$(FORMATS),$(shell echo $(FORMAT) | tr '[:lower:]' '[:upper:]'))
 OUT_FILES  := $(foreach F,$(_OUT_FILES),$($F))
 
+define print_vars
+	$(info "src $(SRC)")
+	$(info "xml $(XML)")
+	$(info "formats $(FORMATS)")
+endef
+
 all: documents.html
-	echo "src $(SRC)"
-	echo "xml $(XML)"
+	$(call print_vars)
 
 documents:
 	mkdir -p $@
@@ -116,7 +118,10 @@ clean:
 	rm -rf documents documents.{html,rxl} published *_images $(OUT_FILES)
 
 bundle:
-	if [ "x" == "${METANORMA_DOCKER}x" ]; then bundle; fi
+ifndef METANORMA_DOCKER
+	bundle install --jobs 4 --retry 3
+endif
+	$(call print_vars)
 
 .PHONY: bundle all open clean
 
