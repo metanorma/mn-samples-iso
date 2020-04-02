@@ -15,13 +15,14 @@ ifeq ($(SRC),)
 BUILT := $(subst ${ },${\n},$(shell yq r metanorma.yml metanorma.source.built_targets | cut -d ":" -f 1))
 
 ifeq ($(BUILT),null)
+BUILT :=
 SRC :=
 endif
 ifeq ($(BUILT),)
 SRC :=
 endif
 
-ifeq ($(SRC),)
+ifeq ($(BUILT),)
 SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
 else
 XML := $(patsubst sources/%,documents/%,$(BUILT))
