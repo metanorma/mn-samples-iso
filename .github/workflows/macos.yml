@@ -49,5 +49,6 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export NODE_PATH=$(echo /usr/local/Cellar/metanorma/*/libexec/lib/node_modules)
+          export NODE_PATH=$(brew --prefix metanorma)/libexec/lib/node_modules
+          source $(brew --prefix metanorma)/libexec/venv/bin/activate
           make clean all
