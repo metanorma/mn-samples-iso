@@ -27,6 +27,10 @@ jobs:
           GO111MODULE=on go get github.com/mikefarah/yq/v3
           ln -s $GOPATH/bin/yq /usr/local/bin/yq
       - name: Build document in the Metanorma container
+        env:
+          LC_ALL: C.UTF-8
+          LANG: C.UTF-8
+          LANGUAGE: C.UTF-8
         run: |
           make clean all publish
       - uses: actions/upload-artifact@master

@@ -29,9 +29,7 @@ XML := $(patsubst sources/%,documents/%,$(BUILT))
 endif
 endif
 
-$(info "SRC=$(SRC)")
-
-FORMATS := $(subst ${-},${ },$(strip $(shell yq r metanorma.yml metanorma.formats)))
+FORMATS := $(subst -,${ },$(strip $(shell yq r metanorma.yml metanorma.formats)))
 ifeq ($(FORMATS),null)
 FORMATS :=
 endif
