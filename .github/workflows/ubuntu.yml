@@ -45,6 +45,7 @@ jobs:
       - name: Install yq
         run: |
           sudo snap install yq
+          echo "::add-path::/snap/bin"
       - name: Metanorma compile
         env:
           JAVA_OPTS: "java.awt.headless=true"
