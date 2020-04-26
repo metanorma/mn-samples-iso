@@ -1,4 +1,4 @@
-[[foreword]]
+
 .Foreword
 ISO (the International Organization for Standardization)
 is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.
@@ -29,7 +29,7 @@ A Foreword shall appear in each document. The generic text is shown here. It doe
 For further information on the Foreword, see *ISO/IEC Directives, Part 2, 2016, Clause 12.*
 ****
 
-:sectnums!:
+
 == Introduction
 
 This document was developed in response to worldwide demand for minimum specifications for rice traded internationally, since most commercial bulks of grain, which have not been screened or aspirated, contain a proportion of other grains, weed seeds, chaff, straw, stones, sand, etc. The vegetable materials can have physical and biological properties which differ from those of the main constituent and can therefore affect the storage behaviour.
@@ -63,7 +63,7 @@ It is applicable to husked rice, husked parboiled rice, milled rice and milled p
 It is not applicable to cooked rice products.
 
 [bibliography]
-== Normative References
+== Normative references
 
 * [[[ISO712,ISO 712]]], _Cereals and cereal products -- Determination of moisture content -- Reference method_
 
@@ -79,9 +79,8 @@ It is not applicable to cooked rice products.
 
 * [[[ISO24333,ISO 24333:2009]]], _Cereals and cereal products -- Sampling_
 
-== Terms and Definitions
+== Terms and definitions
 
-:sectnums!:
 [[paddy]]
 === paddy
 alt:[paddy rice]
