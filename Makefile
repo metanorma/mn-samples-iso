@@ -5,7 +5,7 @@ SHELL := /bin/bash
 # Ensure the xml2rfc cache directory exists locally
 IGNORE := $(shell mkdir -p $(HOME)/.cache/xml2rfc)
 
-SRC := $(lastword $(shell yq r metanorma.yml metanorma.source.files))
+SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -d ' ' -f 2 | tr -s '\n' ' ')
 
 ifeq ($(SRC),null)
 SRC :=
@@ -65,6 +65,7 @@ documents/%.html: documents/%.xml | documents
 	${PREFIX_CMD} metanorma $<
 
 documents/%.xml: sources/%.xml | documents
+	mkdir -p $(dir $@)
 	mv $< $@
 
 # Build canonical XML output

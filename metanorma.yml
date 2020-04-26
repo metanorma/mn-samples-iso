@@ -1,12 +1,30 @@
 ---
 metanorma:
   deploy:
-    email: "travis-ci@metanorma.org"
-  # source:
-  #   files:
-  #     - sources/iso-rice-en.adoc
-  #     - sources/iso-rice-zh.adoc
+    email: "ci@metanorma.org"
+  source:
+    files:
+      - sources/amendment/rice-amd.awi.adoc
+      - sources/amendment/rice-amd.cd.adoc
+      - sources/amendment/rice-amd.damd.adoc
+      - sources/amendment/rice-amd.fdamd.adoc
+      - sources/amendment/rice-amd.final.adoc
+      - sources/amendment/rice-amd.np.adoc
+      - sources/amendment/rice-amd.prf.adoc
+      - sources/amendment/rice-amd.wd.adoc
+      - sources/international-standard/iso-rice-en-sections.adoc
+      - sources/international-standard/iso-rice-en.adoc
+      - sources/international-standard/iso-rice-en.covers.awi.adoc
+      - sources/international-standard/iso-rice-en.covers.cd.adoc
+      - sources/international-standard/iso-rice-en.covers.dis.adoc
+      - sources/international-standard/iso-rice-en.covers.fdis.adoc
+      - sources/international-standard/iso-rice-en.covers.final.adoc
+      - sources/international-standard/iso-rice-en.covers.np.adoc
+      - sources/international-standard/iso-rice-en.covers.prf.adoc
+      - sources/international-standard/iso-rice-en.covers.wd.adoc
+      - sources/international-standard/iso-rice-zh.adoc
+
 relaton:
   collection:
     organization: "Metanorma : Standards for standards"
-    name: "The ISO Rice document in Metanorma (Metanorma AsciiDoc syntax)"
+    name: "ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)"
