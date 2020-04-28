@@ -5,7 +5,7 @@ SHELL := /bin/bash
 # Ensure the xml2rfc cache directory exists locally
 IGNORE := $(shell mkdir -p $(HOME)/.cache/xml2rfc)
 
-SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -d ' ' -f 2 | tr -s '\n' ' ')
+SRC := $(lastword $(shell yq r metanorma.yml metanorma.source.files))
 
 ifeq ($(SRC),null)
 SRC :=
