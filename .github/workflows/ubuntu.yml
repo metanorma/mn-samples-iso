@@ -40,6 +40,7 @@ jobs:
           gem install bundler
       - name: Use Metanorma
         run: |
+          sudo apt-get update
           curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | sudo bash
           sudo chown -R $USER:$(id -gn $USER) $HOME/.config
       - name: Install yq
