@@ -187,3 +187,17 @@ published: documents.html
 	copy documents $@/
 	copy $< $@/index.html
 	if exist "source\images" xcopy /E source\images $@
+
+#
+# PDF
+#
+
+PDFTEXT := $(patsubst %.pdf,%.txt,$(subst /pdfs,/text,$(wildcard reference-docs/pdfs/*.pdf)))
+
+pdf2text: $(PDFTEXT)
+
+reference-docs/text:
+	md $@
+
+reference-docs/text/%.txt: reference-docs/pdfs/%.pdf | reference-docs/text
+	ps2ascii "$<" "$@"
