@@ -11,10 +11,6 @@ jobs:
   test-windows:
     name: Test on Ruby ${{ matrix.ruby }} Windows
     runs-on: windows-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby: [ '2.6', '2.5', '2.4' ]
     steps:
       - uses: actions/checkout@master
       - name: Checkout submodules
@@ -30,19 +26,6 @@ jobs:
           path: ~/.cache/xml2rfc
           key: xml2rfc
           restore-key: xml2rfc
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: ${{ matrix.ruby }}
-          architecture: 'x64'
-      - name: Install bundler
-        run: |
-          gem install bundler
-      - name: Use Python
-        uses: actions/setup-python@v1
-        with:
-          python-version: '3.6'
-          architecture: 'x64'
       - name: Use Metanorma
         shell: pwsh
         run: |
@@ -51,6 +34,9 @@ jobs:
         shell: pwsh
         run: |
           Invoke-WebRequest -Uri "https://github.com/mikefarah/yq/releases/download/2.4.0/yq_windows_amd64.exe " -OutFile ".\yq.exe"
+      - name: Install bundler
+        run: |
+          gem install bundler
       - name: Metanorma compile
         run: |
           make -f Makefile.win clean all SHELL=cmd
