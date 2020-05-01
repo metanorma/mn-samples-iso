@@ -67,7 +67,7 @@ documents/%.html: documents/%.xml | documents
 	${PREFIX_CMD} metanorma $<
 
 documents/%.xml: sources/%.xml | documents
-	md "$(subst /,\,$(dir $@))"
+	if not exist "$(subst /,\,$(dir $@))" md "$(subst /,\,$(dir $@))"
 	move "$(subst /,\,$<)" "$(subst /,\,$@)"
 
 # Build canonical XML output
