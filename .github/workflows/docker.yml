@@ -56,3 +56,7 @@ jobs:
         user_name: ${{ github.actor }}
         user_email: ${{ format('{0}@users.noreply.github.com', github.actor) }}
         commit_message: "${{ format('Deploy to GitHub Pages: {0}', github.sha) }}"
+    - uses: kolpav/purge-artifacts-action@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        expire-in: 0

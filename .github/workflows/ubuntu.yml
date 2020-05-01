@@ -11,10 +11,6 @@ jobs:
   test-linux:
     name: Test on Ruby ${{ matrix.ruby }} Ubuntu
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby: [ '2.6', '2.5', '2.4' ]
     steps:
       - uses: actions/checkout@master
       - name: Checkout submodules
@@ -30,14 +26,6 @@ jobs:
           path: ~/.cache/xml2rfc
           key: xml2rfc
           restore-key: xml2rfc
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: ${{ matrix.ruby }}
-          architecture: 'x64'
-      - name: Install bundler
-        run: |
-          gem install bundler
       - name: Use Metanorma
         run: |
           sudo apt-get update
@@ -47,6 +35,9 @@ jobs:
         run: |
           sudo snap install yq
           echo "::add-path::/snap/bin"
+      - name: Install bundler
+        run: |
+          sudo gem install bundler
       - name: Metanorma compile
         env:
           JAVA_OPTS: "java.awt.headless=true"
