@@ -29,7 +29,8 @@
 :imagesdir: images
 :docfile: rice-amd.adoc
 :mn-document-class: iso
-:mn-output-extensions: xml,html,doc,html_alt,rxl
+:library-ics: 67.060
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
 :data-uri-image:
 :draft:

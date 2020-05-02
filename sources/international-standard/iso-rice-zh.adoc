@@ -34,6 +34,7 @@
 :example-caption: 例
 :docfile: iso-rice-zh.adoc
 :mn-document-class: iso
-:mn-output-extensions: xml,html,doc,html_alt,rxl
+:library-ics: 67.060
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 
 include::body/body-zh.adoc[]
