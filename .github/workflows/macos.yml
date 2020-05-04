@@ -32,6 +32,12 @@ jobs:
           brew install yq
           brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
           metanorma version
+      - name: Setup Fonts
+        run: |
+          brew install cabextract gettext
+          brew link --force gettext
+          export RENAME_FONTS=false
+          curl -Ls https://raw.githubusercontent.com/metanorma/vista-fonts-installer/master/vista-fonts-installer.sh | bash
       - name: Install bundler
         run: |
           sudo gem install bundler

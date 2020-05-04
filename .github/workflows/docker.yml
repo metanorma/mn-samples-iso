@@ -6,6 +6,10 @@ on:
   push:
     branches: [ master ]
   pull_request:
+    paths-ignore:
+      - .github/workflows/macos.yml
+      - .github/workflows/ubuntu.yml
+      - .github/workflows/windows.yml
 
 jobs:
   build:
@@ -19,6 +23,14 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: Setup fonts
+        run: |
+          # We need to do this to install mscorefonts
+          apt-add-repository -y contrib
+          apt-get update
+          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | debconf-set-selections
+          apt-get install -y ttf-mscorefonts-installer
+          curl -Ls https://raw.githubusercontent.com/metanorma/vista-fonts-installer/master/vista-fonts-installer.sh | bash
       - uses: actions/setup-go@v2-beta
         with:
           go-version: '^1.13.1'
@@ -26,6 +38,11 @@ jobs:
         run: |
           GO111MODULE=on go get github.com/mikefarah/yq/v3
           ln -s $GOPATH/bin/yq /usr/local/bin/yq
+      - name: Instal gems from local Gemfile
+        run: |
+          for gem in $(grep '^gem ' Gemfile | cut -c5- | tr -d '"'); do
+            bundle add $gem
+          done
       - name: Build document in the Metanorma container
         env:
           LC_ALL: C.UTF-8
