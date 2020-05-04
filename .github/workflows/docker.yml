@@ -6,6 +6,10 @@ on:
   push:
     branches: [ master ]
   pull_request:
+    paths-ignore:
+      - .github/workflows/macos.yml
+      - .github/workflows/ubuntu.yml
+      - .github/workflows/windows.yml
 
 jobs:
   build:
@@ -34,6 +38,11 @@ jobs:
         run: |
           GO111MODULE=on go get github.com/mikefarah/yq/v3
           ln -s $GOPATH/bin/yq /usr/local/bin/yq
+      - name: Instal gems from local Gemfile
+        run: |
+          for gem in $(grep '^gem ' Gemfile | cut -c5- | tr -d '"'); do
+            bundle add $gem
+          done
       - name: Build document in the Metanorma container
         env:
           LC_ALL: C.UTF-8
