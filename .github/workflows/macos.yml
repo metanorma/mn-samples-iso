@@ -6,7 +6,10 @@ on:
   push:
     branches: [ master ]
   pull_request:
-
+    paths-ignore:
+      - .github/workflows/docker.yml
+      - .github/workflows/ubuntu.yml
+      - .github/workflows/windows.yml
 jobs:
   test-macos:
     name: Test on Ruby ${{ matrix.ruby }} macOS
@@ -30,7 +33,7 @@ jobs:
         run: |
           brew update
           brew install yq
-          brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
+          brew install https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb
           metanorma version
       - name: Setup Fonts
         run: |
