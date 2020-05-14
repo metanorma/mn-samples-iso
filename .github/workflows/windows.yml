@@ -6,7 +6,10 @@ on:
   push:
     branches: [ master ]
   pull_request:
-
+    paths-ignore:
+      - .github/workflows/macos.yml
+      - .github/workflows/ubuntu.yml
+      - .github/workflows/docker.yml
 jobs:
   test-windows:
     name: Test on Ruby ${{ matrix.ruby }} Windows
