@@ -10,9 +10,10 @@ on:
       - .github/workflows/macos.yml
       - .github/workflows/ubuntu.yml
       - .github/workflows/docker.yml
+
 jobs:
   test-windows:
-    name: Test on Ruby ${{ matrix.ruby }} Windows
+    name: Test on Windows
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@master
