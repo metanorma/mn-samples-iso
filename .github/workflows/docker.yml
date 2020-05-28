@@ -40,9 +40,7 @@ jobs:
           ln -s $GOPATH/bin/yq /usr/local/bin/yq
       - name: Instal gems from local Gemfile
         run: |
-          for gem in $(grep '^gem ' Gemfile | cut -c5- | tr -d '"'); do
-            bundle add $gem
-          done
+          curl -LO --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
       - name: Build document in the Metanorma container
         env:
           LC_ALL: C.UTF-8
