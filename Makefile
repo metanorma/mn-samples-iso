@@ -120,7 +120,9 @@ clean:
 
 bundle:
 ifndef METANORMA_DOCKER
+ifndef SKIP_BUNDLE_INSTALL
 	bundle install --jobs 4 --retry 3
+endif
 endif
 	$(call print_vars)
 
