@@ -12,17 +12,16 @@ metanorma:
       - sources/amendment/rice-amd.np.adoc
       - sources/amendment/rice-amd.prf.adoc
       - sources/amendment/rice-amd.wd.adoc
-      - sources/international-standard/iso-rice-en-sections.adoc
-      - sources/international-standard/iso-rice-en.adoc
-      - sources/international-standard/iso-rice-en.covers.awi.adoc
-      - sources/international-standard/iso-rice-en.covers.cd.adoc
-      - sources/international-standard/iso-rice-en.covers.dis.adoc
-      - sources/international-standard/iso-rice-en.covers.fdis.adoc
-      - sources/international-standard/iso-rice-en.covers.final.adoc
-      - sources/international-standard/iso-rice-en.covers.np.adoc
-      - sources/international-standard/iso-rice-en.covers.prf.adoc
-      - sources/international-standard/iso-rice-en.covers.wd.adoc
-      - sources/international-standard/iso-rice-zh.adoc
+      - sources/international-standard/rice-en.awi.adoc
+      - sources/international-standard/rice-en.cd.adoc
+      - sources/international-standard/rice-en.cd.sections.adoc
+      - sources/international-standard/rice-en.dis.adoc
+      - sources/international-standard/rice-en.fdis.adoc
+      - sources/international-standard/rice-en.final.adoc
+      - sources/international-standard/rice-en.np.adoc
+      - sources/international-standard/rice-en.prf.adoc
+      - sources/international-standard/rice-en.wd.adoc
+      - sources/international-standard/rice-zh.adoc
 
 relaton:
   collection:

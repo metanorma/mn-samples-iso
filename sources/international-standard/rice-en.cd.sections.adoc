@@ -8,21 +8,23 @@
 :language: en
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
-:title-part-en: Rice (in English, split sections)
+:title-part-en: Rice (CD)
 :title-intro-fr: Céréales et légumineuses
 :title-main-fr: Spécification et méthodes d'essai
-:title-part-fr: Riz
+:title-part-fr: Riz (CD)
 :doctype: international-standard
 :docstage: 30
-:docsubstage: 92
+:docsubstage: 00
 :draft:
 :technical-committee-number: 34
+:secretariat: SAC
 :technical-committee: Food products
 :subcommittee-number: 4
 :subcommittee: Cereals and pulses
-:workgroup-number: 3
-:workgroup: Rice Group
-:docfile: iso-rice-en-sections.adoc
+:workgroup-type: WG
+:workgroup-number: 4
+:workgroup: Amylose in rice
+:docfile: rice-en.covers.cd.adoc
 :library-ics: 67.060
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl

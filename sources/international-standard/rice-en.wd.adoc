@@ -5,36 +5,30 @@
 :edition: 2
 :revdate: 2016-05-01
 :copyright-year: 2016
-:language: zh
-:title-intro-zh: 谷物和豆类
-:title-main-zh: 规格和测试方法
-:title-part-zh: 米
+:language: en
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
-:title-part-en: Rice (in Chinese)
+:title-part-en: Rice (WD)
 :title-intro-fr: Céréales et légumineuses
 :title-main-fr: Spécification et méthodes d'essai
-:title-part-fr: Riz
+:title-part-fr: Riz (WD)
 :doctype: international-standard
-:docstage: 30
-:docsubstage: 92
+:docstage: 20
+:docsubstage: 00
 :draft:
 :technical-committee-number: 34
+:secretariat: SAC
 :technical-committee: Food products
 :subcommittee-number: 4
 :subcommittee: Cereals and pulses
-:workgroup-number: 3
-:workgroup: Rice Group
-:local-cache-only:
-:data-uri-image:
-:appendix-caption: 附件
-:appendix-refsig: 附件
-:section-refsig: 章
-:table-caption: 表
-:example-caption: 例
-:docfile: iso-rice-zh.adoc
+:workgroup-type: WG
+:workgroup-number: 4
+:workgroup: Amylose in rice
+:docfile: rice-en.covers.wd.adoc
 :library-ics: 67.060
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+:data-uri-image:
 
-include::body/body-zh.adoc[]
+include::body/body-en.adoc[]

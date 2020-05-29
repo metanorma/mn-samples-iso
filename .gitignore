@@ -1,12 +1,7 @@
 .DS_Store
 .swp
 .tmp.xml
-
-# Output files
-csand-*.html
-csand-*.doc
-csand-*.xml
-csand-*_files
+*.err
 
 # Deploy key
 deploy_key
