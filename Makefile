@@ -44,9 +44,9 @@ ifdef METANORMA_DOCKER
   PREFIX_CMD := echo "Running via docker..."; docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER)
 else
   ifdef SKIP_BUNDLE
-    PREFIX_CMD := echo "Running locally via bundle ..."; bundle exec
-  else
     PREFIX_CMD := echo "Running locally...";
+  else
+    PREFIX_CMD := echo "Running locally via bundle ..."; bundle exec
   endif
 endif
 
