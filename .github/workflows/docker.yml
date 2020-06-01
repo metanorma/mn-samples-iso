@@ -25,12 +25,8 @@ jobs:
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
       - name: Setup fonts
         run: |
-          # We need to do this to install mscorefonts
-          apt-add-repository -y contrib
-          apt-get update
-          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | debconf-set-selections
-          apt-get install -y ttf-mscorefonts-installer
-          curl -Ls https://raw.githubusercontent.com/metanorma/vista-fonts-installer/master/vista-fonts-installer.sh | bash
+          gem install metanorma-cli
+          metanorma setup --agree-to-terms
       - uses: actions/setup-go@v2-beta
         with:
           go-version: '^1.13.1'
