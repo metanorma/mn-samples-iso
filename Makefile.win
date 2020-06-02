@@ -52,9 +52,9 @@ ifdef METANORMA_DOCKER
   PREFIX_CMD := echo "Running via docker..." & docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER)
 else
   ifdef SKIP_BUNDLE
-    PREFIX_CMD := echo "Running locally via bundle ..." & bundle exec
-  else
     PREFIX_CMD := echo "Running locally..." &
+  else
+    PREFIX_CMD := echo "Running locally via bundle ..." & bundle exec
   endif
 endif
 
@@ -85,7 +85,8 @@ documents/%.xml: sources/%.xml | documents
 # Otherwise, build the xml using adoc
 sources/%.xml: | bundle
 	$(eval BUILT_TARGET := $(subst /,\,$(shell yq r metanorma.yml metanorma.source.built_targets[$@])))
-	if "$(BUILT_TARGET)" == "null" ( \
+	$(eval BUILT_TARGET_EMPTY := $(if $(filter-out $(filter),null ll ),true,false)
+	if "$(BUILT_TARGET_EMPTY)" == "true" ( \
 		$(PREFIX_CMD) metanorma -x xml "$(subst xml,adoc,$@)" \
 	) else ( \
 		if exist "$(BUILT_TARGET)" ( \
