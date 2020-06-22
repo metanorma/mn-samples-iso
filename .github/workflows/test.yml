@@ -9,27 +9,38 @@ on:
 jobs:
   test-macos:
     name: Test on Ruby ${{ matrix.ruby }}
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
     continue-on-error: ${{ matrix.experimental }}
     strategy:
       fail-fast: false
       matrix:
         ruby: [ '2.6' ]
+        os: [ ubuntu-latest, windows-latest, macos-latest ]
         experimental: [false]
-        include:
-          - ruby: '2.7'
-            experimental: true
+        # include:
+        #   - ruby: '2.7'
+        #     experimental: true
     steps:
       - uses: actions/checkout@master
       - name: Use Ruby
         uses: actions/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
+      
+      - name: Use Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6'
+          architecture: 'x64'
+
+      - name: Install xml2rfc
+        run: |
+          pip install xml2rfc
 
       - name: Install metanorma
         shell: python
         env:
-          TRIGGER_REPO: ${{ github.event.type }}
+          TRIGGER_REPO: ${{ github.event.client_payload.repo }}
           TRIGGER_REF: ${{ github.event.client_payload.ref }}
         run: |
           import os
@@ -37,11 +48,13 @@ jobs:
           repo = os.environ.get("TRIGGER_REPO")
           branch = os.environ.get("TRIGGER_REF")
 
+          print("Install {} {}".format(repo, branch))
+
           if repo != "metanorma/metanorma-cli":
             os.system("gem install metanorma-cli")
 
           os.system("gem install specific_install")
-          os.system("gem specific_install -l https://github.com/{} -b {}".format(repo, branch))
+          os.system("gem specific_install -l https://github.com/{}.git -b {}".format(repo, branch))
 
       - name: Setup Fonts
         run: |
@@ -50,9 +63,17 @@ jobs:
       - name: Metanorma compile windows
         if: matrix.os == 'windows-latest'
         run: |
+          choco install -y yq gnuwin32-coreutils.install
           make -f Makefile.win clean all SKIP_BUNDLE=true SHELL=cmd
 
-      - name: Metanorma compile *nix
-        if: matrix.os != 'windows-latest'
+      - name: Metanorma compile macos
+        if: matrix.os == 'macos-latest'
         run: |
+          brew install yq
           make clean all SKIP_BUNDLE=true
+
+      - name: Metanorma compile linux
+        if: matrix.os == 'ubuntu-latest'
+        run: |
+          sudo snap install yq
+          env PATH="/snap/bin:$PATH" make clean all SKIP_BUNDLE=true

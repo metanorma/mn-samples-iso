@@ -85,20 +85,20 @@ documents/%.xml: sources/%.xml | documents
 # Otherwise, build the xml using adoc
 sources/%.xml: | bundle
 	$(eval BUILT_TARGET := $(subst /,\,$(shell yq r metanorma.yml metanorma.source.built_targets[$@])))
-	$(eval BUILT_TARGET_EMPTY := $(if $(filter-out $(BUILT_TARGET),null ll ),true,false))
+	$(eval BUILT_TARGET_EMPTY := $(if $(filter $(or $(BUILT_TARGET),null),null ll),true,false))
 	if "$(BUILT_TARGET_EMPTY)" == "true" ( \
-		$(PREFIX_CMD) metanorma -x xml "$(subst xml,adoc,$(BUILT_TARGET))" \
+		$(PREFIX_CMD) metanorma -x xml "$(subst xml,adoc,$@)" \
 	) else ( \
 		if exist "$(BUILT_TARGET)" ( \
 			if "$(suffix $(BUILT_TARGET))" == ".xml" ( \
 				copy "$(BUILT_TARGET)" "$(subst /,\,$@)" \
 			) else ( \
 				$(PREFIX_CMD) metanorma $(BUILT_TARGET) & \
-				copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(subst /,\,$@)" \
+				copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(BUILT_TARGET)" \
 			) \
 		) else ( \
 			$(PREFIX_CMD) metanorma $(BUILT_TARGET) & \
-			copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(subst /,\,$@)" \
+			copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(BUILT_TARGET)" \
 		) \
 	)
 
