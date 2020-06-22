@@ -10,6 +10,7 @@ on:
       - .github/workflows/docker.yml
       - .github/workflows/ubuntu.yml
       - .github/workflows/windows.yml
+      - Makefile.win
 
 jobs:
   test-macos:
@@ -46,6 +47,5 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export NODE_PATH=$(brew --prefix metanorma)/libexec/lib/node_modules
           source $(brew --prefix metanorma)/libexec/venv/bin/activate
           make clean all
