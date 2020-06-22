@@ -7,9 +7,13 @@ on:
     branches: [ master ]
   pull_request:
     paths-ignore:
+      - .github/workflows/test.yml
       - .github/workflows/macos.yml
       - .github/workflows/ubuntu.yml
       - .github/workflows/windows.yml
+      - Makefile.win
+  repository_dispatch:
+    types: [ metanorma/metanorma-docker ]
 
 jobs:
   test-docker:
