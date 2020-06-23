@@ -94,11 +94,11 @@ sources/%.xml: | bundle
 				copy "$(BUILT_TARGET)" "$(subst /,\,$@)" \
 			) else ( \
 				$(PREFIX_CMD) metanorma $(BUILT_TARGET) & \
-				copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(BUILT_TARGET)" \
+				copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(subst /,\,$@)" \
 			) \
 		) else ( \
 			$(PREFIX_CMD) metanorma $(BUILT_TARGET) & \
-			copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(BUILT_TARGET)" \
+			copy "$(subst adoc,xml,$(BUILT_TARGET))" "$(subst /,\,$@)" \
 		) \
 	)
 
