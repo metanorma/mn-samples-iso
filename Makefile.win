@@ -85,7 +85,7 @@ documents/%.xml: sources/%.xml | documents
 # Otherwise, build the xml using adoc
 sources/%.xml: | bundle
 	$(eval BUILT_TARGET := $(subst /,\,$(shell yq r metanorma.yml metanorma.source.built_targets[$@])))
-	$(eval BUILT_TARGET_EMPTY := $(if $(filter-out $(BUILT_TARGET_EMPTY),null ll ),true,false))
+	$(eval BUILT_TARGET_EMPTY := $(if $(filter $(or $(BUILT_TARGET),null),null ll),true,false))
 	if "$(BUILT_TARGET_EMPTY)" == "true" ( \
 		$(PREFIX_CMD) metanorma -x xml "$(subst xml,adoc,$@)" \
 	) else ( \

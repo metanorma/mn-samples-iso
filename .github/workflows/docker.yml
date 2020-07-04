@@ -7,25 +7,26 @@ on:
     branches: [ master ]
   pull_request:
     paths-ignore:
+      - .github/workflows/test.yml
       - .github/workflows/macos.yml
       - .github/workflows/ubuntu.yml
       - .github/workflows/windows.yml
+      - Makefile.win
+  repository_dispatch:
+    types: [ metanorma/metanorma-docker ]
 
 jobs:
   test-docker:
     runs-on: ubuntu-latest
     container: docker://metanorma/mn
     steps:
-      - uses: actions/checkout@master
-      - name: Checkout submodules
-        shell: bash
-        run: |
-          auth_header="$(git config --local --get http.https://github.com/.extraheader)"
-          git submodule sync --recursive
-          git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.METANORMA_CI_PAT_TOKEN }}
+          submodules: true
       - name: Setup fonts
         run: |
-          gem install metanorma-cli
           metanorma setup --agree-to-terms
       - uses: actions/setup-go@v2-beta
         with:
@@ -36,7 +37,7 @@ jobs:
           ln -s $GOPATH/bin/yq /usr/local/bin/yq
       - name: Instal gems from local Gemfile
         run: |
-          curl -LO --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
+          curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
       - name: Build document in the Metanorma container
         env:
           LC_ALL: C.UTF-8

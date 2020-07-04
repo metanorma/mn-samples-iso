@@ -7,9 +7,11 @@ on:
     branches: [ master ]
   pull_request:
     paths-ignore:
+      - .github/workflows/test.yml
       - .github/workflows/macos.yml
       - .github/workflows/docker.yml
       - .github/workflows/windows.yml
+      - Makefile.win
 
 jobs:
   test-linux:
