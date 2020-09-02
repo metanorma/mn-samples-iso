@@ -1,0 +1,649 @@
+.Avant-propos
+
+L'ISO (Organisation internationale de normalisation) est une fédération mondiale d'organismes nationaux de normalisation (comités membres de l'ISO). L'élaboration des Normes internationales est en général confiée aux comités techniques de l'ISO. Chaque comité membre intéressé par une étude a le droit de faire partie du comité technique créé à cet effet. Les organisations internationales, gouvernementales et non gouvernementales, en liaison avec l'ISO participent également aux travaux. L'ISO collabore étroitement avec la Commission électrotechnique internationale (IEC) en ce qui concerne la normalisation électrotechnique.
+
+Les procédures utilisées pour élaborer le présent document et celles destinées à sa mise à jour sont décrites dans les Directives ISO/IEC, Partie 1. Il convient, en particulier de prendre note des différents critères d'approbation requis pour les différents types de documents ISO. Le présent document a été rédigé conformément aux règles de rédaction données dans les Directives ISO/IEC, Partie 2 (voir http:// www.iso.org/directives).
+
+L'attention est attirée sur le fait que certains des éléments du présent document peuvent faire l'objet de droits de propriété intellectuelle ou de droits analogues. L'ISO ne saurait être tenue pour responsable de ne pas avoir identifié de tels droits de propriété et averti de leur existence. Les détails concernant les références aux droits de propriété intellectuelle ou autres droits analogues identifiés lors de l'élaboration du document sont indiqués dans l'Introduction et/ou dans la liste des déclarations de brevets reçues par l'ISO (voir www.iso.org/brevets).
+
+Les appellations commerciales éventuellement mentionnées dans le présent document sont données pour information, par souci de commodité, à l'intention des utilisateurs et ne sauraient constituer un engagement.
+
+Pour une explication de la signification des termes et expressions spécifiques de l'ISO liés à l'évaluation de la conformité, ou pour toute information au sujet de l'adhésion de l'ISO aux principes de l'Organisation mondiale du commerce (OMC) concernant les obstacles techniques au commerce (OTC), voir le lien suivant: www.iso.org/avant-propos.
+
+Le présent document a été élaboré par le comité technique ISO/TC {technical-committee-number}, _{technical-committee}_, souscomité SC {subcommittee-number}, _{subcommittee}_.
+
+Cette deuxième édition annule et remplace la première édition (ISO 17301-1:2009), qui a fait l'objet d'une révision technique.
+
+Les principaux changements par rapport à l'édition précédente sont:
+
+* mise à jour des références normatives;
+* suppression de 4.3.
+
+Une liste de toutes les parties de la série ISO 17301 se trouve sur le site Web de l'ISO.
+
+
+[heading=Introduction]
+== Introduction
+
+Le présent document a été élaboré en vue de répondre à une demande, à l'échelle mondiale, de spécifications minimales pour le riz commercialisé sur un plan international, du fait que la plupart des lots commerciaux qui n'ont pas été nettoyés par tamisage ou aspiration contiennent une certaine quantité de grains d'autres céréales, de graines étrangères, d'enveloppes, de pailles, de pierres, de sable, etc. Les matériaux végétaux peuvent avoir des propriétés physiques et biologiques qui diffèrent de celles du constituant principal et peuvent, par conséquent, affecter le comportement au stockage.
+
+De plus, il convient de noter que le riz vit en permanence avec une microflore considérable; la plupart de ces microorganismes sont cosmopolites et en majorité sans danger, mais certains produisent des sousproduits toxiques. La microflore présente sur le riz fraîchement récolté comprend de nombreux genres de bactéries, moisissures et levures. Lorsque le riz mûrit et que sa teneur en eau diminue, le nombre de microorganismes, principalement de bactéries, diminue. Lorsque le riz est récolté, il est envahi par les microorganismes de stockage et la microflore du terrain disparaît. Si la fraction massique d'humidité (précédemment appelée «teneur en eau») est inférieure à 18 %, la microflore ne se multiplie pas, ce qu'elle fait rapidement au-dessus de 18 %. Par conséquent, au moment de la moisson, la composition qualitative et quantitative de la microflore dépend plus de facteurs écologiques que de la variété de riz considérée. La microflore s'enrichit de microorganismes pendant le transport et les opérations de stockage. Les microorganismes présents sur le riz à la récolte tendent à mourir pendant le stockage et sont remplacés par des microorganismes adaptés aux conditions de stockage.
+
+Les pertes dues au stockage sont estimées en moyenne à 5 %, ce chiffre pouvant atteindre et même dépasser 30 %, en particulier dans les pays à climats favorables au développement rapide des agents de dégradation et où les techniques de stockage sont peu développées, tels que les pays en voie de développement de la zone tropicale humide. L'importance de ces chiffres montre bien l'intérêt de promouvoir dans le monde l'amélioration rapide des techniques de conservation.
+
+L'Organisation internationale de normalisation (ISO) attire l'attention sur le fait que toute prétention à la conformité avec le présent document peut inclure l'usage d'un droit de propriété intellectuelle concernant les diviseurs d'échantillons mentionnés dans l'<<annexA>> et montrés à la <<figureA-1>>.
+
+L'ISO ne prend aucune position sur la réalité, la validité et la portée de ce droit de propriété intellectuelle.
+
+Le détenteur de ce droit de propriété intellectuelle a assuré l'ISO qu'il est prêt à négocier des licences avec tout demandeur à travers le monde, à des termes et conditions raisonnables et non discriminatoires. À cette fin, la déclaration du détenteur de ce droit de propriété intellectuelle est enregistrée auprès de l'ISO. Des informations peuvent être obtenues à l'adresse suivante:
+
+[align=left]
+Vache Equipment +
+Fictitious +
+World +
+mailto:gehf@vacheequipment.fic[]
+
+L'attention est appelée sur le fait que certains des éléments du présent document peuvent faire l'objet de droits de propriété intellectuelle autres que ceux mentionnés ci-dessus. L'ISO ne saurait être tenue pour responsable de ne pas avoir identifié de tels droits de propriété et averti de leur existence.
+
+
+[heading=Scope]
+== Domaine d'application
+
+Le présent document spécifie les exigences minimales du riz (_Oryza sativa_ L.).
+
+Il est applicable aux riz décortiqué, étuvé décortiqué, usiné et étuvé usiné, destinés à la consommation humaine soit directement, soit après usinage.
+
+Il n'est pas applicable aux produits cuisinés à base de riz.
+
+[bibliography,heading=Normative references]
+== Références normatives
+
+Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l'édition citée s'applique. Pour les références non datées, la dernière édition du document de référence s'applique (y compris les éventuels amendements).
+
+* [[[ISO712,ISO 712]]], _Céréales et produits céréaliers -- Détermination de la teneur en eau -- Méthode de référence_
+
+* [[[ISO6646, ISO 6646]]], _Détermination des rendements d'usinage à partir du riz paddy et du riz décortiqué_
+
+* [[[ISO8351-1,ISO 8351-1:1994]]], _Emballages -- Méthode de spécification des sacs -- Partie 1: Sacs en papier_
+
+* [[[ISO8351-2,ISO 8351-2]]], _Emballages -- Méthode de spécification des sacs -- Partie 2: Sacs faits d'un film thermoplastique flexible_
+
+* [[[ISO16634,ISO 16634:--]]] footnote:[En cours d'élaboration. (Stade au moment de la publication ISO/DIS 16634).], _Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux -- Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes_
+
+* [[[ISO20483,ISO 20483:2013]]], _Céréales et légumineuses -- Détermination de la teneur en azote et calcul de la teneur en protéines brutes -- Méthode de Kjeldahl_
+
+* [[[ISO24333,ISO 24333:2009]]], _Céréales et produits céréaliers -- Échantillonnage_
+
+
+[source="ISO712,ISO24333",heading=Terms and definitions]
+== Termes et définitions
+
+Pour les besoins du présent document, les termes et définitions suivants s'appliquent.
+
+L'ISO et l'IEC tiennent à jour des bases de données terminologiques destinées à être utilisées en normalisation, consultables aux adresses suivantes:
+
+* ISO Online browsing platform: disponible à l'adresse http://www.iso.org/obp
+* IEC Electropedia: disponible à l'adresse http://www.electropedia.org/
+
+[[paddy]]
+=== [en]#paddy# [fr]#paddy#
+[alt]#riz paddy#
+
+riz muni de sa balle après battage
+
+[.source]
+<<ISO7301>>, 3.1
+
+[[husked_rice]]
+=== [en]#husked rice# [fr]#riz décortiqué#
+[deprecated]#riz cargo#
+
+_riz paddy_ (<<paddy>>) dont la balle seule a été éliminée
+
+[.source]
+<<ISO7301>>, 3.2, Le terme "riz cargo" est représenté comme rejeté, et la Note 1 à l'article n'est pas incluse ici
+
+=== [en]#milled rice# [fr]#riz usiné#
+
+riz obtenu après une opération d'usinage qui consiste à débarrasser le _riz décortiqué_ (<<husked_rice>>) de tout ou partie de son péricarpe et du germe
+
+[.source]
+<<ISO7301>>, 3.3
+
+=== [en]#parboiled rice# [fr]#riz étuvé#
+[alt]#riz prétraité#
+
+riz dont l'amidon a été entièrement gélatinisé par trempage dans l'eau du _riz paddy_ (<<paddy>>) ou du _riz décortiqué_ (<<husked_rice>>) suivi d'un traitement à la chaleur, puis d'une opération de séchage
+
+=== [en]#waxy rice# [fr]#riz gluant#
+
+variété spéciale de riz, dont les grains ont un aspect blanc et opaque
+
+NOTE: L'amidon du riz gluant est presque entièrement constitué d'amylopectine. Les grains ont tendance à se prendre en masse après cuisson.
+
+=== [en]#extraneous matter# [fr]#matière étrangère#
+[alt]#ME#
+[domain]#riz#
+
+élément organique et non organique autre que les grains de riz, entiers ou brisés
+
+[example]
+Graines étrangères, coques, fibre, sable, poussière.
+
+=== HDK
+[alt]#grain échauffé#
+
+grain ou partie de grain, dont la coloration naturelle a changé sous l'effet de la chaleur
+
+NOTE: Cette catégorie comprend les grains ou parties de grains présentant une coloration jaune due à une altération. Les grains de riz étuvé dans un lot de riz non étuvé sont également compris dans cette catégorie.
+
+=== [en]#damaged kernel# [fr]#grain endommagé#
+
+grain ou partie de grain présentant distinctement une détérioration provoquée par l'humidité, les déprédateurs, les maladies ou d'autres causes, mais qui n'est pas un term:[HDK]
+
+=== [en]#immature kernel# [fr]#grain immature#
+[alt]#grain non mûr#
+
+grain ou partie de grain, non mûr et/ou mal développé
+
+=== [en]#husked rice yield# [fr]#rendement en riz décortiqué#
+
+quantité de riz décortiqué obtenue à partir de riz paddy
+
+[.source]
+<<ISO6646>>, 3.1
+
+=== [en]#nitrogen content# [fr]#teneur en azote#
+
+quantité d'azote déterminée après l'application du mode opératoire décrit dans l'<<ISO20483>>
+
+NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
+
+[.source]
+<<ISO20483>>, 3.1, Dans la définition, «dans l'ISO 20483» a été ajouté
+
+=== [en]#crude protein content# [fr]#protéines brutes#
+
+quantité de protéines brutes obtenue à partir de la teneur en azote telle que déterminée en appliquant la méthode décrite dans l'ISO 20483, calculée en multipliant cette teneur par un facteur approprié selon le type de céréale ou de légumineuse
+
+NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
+
+[.source]
+<<ISO20483>>, 3.2, Dans la définition, «décrite dans l'ISO 20483» a été ajouté
+
+[[gelatinization]]
+=== [en]#gelatinization# [fr]#gélatinisation#
+
+processus hydrothermique correspondant au phénomène de gonflement irréversible et de solubilisation des grains d'amidon et conférant au grain de riz un état gélatinisé typique des empois d'amidon
+
+NOTE: Voir <<figureC-1>>.
+
+[.source]
+<<ISO14864>>, 3.1
+
+[[gel_state]]
+=== [en]#gel state# [fr]#état gélatinisé#
+
+état atteint à la suite de la _gélatinisation_ (<<gelatinization>>), lorsque le grain de riz est entièrement transparent et totalement exempt de granules blanchâtres et opaques après avoir été écrasé entre deux lamelles de verre
+
+[.source]
+<<ISO14864>>, 3.2
+
+=== [en]#gelatinization time# [fr]#temps de gélatinisation#
+
+stem:[t_90]
+
+temps nécessaire pour faire passer 90 % des grains de leur état naturel à l' _état gélatinisé_ (<<gel_state>>)
+
+[.source]
+<<ISO14864>>, 3.3
+
+
+== Spécifications
+
+=== Caractéristiques générales, organoleptiques et sanitaires
+
+Les grains de riz étuvés ou non, décortiqués ou usinés, entiers ou brisés, doivent être sains, propres, sans odeurs étrangères ou dénotant une altération.
+
+Les niveaux d'additifs et de résidus de pesticides et d'autres contaminants ne doivent pas dépasser les limites maximales admises par les réglementations nationales du pays destinataire ou, à défaut, par la Commission mixte FAO/OMS du Codex Alimentarius.
+
+La présence d'insectes vivants visibles à l'oeil nu n'est pas tolérée. Il convient que cela soit déterminé avant séparation de l'échantillon global en échantillons pour essai.
+
+=== Caractéristiques physiques et chimiques
+
+
+==== {blank}
+
+La fraction massique d'eau, déterminée conformément à l'<<ISO712>> (où elle est appelée «teneur en eau»), en utilisant une étuve conforme aux exigences de l'<<IEC61010-2>>, ne doit pas être supérieure à 15 % footnote:[Auparavant indiqué comme 15 % (_m/m_).].
+
+La fraction massique de matières étrangères et de grains défectueux de riz décortiqués et usinés, étuvés ou non, déterminée conformément à l'<<annexA>>, ne doit pas être supérieure aux valeurs spécifiées dans le <<table1>>.
+
+NOTE: Des fractions massiques d'eau plus faibles peuvent être nécessaires pour certaines destinations, en fonction du climat et de la durée du transport et du stockage. Pour plus de détails, voir l'<<ISO6322-1>>, l'<<ISO6322-2>> et l'<<ISO6322-3>>.
+
+
+==== {blank}
+
+Pour les catégories considérées, les défauts tolérés, déterminés conformément à la méthode décrite dans l'<<annexA>>, ne doivent pas dépasser les limites données dans le <<table1>>.
+
+[[table1]]
+[cols="<,^,^,^,^",options="header,footer",headerrows=2]
+.Fractions massiques maximales autorisées de grains comportant des défauts
+|===
+.2+^| Défaut 4+^| Fractions massiques maximales autorisées de grains comportant des défauts +
+stem:[w_max] +
+%
+| riz décortiqué | riz usiné (non gluant) | riz étuvé décortiqué | riz étuvé usiné
+
+| Matières étrangères: organiques footnote:[Les matières étrangères organiques comprennent les graines étrangères, les coques, le son, les fragments de paille, etc.] | 1,0 | 0,5 | 1,0 | 0,5
+| Matières étrangères: non organiques footnote:[Les matières étrangères organiques comprennent les cailloux, le sable, les poussières, etc.] | 0,5 | 0,5 | 0,5 | 0,5
+| Paddy | 2,5 | 0,3 | 2,5 | 0,3
+| Riz décortiqué, non étuvé | Non applicable | 1,0 | 1,0 | 1,0
+| Riz usiné, non étuvé | 1,0 | Non applicable | 1,0 | 1,0
+| Riz décortiqué, étuvé | 1,0 | 1,0 | Non applicable | 1,0
+| Riz usiné, étuvé | 1,0 | 1,0 | 1,0 | Non applicable
+| Fragments | 0,1 | 0,1 | 0,1 | 0,1
+| HDK | 2,0 footnote:defectsmass[La fraction massique totale autorisée de défauts doit être déterminée par rapport à la fraction massique obtenue après mouture.] | 2,0 | 2,0 footnote:defectsmass[] | 2,0
+| Grains endommagés | 4,0 | 3,0 | 4,0 | 3,0
+| Grains immatures et/ou mal formés | 8,0 | 2,0 | 8,0 | 2,0
+| Grains crayeux | 5,0 footnote:defectsmass[] | 5,0 | Non applicable | Non applicable
+| Grains rouges et striés de rouge | 12,0 | 12,0 | 12,0 footnote:defectsmass[] | 12,0
+| Grains partiellement gélatinisés | Non applicable | Non applicable | 11,0 footnote:defectsmass[] | 11,0
+| Grains noirs d'étuvage | Non applicable | Non applicable | 4,0 | 2,0
+| Riz gluant | 1,0 footnote:defectsmass[] | 1,0 | 1,0 footnote:defectsmass[] | 1,0
+
+5+a| Aucun insecte vivant ne doit être présent. Les insectes morts doivent être englobés dans les matières étrangères.
+|===
+
+NOTE: Ce tableau est basé sur l'<<ISO7301>>, Tableau 1.
+
+NOTE: Certains contrats commerciaux nécessitent des informations complémentaires à celles fournies dans le présent tableau.
+
+NOTE: Seul le riz (cargo) rouge entièrement décortiqué est pris en considération dans le présent tableau.
+
+
+[[clause5]]
+== Échantillonnage
+
+L'échantillonnage doit être effectué conformément à l'<<ISO24333>>, Article 5.
+
+== Méthodes d'essai
+
+=== Teneur en eau
+
+Déterminer la fraction massique d'eau en utilisant la méthode spécifiée dans l'<<ISO712>>.
+
+=== Teneur en riz gluant
+
+Déterminer la fraction massique de riz gluant. L'<<annexB>> donne un exemple d'une méthode qui convient.
+
+=== Teneur en azote et en protéines brutes
+
+Déterminer la teneur en azote et en protéines brutes conformément soit à l'<<ISO16634>>, Article 9, soit à l'<<ISO20483>>. Pour plus de détails concernant la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir la Référence <<ref12>> dans la Bibliographie. Pour la méthode de Dumas, voir les Références <<ref10>> et <<ref16>>.
+
+Calculer la teneur en protéines brutes du produit sec en multipliant la valeur obtenue lors de la détermination de la teneur en azote par le facteur de conversion spécifié dans l'<<ISO20483>>, Annexe C et Tableau C.1, qui est adapté au type de céréales et de légumineuses <<ref13, fn>><<ref14,fn>> et à leur utilisation.
+
+=== Temps de gélatinisation
+
+Déterminer le temps de gélatinisation, t90, pour les grains de riz durant la cuisson. Un exemple de courbe type est donné à la <<figureC-1>>. Trois stades types de gélatinisation sont montrés à la <<figureC-2>>.
+
+Noter les résultats comme spécifié dans l'<<clause7>>.
+
+=== Rendement en riz décortiqué
+
+==== Détermination
+
+CAUTION: N'utiliser que du paddy ou du riz étuvé pour la détermination du rendement en riz décortiqué.
+
+Déterminer le rendement en riz décortiqué conformément à l'<<ISO6646>>.
+
+==== Fidélité
+
+===== Essai interlaboratoires
+
+Les résultats d'un essai interlaboratoires sont donnés dans l'<<annexD>> pour information.
+
+===== Répétabilité
+
+La différence absolue entre deux résultats d'essai individuels indépendants, obtenus à l'aide de la même méthode, sur un matériau identique, soumis à essai dans le même laboratoire, par le même opérateur, utilisant le même appareillage dans un court intervalle de temps, n'excédera que dans 5 % des cas au plus la moyenne arithmétique des valeurs de stem:[r] découlant de l'essai interlaboratoires:
+
+[stem%unnumbered]
+++++
+r = 1 %
+++++
+
+où stem:[r] est la limite de répétabilité.
+
+===== Reproductibilité
+
+La différence absolue entre deux résultats d'essai individuels, obtenus à l'aide de la même méthode, sur un matériau identique, soumis à essai dans des laboratoires différents, par des opérateurs différents, utilisant des appareillages différents, n'excédera que dans 5 % des cas au plus la moyenne arithmétique de la valeur de stem:[R] découlant de l'essai interlaboratoires:
+
+[stem%unnumbered]
+++++
+R = 3 %
+++++
+
+où stem:[R] est la limite de reproductibilité.
+
+
+[[clause7]]
+== Rapport d'essai
+
+Pour chaque méthode d'essai, le rapport d'essai doit spécifier ce qui suit:
+
+[loweralpha]
+. tous les renseignements nécessaires à l'identification complète de l'échantillon
+. une référence au présent document (c'est-à-dire ISO {docnumber}-{partnumber});
+. la méthode d'échantillonnage utilisée;
+. la méthode d'essai utilisée;
+. le(s) résultat(s) d'essai obtenu(s) ou, si la répétabilité a été vérifiée, le résultat final cité qui a été obtenu;
+. tous les détails opératoires non prévus dans le présent document, ou considérés comme facultatifs, ainsi que les détails sur les incidents éventuels susceptibles d'avoir influé sur le (les) résultat(s);
+. tout élément inhabituel (anomalie) constaté durant l'essai;
+. la date de l'essai.
+
+== Emballage
+
+Les emballages ne doivent communiquer ni odeur ni flaveur au produit, et ne doivent pas contenir de substances pouvant endommager le produit ou présenter un risque pour la santé.
+
+Si des sacs sont utilisés, ils doivent être conformes aux exigences de l'<<ISO8351-1>>, Article 9 ou de l'<<ISO8351-2>>, selon le cas.
+
+== Marquage
+
+Les emballages doivent être marqués ou étiquetés selon les indications requises par le pays de destination.
+
+
+[[annexA]]
+[appendix,obligation=normative]
+== Détermination des défauts
+
+=== Principe
+
+Séparation par triage manuel des matières étrangères, brisures, grains défectueux et autres sortes de riz, en catégories en fonction du type de riz envisagé: riz décortiqué, riz usiné, riz étuvé décortiqué et riz étuvé usiné. Chaque type est alors pesé.
+
+=== Appareillage
+
+Matériel courant de laboratoire et, en particulier, ce qui suit.
+
+[%inline-header]
+[[annexA-2-1]]
+==== Diviseur d'échantillon,
+
+type échantillonneur conique ou échantillonneur à fentes multiples avec système distributeur, par exemple du type «Bon diviseur» comme représenté à la <<figureA-1>>.
+
+[%inline-header]
+==== Tamis,
+
+à trous ronds de 1,4 mm de diamètre.
+
+[%inline-header]
+==== Brucelles.
+
+[%inline-header]
+==== Scalpel.
+
+[%inline-header]
+==== Pinceau.
+
+[[annexA-2-6]]
+[%inline-header]
+==== Coupelles en acier,
+
+de 100 mm ± 5 mm de diamètre; sept pour chaque échantillon pour essai.
+
+[%inline-header]
+==== Balance,
+
+pouvant être lue à 0,01 g près.
+
+=== Échantillonnage
+
+Voir l'<<clause5>>.
+
+=== Mode opératoire
+
+[[annexA-4-1]]
+==== Préparation de l'échantillon pour essai
+
+Mélanger avec soin l'échantillon pour laboratoire pour le rendre aussi homogène que possible, puis procéder à la réduction à l'aide du diviseur (<<annexA-2-1>>), jusqu'à obtention d'une quantité d'environ 30 g.
+
+Il convient de considérer toutes les parties de grains qui restent coincées dans les trous du tamis comme étant retenues par celui-ci.
+
+[[figureA-1]]
+.Diviseur d'échantillon de type «Bon diviseur»
+image::images/a1.png[]
+
+=== Détermination
+
+Peser, à 0,1 g près, l'un des échantillons pour essai obtenus conformément à <<annexA-4-1>> et séparer, en les plaçant dans les coupelles (<<annexA-2-6>>), les différents défauts. Lorsqu'un grain présente plusieurs défauts, le classer dans la catégorie où la valeur maximale permise est la plus faible (voir <<table1>>).
+
+Peser, à 0,01 g près, les fractions ainsi obtenues.
+
+=== Calcul
+
+Calculer la fraction massique de grains comportant un défaut, en utilisant la <<formulaA-1>>):
+
+[[formulaA-1,A.1]]
+[stem]
+++++
+w = (m_D) / (m_s)
+++++
+
+où
+
+stem:[w]:: est la fraction massique de grains comportant un défaut particulier dans l'échantillon pour essai;
+stem:[m_D]:: est la masse, en grammes, de grains comportant ce défaut;
+stem:[m_S]:: est la masse, en grammes, de l'échantillon pour essai.
+
+=== Rapport d'essai
+
+Consigner les résultats d'essai comme spécifié dans l'<<clause7>>.
+
+
+[[annexB]]
+[appendix,obligation=informative]
+== Détermination de la teneur en riz gluant dans le riz étuvé
+
+=== Principe
+
+Les grains de riz gluant prennent une coloration brun rougeâtre lorsqu'ils sont en contact avec une solution iodée, tandis que les grains de riz non gluant prennent une coloration bleue.
+
+=== Appareillage
+
+Matériel courant de laboratoire et, en particulier, ce qui suit.
+
+[[annexB-2-1]]
+[%inline-header]
+==== Balance,
+
+capable de peser à 0,01 g près.
+
+[[annexB-2-2]]
+[%inline-header]
+==== Bécher en verre,
+
+d'une capacité de 250 ml.
+
+[[annexB-2-3]]
+[%inline-header]
+==== Petites coupelles blanches,
+
+ou tout autre récipient de couleur blanche et de taille convenable.
+
+[[annexB-2-4]]
+[%inline-header]
+==== Panier en fil métallique,
+avec des ouvertures allongées et arrondies mesurant stem:[(1 mm {:(+0.02),(0):} mm) times (20 mm {:(+2),(-1):} mm)].
+
+[[annexB-2-5]]
+[%inline-header]
+==== Baguette d'agitation.
+
+[[annexB-2-6]]
+[%inline-header]
+==== Brucelles ou pincettes.
+
+[[annexB-2-7]]
+[%inline-header]
+==== Papier absorbant.
+
+=== Réactifs
+
+WARNING: Le contact direct de l'iode avec la peau peut causer des lésions; la prudence est donc nécessaire lors de la manipulation de l'iode. Les vapeurs d'iode sont très irritantes pour les yeux et les muqueuses.
+
+[[annexB-3-1]]
+[%inline-header]
+==== Eau déionisée,
+
+conforme à la qualité 3 telle que définie dans l'<<ISO3696>>.
+
+[[annexB-3-2]]
+[%inline-header]
+==== Solution mère iodée,
+
+contenant une fraction massique de 4,1 % d'iode et de 6,3 % d'iodure de
+potassium dans de l'eau déionisée, par exemple Lugols footnote:[Lugols est un exemple de produit approprié disponible sur le marché. Cette information est donnée à l'intention des utilisateurs du présent document et ne signifie nullement que l'ISO approuve ou recommande l'emploi exclusif du produit ainsi désigné.].
+
+[[annexB-3-3]]
+[%inline-header]
+==== Solution de travail iodée:
+diluer la solution mère (<<annexB-3-2>>) deux fois (en volume) avec de l'eau déionisée (<<annexB-3-1>>).
+
+À préparer quotidiennement.
+
+=== Échantillonnage
+
+L'échantillonnage doit être effectué conformément à l'<<clause5>>.
+
+=== Détermination
+
+==== {blank}
+
+Peser une prise d'essai de 100 g de riz usiné et la placer dans un bécher en verre (<<annexB-2-2>>).
+
+==== {blank}
+
+Ajouter suffisamment de solution de travail iodée (<<annexB-3-3>>) pour immerger les grains, remuer (<<annexB-2-5>>) jusqu'à ce que les grains soient complètement immergés dans la solution. Laisser les grains tremper pendant 30 s.
+
+==== {blank}
+
+Verser le riz et la solution dans un panier en fil métallique (<<annexB-2-4>>) et secouer légèrement le panier afin d'égoutter la solution. Placer ensuite le panier sur un morceau de papier absorbant (<<annexB-2-7>>) pour absorber l'excès de liquide.
+
+==== {blank}
+
+Verser les grains colorés dans une coupelle (<<annexB-2-3>>). Au moyen des brucelles ou des pincettes (<<annexB-2-6>>), séparer les grains brun rougeâtre de riz gluant et les grains bleu foncé de riz non gluant.
+
+==== {blank}
+
+Peser la portion de riz gluant (stem:[m_1]) et la portion de riz non gluant (stem:[m_2]) à 0,1 g près.
+
+=== Calcul
+
+Calculer la fraction massique, en pourcentage, de riz gluant, stem:[w_(wax)], en utilisant la <<formulaB-1>>:
+
+[[formulaB-1,B.1]]
+[stem]
+++++
+w_(wax) = (m_1) / (m_1 + m_2) xx 100
+++++
+
+où
+
+stem:[m_1]:: est la masse, exprimée en grammes, de la portion de riz gluant;
+stem:[m_2]:: est la masse, exprimée en grammes, de la portion de riz non gluant.
+
+=== Rapport d'essai
+
+Consigner les résultats comme spécifié dans l'<<clause7>>, en notant les résultats calculés en utilisant la <<formulaB-1>>).
+
+
+[[annexC]]
+[appendix,obligation=informative]
+== Gélatinisation
+
+La <<figureC-1>> donne un exemple d'une courbe de gélatinisation type. La <<figureC-2>> montre les trois stades de gélatinisation.
+
+[[figureC-1]]
+.Courbe de gélatinisation type
+image::images/b1.png[]
+footnote:[Le temps stem:[t_90] a été estimé à 18,2 min dans cet exemple.]
+
+*Légende*
+
+stem:[w]:: fraction massique de grains gélatinisés, exprimée en pourcentage
+stem:[t]:: temps de cuisson, exprimé en minutes
+stem:[t_90]:: temps nécessaire pour faire passer 90 % des grains à l'état gélatinisé
+P:: point de la courbe correspondant à un temps de cuisson de stem:[t_90]
+
+NOTE: Ces résultats sont basés sur une étude effectuée sur trois différents types de grains.
+
+[[figureC-2]]
+.Phases de gélatinisation
+====
+.Phase initiale: Il n'y a pas de grain complètement gélatinisé (des granules d'amidon non gélatinisés sont visibles à l'intérieur des grains)
+image::images/c2-a.png[]
+
+.Phase intermédiaire: Quelques grains complètement gélatinisés sont visibles
+image::images/c2-b.png[]
+
+.Phase finale: Tous les grains sont entièrement gélatinisés
+image::images/c2-c.png[]
+====
+
+
+[[annexD]]
+[appendix,obligation=informative]
+== Résultats d'un essai interlaboratoires des rendements en riz décortiqué
+
+Un essai interlaboratoires <<ref15, fn>> a été effectué par l'ENR [Centre de recherches du riz (Italie)] conformément à l'ISO 5725-1 et à l'ISO 5725-2, avec la participation de 15 laboratoires. Chaque laboratoire a effectué trois déterminations sur quatre types différents de grains. Les résultats statistiques figurent dans le <<tableD-1>>.
+
+[[tableD-1]]
+[cols="<,^,^,^,^"]
+.Répétabilité et reproductibilité des rendements en riz décortiqué
+
+|===
+.2+^h| Description 4+h| Échantillon
+^h| Arborio ^h| Drago footnote:[Riz étuvé.] ^h| Balilla ^h| Thaibonnet
+
+| Nombre de laboratoires retenus après élimination des aberrants | 13 | 11 | 13 | 13
+| Valeur moyenne, g/100 g | 81,2 | 82,0 | 81,8 | 77,7
+| Écart-type de répétabilité, stem:[s_r], g/100 g | 0,41 | 0,15 | 0,31 | 0,53
+| Coefficient de variation de répétabilité, % | 0,5 | 0,2 | 0,4 | 0,7
+| Limite de répétabilité, stem:[r (= 2,83 s_r)] | 1,16 | 0,42 | 0,88 | 1,50
+| Écart-type de reproductibilité, stem:[s_R], g/100 g | 1,02 | 0,20 | 0,80 | 2,14
+| Coefficient de variation de reproductibilité, % | 1,3 | 0,2 | 1,0 | 2,7
+| Limite de reproductibilité, stem:[R (= 2,83 s_R)] | 2,89 | 0,57 | 2,26 | 6,06
+|===
+
+[bibliography,heading=Bibliography]
+== Bibliographie
+
+* [[[ISO3696,ISO 3696]]], _Eau pour laboratoire à usage analytique — Spécification et méthodes d'essai_
+
+* [[[ISO5725-1,ISO 5725-1]]], _Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions_
+
+* [[[ISO5725-2,ISO 5725-2]]], _Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d'une méthode de mesure normalisée_
+
+* [[[ISO6322-1,ISO 6322-1]]], _Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales_
+
+* [[[ISO6322-2,ISO 6322-2]]], _Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques_
+
+* [[[ISO6322-3,ISO 6322-3]]], _Stockage des céréales et des légumineuses — Partie 3: Contrôle de l'attaque par les déprédateurs_
+
+* [[[ISO7301,ISO 7301:2011]]], _Riz — Spécifications_
+
+* [[[ISO14864,ISO 14864:1998]]], _Riz — Évaluation du temps de gélatinisation lors de la cuisson des grains_
+
+* [[[IEC61010-2,IEC 61010-2:1998]]], _Règles de sécurité pour appareils électriques de mesurage, de régulation et de laboratoire — Part 2: Exigences particulières pour équipement de laboratoire pour l'échauffement des matières_
+
+* [[[ref10,10]]], [smallcap]#Standard No I.C.C 167#. _Determination of the protein content in cereal and cereal products for food and animal feeding stuffs according to the Dumas combustion method_ (see http://www.icc.or.at)
+
+* [[[ref11,11]]], Nitrogen-ammonia-protein modified Kjeldahl method — Titanium oxide and copper sulfate catalyst. _Official Methods and Recommended Practices of the AOCS_ (ed. Firestone, D.E.), AOCS Official Method Ba Ai 4-91, 1997, AOCS Press, Champaign, IL
+
+* [[[ref12,12]]], [smallcap]#Berner D.L., Brown J.# Protein nitrogen combustion method collaborative study I. Comparison with Smalley total Kjeldahl nitrogen and combustion results. _J. Am. Oil Chem. Soc._ 1994, *71* (11) pp. 1291–1293
+
+* [[[ref13,13]]], [smallcap]#Buckee G.K.# Determination of total nitrogen in barley, malt and beer by Kjeldahl procedures and the Dumas combustion method — Collaborative trial. _J. Inst. Brew._ 1994, *100* (2) pp. 57–64
+
+* [[[ref14,14]]], [smallcap]#Frister H.# et al. _Direct determination of nitrogen content by Dumas analysis; Interlaboratory study on precision characteristics._ AOAC International, Europe Section 4th International Symposium, Nyon, Switzerland, 1994, 33 pp
+
+* [[[ref15,15]]], [smallcap]#Ranghino F.# Evaluation of rice resistance to cooking, based on the gelatinization time of kernels. _Il Riso_. 1966, *XV* pp 117-127
+
+* [[[ref16,16]]], [smallcap]#Tkachuk R.# Nitrogen-to-protein conversion factors for cereals and oilseed meals. _Cereal Chem._ 1969, *46* (4) pp 419-423
