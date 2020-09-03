@@ -356,14 +356,14 @@ stem:[R]:: 是重现性限制。
 
 包装不得将任何气味或味道传递给产品，也不得包含可能损害产品或构成健康风险的物质。
 
-如果使用袋子，则应符合<<ISO8531-1>>第9条或<<ISO8351-2>>的要求。
+如果使用袋子，则应符合<<ISO8351-1>>第9条或<<ISO8351-2>>的要求。
 
 == 印记
 
 包装应按照目的地国家的要求标记或标签。
 
 [[AnnexA]]
-[appendix,subtype=normative]
+[appendix,obligation=normative]
 == 缺陷的确定
 
 // "normative" follows title
@@ -450,7 +450,7 @@ stem:[m_S]:: 是测试样品的质量，以克为单位。
 按照<<clause7>>中的规定报告结果。
 
 [[AnnexB]]
-[appendix]
+[appendix,obligation=informative]
 == 蒸米饭中糯米含量的测定
 
 === 原理
@@ -568,7 +568,7 @@ stem:[m_2]:: 是非糯米部分的质量，用克表示。
 按照<<clause7>>中的规定报告结果，并使用公式（<<formulaB-1>>）计算结果。
 
 [[AnnexC]]
-[appendix,subtype=informative]
+[appendix,obligation=informative]
 == 糊化
 
 <<figureC-1>>给出了典型的糊化曲线的例子。 <<figureC-2>>显示了糊化的三个阶段。
@@ -603,11 +603,11 @@ image::images/c2-c.png[]
 ====
 
 [[AnnexD]]
-[appendix]
+[appendix,obligation=informative]
 == 稻谷产量的实验室间试验结果
 
 ENR [水稻研究中心（意大利）]在根据<<ISO5725-1>>和<<ISO5725-2>>要求下，於
-15个实验室的参与下进行了实验室间实验<<ref15>>。 每个实验室对四种不同类型的核进行了三次测定。
+15个实验室的参与下进行了实验室间实验<<ref15, fn>>。 每个实验室对四种不同类型的核进行了三次测定。
 统计结果显示在<<tableD-1>>中。
 
 [[tableD-1]]
