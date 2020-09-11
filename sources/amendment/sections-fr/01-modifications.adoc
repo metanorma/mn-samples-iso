@@ -1,0 +1,104 @@
+
+[change=delete,locality="clause=introduction,paragraph=4-7"]
+== Introduction
+
+Supprimer les alinéas quatre à sept.
+
+[change=modify,locality="clause=2"]
+== Références normatives
+
+Remplacer la référence à l'ISO 16634:-- (y compris la note de bas de page) par la suivante:
+
+[quote]
+ISO 16634-2:2016, _Produits alimentaires -- Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes -- Partie 2: Céréales, légumineuses et produits céréaliers de mouture_
+
+Renuméroter les notes de bas de page en conséquence.
+
+[change=modify,locality="clause=4.1,paragraph=2"]
+== 4.1, deuxième alinéa
+
+Remplacer l'alinéa par le suivant:
+
+[quote]
+Une procédure doit exister pour identifier les valeurs maximales admises des niveaux d'additifs et de résidus de pesticides et autres contaminants dans le pays destinataire.
+
+[change=modify,locality="clause=4.2.1"]
+== 4.2.1
+
+Renuméroter la NOTE existante en NOTE 1 et ajouter la nouvelle NOTE suivante:
+
+[quote]
+NOTE 2 Pour certaines destinations, aucune différentiation n'est faite entre les fractions massiques de matières étrangères organiques et non organiques.
+
+[change=modify,locality="clause=4.2.2,table=1"]
+== 4.2.2, Tableau 1
+
+Dans la colonne «riz usiné (non gluant)», remplacer la valeur «0,3» pour «Paddy» par la valeur «0,5».
+
+[change=modify,locality="clause=6.3,paragraph=1"]
+== 6.3, premier alinéa
+
+Remplacer la référence «ISO 16634:—, Article 9» par «ISO 16634-2:2016, Article 9».
+
+[change=add,locality="clause=8"]
+== Article 8
+
+Ajouter l'alinéa suivant à la fin de l'article:
+
+[quote]
+L'Annexe E fournit des recommandations relatives aux conditions d'entreposage et de transport.
+
+[change=modify,locality="clause=9"]
+== Article 9
+
+Remplacer le texte par le suivant:
+
+[quote]
+Le marquage sur les emballages doit clairement identifier le type de riz.
+
+[change=modify,locality="clause=A.2.1"]
+== A.2.1
+
+Remplacer le texte par le suivant:
+
+[quote]
+*A.2.1 Diviseur d'échantillon*, de type échantillonneur conique ou échantillonneur à fentes multiples avec système distributeur, par exemple de type «Bon diviseur» comme représenté à la Figure A.1 ou de type diviseur à fentes multiples comme représenté à la Figure A.2.
+
+[change=modify,locality="figure=A.1"]
+== Figure A.1
+
+Remplacer la Figure A.1 par les deux figures suivantes:
+
+[[fig1]]
+.Diviseur d'échantillon de type «Bon diviseur»
+image::image-01.png[]
+
+*Légende*
+
+1:: entonnoir
+2:: boîtes de collecte
+
+[[fig2]]
+.Diviseur d'échantillon à fentes multiples avec deux boîtes de collecte
+image::image-02.png[]
+
+*Légende*
+
+1:: fentes
+2:: boîtes de collecte
+
+[change=add,locality="clause=D"]
+== Annexe E
+
+Ajouter l'annexe suivante après l'Annexe D, avant la Bibliographie.
+
+[quote]
+____
+*Annexe E. Recommandations relatives aux conditions d'entreposage et de transport*
+
+Il convient que les emballages de riz soient entreposés dans des locaux couverts, bien protégés du soleil, de la pluie et d'une chaleur excessive.
+
+Il convient que l'entrepôt soit sec, exempt d'odeurs désagréables, et protégé contre l'entrée d'insectes et autres déprédateurs. Il convient que la ventilation soit réglée de manière à assurer une bonne ventilation en période sèche et à être entièrement arrêtée en période humide. Il convient que des dispositions appropriées soient prises pour permettre la fumigation dans l'entrepôt.
+
+Il convient que les emballages soient manipulés et transportés de manière qu'ils soient protégés de la pluie, du soleil ou d'autres sources de chaleur excessive, des odeurs désagréables et de toute contamination (en particulier dans les cales des navires).
+____
