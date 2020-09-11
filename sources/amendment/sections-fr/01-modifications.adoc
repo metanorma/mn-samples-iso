@@ -4,7 +4,7 @@
 
 Supprimer les alinéas quatre à sept.
 
-[change=modify,locality="clause=2"]
+[change=modify,locality="clause=2",path="./bibitem[docidentifier = 'ISO 16634-2:2016']"]
 == Références normatives
 
 Remplacer la référence à l'ISO 16634:-- (y compris la note de bas de page) par la suivante:
@@ -25,10 +25,13 @@ Une procédure doit exister pour identifier les valeurs maximales admises des ni
 [change=modify,locality="clause=4.2.1"]
 == 4.2.1
 
+autonumber:note[2]
+
 Renuméroter la NOTE existante en NOTE 1 et ajouter la nouvelle NOTE suivante:
 
-[quote]
-NOTE 2 Pour certaines destinations, aucune différentiation n'est faite entre les fractions massiques de matières étrangères organiques et non organiques.
+____
+NOTE: Pour certaines destinations, aucune différentiation n'est faite entre les fractions massiques de matières étrangères organiques et non organiques.
+____
 
 [change=modify,locality="clause=4.2.2,table=1"]
 == 4.2.2, Tableau 1
@@ -40,7 +43,7 @@ Dans la colonne «riz usiné (non gluant)», remplacer la valeur «0,3» pour «
 
 Remplacer la référence «ISO 16634:—, Article 9» par «ISO 16634-2:2016, Article 9».
 
-[change=add,locality="clause=8"]
+[change=add,locality="clause=8",path="./*[last()]"]
 == Article 8
 
 Ajouter l'alinéa suivant à la fin de l'article:
@@ -69,6 +72,9 @@ Remplacer le texte par le suivant:
 
 Remplacer la Figure A.1 par les deux figures suivantes:
 
+autonumber:figure[A.1]
+
+____
 [[fig1]]
 .Diviseur d'échantillon de type «Bon diviseur»
 image::image-01.png[]
@@ -87,7 +93,9 @@ image::image-02.png[]
 1:: fentes
 2:: boîtes de collecte
 
-[change=add,locality="clause=D"]
+____
+
+[change=add,locality="clause=D",path="."]
 == Annexe E
 
 Ajouter l'annexe suivante après l'Annexe D, avant la Bibliographie.
