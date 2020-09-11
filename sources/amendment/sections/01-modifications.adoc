@@ -4,7 +4,7 @@
 
 Delete the fourth to seventh paragraphs.
 
-[change=modify,locality="clause=2"]
+[change=modify,locality="clause=2",path="./bibitem[docidentifier = 'ISO 16634-2:2016']"]
 == Normative references
 
 Replace the reference to ISO 16634:— (including the footnote) with the following:
@@ -25,10 +25,13 @@ There shall be a procedure to identify the maximum permissible levels for additi
 [change=modify,locality="clause=4.2.1"]
 == 4.2.1
 
+autonumber:note[2]
+
 Designate the existing NOTE as NOTE 1 and add the following new NOTE:
 
-[quote]
-NOTE 2 For certain destinations, no differentiation is made between the organic and inorganic mass fractions of extraneous matter.
+____
+NOTE: For certain destinations, no differentiation is made between the organic and inorganic mass fractions of extraneous matter.
+____
 
 [change=modify,locality="clause=4.2.2,table=1"]
 == 4.2.2, Table 1
@@ -40,7 +43,7 @@ In the column “in milled rice (non-glutinous)”, replace the value “0,3” 
 
 Replace the reference “ISO 16634:—, Clause 9” with “ISO 16634-2:2016, Clause 9”.
 
-[change=add,locality="clause=8"]
+[change=add,locality="clause=8",path="./*[last()]"]
 == Clause 8
 
 Add the following paragraph at the end of the clause:
@@ -69,6 +72,10 @@ Replace the text with the following:
 
 Replace Figure A.1 with the following two figures:
 
+autonumber:figure[A.1]
+
+____
+
 [[fig1]]
 .Conical (Boerner-type) divider
 image::image-01.png[]
@@ -87,7 +94,9 @@ image::image-02.png[]
 1:: slots
 2:: collection boxes
 
-[change=add,locality="clause=D"]
+____
+
+[change=add,locality="clause=D",path="."]
 == Annex E
 
 Add the following annex after Annex D, before the Bibliography.
