@@ -50,6 +50,4 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          source $HOME/.nvm/nvm.sh
-          nvm use mn-node
           make clean all publish
