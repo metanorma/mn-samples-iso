@@ -53,4 +53,4 @@ jobs:
         env:
           JAVA_OPTS: "java.awt.headless=true"
         run: |
-          make clean all publish
+          make clean all publish SKIP_BUNDLE=true
