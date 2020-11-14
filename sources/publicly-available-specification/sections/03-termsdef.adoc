@@ -1,0 +1,72 @@
+
+[[terms]]
+== Terms and definitions
+
+
+=== stability
+alt:[stability of a residual fuel]
+
+resistance to the breakdown and precipitation of asphaltenic sludge despite being subjected to forces, such as thermal and ageing stresses, while handled and stored under normal operating conditions
+
+
+=== cold filter plugging point
+alt:[CFPP]
+
+highest temperature at which a given volume of distillate fuel fails to pass through a standardized filtration device in a specified time when cooled under standardized conditions
+
+[.source]
+<<ip_309>>
+
+
+=== cloud point
+alt:[CP]
+
+temperature at which a cloud of wax crystals first appears in a transparent liquid when it is cooled under specified conditions
+
+[.source]
+<<iso_3015,clause "3.1">>, In the definition, liquid has been specified to be "transparent".
+
+
+[.nonterm]
+=== Total sediment-aged
+
+==== potential total sediment
+alt:[TSP]
+
+total sediment, determined by <<iso_10307-1>>, after ageing a sample of residual fuel for 24 h at 100 °C under prescribed conditions
+
+[.source]
+<<iso_10307-2,clause "3.1">>
+
+==== accelerated total sediment
+alt:[TSA]
+
+total sediment, determined by <<iso_10307-1>>, after dilution of a sample of residual fuel with hexadecane in the ratio of 1 ml per 10 g of sample under carefully controlled conditions, followed by storage for 1h at 100 °C
+
+[.source]
+<<iso_10307-2,clause "3.2">>
+
+
+// Illustration-purpose terms (these are not included in ISO/PAS 23263:2019 original standard)
+
+=== microphone
+
+transducer that converts sound into an electrical signal
+
+[.source]
+<<iso22259,clause "3.14">>
+
+
+=== headphone
+
+transducer that converts an electrical signal into sound, designed to be worn close to the ear
+
+[.source]
+<<iso22259,clause "3.17">>
+
+=== headset
+
+term:[headphones,headphone] combined with a term:[microphone]
+
+[.source]
+<<iso20109,clause "3.5">>
