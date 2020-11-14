@@ -1,0 +1,192 @@
+= Guidelines for addressing climate change in standards
+:comment: ### Guide template
+:comment: ### This template is based on ISO Guide 84:2020(en) standard preview provided in https://www.iso.org/obp/ui/#iso:std:iso:guide:84:ed-1:v1:en
+:comment: ### Document Number. See comment 1 below
+:docnumber: 99999
+:comment: ### Document edition
+:edition: 1
+:comment: ### Year of copyright
+:copyright-year: 2020
+:comment: ### See comment 2 below
+:title-intro-en: 
+:title-main-en: Guidelines for addressing climate change in standards
+:title-part-en: 
+:title-intro-fr: 
+:title-main-fr: 
+:title-part-fr:
+:comment: ### This is the N-document number assigned within the ISO/TC, SC or WG. This number is only relevant within the scope of its assignment for tracking purposes (optional)
+:tc-docnumber: 99999
+:comment: ###  ISO document part number. This can be "part-subpart" if this is an ISO/IEC or IEC document. (Optional.)
+:partnumber: 
+:comment: ### Document type of publication. See comment 3 below
+:doctype: guide
+:comment: ### Stage code. See comment 4 below
+:docstage: 60
+:comment: ### Substage code. See comment 5 below
+:docsubstage: 60
+:comment: ### See comment 6 below
+:technical-committee-type: TC
+:comment: ### Number of the relevant ISO subcommittee
+:technical-committee-number: 
+:comment: ### Name of the relevant ISO technical committee (mandatory)
+:technical-committee: Technical Management Board - groups
+:comment: ### Name of the relevant ISO subcommittee. (Omit if not applicable.)
+:subcommittee: 
+:comment: ### Type of the relevant ISO subcommittee. Defaults to SC if not supplied. Values: SC, JSC. (Omit if not applicable.)
+:subcommittee-type: 
+:comment: ### Number of the relevant ISO subcommittee. (Omit if not applicable.)
+:subcommittee-number: 
+:comment: ### Type of the relevant ISO workgroup. Defaults to WG if not supplied. Example values: JWG, JAG, AG (advisory group), AHG, SWG, SG, MA (maintenance agency), CORG, JCG, CAG
+:workgroup-type: 
+:comment: ### Number of the relevant ISO workgroup
+:workgroup-number: 
+:comment: ### Name of the relevant ISO workgroup
+:workgroup: 
+:comment: ### National body acting as the secretariat for the document in the drafting stage.
+:secretariat: SAC
+:comment: ### Document language. (Two values are permitted: en, fr.)
+:language: en
+:comment: ### Draft status, enables display of reviewer notes; remove if final document
+:draft:
+:comment: ### See comment 8 below
+:library-ics: 01.120,13.020.01
+:comment: ### last update date
+:revdate: 2020-07-10
+:comment: ### Iteration of a stage, in case there have been multiple drafts (e.g. 2 on a CD: this is the second iteration through the CD stage).
+:iteration: 2
+:comment: ### Date on which the standard was published (distributed by the publisher).
+:published-date: 2020-07-10
+:comment: ### Date on which the unpublished standard was last circulated officially as a preprint. For standards, this is associated with the latest transition to a formally defined preparation stage, such as Working Draft or Committee Draft.
+:circulated-date: 2020-06-05
+:comment: ### Directory in which images are located: all local image file locations are prefixed with this directory. (Optional.)
+:imagesdir: images
+:comment: ### Name of this AsciiDoc file
+:docfile: document.adoc
+:comment: ### Metanorma flavour: applies to all ISO documents
+:mn-document-class: iso
+:comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
+:mn-output-extensions: xml,html,doc,html_alt
+:local-cache-only:
+:data-uri-image:
+
+
+////
+Comment 1: DOCUMENT NUMBER (:docnumber:)
+
+Sequence of digits that gives the document number value included in the document identifier, for example: 
+
+99999 (to author ISO-99999)
+8000 (to author ISO-8000), 
+22745 (to author ISO-22745), 
+29002 (to author ISO-29002)
+////
+
+////
+Comment 2: DOCUMENT TITLE (mandatory)
+
+The document title in Metanorma may be composed by three attributes from which two are optional and one mandatory. These attributtes are used instead of the metanorma-standoc `:title:` attribute and the default AsciiDoc title (the first line of the document header, prefixed with `=`):
+
+`:title-intro-en:` The introductory component of the English title (optional)
+`:title-main-en:` The main component of the English title (mandatory)
+`:title-part-en:` The English title of the document part (optional)
+`:title-intro-fr:` The introductory component of the French title (optional)
+`:title-main-fr:` The main component of the French title (mandatory)
+`:title-part-fr:` The French title of the document part (optional)
+
+Both the English and the French titles for the document are required, for both the English and the French version of the document. The main title will be that of the language the document is in.
+////
+
+////
+Comment 3: DOCUMENT TYPE (:doctype:) (mandatory)
+
+Its possible values are defined by ISO deliverables: https://www.iso.org/deliverables-all.html 
+
+The permitted types are: 
+international-standard, 
+technical-specification, 
+technical-report, 
+publicly-available-specification, 
+international-workshop-agreement, 
+guide.
+////
+
+////
+Comment 4:  DOCUMENT STAGE (:docstage:) (Synonym of :status:)
+
+Stage code for the document status. See International harmonized stage codes: https://www.iso.org/stage-codes.html
+
+ISO authors usually create Metanorma documents at stages 00 through 40 (PWI, NWIP, WD, CD, DIS). Documents at the final stages, 50 and 60 (FDIS, PRF, IS), are created by ISO Editorial Program Managers at ISO/CS (aka ISO EPMs, ISO Editors). Authors using Metanorma are not expected to edit documents at those stages, and are not necessary in a normal submission process. These stages, however, can be used for mirroring and tracking of final stage and published standards, which many authors do.
+
+Example values:
+PWI: 00
+NMIP: 10
+WD: 20
+CD: 30
+DIS: 40
+FDIS:50
+IS: 60
+
+For Guide, possible stages are:
+Preliminary stage (PWI): 00
+Proposal stage (NP): 10
+Preparatory stage (WD): 20
+Committee stage (CD): 30
+Publication stage (IS): 60
+////
+
+
+////
+Comment 5: DOCUMENT SUBSTAGE (:docsubstage:)
+
+Substage code for the document status. See International harmonized stage codes at: https://www.iso.org/stage-codes.html
+
+If this is left out, a substage of “00” is assumed, with the exception of stage “60” (published), where a substage of “60” is assumed. (“60.00” is the final proof, “60.60” the published document.)
+
+For Guide, possible substages are:
+Propose new project (PWI) / Proposal registered (NP) / Project registered (WD) / Committee draft registered (CD) / Final draft under publication (IS): 00
+Proposal under review, ballot, or study (PWI,NP,WD,CD): 20
+Proposal returned for changes (NP,CD): 92
+Project deleted (PWI,NP,WD,CD): 98
+Proceed with project (PWI,NP,WD,CD): 99
+Close review/voting/comment period (PWI,NP,WD,CD) / Standard published (IS): 60
+////
+
+////
+Comment 6: TECHNICAL COMMITTEE TYPE (:technical-committee-type:)
+
+Type of the relevant technical committee. Defaults to TC if not supplied. 
+
+Values: TC, PC, JTC, JPC.
+////
+
+
+////
+Comment 7: WORKGROUP TYPE (:workgroup-type:)
+
+Example values: WG, JWG, JAG, AG (advisory group), AHG, SWG, SG, MA (maintenance agency), CORG, JCG, CAG
+
+Default value: WG
+////
+
+////
+Comment 8: ICS number (:library-ics:)
+
+ICS (International Categorization for Standards) number for the standard.
+
+There may be more than one ICS for a document; if so, they should be comma-delimited. (The ICS identifier is added to the document metadata, but may not be visible in the resulting document, depending on Metanorma flavor.)
+////
+
+
+
+
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
+include::sections/01-scope.adoc[]
+include::sections/02-norm-refs.adoc[]
+include::sections/03-termsdef.adoc[]
+include::sections/04-content.adoc[]
+
+include::sections/a1-annex.adoc[]
+include::sections/a2-annex.adoc[]
+
+include::sections/zz-references.adoc[]
