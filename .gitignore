@@ -1,7 +1,10 @@
-.DS_Store
+\.DS_Store
 .swp
 .tmp.xml
+.history/
+Gemfile.lock
 *.err
-
+*.html
+*.xml
 # Deploy key
 deploy_key
