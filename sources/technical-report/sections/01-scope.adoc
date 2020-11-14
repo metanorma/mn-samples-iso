@@ -1,0 +1,8 @@
+
+
+== Scope
+
+// Insert scope here.
+
+This Technical Report provides guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats. It starts by studying common use cases to identify how the most important functionalities of one document format can be represented in the other format. This is followed by a thorough review of the concepts, architectures and various features of the two document formats in order to provide a good understanding of the commonalities and differences. It is expected that functionalities will be able to be translated with different degrees of fidelity to the other format. As an illustrative sample of this functionality, detailed information is provided on the extent to which those functionalities can be translated. This Technical Report is a necessary step to the goal of helping achieve interoperability and harmonization between the two formats.
+

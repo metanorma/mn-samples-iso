@@ -1,0 +1,27 @@
+
+[[introduction]]
+== Introduction
+
+// Insert introduction here.
+
+OASIS Open Document Format ODF 1.0 (<<iso-iec_26300>>) and Office Open XML (ISO/IEC 29500) are both open document formats for saving and exchanging word processing documents, spreadsheets and presentations. Both formats are XML based but differ in design and scope.
+
+The following abbreviations are used throughout this Technical Report:
+
+* ODF, which stands for OpenDocument Format (<<iso-iec_26300>>);
+* OOXML, which stands for Office Open XML (ISO/IEC 29500:2008).
+
+ISO/IEC 29500 is structured into four parts, each of which contains normative as well as informative material: Fundamentals and Markup Language Reference, Open Packaging Conventions, Markup Compatibility and Extensibility, and Transitional Migration Features.
+
+At the time of writing (June 2011) the following corrigenda and amendments have been published:
+
+* ISO/IEC 29500-1:2008/Cor.1:2010, ISO/IEC 29500-2:2008/Cor.1:2010, ISO/IEC 29500-3:2008/Cor.1:2010 and ISO/IEC 29500-4:2008/Cor.1:2010, containing minor technical corrections and editorial modifications;
+* ISO/IEC 29500-1:2008/Amd.1:2010 and ISO/IEC 29500-4:2008/Amd.1:2010, containing namespace changes and modifications concerning the usage of percentage (%) values;
+* ISO/IEC 29500:2011 (ECMA 376 3rd edition) as a consolidated version of OOXML containing the above-mentioned corrigenda and amendments;
+* ISO/IEC 26300:2006/Cor.1:2010, containing editorial modifications;
+* ISO/IEC 26300:2006/Cor.2:2011, fixing editorial errors.
+
+In addition, the following Amendments are under preparation:
+
+* Amendment 1 to ISO/IEC 29500-1:2011 and Amendment 1 to ISO/IEC 29500-4:2011 about ISO 8601 dates;
+* Amendment 1 to ISO/IEC 26300:2006 introducing ODF 1.1.

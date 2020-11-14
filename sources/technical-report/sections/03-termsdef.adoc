@@ -1,0 +1,93 @@
+
+[[terms]]
+== Terms and definitions
+
+
+=== translation type
+
+methods used when translating between ODF and OOXML documents
+
+[NOTE]
+====
+This Technical Report distinguishes four translation types:
+* one way ODF to OOXML translation;
+* one way OOXML to ODF translation;
+* round trip ODF to OOXML to ODF translation;
+* round trip OOXML to ODF to OOXML translation.
+====
+
+=== translation fidelity
+
+quality of a translation process between the ODF and OOXML document formats
+
+NOTE: Translation fidelity depends on document properties.
+
+NOTE: Translation fidelity cannot be measured in an absolute manner; it depends on the intentions of the document's authors.
+
+
+=== document property
+
+description of different yet independent dimensions within the specification of a document
+
+[NOTE]
+====
+As defined in 4.2 this Technical Report distinguishes the following document properties:
+* presentation instructions;
+* content;
+* dynamic content;
+* meta data;
+* annotations and security;
+* document parts.
+====
+
+NOTE: Document properties are implemented using document features.
+
+
+// Illustration-purpose terms (these are not included in ISO/IEC TR 29166:2011 original standard)
+
+=== General
+
+====  access
+
+right, opportunity, means of finding, using or retrieving information
+
+[.source]
+<<iso15489_1,clause "3.1">>
+
+
+==== asset
+
+anything that has value to the organization
+
+[NOTE]
+====
+There can be many types of assets, including:
+
+. information (such as documents and databases);
+. software, such as a computer program;
+. physical, such as a computer;
+. services (meaning capabilities to deliver something);
+. people, and their qualifications, skills, and experience; and
+. intangibles, such as reputation and image.
+====
+
+[.source]
+<<iso27000,clause "2.3">>
+
+==== record(s)
+
+information created, received and maintained as evidence and as an term:[asset] by an organization or person, in pursuit of legal obligations or in the transaction of business
+
+NOTE: The viewpoint defined in this document is intended to be useful in any enterprise architecture scenario, and intended to prevent conflicting meanings in multiple viewpoints. The term used in the ArchiMate modelling of this viewpoint is "`business record`". In this document the term "`business record`" has the same definition as the established definition for "`record`" in the records management domain.
+
+[.source]
+<<iso15489_1,clause "3.14">>
+
+==== records system
+
+information system which captures, manages and provides term:[access] to term:[records,record(s)] through time
+
+NOTE: In the context of records management, "`system`" means a business system that is responsible for automating business activities and transactions.
+
+[.source]
+<<iso15489_1,clause "3.16">>, In the definition, the word "`over`" has been replaced by "`through`" and Note 1 to entry has been replaced.
