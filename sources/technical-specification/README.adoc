@@ -1,0 +1,23 @@
+= ISO Technical Specification template in Metanorma
+
+== Installing build tools
+
+See https://www.metanorma.com
+
+== Building the document (HTML + Word)
+
+[source,sh]
+----
+make clean all
+----
+
+Your document will be created in the same directory.
+
+== Iterating the document (HTML)
+
+It's easiest to generate the HTML to iterate on the document.
+
+[source,sh]
+----
+make html open
+----
