@@ -86,7 +86,7 @@ L'ISO et l'IEC tiennent à jour des bases de données terminologiques destinées
 * IEC Electropedia: disponible à l'adresse http://www.electropedia.org/
 
 [[paddy]]
-=== [en]#paddy# [fr]#paddy#
+=== lang:en[paddy] lang:fr[paddy]
 [alt]#riz paddy#
 
 riz muni de sa balle après battage
@@ -95,7 +95,7 @@ riz muni de sa balle après battage
 <<ISO7301>>, 3.1
 
 [[husked_rice]]
-=== [en]#husked rice# [fr]#riz décortiqué#
+=== lang:en[husked rice] lang:fr[riz décortiqué]
 [deprecated]#riz cargo#
 
 _riz paddy_ (<<paddy>>) dont la balle seule a été éliminée
@@ -103,25 +103,25 @@ _riz paddy_ (<<paddy>>) dont la balle seule a été éliminée
 [.source]
 <<ISO7301>>, 3.2, Le terme "riz cargo" est représenté comme rejeté, et la Note 1 à l'article n'est pas incluse ici
 
-=== [en]#milled rice# [fr]#riz usiné#
+=== lang:en[milled rice] lang:fr[riz usiné]
 
 riz obtenu après une opération d'usinage qui consiste à débarrasser le _riz décortiqué_ (<<husked_rice>>) de tout ou partie de son péricarpe et du germe
 
 [.source]
 <<ISO7301>>, 3.3
 
-=== [en]#parboiled rice# [fr]#riz étuvé#
+=== lang:en[parboiled rice] lang:fr[riz étuvé]
 [alt]#riz prétraité#
 
 riz dont l'amidon a été entièrement gélatinisé par trempage dans l'eau du _riz paddy_ (<<paddy>>) ou du _riz décortiqué_ (<<husked_rice>>) suivi d'un traitement à la chaleur, puis d'une opération de séchage
 
-=== [en]#waxy rice# [fr]#riz gluant#
+=== lang:en[waxy rice] lang:fr[riz gluant]
 
 variété spéciale de riz, dont les grains ont un aspect blanc et opaque
 
 NOTE: L'amidon du riz gluant est presque entièrement constitué d'amylopectine. Les grains ont tendance à se prendre en masse après cuisson.
 
-=== [en]#extraneous matter# [fr]#matière étrangère#
+=== lang:en[extraneous matter] lang:fr[matière étrangère]
 [alt]#ME#
 [domain]#riz#
 
@@ -137,23 +137,23 @@ grain ou partie de grain, dont la coloration naturelle a changé sous l'effet de
 
 NOTE: Cette catégorie comprend les grains ou parties de grains présentant une coloration jaune due à une altération. Les grains de riz étuvé dans un lot de riz non étuvé sont également compris dans cette catégorie.
 
-=== [en]#damaged kernel# [fr]#grain endommagé#
+=== lang:en[damaged kernel] lang:fr[grain endommagé]
 
 grain ou partie de grain présentant distinctement une détérioration provoquée par l'humidité, les déprédateurs, les maladies ou d'autres causes, mais qui n'est pas un term:[HDK]
 
-=== [en]#immature kernel# [fr]#grain immature#
+=== lang:en[immature kernel] lang:fr[grain immature]
 [alt]#grain non mûr#
 
 grain ou partie de grain, non mûr et/ou mal développé
 
-=== [en]#husked rice yield# [fr]#rendement en riz décortiqué#
+=== lang:en[husked rice yield] lang:fr[rendement en riz décortiqué]
 
 quantité de riz décortiqué obtenue à partir de riz paddy
 
 [.source]
 <<ISO6646>>, 3.1
 
-=== [en]#nitrogen content# [fr]#teneur en azote#
+=== lang:en[nitrogen content] lang:fr[teneur en azote]
 
 quantité d'azote déterminée après l'application du mode opératoire décrit dans l'<<ISO20483>>
 
@@ -162,7 +162,7 @@ NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
 [.source]
 <<ISO20483>>, 3.1, Dans la définition, «dans l'ISO 20483» a été ajouté
 
-=== [en]#crude protein content# [fr]#protéines brutes#
+=== lang:en[crude protein content] lang:fr[protéines brutes]
 
 quantité de protéines brutes obtenue à partir de la teneur en azote telle que déterminée en appliquant la méthode décrite dans l'ISO 20483, calculée en multipliant cette teneur par un facteur approprié selon le type de céréale ou de légumineuse
 
@@ -172,7 +172,7 @@ NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
 <<ISO20483>>, 3.2, Dans la définition, «décrite dans l'ISO 20483» a été ajouté
 
 [[gelatinization]]
-=== [en]#gelatinization# [fr]#gélatinisation#
+=== lang:en[gelatinization] lang:fr[gélatinisation]
 
 processus hydrothermique correspondant au phénomène de gonflement irréversible et de solubilisation des grains d'amidon et conférant au grain de riz un état gélatinisé typique des empois d'amidon
 
@@ -182,14 +182,14 @@ NOTE: Voir <<figureC-1>>.
 <<ISO14864>>, 3.1
 
 [[gel_state]]
-=== [en]#gel state# [fr]#état gélatinisé#
+=== lang:en[gel state] lang:fr[état gélatinisé]
 
 état atteint à la suite de la _gélatinisation_ (<<gelatinization>>), lorsque le grain de riz est entièrement transparent et totalement exempt de granules blanchâtres et opaques après avoir été écrasé entre deux lamelles de verre
 
 [.source]
 <<ISO14864>>, 3.2
 
-=== [en]#gelatinization time# [fr]#temps de gélatinisation#
+=== lang:en[gelatinization time] lang:fr[temps de gélatinisation]
 
 stem:[t_90]
 
