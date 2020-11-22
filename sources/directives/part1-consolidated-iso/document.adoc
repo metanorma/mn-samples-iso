@@ -1,0 +1,87 @@
+= ISO/IEC Directives, Part 1 Consolidated ISO Supplement -- Procedures specific to ISO
+:docnumber:
+:tc-docnumber:
+:partnumber: 1
+:edition: 11
+:revdate:
+:copyright-year: 2020
+:language: en
+:title-intro-en: ISO/IEC Directives
+:title-main-en: Consolidated ISO Supplement
+:title-part-en: Procedures specific to ISO
+:title-intro-fr: Directives ISO/IEC
+:title-main-fr: Supplément ISO consolidé
+:title-part-fr: Procédures spécifiques à l'ISO
+:doctype: international-standard
+:docstage:
+:docsubstage:
+:technical-committee-number:
+:secretariat: SAC
+:technical-committee:
+:subcommittee-number:
+:subcommittee:
+:workgroup-type: WG
+:workgroup-number:
+:workgroup:
+:docfile: document.adoc
+:imagesdir: images
+:library-ics:
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+
+include::sections/00-foreword.adoc[]
+include::sections/00-introduction.adoc[]
+include::sections/01-organizational_structure.adoc[]
+include::sections/02-international_standards.adoc[]
+include::sections/03-other_deriverables.adoc[]
+include::sections/04-meetings.adoc[]
+include::sections/05-appeals.adoc[]
+
+
+// == ISO/IEC ANNEXES
+include::sections/annexes_a-k/aa-guides.adoc[]
+include::sections/annexes_a-k/ab-procedures.adoc[]
+include::sections/annexes_a-k/ac-justification.adoc[]
+include::sections/annexes_a-k/ad-resources.adoc[]
+include::sections/annexes_a-k/ae-general_policy.adoc[]
+include::sections/annexes_a-k/af-options_for_development.adoc[]
+include::sections/annexes_a-k/ag-maintenance_agencies.adoc[]
+include::sections/annexes_a-k/ah-registration_authorities.adoc[]
+include::sections/annexes_a-k/ai-guideline_for_implementation.adoc[]
+include::sections/annexes_a-k/aj-fomulating_scopes.adoc[]
+include::sections/annexes_a-k/ak-project_committees.adoc[]
+
+
+// == ANNEXES APPLICABLE TO ISO ONLY
+include::sections/annexes_sa-st/sa-iso_code_conduct.adoc[]
+include::sections/annexes_sa-st/sb-document_distribution.adoc[]
+include::sections/annexes_sa-st/sc-strategic_business_plans.adoc[]
+include::sections/annexes_sa-st/sd-matrix_presentation.adoc[]
+include::sections/annexes_sa-st/se-numbering-documents.adoc[]
+include::sections/annexes_sa-st/sf-hosting_meetings.adoc[]
+include::sections/annexes_sa-st/sg-language_texts.adoc[]
+include::sections/annexes_sa-st/sh-procedures_for_standardization.adoc[]
+include::sections/annexes_sa-st/si-procedure_iwa.adoc[]
+include::sections/annexes_sa-st/sj-forms.adoc[]
+include::sections/annexes_sa-st/sk-deadlines.adoc[]
+include::sections/annexes_sa-st/sl-proposals_system_standards.adoc[]
+include::sections/annexes_sa-st/sm-global_relevance.adoc[]
+include::sections/annexes_sa-st/sn-registration_authority.adoc[]
+include::sections/annexes_sa-st/so-principles.adoc[]
+include::sections/annexes_sa-st/sp-policy.adoc[]
+include::sections/annexes_sa-st/sq-selection_criteria.adoc[]
+include::sections/annexes_sa-st/sr-statements.adoc[]
+include::sections/annexes_sa-st/ss-optional_use.adoc[]
+include::sections/annexes_sa-st/st-twinning_policy.adoc[]
+
+
+
+// Reference documents
+include::sections/99-reference_documents.adoc[]
+
+
+
