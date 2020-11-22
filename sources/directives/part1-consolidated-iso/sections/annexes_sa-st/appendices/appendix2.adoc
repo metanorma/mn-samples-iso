@@ -1,0 +1,569 @@
+= High level structure, identical core text, common terms and core definitions
+
+NOTE: In the identical text proposals, XXX = an MSS discipline specific qualifier (e.g. energy, road traffic safety, IT security, food safety, societal security, environment, quality) that needs to be inserted. Blue italicized text is given as advisory notes to standards drafters.
+
+
+== Introduction
+
+.DRAFTING INSTRUCTION
+====
+Specific to the discipline.
+
+This text has been prepared using the "high-level structure" (i.e. clause sequence, identical core text and common terms and core definitions) provided in Annex SL, Appendix 2 of the ISO/IEC Directives, Part 1. This is intended to enhance alignment among ISO and IEC management system standards, and to facilitate their implementation for organizations that need to meet the requirements of two or more such standards.
+
+HLS is highlighted in the text (clauses 1 to 10) by the use of blue font. Black represents the ISO or IEC specific discipline text. Strikeout is used to show agreed deletions within the HLS text. The use of blue text and strikeout is only to facilitate analysis and will not be incorporated after the Draft International Standard stage of development for this document.
+====
+
+
+[[_idTextAnchor563]]
+== Scope
+
+.DRAFTING INSTRUCTION
+====
+Specific to the discipline.
+====
+
+
+[[_idTextAnchor564]]
+== Normative references
+
+.DRAFTING INSTRUCTION
+====
+Clause Title shall be used. Specific to the discipline.
+====
+
+
+[[_idTextAnchor565]]
+== Terms and definitions
+
+.DRAFTING INSTRUCTION 1
+====
+Clause Title shall be used. Terms and definitions may either be within the standard or in a separate document.
+
+Common terms and core definitions shall be stated as well as others that are discipline specific.
+
+The arrangement of terms and definitions should preferably be listed according to the hierarchy of the concepts (i.e. systematic order). Alphabetical order is the least preferred order.
+
+For the purposes of this document, the following terms and definitions apply.
+====
+
+.DRAFTING INSTRUCTION 2
+====
+The following terms and definitions constitute an integral part of the "common text" for management systems standards. Additional terms and definitions may be added as needed. Notes may be added or modified to serve the purpose of each standard.
+====
+
+.DRAFTING INSTRUCTION 3
+====
+Italics type in a definition indicates a cross-reference to another term defined in this clause, and the number reference for the term is given in parentheses.
+====
+
+.DRAFTING INSTRUCTION 4
+====
+Where the text "XXX" appears throughout this clause, the appropriate reference should be inserted depending on the context in which these terms and definitions are being applied. For example: "an XXX objective" could be substituted as "an information security objective".
+====
+
+
+=== organization
+
+person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its term:[objectives,objective]
+
+NOTE: The concept of organization includes, but is not limited to, sole-trader, company, corporation, firm, enterprise, authority, partnership, charity or institution, or part or combination thereof, whether incorporated or not, public or private.
+
+
+=== interested party (preferred term)
+alt:[stakeholder (admitted term)]
+
+person or term:[organization] that can affect, be affected by, or perceive itself to be affected by a decision or activity
+
+
+=== requirement
+
+need or expectation that is stated, generally implied or obligatory
+
+NOTE: "`Generally implied`" means that it is custom or common practice for the organization and interested parties that the need or expectation under consideration is implied.
+
+NOTE: A specified requirement is one that is stated, e.g. in documented information.
+
+
+=== management system
+
+set of interrelated or interacting elements of an term:[organization] to establish term:[policies,policy] and
+term:[objectives,objective] and term:[processes,process] to achieve those objectives
+
+NOTE: A management system can address a single discipline or several disciplines.
+
+NOTE: The system elements include the organization's structure, roles and responsibilities, planning and operation.
+
+NOTE: The scope of a management system can include the whole of the organization, specific and identified functions of the organization, specific and identified sections of the organization, or one or more functions across a group of organizations.
+
+
+=== top management
+
+person or group of people who directs and controls an term:[organization] at the highest level
+
+NOTE: Top management has the power to delegate authority and provide resources within the organization.
+
+NOTE: If the scope of the term:[management system] covers only part of an organization, then top management refers to those who direct and control that part of the organization.
+
+
+=== effectiveness
+
+extent to which planned activities are realized and planned results achieved
+  
+
+=== policy
+
+intentions and direction of an term:[organization], as formally expressed by its term:[top management]
+  
+
+=== objective
+
+result to be achieved
+
+NOTE: An objective can be strategic, tactical, or operational.
+
+NOTE: Objectives can relate to different disciplines (such as financial, health and safety, and environmental goals) and can apply at different levels (such as strategic, organization-wide, project, product and term:[process]).
+
+NOTE: An objective can be expressed in other ways, e.g. as an intended outcome, a purpose, an operational criterion, as an XXX objective, or by the use of other words with similar meaning (e.g. aim, goal, or target).
+
+NOTE: In the context of XXX management systems, XXX objectives are set by the organization, consistent with the XXX policy, to achieve specific results.
+
+
+=== risk
+
+effect of uncertainty
+
+NOTE: An effect is a deviation from the expected -- positive or negative.
+
+NOTE: Uncertainty is the state, even partial, of deficiency of information related to, understanding or knowledge of, an event, its consequence, or likelihood.
+
+NOTE: Risk is often characterized by reference to potential "events" (as defined in ISO Guide 73) and "consequences" (as defined in ISO Guide 73), or a combination of these.
+
+NOTE: Risk is often expressed in terms of a combination of the consequences of an event (including changes in circumstances) and the associated "likelihood" (as defined in ISO Guide 73) of occurrence.
+
+
+=== competence
+
+ability to apply knowledge and skills to achieve intended results
+  
+
+=== documented information
+
+information required to be controlled and maintained by an term:[organization] and the medium on which it is contained
+
+NOTE: Documented information can be in any format and media, and from any source.
+
+[NOTE]
+====
+Documented information can refer to:
+
+* the term:[management system], including related term:[processes,process];
+* information created in order for the organization to operate (documentation);
+* evidence of results achieved (records).
+====
+
+
+=== process
+
+set of interrelated or interacting activities which transforms inputs into outputs
+  
+
+=== performance
+
+measurable result
+
+NOTE: Performance can relate either to quantitative or qualitative findings.
+
+NOTE: Performance can relate to managing activities, term:[processes,process], products (including services), systems or term:[organizations,organization].
+
+
+=== outsource (verb)
+
+make an arrangement where an external term:[organization] performs part of an organization's function or term:[process]
+
+NOTE: An external organization is outside the scope of the term:[management system], although the outsourced function or process is within the scope.
+
+
+=== monitoring
+
+determining the status of a system, a term:[process] or an activity
+
+NOTE: To determine the status, there can be a need to check, supervise or critically observe.
+
+
+=== measurement
+
+term:[process] to determine a value
+  
+
+=== audit
+
+systematic, independent and documented term:[process] for obtaining audit evidence and evaluating it objectively to determine the extent to which the audit criteria are fulfilled
+
+NOTE: An audit can be an internal audit (first party) or an external audit (second party or third party), and it can be a combined audit (combining two or more disciplines).
+
+NOTE: An internal audit is conducted by the organization itself, or by an external party on its behalf.
+
+NOTE: "Audit evidence" and "audit criteria" are defined in ISO 19011.
+
+
+=== conformity
+
+fulfilment of a term:[requirement]
+  
+
+=== nonconformity
+
+non-fulfilment of a term:[requirement]
+
+
+=== corrective action
+
+action to eliminate the cause(s) of a term:[nonconformity] and to prevent recurrence
+
+
+=== continual improvement
+
+recurring activity to enhance term:[performance]
+
+
+== Context of the organization
+
+[[scls_4-1]]
+=== Understanding the organization and its context
+
+The organization shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome(s) of its XXX management system.
+
+
+[[scls_4-2]]
+=== Understanding the needs and expectations of interested parties
+
+The organization shall determine:
+
+* the interested parties that are relevant to the XXX management system;
+* the relevant requirements of these interested parties.
+
+
+[[_idTextAnchor569]]
+=== Determining the scope of the XXX management system
+
+The organization shall determine the boundaries and applicability of the XXX management system to establish its scope.
+
+When determining this scope, the organization shall consider:
+
+* the external and internal issues referred to in <<scls_4-1>>;
+* the requirements referred to in <<scls_4-2>>.
+
+The scope shall be available as documented information.
+
+
+[[_idTextAnchor570]]
+=== XXX management system
+
+The organization shall establish, implement, maintain and continually improve an XXX management system, including the processes needed and their interactions, in accordance with the requirements of this document.
+
+
+[[_idTextAnchor571]]
+== Leadership
+
+[[_idTextAnchor572]]
+=== Leadership and commitment
+
+Top management shall demonstrate leadership and commitment with respect to the XXX management system by:
+
+* ensuring that the XXX policy and XXX objectives are established and are compatible with the strategic direction of the organization;
+* ensuring the integration of the XXX management system requirements into the organization's business processes;
+* ensuring that the resources needed for the XXX management system are available;
+* communicating the importance of effective XXX management and of conforming to the XXX management system requirements;
+* ensuring that the XXX management system achieves its intended outcome(s);
+* directing and supporting persons to contribute to the effectiveness of the XXX management system;
+* promoting continual improvement;
+* supporting other relevant managerial roles to demonstrate their leadership as it applies to their areas of responsibility.
+
+NOTE: Reference to "business" in this document can be interpreted broadly to mean those activities that are core to the purposes of the organization's existence.
+
+
+[[_idTextAnchor573]]
+=== Policy
+
+Top management shall establish a XXX policy that:
+
+. is appropriate to the purpose of the organization;
+. provides a framework for setting XXX objectives;
+. includes a commitment to satisfy applicable requirements;
+. includes a commitment to continual improvement of the XXX management system.
+
+The XXX policy shall:
+
+* be available as documented information;
+* be communicated within the organization;
+* be available to interested parties, as appropriate.
+
+
+[[_idTextAnchor574]]
+=== Roles, responsibilities and authorities
+
+Top management shall ensure that the responsibilities and authorities for relevant roles are assigned and communicated within the organization.
+
+Top management shall assign the responsibility and authority for:
+
+. ensuring that the XXX management system conforms to the requirements of this document;
+. reporting on the performance of the XXX management system to top management.
+
+
+[[_idTextAnchor575]]
+== Planning
+
+[[_idTextAnchor576]]
+=== Actions to address risks and opportunities
+
+When planning for the XXX management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to:
+
+* give assurance that the XXX management system can achieve its intended outcome(s);
+* prevent, or reduce, undesired effects;
+* achieve continual improvement.
+
+The organization shall plan:
+
+. actions to address these risks and opportunities;
+. how to:
+** integrate and implement the actions into its XXX management system processes;\
+** evaluate the effectiveness of these actions.
+
+
+[[_idTextAnchor577]]
+=== XXX objectives and planning to achieve them
+
+The organization shall establish XXX objectives at relevant functions and levels.
+
+The XXX objectives shall:
+
+. be consistent with the XXX policy;
+. be measurable (if practicable);
+. take into account applicable requirements;
+. be monitored;
+. be communicated;
+. be updated as appropriate.
+
+The organization shall retain documented information on the XXX objectives.
+
+When planning how to achieve its XXX objectives, the organization shall determine:
+
+* what will be done;
+* what resources will be required;
+* who will be responsible;
+* when it will be completed;
+* how the results will be evaluated.
+
+
+[[_idTextAnchor578]]
+== Support
+
+[[_idTextAnchor579]]
+=== Resources
+
+The organization shall determine and provide the resources needed for the establishment, implementation, maintenance and continual improvement of the XXX management system.
+
+[[_idTextAnchor580]]
+=== Competence
+
+The organization shall:
+
+* determine the necessary competence of person(s) doing work under its control that affects its XXX performance;
+* ensure that these persons are competent on the basis of appropriate education, training, or experience;
+* where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken;
+* retain appropriate documented information as evidence of competence.
+
+NOTE: Applicable actions can include, for example, the provision of training to, the mentoring of, or the re-assignment of currently employed persons; or the hiring or contracting of competent persons.
+
+
+[[_idTextAnchor581]]
+=== Awareness
+
+Persons doing work under the organization's control shall be aware of:
+
+* the XXX policy;
+* their contribution to the effectiveness of the XXX management system, including the benefits of improved XXX performance;
+* the implications of not conforming with the XXX management system requirements.
+
+
+[[_idTextAnchor582]]
+=== Communication
+
+The organization shall determine the internal and external communications relevant to the XXX management system, including:
+
+* on what it will communicate;
+* when to communicate;
+* with whom to communicate;
+* how to communicate.
+
+
+[[_idTextAnchor583]]
+=== Documented information
+
+[[_idTextAnchor584]]
+==== General
+
+The organization's XXX management system shall include:
+
+. documented information required by this document;
+. documented information determined by the organization as being necessary for the effectiveness of the XXX management system.
+
+[NOTE]
+====
+The extent of documented information for a XXX management system can differ from one organization to another due to:
+
+* the size of organization and its type of activities, processes, products and services;
+* the complexity of processes and their interactions;
+* the competence of persons.
+====
+
+
+[[_idTextAnchor585]]
+==== Creating and updating
+
+When creating and updating documented information the organization shall ensure appropriate:
+
+* identification and description (e.g. a title, date, author, or reference number);
+* format (e.g. language, software version, graphics) and media (e.g. paper, electronic);
+* review and approval for suitability and adequacy.
+
+
+[[_idTextAnchor586]]
+==== Control of documented information
+
+Documented information required by the XXX management system and by this document shall be controlled to ensure:
+
+. it is available and suitable for use, where and when it is needed;
+. it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity).
+
+For the control of documented information, the organization shall address the following activities, as applicable:
+
+* distribution, access, retrieval and use;
+* storage and preservation, including preservation of legibility;
+* control of changes (e.g. version control);
+* retention and disposition.
+
+Documented information of external origin determined by the organization to be necessary for the planning and operation of the XXX management system shall be identified, as appropriate, and controlled.
+
+NOTE: Access can imply a decision regarding the permission to view the documented information only, or the permission and authority to view and change the documented information.
+
+
+[[_idTextAnchor587]]
+== Operation
+
+[[_idTextAnchor588]]
+=== Operational planning and control
+
+.DRAFTING INSTRUCTION
+====
+This subclause heading will be deleted if no additional subclauses are added to Clause 8.
+====
+
+The organization shall plan, implement and control the processes needed to meet requirements, and to implement the actions determined in 6.1, by:
+
+* establishing criteria for the processes;
+* implementing control of the processes in accordance with the criteria;
+* keeping documented information to the extent necessary to have confidence that the processes have been carried out as planned.
+
+The organization shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.
+
+The organization shall ensure that outsourced processes are controlled.
+
+
+[[_idTextAnchor589]]
+== Performance evaluation
+
+[[_idTextAnchor590]]
+=== Monitoring, measurement, analysis and evaluation
+
+The organization shall determine:
+
+* what needs to be monitored and measured;
+* the methods for monitoring, measurement, analysis and evaluation, as applicable, to ensure valid results;
+* when the monitoring and measuring shall be performed;
+* when the results from monitoring and measurement shall be analysed and evaluated.
+
+The organization shall retain appropriate documented information as evidence of the results.
+
+The organization shall evaluate the XXX performance and the effectiveness of the XXX management system.
+
+
+[[_idTextAnchor591]]
+=== Internal audit
+
+[[_idTextAnchor592]]
+===== {blank}
+
+The organization shall conduct internal audits at planned intervals to provide information on whether the XXX management system:
+
+. conforms to:
+** the organization's own requirements for its XXX management system;
+** the requirements of this document;
+. is effectively implemented and maintained.
+
+
+[[_idTextAnchor593]]
+===== {blank}
+
+The organization shall:
+
+. plan, establish, implement and maintain an audit programme(s) including the frequency, methods, responsibilities, planning requirements and reporting, which shall take into consideration the importance of the processes concerned and the results of previous audits;
+. define the audit criteria and scope for each audit;
+. select auditors and conduct audits to ensure objectivity and the impartiality of the audit process;
+. ensure that the results of the audits are reported to relevant managers;
+. retain documented information as evidence of the implementation of the audit programme(s) and the audit results.
+
+
+[[_idTextAnchor594]]
+=== Management review
+
+Top management shall review the organization's XXX management system, at planned intervals, to ensure its continuing suitability, adequacy and effectiveness.
+
+The management review shall include consideration of:
+
+. the status of actions from previous management reviews;
+. changes in external and internal issues that are relevant to the XXX management system;
+. information on the XXX performance, including trends in:
+** nonconformities and corrective actions;
+** monitoring and measurement results;
+** audit results;
+. opportunities for continual improvement.
+
+The outputs of the management review shall include decisions related to continual improvement opportunities and any need for changes to the XXX management system.
+
+The organization shall retain documented information as evidence of the results of management reviews.
+
+
+[[_idTextAnchor595]]
+== Improvement
+
+[[_idTextAnchor596]]
+=== Nonconformity and corrective action
+
+When a nonconformity occurs, the organization shall:
+
+. react to the nonconformity and, as applicable:
+** take action to control and correct it;
+** deal with the consequences;
+. evaluate the need for action to eliminate the cause(s) of the nonconformity, in order that it does not recur or occur elsewhere, by:
+** reviewing the nonconformity;
+** determining the causes of the nonconformity;
+** determining if similar nonconformities exist, or can potentially occur;
+. implement any action needed;
+. review the effectiveness of any corrective action taken;
+. make changes to the XXX management system, if necessary.
+
+Corrective actions shall be appropriate to the effects of the nonconformities encountered.
+
+The organization shall retain documented information as evidence of:
+
+* the nature of the nonconformities and any subsequent actions taken;
+* the results of any corrective action.
+
+
+[[_idTextAnchor597]]
+=== Continual improvement
+
+The organization shall continually improve the suitability, adequacy and effectiveness of the XXX management system.
+

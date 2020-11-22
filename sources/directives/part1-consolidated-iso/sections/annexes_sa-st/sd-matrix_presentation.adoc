@@ -1,0 +1,40 @@
+
+[[_idTextAnchor466]]
+[appendix]
+== Matrix presentation of project stages
+
+[[_idTextAnchor467]]
+=== Introduction to the Harmonized Stage Code
+
+The standardization process has a number of definite steps or stages which can be used both to describe the process and to indicate where in the process any one item has reached. In general terms the methods used to develop and publish standards via the formal standardization process operated by international, regional and national standards bodies are very similar no matter which body is overseeing the process. Thus, at a high level, it is possible to have a common view of the standardization process and with it a common set of stages. There are differences between the processes of individual bodies, however, and this has led to the development of different stage systems for each body.
+
+This Harmonized Stage Code (HSC) system is used in ISO's databases for tracking standards development projects. Its purpose is to provide a common framework for the transfer of core data. The system allows tracking of the development of a given project in the same way in databases being used at international, regional and national levels and the matrix is so constructed that it can easily be adapted to new requirements.
+
+
+[[_idTextAnchor468]]
+=== Design of the stage code matrix
+
+A series of "stages" representing procedural sequences common to different organizations has been established. These represent the main stages of standards development.
+
+A series of "sub-stages" has been established within each stage, using a consistent logical system of concepts. The terms "stage" and "sub-stage" are hence used to designate the respective axes of the resulting matrix.
+
+Principal stages and sub-stages are each coded by a two-digit number from 00 to 90, in increments of 10. Individual cells within the generic matrix are coded by a four-digit number made up of its stage and sub-stage coordinates. For visual presentation (although not necessarily for the purposes of database operations), the pair of coordinates are separated by a point (e.g. 10.20 for stage 10, sub-stage 20).
+
+All unused stage codes are reserved for future use, to allow for interpolation of additional phases that might be identified, e.g. stage codes 10, 30, 40, 50 and 80.
+
+
+[[_idTextAnchor469]]
+=== Basic guidelines for using the system
+
+* Other information concerning, for example, document source or document type, should be recorded in separate database fields and should not be reflected in stage codes.
+
+* There is no sub-code to indicate that a project is dormant at any particular stage. It is recommended to use another database field to address this issue.
+
+* The HSC system allows for the cyclical nature of the standards process and for the repeating of either the current phase or an earlier phase. Events that may be repeated in the life of a project are recordable by repetition of the same stage codes.
+
+* Freezing a project at any point is possible by using the code the project has reached. Projects that have been suspended should have this information recorded in a separate database field.
+
+* The HSC system is not concerned with recording either target or actual dates for achieving stages.
+
+[%unnumbered]
+image::sd_fig.jpg[]

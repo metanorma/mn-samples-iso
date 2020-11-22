@@ -1,0 +1,366 @@
+
+[[_idTextAnchor535]]
+[appendix]
+== Proposals for management system standards
+
+[[_idTextAnchor536]]
+=== General
+
+Whenever a proposal is made to prepare a new management system standard (MSS), including sector-specific MSS, a justification study (JS) shall be carried out in accordance with Appendix 1 to this annex.
+
+NOTE: No JS is needed for the revision of an existing MSS whose development has already been approved and provided the scope is confirmed (unless it was not provided during its first development).
+
+To the extent possible, the proposer shall endeavour to identify the full range of deliverables which will constitute the new or revised MSS family, and a JS shall be prepared for each of the deliverables.
+
+
+[[_idTextAnchor537]]
+=== Terms and definitions
+
+For the purposes of this annex, the following terms and definitions apply.
+
+
+==== management system
+
+See definition contained in Appendix 2 (clause 3.4) of this annex.
+  
+
+==== management system standard
+alt:[MSS]
+
+standard for term:[management systems,management system]
+
+NOTE: For the purposes of this document, this definition also applies to other ISO deliverables (e.g. TS, PAS).
+
+
+==== generic MSS
+
+MSS designed to be widely applicable across economic sectors, various types and sizes of organizations and diverse geographical, cultural and social conditions
+  
+
+==== sector-specific MSS
+
+MSS that provides additional requirements or guidance for the application of a generic MSS to a specific economic or business sector
+  
+
+==== Type A MSS
+
+MSS providing requirements
+
+====
+* Management system requirements standards (specifications).
+* Management system sector-specific requirements standards.
+====
+
+
+==== Type B MSS
+
+MSS providing guidelines
+
+====
+* Guidance on the use of management system requirements standards.
+* Guidance on the establishment of a management system.
+* Guidance on the improvement/enhancement of a management system.
+====
+
+
+====  high level structure
+alt:[HLS]
+outcome of the work of the ISO/TMB/JTCG "Joint technical Coordination Group on MSS" which refers to high level structure (HLS), identical subclause titles, identical text and common terms and core definitions. See Appendix 2 to this annex.
+
+
+[[_idTextAnchor538]]
+=== Obligation to submit a JS
+
+All MSS [including sector-specific MSS (SL.2.4), see Annex SP] proposals and their JS shall be identified by the relevant TC/SC/PC leadership and the JS shall be sent to the TMB (or its MSS task force) for evaluation and approval before the NP ballot takes place. It is the responsibility of the relevant TC/SC/PC secretariat to identify all MSS proposals, without exception, so that there will be no MSS proposals which fail (with knowledge or without knowledge) to carry out the JS or which fail to be sent to the ISO/TMB for evaluation.
+
+No JS is required for a Type B MSS providing guidance on a specific Type A MSS for which a JS has already been submitted and approved.
+
+[example]
+ISO/IEC 27003:2010 (_Information technology -- Security techniques -- Information security management system implementation guidance_) does not need to have JS submitted as ISO/IEC 27001:2013 (_Information technology -- Security techniques -- Information security management systems -- Requirements_) has already had a JS submitted and approved.
+
+
+[[_idTextAnchor539]]
+=== Cases where no JS have been submitted
+
+MSS proposals which have not been submitted for TMB evaluation before the NP ballot will be sent to the TMB for evaluation and no new ballot should take place before the TMB decision (project on hold). It is considered good practice that the TC/SC/PC members endorse the JS prior it being sent to the TMB.
+
+NOTE: Already published MSS which did not have a JS submitted will be treated as new MSS at the time of revision, i.e. a JS is to be presented and approved before any work can begin.
+
+
+[[_idTextAnchor540]]
+=== Applicability of this annex
+
+The above procedures apply to all ISO deliverables, including IWAs.
+
+
+[[_idTextAnchor541]]
+=== General principles
+
+All projects for new MSS (or for MSS which are already published but for which no JS was completed) shall undergo a JS (see <<_idTextAnchor536>> and Note to <<_idTextAnchor538>>). The following general principles provide guidance to assess the market relevance of proposed MSS and for the preparation of a JS. The justification criteria questions in Appendix 1 to this annex are based on these principles. The answers to the questions will form part of the JS. An MSS should be initiated, developed and maintained only when all of the following principles are observed.
+
+. *Market relevance* -- Any MSS should meet the needs of, and add value for, the primary users and other affected parties.
+
+. *Compatibility* -- Compatibility between various MSS and within an MSS family should be maintained.
+
+. *Topic coverage* -- A generic MSS (SL.5.3) should have sufficient application coverage to eliminate or minimize the need for sector-specific variances.
+
+. *Flexibility* -- An MSS should be applicable to organizations in all relevant sectors and cultures and of every size. An MSS should not prevent organizations from competitively adding to or differentiating from others, or enhancing their management systems beyond the standard.
+
+. *Free trade* -- An MSS should permit the free trade of goods and services in line with the principles included in the WTO Agreement on Technical Barriers to Trade.
+
+. *Applicability of conformity assessment* -- The market need for first-, second- or third-party conformity assessment, or any combination thereof, should be assessed. The resulting MSS should clearly address the suitability of use for conformity assessment in its scope. An MSS should facilitate joint audits.
+
+. *Exclusions* --  An MSS should not include directly related product (including services) specifications, test methods, performance levels (i.e. setting of limits) or other forms of standardization for products produced by the implementing organization.
+
+. *Ease of use* -- It should be ensured that the user can easily implement one or more MSS. An MSS should be easily understood, unambiguous, free from cultural bias, easily translatable, and applicable to businesses in general.
+
+
+[[_idTextAnchor542]]
+=== Justification study process and criteria
+
+[[_idTextAnchor543]]
+==== General
+
+This clause describes the justification study (JS) process for justifying and evaluating the market relevance of proposals for an MSS. Appendix 1 to this annex provides a set of questions to be addressed in the justification study.
+
+
+[[_idTextAnchor544]]
+==== Justification study process
+
+The JS process applies to any MSS project and consists of the following:
+
+. the development of the JS by (or on behalf of) the proposer of an MSS project;
+. an approval of the JS by the TMB (or in ISO, the ISO/TMB MSS task force).
+
+The JS process is followed by the normal ISO balloting procedure for new work item approval as appropriate.
+
+[[_idTextAnchor545]]
+==== Justification study criteria
+
+Based on <<_idTextAnchor326>> and the general principles stated above, a set of questions (see Appendix 1 to this annex) shall be used as criteria for justifying and assessing a proposed MSS project and shall be answered by the proposer. This list of questions is not exhaustive and any additional information that is relevant to the case should be provided. The JS should demonstrate that all questions have been considered. If it is decided that they are not relevant or appropriate to a particular situation, then the reasons for this decision should be clearly stated. The unique aspect of a particular MSS may require consideration of additional questions in order to assess objectively its market relevance.
+
+[[_idTextAnchor546]]
+=== Guidance on the development process and structure of an MSS
+
+[[_idTextAnchor547]]
+==== General
+
+The development of an MSS will have effects in relation to
+
+* the far-reaching impact of these standards on business practice,
+* the importance of worldwide support for the standards,
+* the practical possibility for involvement by many, if not all, National Bodies, and
+* the market need for compatible and aligned MSS.
+
+This clause provides guidance in addition to the procedures laid down in other clauses of the ISO/IEC Directives, in order to take these effects into account.
+
+All MSS (whether they are Type A or Type B MSS, generic or sector-specific) shall, in principle, use consistent structure, common text and terminology so that they are easy to use and compatible with each other. The guidance and structure given in Appendix 2 to this annex shall, in principle, also be followed.
+
+A Type B MSS which provides guidance on another MSS of the same MSS family should follow the same structure (i.e. clause numbering). Where MSS providing guidance (Type B MSS) are involved, it is important that their functions be clearly defined together with their relationship with the MSS providing requirements (Type A MSS), for example:
+
+* guidance on the use of the requirements standard;
+* guidance on the establishment/implementation of the management system;
+* guidance on improvement/enhancement of the management system.
+
+Where the proposed MSS is sector-specific:
+
+* it should be compatible and aligned with the generic MSS;
+* rules and principles specified in Annex SP shall be followed;
+* the relevant committee responsible for the generic MSS may have additional requirements to be met or procedures to be followed (see Annex SP);
+* other committees may need to be consulted, as well as ISO CASCO on conformity assessment issues.
+
+In the case of sector specific documents, their function and relationship with the generic MSS should be clearly defined (e.g. additional sector-specific requirements; elucidation; or both as appropriate).
+
+Sector-specific documents should always show clearly (e.g. by using different typographical styles) the kind of sector-specific information being provided.
+
+NOTE: Where the identical text or any of the requirements cannot be applied in a specific MSS, due to special circumstances, this should be reported to the TMB through the TMB Secretary at tmb@iso.org (see <<_idTextAnchor558>>).
+
+[[_idTextAnchor548]]
+==== MSS development process
+
+[[_idTextAnchor549]]
+===== General
+
+In addition to the JS, the development of an MSS should follow the same requirements as other ISO deliverables (see <<_idTextAnchor109>>).
+
+
+[[_idTextAnchor550]]
+===== Design specification
+
+To ensure that the intention of the standard, as demonstrated by the justification study, will be maintained, a design specification may be developed before a working draft is prepared.
+
+The responsible committee will decide whether the design specification is needed and in case it is felt necessary, it will decide upon its format and content that is appropriate for the MSS and should set up the necessary organization to carry out the task.
+
+The design specification should typically address the following.
+
+User needs:: The identification of the users of the standard and their associated needs, together with the costs and benefits for these users.
+
+Scope:: The scope and purpose of the standard, the title and the field of application.
+
+Compatibility:: How compatibility within this and with other MSS families will be achieved, including identification of the common elements with similar standards, and how these will be included in the recommended structure (see Appendix 2 to this annex).
+
+Consistency:: Consistency with other documents (to be) developed within the MSS family.
+
+
+NOTE: Most, if not all of the information on user needs and scope will be available from the justification study.
+
+
+The design specification should ensure that
+
+. the outputs of the justification study are translated correctly into requirements for the MSS,
+. the issues of compatibility and alignment with other MSS are identified and addressed,
+. a basis for verification of the final MSS exists at appropriate stages during the development process,
+. the approval of the design specification provides a basis for ownership throughout the project by the members of the TC/SC(s),
+. account is taken of comments received through the NP ballot phase, and
+. any constraints are taken into account.
+
+The Committee developing the MSS should monitor the development of the MSS against the design specification in order to ensure that no deviations happen in the course of the project.
+
+[[_idTextAnchor551]]
+===== Producing the deliverables
+
+[[_idTextAnchor552]]
+====== Monitoring output
+
+In the drafting process, the output should be monitored for compatibility and ease of use with other MSS, by covering issues such as
+
+* the high level structure (HLS), identical subclause titles, identical text and common terms and core definitions,
+* the need for clarity (both in language and presentation), and
+* avoiding overlap and contradiction.
+
+
+[[_idTextAnchor553]]
+===== Transparency of the MSS development process
+
+MSS have a broader scope than most other types of standard. They cover a large field of human endeavour and have an impact on a wide range of user interests.
+
+Committees preparing MSS should accordingly adopt a highly transparent approach to the development of the standards, ensuring that
+
+* possibilities for participation in the process of developing standards are clearly identified, and
+* the development processes being used are understood by all parties.
+
+Committees should provide information on progress throughout the life cycle of the project, including
+
+* the status of the project to date (including items under discussion),
+* contact points for further information,
+* communiqués and press releases on plenary meetings, and
+* regular listings of frequently asked questions and answers.
+
+In doing this, account needs to be taken of the distribution facilities available in the participating countries.
+
+Where it may be expected that users of a Type A MSS are likely to demonstrate conformity to it, the MSS shall be so written that conformity can be assessed by a manufacturer or supplier (first party, or self-declaration), a user or purchaser (second party) or an independent body (third party, also known as certification or registration).
+
+Maximum use should be made of the resources of the ISO Central Secretariat to facilitate the transparency of the project and the committee should, in addition, consider the establishment of a dedicated open-access website.
+
+Committees should involve the national member bodies to build up a national awareness of the MSS project, providing drafts as appropriate for different interested and affected parties, including accreditation bodies, certification bodies, enterprises and the user community, together with additional specific information as needed.
+
+The committee should ensure that technical information on the content of the MSS under development is readily available to participating members, especially those in developing countries.
+
+
+[[_idTextAnchor554]]
+===== Process for interpretation of a standard
+
+The committee may establish a process to handle interpretation questions related to its standards from the users, and may make the resulting interpretations available to others in an expedient manner. Such a mechanism can effectively address possible misconceptions at an early stage and identify issues that may require improved wording of the standard during the next revision cycle. Such processes are considered, in ISO, to be "committee specific procedures" [see Foreword <<item_foreword-f>>].
+
+
+[[_idTextAnchor555]]
+=== High level structure, identical core text and common terms and core definitions for use in management systems standards
+
+[[_idTextAnchor556]]
+==== Introduction
+
+The aim of this document is to enhance the consistency and alignment of MSS by providing a unifying and agreed upon high level structure, identical core text and common terms and core definitions. The aim is that all Type A MSS (and B where appropriate) are aligned and the compatibility of these standards is enhanced. It is envisaged that individual MSS will add additional "discipline-specific" requirements as required.
+
+NOTE: In <<_idTextAnchor556>> and <<_idTextAnchor559>>, "discipline-specific" is used to indicate specific subject(s) to which a management system standard refers, e.g. energy, quality, records, environment etc.
+
+The intended audience for this document is Technical Committees (TC), Subcommittees (SC) and Project Committees (PC) and others that are involved in the development of MSS.
+
+This common approach to new MSS and future revisions of existing standards will increase the value of such standards to users. It will be particularly useful for those organizations that choose to operate a single (sometimes called "integrated") management system that can meet the requirements of two or more MSS simultaneously.
+
+Appendix 2 to this annex sets out the high level structure, identical core text and common terms and core definitions that form the nucleus of future and revised Type A MSS and Type B MSS when possible.
+
+Appendix 3 to this annex sets out guidance to the use of Appendix 2 to this annex.
+
+
+[[_idTextAnchor557]]
+==== Use
+
+MSS include the high level structure and identical core text as presented in Appendix 2 to this annex. The common terms and core definitions are either included or normatively referenced an international standard where they are included.
+
+NOTE: The high level structure includes the main clauses (1 to 10) and their titles, in a fixed sequence. The identical core text includes numbered subclauses (and their titles) as well as text within the subclauses.
+
+
+[[_idTextAnchor558]]
+==== Non applicability
+
+If due to exceptional circumstances the high level structure or any of the identical core text, common terms and core definitions cannot be applied in the management system standard, then the TC/PC/SC needs to explain its rationale for review by:
+
+. providing an initial deviation report to ISO/CS with the DIS submission;
+. providing a final deviation report to TMB (through the ISO/TMB Secretary at tmb@iso.org) upon submission of the final text of the standard for publication.
+
+The TC/PC/SC shall use the ISO commenting template to provide its deviation reports.
+
+NOTE: The final deviation report can be an updated version of the initial deviation report.
+
+NOTE: The TC/PC/SC strives to avoid any non-applicability of the high level structure or any of the identical core text, common terms and core definitions.
+
+[[_idTextAnchor559]]
+==== Using Appendix 2 to this annex
+
+Discipline-specific text additions to Appendix 2 to this annex are managed as follows.
+
+. Discipline-specific additions are made by the individual TC, PC, SC or other group that is developing the specific management system standard.
+. Discipline-specific text does not affect harmonization or contradict or undermine the intent of the high level structure, identical core text, common terms and core definitions.
+. Insert additional subclauses, or sub-subclauses (etc.) either ahead of an identical text subclause (or sub-subclause etc.), or after such a subclause (etc.) and renumbered accordingly.
++
+--
+NOTE: Hanging paragraphs are not permitted (see ISO/IEC Directives, Part 2).
+
+NOTE: Attention is drawn to the need to check cross referencing.
+--
+
+. Add or insert discipline-specific text within Appendix 2 to this annex. Examples of additions include:
+.. new bullet points;
+.. discipline-specific explanatory text (e.g. Notes or Examples), in order to clarify requirements;
+.. discipline-specific new paragraphs to subclauses (etc.) within the identical text;
+.. adding text that enhances the existing requirements in Appendix 2 to this annex.
+
+. Avoid repeating requirements between identical core text and discipline-specific text by adding text to the identical core text, taking account of point 2 above.
+
+. Distinguish between discipline-specific text and identical core text from the start of the drafting process. This aids identification of the different types of text during the development and balloting stages.
++
+--
+NOTE: Distinguishing options include by colour, font, font size, italics, or by being boxed separately, etc.
+
+NOTE: Identification of distinguishing text is not necessarily carried into the published version.
+--
+
+. Understanding of the concept of "risk" may be more specific than that given in the definition under 3.9 of Appendix 2 to this annex. In this case, a discipline-specific definition may be needed. The discipline-specific terms and definitions are differentiated from the core definitions, e.g. (XXX) risk.
++
+NOTE: The above can also apply to a number of other definitions.
+
+. Common terms and core definitions will be integrated in the terms and definitions in the discipline-specific management system standard or appropriate terminological reference with the preferred concept system.
+
+
+[[_idTextAnchor560]]
+==== Implementation
+
+Follow the sequence, high level structure, identical core text, common terms and core definitions for any new management system standard and for any revisions to existing management system standards.
+
+
+[[_idTextAnchor561]]
+==== Guidance
+
+Find supporting guidance in Appendix 3 to this annex.
+
+
+// Appendices
+
+[%appendix]
+include::appendices/appendix1.adoc[leveloffset=+2]
+
+[%appendix]
+include::appendices/appendix2.adoc[leveloffset=+2]
+
+[%appendix]
+include::appendices/appendix3.adoc[leveloffset=+2]
