@@ -16,9 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
-      - name: Setup fonts
-        run: |
-          metanorma setup --agree-to-terms
       - uses: actions/setup-go@v2-beta
         with:
           go-version: '^1.13.1'
