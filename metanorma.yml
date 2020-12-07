@@ -12,6 +12,7 @@ metanorma:
       - sources/amendment/rice-amd.np.adoc
       - sources/amendment/rice-amd.prf.adoc
       - sources/amendment/rice-amd.wd.adoc
+      - sources/amendment/rice-amd-fr.adoc
       - sources/international-standard/rice-en.awi.adoc
       - sources/international-standard/rice-en.cd.adoc
       - sources/international-standard/rice-en.cd.sections.adoc
@@ -22,6 +23,7 @@ metanorma:
       - sources/international-standard/rice-en.prf.adoc
       - sources/international-standard/rice-en.wd.adoc
       - sources/international-standard/rice-zh.adoc
+      - sources/international-standard/rice-fr.adoc
 
 relaton:
   collection:
