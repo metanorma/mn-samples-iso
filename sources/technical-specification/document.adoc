@@ -181,13 +181,19 @@ There may be more than one ICS for a document; if so, they should be comma-delim
 
 
 include::sections/00-foreword.adoc[]
+
 include::sections/00-intro.adoc[]
+
 include::sections/01-scope.adoc[]
+
 include::sections/02-norm-refs.adoc[]
+
 include::sections/03-termsdef.adoc[]
+
 include::sections/04-content.adoc[]
 
 include::sections/a1-annex.adoc[]
+
 include::sections/a2-annex.adoc[]
 
 include::sections/zz-references.adoc[]
