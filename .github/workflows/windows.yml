@@ -4,13 +4,15 @@ name: windows
 
 on:
   push:
-    branches: [ master, main  ]
+    branches: [ master, main ]
   pull_request:
     paths-ignore:
+      - .gitlab-ci.yml
       - .github/workflows/test.yml
       - .github/workflows/macos.yml
       - .github/workflows/ubuntu.yml
       - .github/workflows/docker.yml
+      - .github/workflows/docker-pres_xml.yml
       - Makefile
 
 jobs:
@@ -23,7 +25,7 @@ jobs:
           token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
 
-      - uses: actions/cache@v1
+      - uses: actions/cache@v2
         with:
           path: ~/.cache/xml2rfc
           key: xml2rfc
