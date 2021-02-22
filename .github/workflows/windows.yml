@@ -13,7 +13,6 @@ on:
       - .github/workflows/ubuntu.yml
       - .github/workflows/docker.yml
       - .github/workflows/docker-pres_xml.yml
-      - Makefile
 
 jobs:
   test-windows:
@@ -31,13 +30,6 @@ jobs:
           key: xml2rfc
           restore-key: xml2rfc
 
-      - run: cinst --no-progress -y metanorma yq
+      - run: cinst --no-progress -y metanorma
 
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-
-      - run: gem install relaton-cli
-
-      - run: "%ChocolateyInstall%\\bin\\make.exe -f Makefile.win clean all SHELL=cmd SKIP_BUNDLE=true"
-        shell: cmd
+      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms

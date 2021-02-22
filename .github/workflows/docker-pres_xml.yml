@@ -11,28 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     container: docker://metanorma/mn:pres_xml
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
         with:
           token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
-      - uses: actions/setup-go@v2-beta
-        with:
-          go-version: '^1.13.1'
-      - name: Install yq
-        run: |
-          GO111MODULE=on go get github.com/mikefarah/yq/v3
-          ln -s $GOPATH/bin/yq /usr/local/bin/yq
-      - name: Instal gems from local Gemfile
-        run: |
-          curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
-      - name: Build document in the Metanorma container
-        env:
-          LC_ALL: C.UTF-8
-          LANG: C.UTF-8
-          LANGUAGE: C.UTF-8
-        run: |
-          make clean all publish
+
+      - run: curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
+
+      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms
+
       - uses: actions/upload-artifact@master
         if: github.ref == 'refs/heads/master'
         with:

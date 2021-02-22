@@ -13,7 +13,6 @@ on:
       - .github/workflows/ubuntu.yml
       - .github/workflows/windows.yml
       - .github/workflows/docker-pres_xml.yml
-      - Makefile.win
 
 jobs:
   test-macos:
@@ -34,15 +33,4 @@ jobs:
 
       - run: brew install yq metanorma/metanorma/metanorma
 
-      - name: Use Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-      - name: Install relaton
-        run: |
-          gem install relaton-cli
-      - name: Metanorma compile
-        env:
-          JAVA_OPTS: "java.awt.headless=true"
-        run: |
-          make clean all SKIP_BUNDLE=true
+      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms

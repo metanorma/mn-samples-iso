@@ -28,25 +28,21 @@ jobs:
             os: 'macos-latest'
             experimental: true
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
         with:
           token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
-      - name: Use Ruby
-        uses: ruby/setup-ruby@v1
+
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
-      
-      - name: Use Python
-        uses: actions/setup-python@v1
+
+      - uses: actions/setup-python@v1
         with:
           python-version: '3.6'
           architecture: 'x64'
 
-      - name: Install xml2rfc
-        run: |
-          pip install xml2rfc
+      - run: pip install xml2rfc
 
       - name: Install metanorma
         shell: python
@@ -67,20 +63,4 @@ jobs:
           os.system("gem install specific_install")
           os.system("gem specific_install -l https://github.com/{}.git -b {}".format(repo, branch))
 
-      - name: Metanorma compile windows
-        if: matrix.os == 'windows-latest'
-        run: |
-          choco install -y yq gnuwin32-coreutils.install
-          make -f Makefile.win clean all SKIP_BUNDLE=true SHELL=cmd
-
-      - name: Metanorma compile macos
-        if: matrix.os == 'macos-latest'
-        run: |
-          brew install yq
-          make clean all SKIP_BUNDLE=true
-
-      - name: Metanorma compile linux
-        if: matrix.os == 'ubuntu-latest'
-        run: |
-          sudo snap install yq
-          make clean all SKIP_BUNDLE=true
+      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms

@@ -13,7 +13,6 @@ on:
       - .github/workflows/docker.yml
       - .github/workflows/windows.yml
       - .github/workflows/docker-pres_xml.yml
-      - Makefile.win
 
 jobs:
   test-linux:
@@ -37,14 +36,4 @@ jobs:
           curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | sudo bash
           sudo chown -R $USER:$(id -gn $USER) $HOME/.config
 
-      - run: sudo snap install yq
-
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-
-      - run: gem install relaton-cli
-
-      - run: make clean all publish SKIP_BUNDLE=true
-        env:
-          JAVA_OPTS: "java.awt.headless=true"
+      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms
