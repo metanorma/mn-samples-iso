@@ -38,12 +38,6 @@ jobs:
           key: fontist
           restore-keys: fontist
 
-      - uses: actions/cache@v2
-        with:
-          path: ~/.fontist
-          key: fontist
-          restore-key: fontist
-
       - uses: actions-mn/setup@master
 
       - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms
