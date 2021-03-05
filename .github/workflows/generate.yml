@@ -30,7 +30,13 @@ jobs:
         with:
           path: ~/.cache/xml2rfc
           key: xml2rfc
-          restore-key: xml2rfc
+          restore-keys: xml2rfc
+
+      - uses: actions/cache@v2
+        with:
+          path: ~/.fontist
+          key: fontist
+          restore-keys: fontist
 
       - uses: actions/cache@v2
         with:
