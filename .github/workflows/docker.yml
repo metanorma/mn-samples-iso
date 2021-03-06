@@ -26,6 +26,12 @@ jobs:
           token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
 
+      - uses: actions/cache@v2
+        with:
+          path: /config/fonts
+          key: fontist-docker
+          restore-keys: fontist-docker
+
       - run: curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
 
       - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms

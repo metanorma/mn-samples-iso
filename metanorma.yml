@@ -1,7 +1,5 @@
 ---
 metanorma:
-  deploy:
-    email: "ci@metanorma.org"
   source:
     files:
       - sources/amendment/rice-amd.awi.adoc
@@ -25,7 +23,6 @@ metanorma:
       - sources/international-standard/rice-zh.adoc
       - sources/international-standard/rice-fr.adoc
 
-relaton:
   collection:
     organization: "Metanorma : Standards for standards"
     name: "ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)"
