@@ -1,0 +1,657 @@
+[[cls-2]]
+== Development of International Standards
+
+[[scls-2-1]]
+=== The project approach
+
+[[scls-2-1-1]]
+==== General
+
+The primary duty of a technical committee or subcommittee is the development and maintenance of International Standards. However, committees are also strongly encouraged to consider publication of intermediate deliverables as described in <<cls-3>>.
+
+International Standards shall be developed on the basis of a project approach as described below.
+
+[[scls-2-1-2]]
+==== Strategic business plan
+
+Each technical committee shall prepare a strategic business plan for its own specific field of activity,
+
+. taking into account the business environment in which it is developing its work programme;
+. indicating those areas of the work programme which are expanding, those which have been completed, and those nearing completion or in steady progress, and those which have not progressed and should be cancelled (see also <<scls-2-1-9>>);
+. evaluating revision work needed (see also the respective Supplements to the ISO/IEC Directives);
+. [[scls-2-1-2d]]giving a prospective view on emerging needs.
+
+The strategic business plan shall be formally agreed upon by the technical committee and be included in its report for review and approval by the technical management board on a regular basis.
+
+[[scls-2-1-3]]
+==== Project stages
+
+[[scls-2-1-3-1]]
+===== {blank}
+
+<<table2>> shows the sequence of project stages through which the technical work is developed, and gives the name of the document associated with each project stage. The development of Technical Specifications, Technical Reports and Publicly Available Specifications is described in <<cls-3>>.
+
+[[table2]]
+.Project stages and associated documents
+|===
+.2+^.^h| Project stage 2+^.^h| Associated document
+^.^h| Name ^.^h| Abbreviation
+
+h| Preliminary stage | Preliminary work item footnote:f1[These stages may be omitted, as described in <<annexF>>.] | PWI
+h| Proposal stage | New work item proposal footnote:f1[] | NP
+h| Preparatory stage | Working draft(s) footnote:f1[] | WD
+h| Committee stage | Committee draft(s) footnote:f1[] | CD
+h| Enquiry stage | Enquiry draft footnote:[Draft International Standard in ISO, committee draft for vote in IEC.] a| ISO/DIS +
+IEC/CDV
+h| Approval stage | final draft International Standard footnote:[May be omitted (see <<scls-2-6-4>>).] | FDIS
+h| Publication stage | International Standard | ISO, IEC or ISO/IEC
+|===
+
+[[scls-2-1-3-2]]
+===== {blank}
+
+<<scls-F-1>> illustrates the steps leading to publication of an International Standard.
+
+[[scls-2-1-3-3]]
+===== {blank}
+
+The ISO and IEC Supplements to the ISO/IEC Directives give a matrix presentation of the project stages, with a numerical designation of associated sub-stages.
+
+[[scls-2-1-4]]
+==== Project description and acceptance
+
+A project is any work intended to lead to the issue of a new, amended or revised International Standard. A project may subsequently be subdivided (see also <<scls-2-1-5-4>>).
+
+A project shall be undertaken only if a proposal has been accepted in accordance with the relevant procedures (see <<scls-2-3>> for proposals for new work items, and the respective Supplements to the ISO/IEC Directives for review and maintenance of existing International Standards).
+
+[[scls-2-1-5]]
+==== Programme of work
+
+[[scls-2-1-5-1]]
+===== {blank}
+
+The programme of work of a technical committee or subcommittee comprises all projects allocated to that technical committee or subcommittee, including maintenance of published standards.
+
+[[scls-2-1-5-2]]
+===== {blank}
+
+In establishing its programme of work, each technical committee or subcommittee shall consider sectoral planning requirements as well as requests for International Standards initiated by sources outside the technical committee, i.e. other technical committees, advisory groups of the technical management board, policy level committees and organizations outside ISO and IEC. (See also <<scls-2-1-2>>.)
+
+[[scls-2-1-5-3]]
+===== {blank}
+
+Projects shall be within the agreed scope of the technical committee. Their selection shall be subject to close scrutiny in accordance with the policy objectives and resources of ISO and IEC. (See also <<annexC>>.)
+
+[[scls-2-1-5-4]]
+===== {blank}
+
+Each project in the programme of work shall be given a number (see IEC Supplements to the ISO/IEC Directives for document numbering at the IEC) and shall be retained in the programme of work under that number until the work on that project is completed or its cancellation has been agreed upon. The technical committee or subcommittee may subdivide a number if it is subsequently found necessary to subdivide the project itself. The subdivisions of the work shall lie fully within the scope of the original project; otherwise, a new work item proposal shall be made.
+
+[[scls-2-1-5-5]]
+===== {blank}
+
+The programme of work shall indicate, if appropriate, the subcommittee and/or working group to which each project is allocated.
+
+[[scls-2-1-5-6]]
+===== {blank}
+
+The agreed programme of work of a new technical committee shall be submitted to the technical management board for approval.
+
+[[scls-2-1-6]]
+==== Target dates
+
+The technical committee or subcommittee shall establish, for each project on its programme of work, target dates for the completion of each of the following steps:
+
+* completion of the first working draft (in the event that only an outline of a working document has been provided by the proposer of the new work item proposal - see <<scls-2-3>>);
+* circulation of the first committee draft;
+* circulation of the enquiry draft;
+* circulation of the final draft International Standard (in agreement with the office of the CEO);
+* publication of the International Standard (in agreement with the office of the CEO).
+
+These target dates shall correspond to the shortest possible development times to produce International Standards rapidly and shall be reported to the office of the CEO, which distributes the information to all National Bodies. For establishment of target dates, see the respective Supplements to the ISO/IEC Directives.
+
+In establishing target dates, the relationships between projects shall be taken into account. Priority shall be given to those projects intended to lead to International Standards upon which other International Standards will depend for their implementation. The highest priority shall be given to those projects having a significant effect on international trade and recognized as such by the technical management board.
+
+The technical management board may also instruct the secretariat of the technical committee or subcommittee concerned to submit the latest available draft to the office of the CEO for publication as a Technical Specification (see <<scls-3-1>>).
+
+All target dates shall be kept under continuous review and amended as necessary, and shall be clearly indicated in the programme of work. Revised target dates shall be notified to the technical management board. The technical management board will cancel all work items which have been on the work programme for more than 5 years and have not reached the approval stage (see <<scls-2-7>>).
+
+[[scls-2-1-7]]
+==== Project management
+
+The secretariat of the technical committee or subcommittee is responsible for the management of all projects in the programme of work of that technical committee or subcommittee, including monitoring of their progress against the agreed target dates.
+
+If target dates (see <<scls-2-1-6>>) are not met and there is insufficient support for the work (that is, the acceptance requirements for new work given in <<scls-2-3-5>> are no longer met), the committee responsible shall cancel the work item.
+
+[[scls-2-1-8]]
+==== Project leader
+
+For the development of each project, a project leader (the WG convenor, a designated expert or, if appropriate, the secretary) shall be appointed by the technical committee or subcommittee, taking into account the project leader nomination made by the proposer of the new work item proposal (see <<scls-2-3-4>>). It shall be ascertained that the project leader will have access to appropriate resources for carrying out the development work. The project leader shall act in a purely international capacity, divesting him- or herself of a national point of view. The project leader should be prepared to act as consultant, when required, regarding technical matters arising at the proposal stage through to the publication stage (see <<scls-2-5>> to <<scls-2-8>>).
+
+The secretariat shall communicate the name and address of the project leader, with identification of the project concerned, to the office of the CEO.
+
+[[scls-2-1-9]]
+==== Progress control
+
+Periodical progress reports to the technical committee shall be made by its subcommittees and working groups (see also ISO and IEC Supplements to the ISO/IEC Directives). Meetings between their secretariats will assist in controlling the progress.
+
+The office of the CEO shall monitor the progress of all work and shall report periodically to the technical management board. For this purpose, the office of the CEO shall receive copies of documents as indicated in the ISO and IEC Supplements to the ISO/IEC Directives.
+
+[[scls-2-2]]
+=== Preliminary stage
+
+[[scls-2-2-1]]
+==== {blank}
+
+Technical committees or subcommittees may introduce into their work programmes, by a simple majority vote of their P-members, preliminary work items (for example, corresponding to subjects dealing with emerging technologies), which are not yet sufficiently mature for processing to further stages and for which no target dates can be established.
+
+Such items may include, for example, those listed in the strategic business plan, particularly as given under <<scls-2-1-2d>> giving a prospective view on emerging needs.
+
+[[scls-2-2-2]]
+==== {blank}
+
+All preliminary work items shall be registered into the programme of work.
+
+[[scls-2-2-3]]
+==== {blank}
+
+All preliminary work items shall be subject to regular review by the committee. The committee shall evaluate the market relevance and resources required for all such items.
+
+All preliminary work items that have not progressed to the proposal stage in the IEC by the expiration date given by the TC/SC and in ISO within 3 years will be automatically cancelled.
+
+[[scls-2-2-4]]
+==== {blank}
+
+This stage can be used for the elaboration of a new work item proposal (see <<scls-2-3>>) and the development of an initial draft.
+
+[[scls-2-2-5]]
+==== {blank}
+
+Before progressing to the preparatory stage, all such items shall be subject to approval in accordance with the procedures described in <<scls-2-3>>.
+
+[[scls-2-3]]
+=== Proposal stage
+
+[[scls-2-3-1]]
+==== {blank}
+
+A new work item proposal (NP) is a proposal for:
+
+* a new standard;
+* a new part of an existing standard;
+* a Technical Specification (see <<scls-3-1>>) or a Publicly Available Specification (see <<scls-3-2>>).
+
+[[scls-2-3-2]]
+==== {blank}
+
+A new work item proposal within the scope of an existing technical committee or subcommittee may be made in the respective organization by
+
+* a National Body;
+* the secretariat of that technical committee or subcommittee;
+* another technical committee or subcommittee;
+* an organization in category A liaison;
+* the technical management board or one of its advisory groups;
+* the Chief Executive Officer.
+
+[[scls-2-3-3]]
+==== {blank}
+
+Where both an ISO and an IEC technical committee are concerned, the Chief Executive Officers shall arrange for the necessary coordination. (See also <<annexB>>.)
+
+[[scls-2-3-4]]
+==== {blank}
+
+Each new work item proposal shall be presented using the appropriate form, and shall be fully justified and properly documented (see <<annexC>>).
+
+The proposers of the new work item proposal shall
+
+* make every effort to provide a first working draft for discussion, or shall at least provide an outline of such a working draft;
+* nominate a project leader.
+
+The form shall be submitted to the office of the CEO or to the secretariat of the relevant committee for proposals within the scope of an existing committee.
+
+The office of the CEO or the relevant committee chair and secretariat shall ensure that the proposal is properly developed in accordance with ISO and IEC requirements (see <<annexC>>) and provides sufficient information to support informed decision making by National Bodies.
+
+The office of the CEO or the relevant committee chair and secretariat shall also assess the relationship of the proposal to existing work, and may consult interested parties, including the technical management board or committees conducting related existing work. If necessary, an ad hoc group may be established to examine the proposal. Any review of proposals should not exceed 2 weeks.
+
+In all cases, the office of the CEO or the relevant committee chair and secretariat may also add comments and recommendations to the proposal form.
+
+See <<annexK>> for new work item proposals for project committees.
+
+Copies of the completed form shall be circulated to the members of the technical committee or subcommittee for P-member ballot and to the O-members and liaison members for information.
+
+The proposed date of availability of the publication shall be indicated on the form.
+
+A decision upon a new work item proposal shall be taken by correspondence.
+
+Votes shall be returned within 12 weeks.
+
+The committee may decide on a case-by-case basis by way of a resolution to shorten the voting period for new work item proposals to 8 weeks.
+
+When completing the ballot form, National Bodies shall provide a statement justifying their decision for negative votes ("justification statement"). If no such statement is provided, the negative vote of a National Body will not be registered and considered.
+
+[[scls-2-3-5]]
+==== Acceptance requires
+
+. [[scls-2-3-5a]]approval of the work item by a 2/3 majority of the P-members of the technical committees or subcommittees voting - abstentions are excluded when the votes are counted; and
+. a commitment to participate actively in the development of the project, i.e. to make an effective contribution at the preparatory stage, by nominating technical experts and by commenting on working drafts, by at least 4 P-members in committees with 16 or fewer P-members, and at least 5 P-members in committees with 17 or more P-members; only P-members having also approved the inclusion of the work item in the programme of work [see a)] will be taken into account when making this tally. If experts are not nominated on the form accompanying an approval vote, then the National Body's commitment to active participation will not be registered and considered when determining if the approval criteria have been met on this ballot.
+
+Individual committees may increase this minimum requirement of nominated experts.
+
+In cases, where it can be documented that the industry and/or technical knowledge exists only with a very small number of P-members, then the committee may request permission from the technical management board to proceed with fewer than 4 or 5 nominated technical experts.
+
+[[scls-2-3-6]]
+==== {blank}
+
+Once a new work item proposal is accepted, it shall be registered in the programme of work of the relevant technical committee or subcommittee as a new project with the appropriate priority. The agreed target dates (see <<scls-2-1-6>>) shall be indicated on the appropriate form.
+
+The voting results will be reported to the ISO Central Secretariat (using Form 6) or the IEC Central Office (using Form RVN) within 4 weeks after the close of the ballot.
+
+[[scls-2-3-7]]
+==== {blank}
+
+The inclusion of the project in the programme of work concludes the proposal stage.
+
+[[scls-2-4]]
+=== Preparatory stage
+
+[[scls-2-4-1]]
+==== {blank}
+
+The preparatory stage covers the preparation of a working draft (WD) conforming to the ISO/IEC Directives, Part 2.
+
+[[scls-2-4-2]]
+==== {blank}
+
+When a new project is accepted the project leader shall work with the experts nominated by the P-members during the approval [see <<scls-2-3-5a>>].
+
+[[scls-2-4-3]]
+==== {blank}
+
+The secretariat may propose to the technical committee or subcommittee, either at a meeting or by correspondence, to create a working group the convenor of which will normally be the project leader.
+
+Such a working group shall be set up by the technical committee or subcommittee, which shall define the task(s) and set the target date(s) for submission of draft(s) to the technical committee or subcommittee (see also <<scls-1-12>>). The working group convenor shall ensure that the work undertaken remains within the scope of the balloted work item.
+
+[[scls-2-4-4]]
+==== {blank}
+
+In responding to the proposal to set up a working group those P-members having agreed to participate actively [see <<scls-2-3-5a>>] shall each confirm their technical expert(s). Other P-members or A- or C- liaison organizations may also nominate expert(s).
+
+[[scls-2-4-5]]
+==== {blank}
+
+The project leader is responsible for the development of the project and will normally convene and chair any meetings of the working group. S/he may invite a member of the working group to act as its secretary.
+
+[[scls-2-4-6]]
+==== {blank}
+
+Every possible effort shall be made to prepare both a French and an English version of the text in order to avoid delays in the later stages of the development of the project.
+
+If a trilingual (English - French - Russian) standard is to be prepared, this provision should include the Russian version.
+
+[[scls-2-4-7]]
+==== {blank}
+
+For time limits relating to this stage, see <<scls-2-1-6>>.
+
+[[scls-2-4-8]]
+==== {blank}
+
+The preparatory stage ends when a working draft is available for circulation to the members of the technical committee or subcommittee as a first committee draft (CD) and is registered by the office of the CEO. The committee may also decide to publish the final working draft as a PAS (see <<scls-3-2>>) to respond particular market needs.
+
+[[scls-2-5]]
+=== Committee stage
+
+[[scls-2-5-1]]
+==== {blank}
+
+The committee stage is the principal stage at which comments from National Bodies are taken into consideration, with a view to reaching consensus on the technical content. National Bodies shall therefore carefully study the texts of committee drafts and submit all pertinent comments at this stage.
+
+[[scls-2-5-2]]
+==== {blank}
+
+As soon as it is available, a committee draft shall be circulated to all P-members and O-members of the technical committee or subcommittee for consideration, with a clear indication of the latest date for submission of replies.
+
+A period of 8, 12 or 16 weeks as agreed by the technical committee or subcommittee shall be available for National Bodies to comment.
+
+Comments shall be sent for preparation of the compilation of comments, in accordance with the instructions given.
+
+National Bodies shall fully brief their delegates on the national position before meetings.
+
+[[scls-2-5-3]]
+==== {blank}
+
+No more than 4 weeks after the closing date for submission of replies, the secretariat shall prepare the compilation of comments and arrange for its circulation to all P-members and O-members of the technical committee or subcommittee. When preparing this compilation, the secretariat shall indicate its proposal, made in consultation with the chair of the technical committee or subcommittee and, if necessary, the project leader, for proceeding with the project, either
+
+. to discuss the committee draft and comments at the next meeting, or
+. to circulate a revised committee draft for consideration, or
+. to register the committee draft for the enquiry stage (see <<scls-2-6>>).
+
+In the case of b) and c), the secretariat shall indicate in the compilation of comments the action taken on each of the comments received. This shall be made available to all P-members, if necessary by the circulation of a revised compilation of comments, no later than in parallel with the submission of a revised CD for consideration by the committee (case b) or simultaneously with the submission of the finalized version of the draft to the office of the CEO for registration for the enquiry stage (case c).
+
+Committees are required to respond to all comments received.
+
+If, within 8 weeks from the date of dispatch, 2 or more P-members disagree with proposal b) or c) of the secretariat, the committee draft shall be discussed at a meeting (see <<scls-4-2-1-3>>).
+
+[[scls-2-5-4]]
+==== {blank}
+
+If a committee draft is considered at a meeting but agreement on it is not reached on that occasion, a further committee draft incorporating decisions taken at the meeting shall be distributed within 12 weeks for consideration. A period of 8, 12 or 16 weeks as agreed by the technical committee or subcommittee shall be available to National Bodies to comment on the draft and on any subsequent versions.
+
+[[scls-2-5-5]]
+==== {blank}
+
+Consideration of successive drafts shall continue until consensus of the P-members of the technical committee or subcommittee has been obtained or a decision to abandon or defer the project has been made.
+
+[[scls-2-5-6]]
+==== {blank}
+
+The decision to circulate an enquiry draft (see <<scls-2-6-1>>) shall be taken on the basis of the consensus principle.
+
+It is the responsibility of the chair of the technical committee or subcommittee, in consultation with the secretary of his/her committee and, if necessary, the project leader, to judge whether there is sufficient support bearing in mind the definition of consensus given in ISO/IEC Guide 2:2004.
+
+____
+"*consensus*: General agreement, characterized by the absence of sustained opposition to substantial issues by any important part of the concerned interests and by a process that involves seeking to take into account the views of all parties concerned and to reconcile any conflicting arguments.
+
+NOTE: Consensus need not imply unanimity."
+____
+
+The following applies to the definition of consensus:
+
+In the process of reaching consensus, many different points of views will be expressed and addressed as the document evolves. However, "sustained oppositions" are views expressed at minuted meetings of committee, working group (WG) or other groups (e.g. task forces, advisory groups, etc.) and which are maintained by an important part of the concerned interest and which are incompatible with the committee consensus. The notion of "concerned interest(s)" will vary depending on the dynamics of the committee and shall therefore be determined by the committee leadership on a case by case basis. The concept of sustained opposition is not applicable in the context of member body votes on CD, DIS or FDIS since these are subject to the applicable voting rules.
+
+Those expressing sustained oppositions have a right to be heard and the following approach is recommended when a sustained opposition is declared:
+
+* The leadership shall first assess whether the opposition can be considered a "sustained opposition", i.e. whether it has been sustained by an important part of the concerned interest. If this is not the case, the leadership will register the opposition (i.e. in the minutes, records, etc.) and continue to lead the work on the document.
+
+* If the leadership determines that there is a sustained opposition, it is required to try and resolve it in good faith. However, a sustained opposition is not akin to a right to veto. The obligation to address the sustained oppositions does not imply an obligation to successfully resolve them.
+
+The responsibility for assessing whether or not consensus has been reached rests entirely with the leadership. This includes assessing whether there is sustained opposition or whether any sustained opposition can be resolved without compromising the existing level of consensus on the rest of the document. In such cases, the leadership will register the opposition and continue the work.
+
+Those parties with sustained oppositions may avail themselves of appeals mechanisms as detailed in <<cls-5>>.
+
+In case of doubt concerning consensus, approval by a two-thirds majority of the P-members of the technical committee or subcommittee voting may be deemed to be sufficient for the committee draft to be accepted for registration as an enquiry draft; however every attempt shall be made to resolve negative votes.
+
+The secretariat of the technical committee or subcommittee responsible for the committee draft shall ensure that the enquiry draft fully embodies decisions taken either at meetings or by correspondence.
+
+[[scls-2-5-7]]
+==== {blank}
+
+When consensus has been reached in a technical committee or subcommittee, its secretariat shall submit the finalized version of the draft in electronic form suitable for distribution to the national members for enquiry (<<scls-2-6-1>>), to the office of the CEO (with a copy to the technical committee secretariat in the case of a subcommittee) within a maximum of 16 weeks.
+
+[[scls-2-5-8]]
+==== {blank}
+
+For time limits relating to this stage, see <<scls-2-1-6>>.
+
+[[scls-2-5-9]]
+==== {blank}
+
+The committee stage ends when all technical issues have been resolved and a committee draft is accepted for circulation as an enquiry draft and is registered by the office of the CEO. Texts that do not conform to the ISO/IEC Directives, Part 2 shall be returned to the secretariat with a request for correction before they are registered.
+
+[[scls-2-5-10]]
+==== {blank}
+
+If the technical issues cannot all be resolved within the appropriate time limits, technical committees and subcommittees may wish to consider publishing an intermediate deliverable in the form of a Technical Specification (see <<scls-3-1>>) pending agreement on an International Standard.
+
+[[scls-2-6]]
+=== Enquiry stage
+
+[[scls-2-6-1]]
+==== {blank}
+
+At the enquiry stage, the enquiry draft (DIS in ISO, CDV in IEC) shall be circulated by the office of the CEO to all National Bodies for a 12-week vote.
+
+For policy on the use of languages, see <<annexE>>.
+
+National Bodies shall be advised of the date by which completed ballots are to be received by the office of the CEO.
+
+At the end of the voting period, the Chief Executive Officer shall send within 4 weeks to the chair and secretariat of the technical committee or subcommittee the results of the voting together with any comments received, for further speedy action.
+
+[[scls-2-6-2]]
+==== {blank}
+
+Votes submitted by National Bodies shall be explicit: positive, negative, or abstention.
+
+A positive vote may be accompanied by editorial or technical comments, on the understanding that the secretary, in consultation with the chair of the technical committee or subcommittee and project leader, will decide how to deal with them.
+
+If a National Body finds an enquiry draft unacceptable, it shall vote negatively and state the technical reasons. It may indicate that the acceptance of specified technical modifications will change its negative vote to one of approval, but it shall not cast an affirmative vote which is conditional on the acceptance of modifications.
+
+[[scls-2-6-3]]
+==== {blank}
+
+An enquiry draft is approved if
+
+. a two-thirds majority of the votes cast by the P-members of the technical committee or subcommittee are in favour, and
+
+. not more than one-quarter of the total number of votes cast are negative.
+
+Abstentions are excluded when the votes are counted, as well as negative votes not accompanied by technical reasons.
+
+Comments received after the normal voting period are submitted to the technical committee or subcommittee secretariat for consideration at the time of the next review of the International Standard.
+
+[[scls-2-6-4]]
+==== {blank}
+
+On receipt of the results of the voting and any comments, the chair of the technical committee or subcommittee, in cooperation with its secretariat and the project leader, and in consultation with the office of the CEO, shall take one of the following courses of action:
+
+. [[scls-2-6-4a]]when the approval criteria of <<scls-2-6-3>> are met and no technical changes are to be included, to proceed directly to publication (see <<scls-2-8>>);
+
+. [[scls-2-6-4b]]when the approval criteria of <<scls-2-6-3>> are met, but technical changes are to be included, to register the enquiry draft, as modified, as a final draft international standard;
+
+. [[scls-2-6-4c]]when the approval criteria of <<scls-2-6-3>> are not met:
+
+.. [[scls-2-6-4c1]]to circulate a revised enquiry draft for voting (see <<scls-2-6-1>>), or +
+NOTE: A revised enquiry draft will be circulated for a voting period of 8 weeks, which may be extended up to 12 weeks at the request of one or more P-members of the committee concerned.
+
+.. [[scls-2-6-4c2]]to circulate a revised committee draft for comments, or
+
+.. [[scls-2-6-4c3]]to discuss the enquiry draft and comments at the next meeting.
+
+[[scls-2-6-5]]
+==== {blank}
+
+Not later than 12 weeks after the end of the voting period, a full report shall be prepared by the secretariat of the technical committee or subcommittee and circulated by the office of the CEO to the National Bodies. The report shall
+
+. show the result of the voting;
+. state the decision of the chair of the technical committee or subcommittee;
+. reproduce the text of the comments received; and
+. include the observations of the secretariat of the technical committee or subcommittee on each of the comments submitted.
+
+Every attempt shall be made to resolve negative votes.
+
+If, within 8 weeks from the date of dispatch, two or more P-members disagree with decision <<scls-2-6-4c1>> or <<scls-2-6-4c2>> of the chair, the draft shall be discussed at a meeting (see <<scls-4-2-1-3>>).
+
+Committees are required to respond to all comments received.
+
+[[scls-2-6-6]]
+==== {blank}
+
+When the chair has taken the decision to proceed to the approval stage (see <<scls-2-7>>) or publication stage (see <<scls-2-8>>), the secretariat of the technical committee or subcommittee shall prepare, within a maximum of 16 weeks after the end of the voting period and with the assistance of its editing committee, a final text and send it to the office of the CEO for preparation and circulation of the final draft International Standard.
+
+The secretariat shall provide the office of the CEO with the text in a revisable electronic format and also in a format which permits validation of the revisable form.
+
+Texts that do not conform to the ISO/IEC Directives, Part 2 shall be returned to the secretariat with a request for correction before they are registered.
+
+[[scls-2-6-7]]
+==== {blank}
+
+For time limits relating to this stage, see <<scls-2-1-6>>.
+
+[[scls-2-6-8]]
+==== {blank}
+
+The enquiry stage ends with the registration, by the office of the CEO, of the text for circulation as a final draft International Standard or publication as an International Standard, in the case of <<scls-2-6-4a>> and <<scls-2-6-4b>>.
+
+[[scls-2-7]]
+=== Approval stage
+
+[[scls-2-7-1]]
+==== {blank}
+
+At the approval stage, the final draft International Standard (FDIS) shall be distributed by the office of the CEO within 12 weeks to all National Bodies for a 8-week vote (6 weeks in IEC).
+
+National Bodies shall be advised of the date by which ballots are to be received by the office of the CEO.
+
+[[scls-2-7-2]]
+==== {blank}
+
+Votes submitted by National Bodies shall be explicit: positive, negative, or abstention.
+
+A National Body may submit comments on any FDIS vote.
+
+If a National Body finds a final draft International Standard unacceptable, it shall vote negatively and state the technical reasons. It shall not cast an affirmative vote that is conditional on the acceptance of modifications.
+
+[[scls-2-7-3]]
+==== {blank}
+
+A final draft International Standard having been circulated for voting is approved if
+
+. a two-thirds majority of the votes cast by the P-members of the technical committee or subcommittee are in favour, and
+. not more than one-quarter of the total number of votes cast are negative.
+
+Abstentions are excluded when the votes are counted, as well as negative votes not accompanied by technical reasons.
+
+[[scls-2-7-4]]
+==== {blank}
+
+The secretariat of the technical committee or subcommittee has the responsibility of bringing any errors that may have been introduced in the preparation of the draft to the attention of the office of the CEO by the end of the voting period; further editorial or technical amendments are not acceptable at this stage.
+
+[[scls-2-7-5]]
+==== {blank}
+
+All comments received will be retained for the next review and will be recorded on the voting form as "noted for future consideration". However, the Secretary along with the office of the CEO may seek to resolve obvious editorial errors. Technical changes to an approved FDIS are not allowed.
+
+Within 2 weeks after the end of the voting period, the office of the CEO shall circulate to all National Bodies a report showing the result of voting and indicating either the formal approval by National Bodies to issue the International Standard or formal rejection of the final draft International Standard.
+
+[[scls-2-7-6]]
+==== {blank}
+
+If the final draft International Standard has been approved in accordance with the conditions of <<scls-2-7-3>>, it shall proceed to the publication stage (see <<scls-2-8>>).
+
+[[scls-2-7-7]]
+==== {blank}
+
+If the final draft International Standard is not approved in accordance with the conditions in <<scls-2-7-3>>, the document shall be referred back to the technical committee or subcommittee concerned for reconsideration in the light of the technical reasons submitted in support of the negative votes.
+
+The committee may decide to:
+
+* resubmit a modified draft as a committee draft, enquiry draft or, in ISO and JTC 1, final draft International Standard;
+* publish a Technical Specification (see <<scls-3-1>>);
+* cancel the project.
+
+[[scls-2-7-8]]
+==== {blank}
+
+The approval stage ends with the circulation of the voting report (see <<scls-2-7-5>>) stating that the FDIS has been approved for publication as an International Standard, with the publication of a Technical Specification (see 3.1.1.2), or with the document being referred back to the committee.
+
+[[scls-2-8]]
+=== Publication stage
+
+[[scls-2-8-1]]
+==== {blank}
+
+Within 6 weeks, the office of the CEO shall correct any errors indicated and validated by the secretariat of the technical committee or subcommittee, and publish and distribute the International Standard.
+
+[[scls-2-8-2]]
+==== {blank}
+
+The publication stage ends with the publication of the International Standard.
+
+[[scls-2-9]]
+=== Maintenance of deliverables
+
+The procedures for the maintenance of deliverables are given in the respective Supplements to the ISO/IEC Directives.
+
+[[scls-2-10]]
+=== Corrections and amendments
+
+[[scls-2-10-1]]
+==== General
+
+A published International Standard may subsequently be modified by the publication of
+
+* a technical corrigendum (in IEC only);
+* a corrected version;
+* an amendment; or
+* a revision (as part of the maintenance procedure in <<scls-2-9>>).
+
+NOTE: In case of revision a new edition of the International Standard will be issued.
+
+[[scls-2-10-2]]
+==== Corrections
+
+A correction is only issued to correct an error or ambiguity, inadvertently introduced either in drafting or in publishing and which could lead to incorrect or unsafe application of the publication.
+
+Corrections are not issued to update information that has become outdated since publication.
+
+Suspected errors shall be brought to the attention of the secretariat of the technical committee or subcommittee concerned. After confirmation by the secretariat and chair, if necessary in consultation with the project leader and P-members of the technical committee or subcommittee, the secretariat shall submit to the office of the CEO a proposal for correction, with an explanation of the need to do so.
+
+The Chief Executive Officer shall decide, in consultation with the secretariat of the technical committee or subcommittee, and bearing in mind both the financial consequences to the organization and the interests of users of the publication, whether to publish a technical corrigendum (in IEC only) and/or a corrected version of the existing edition of the publication (see also <<scls-2-10-4>>). The secretariat of the committee will then inform the members of the committee of the outcome.
+
+The corrections are mentioned in the Foreword of the corrected version.
+
+In general, a correction will not be issued for a publication that is older than 3 years.
+
+[[scls-2-10-3]]
+==== Amendments
+
+An amendment alters and/or adds to previously agreed technical provisions in an existing International Standard. An amendment is considered as a partial revision: the rest of the International Standard is not open for comments.
+
+An amendment is normally published as a separate document, the edition of the International Standard affected remaining in use.
+
+The procedure for developing and publishing an amendment shall be as described in <<scls-2-3>> (ISO and JTC 1), or the review and maintenance procedures (see IEC Supplement) and <<scls-2-4>>, <<scls-2-5>>, <<scls-2-6>> (draft amendment, DAM), <<scls-2-7>> (final draft amendment, FDAM), and <<scls-2-8>>.
+
+At the approval stage (<<scls-2-7>>), the Chief Executive Officer shall decide, in consultation with the secretariat of the technical committee or subcommittee, and bearing in mind both the financial consequences to the organization and the interests of users of the International Standard, whether to publish an amendment or a new edition of the International Standard, incorporating the amendment. (See also <<scls-2-10-4>>.)
+
+NOTE: Where it is foreseen that there will be frequent _additions_ to the provisions of an International Standard, the possibility should be borne in mind at the outset of developing these additions as a series of parts (see ISO/IEC Directives, Part 2).
+
+[[scls-2-10-4]]
+==== Avoidance of proliferation of modifications
+
+No more than 2 separate documents in the form of technical corrigenda (in IEC only) or amendments shall be published modifying a current International Standard. The development of a third such document shall result in publication of a new edition of the International Standard.
+
+[[scls-2-11]]
+=== Maintenance agencies
+
+When a technical committee or subcommittee has developed a standard that will require frequent modification, it may decide that a maintenance agency is required. Rules concerning the designation of maintenance agencies are given in <<annexG>>.
+
+[[scls-2-12]]
+=== Registration authorities
+
+When a technical committee or subcommittee has developed a standard that includes registration provisions, a registration authority is required. Rules concerning the designation of registration authorities are given in <<annexH>>.
+
+[[scls-2-13]]
+=== Copyright
+
+The copyright for all drafts and International Standards and other publications belongs to ISO, IEC or ISO and IEC, respectively as represented by the office of the CEO.
+
+The content of, for example, an International Standard may originate from a number of sources, including existing national standards, articles published in scientific or trade journals, original research and development work, descriptions of commercialized products, etc. These sources may be subject to one or more rights.
+
+In ISO and IEC, there is an understanding that original material contributed to become a part of an ISO, IEC or ISO/IEC publication can be copied and distributed within the ISO and/or IEC systems (as relevant) as part of the consensus building process, this being without prejudice to the rights of the original copyright owner to exploit the original text elsewhere. Where material is already subject to copyright, the right should be granted to ISO and/or IEC to reproduce and circulate the material. This is frequently done without recourse to a written agreement, or at most to a simple written statement of acceptance. Where contributors wish a formal signed agreement concerning copyright of any submissions they make to ISO and/or IEC, such requests shall be addressed to ISO Central Secretariat or the IEC Central Office, respectively.
+
+Attention is drawn to the fact that the respective members of ISO and IEC have the right to adopt and re-publish any respective ISO and/or IEC standard as their national standard. Similar forms of endorsement do or may exist (for example, with regional standardization organizations).
+
+[[scls-2-14]]
+=== Reference to patented items (see also <<annexI>>)
+
+[[scls-2-14-1]]
+==== {blank}
+
+If, in exceptional situations, technical reasons justify such a step, there is no objection in principle to preparing an International Standard in terms which include the use of items covered by patent rights - defined as patents, utility models and other statutory rights based on inventions, including any published applications for any of the foregoing - even if the terms of the standard are such that there are no alternative means of compliance. The rules given below shall be applied.
+
+[[scls-2-14-2]]
+==== {blank}
+
+If technical reasons justify the preparation of a document in terms which include the use of items covered by patent rights, the following procedures shall be complied with:
+
+. The proposer of a proposal for a document shall draw the attention of the committee to any patent rights of which the proposer is aware and considers to cover any item of the proposal. Any party involved in the preparation of a document shall draw the attention of the committee to any patent rights of which it becomes aware during any stage in the development of the document.
+
+. If the proposal is accepted on technical grounds, the proposer shall ask any holder of such identified patent rights for a statement that the holder would be willing to negotiate worldwide licences under his/her rights with applicants throughout the world on reasonable and non-discriminatory terms and conditions. Such negotiations are left to the parties concerned and are performed outside ISO and/or IEC. A record of the right holder's statement shall be placed in the registry of the ISO Central Secretariat or IEC Central Office as appropriate. If the right holder does not provide such a statement, the committee concerned shall not proceed with inclusion of an item covered by a patent right in the document without authorization from ISO Council or IEC Council Board as appropriate.
+
+. A document shall not be published until the statements of the holders of all identified patent rights have been received, unless the council board concerned gives authorization.
+
+[[scls-2-14-3]]
+==== {blank}
+
+Should it be revealed after publication of a document that licences under patent rights, which appear to cover items included in the document, cannot be obtained under reasonable and non-discriminatory terms and conditions, the document shall be referred back to the relevant committee for further consideration.
