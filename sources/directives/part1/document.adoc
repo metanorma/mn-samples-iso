@@ -1,0 +1,69 @@
+= ISO/IEC Directives, Part 1 -- Procedures for the technical work
+:docnumber:
+:tc-docnumber:
+:partnumber: 1
+:edition: 16
+:revdate:
+:copyright-year: 2020
+:language: en
+:title-intro-en:
+:title-main-en: ISO/IEC Directives
+:title-part-en: Procedures for the technical work
+:title-intro-fr:
+:title-main-fr: Directives ISO/IEC
+:title-part-fr: Procédures pour les travaux techniques
+:doctype: international-standard
+:docstage:
+:docsubstage:
+:technical-committee-number:
+:secretariat: SAC
+:technical-committee:
+:subcommittee-number:
+:subcommittee:
+:workgroup-type: WG
+:workgroup-number:
+:workgroup:
+:docfile: document.adoc
+:imagesdir: images
+:library-ics:
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+include::sections/00-foreword.adoc[]
+
+include::sections/01-organizational-structure.adoc[]
+
+include::sections/02-development-of-is.adoc[]
+
+include::sections/03-development-of-other-deliverables.adoc[]
+
+include::sections/04-meetings.adoc[]
+
+include::sections/05-appeals.adoc[]
+
+//== ISO/IEC ANNEXES
+
+include::sections/annexA.adoc[]
+
+include::sections/annexB.adoc[]
+
+include::sections/annexC.adoc[]
+
+include::sections/annexD.adoc[]
+
+include::sections/annexE.adoc[]
+
+include::sections/annexF.adoc[]
+
+include::sections/annexG.adoc[]
+
+include::sections/annexH.adoc[]
+
+include::sections/annexI.adoc[]
+
+include::sections/annexJ.adoc[]
+
+include::sections/annexK.adoc[]
