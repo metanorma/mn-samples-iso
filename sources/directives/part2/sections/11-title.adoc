@@ -1,0 +1,104 @@
+
+[[cls_11]]
+== Title
+
+[[scls_11-1]]
+=== Purpose or rationale
+
+The title is a clear, concise description of the subject matter covered by the document. It is drafted so as to distinguish the subject matter from that of other documents, without going into unnecessary detail. Any necessary additional details are given in the Scope.
+
+[[scls_11-2]]
+=== Normative or informative?
+
+The title is a normative element.
+
+[[scls_11-3]]
+=== Mandatory, conditional or optional?
+
+The title is a mandatory element.
+
+[[scls_11-4]]
+=== Numbering and subdivision
+
+The title is composed of separate elements, each as short as possible, proceeding from the general to the particular, for example:
+
+. an _introductory element_ indicating the general field to which the document belongs (this can often be based on the title of the committee which prepared the document);
+. a _main element_ indicating the principal subject treated within that general field;
+. a _complementary element_ indicating the particular aspect of the principal subject or giving details that distinguish the document from other documents, or other parts of the same document.
+
+No more than three elements shall be used. The main element shall always be included.
+
+====
+The introductory element is necessary to indicate the field of application.
+
+Correct: Raw optical glass -- Grindability with diamond pellets -- Test method and classification +
+Incorrect: Grindability with diamond pellets -- Test method and classification
+====
+
+The title of a part shall be composed in the same way. All the individual titles in a series of parts shall contain the same introductory element (if present) and main element, while the complementary element shall be different in each case in order to distinguish the parts from one another. The complementary element shall be preceded in each case by the designation "`Part …:`".
+
+
+====
+*IEC 60947-1*:: _Low-voltage switchgear and controlgear -- Part 1: General rules_
+*IEC 60947-2*:: _Low-voltage switchgear and controlgear -- Part 2: Circuit-breakers_
+====
+
+
+When a document is divided into subparts (in the IEC), the parts within each subseries shall have the same subseries title.
+
+
+====
+*IEC 61300-1*:: _Fibre optic interconnecting devices and passive components -- Basic test and measurement procedures -- Part 1: General and guidance_
+
+*IEC 61300-2-1*:: _Fibre optic interconnecting devices and passive components -- Basic test and measurement procedures -- Part 2-1: Tests -- Vibration (sinusoidal)_
+
+*IEC 61300-2-2*:: _Fibre optic interconnecting devices and passive components -- Basic test and measurement procedures -- Part 2-2: Tests -- Mating durability_
+
+*IEC 61300-3-1*:: _Fibre optic interconnecting devices and passive components -- Basic test and measurement procedures -- Part 3-1: Examinations and measurements -- Visual examination_
+
+*IEC 61300-3-2*:: _Fibre optic interconnecting devices and passive components -- Basic test and measurement procedures -- Part 3-2: Examinations and measurements -- Polarization dependent loss in a single-mode fibre optic device_
+====
+
+
+[[scls_11-5]]
+=== Specific principles and rules
+
+[[scls_11-5-1]]
+==== Avoidance of unintentional limitation of the scope
+
+The title shall not contain details that could imply an unintentional limitation of the scope of the document.
+
+[[scls_11-5-2]]
+==== Wording
+
+The terminology used in the titles of documents shall be consistent.
+
+For documents dealing exclusively with terminology, the following expressions shall be used:
+
+* "`Vocabulary`" if both terms and definitions are included, or
+* "`List of equivalent terms`" if only equivalent terms in different languages are given.
+
+For documents dealing with test methods, use the form
+
+"`Test method`" or "`Determination of …`"
+
+instead of expressions such as
+
+"`Method of testing`", "`Method for the determination of …`", "`Test code for the measurement of …`" and "`Test on …`".
+
+The type or nature of the document (e.g. International Standard, Technical Specification, Publicly Available Specification, Technical Report or Guide) shall not be indicated in the title.
+
+
+====
+Correct: _Workplace air — Guidance for the measurement of respirable crystalline silica_ +
+Incorrect: _Workplace air — Technical specification for the measurement of respirable crystalline silica_
+====
+
+Expressions such as "`International test method for …`", "`Technical Report on …`", etc. shall therefore not be used.
+
+====
+Correct: _Test method on electromagnetic emissions — Part 1: […]_ +
+Incorrect: _International test method on electromagnetic emissions — Part 1: […]_
+====
+
+The word "`Guide`" shall not be used in titles of documents developed by technical committees and subcommittees as it corresponds to a specific document type developed under the authority of the management boards (see the ISO/IEC Directives, Part 1). Titles using the words "`Guidance`" or "`Guidelines`" are acceptable (e.g. "`ISO 26000, Guidance on social responsibility`").

@@ -1,0 +1,355 @@
+
+[[cls_28]]
+== Figures
+
+[[scls_28-1]]
+=== Purpose or rationale
+
+Figures are a graphical means of representation used when they are the most efficient means of presenting information in an easily comprehensible form.
+
+Photographs and other media may be used if it is not possible to represent the concept as a line drawing.
+
+
+[[scls_28-2]]
+=== Title
+
+It is recommended to provide a concise figure title.
+
+
+[[scls_28-3]]
+=== Numbering and subdivision
+
+[[scls_28-3-1]]
+==== Figure designation
+
+Figures shall be designated "`Figure`" and numbered with Arabic numerals, beginning with 1. A single figure shall be designated "`Figure 1`". This numbering shall be independent of the numbering of the clauses and of any tables.
+
+In annexes, the figure numbering restarts and the number is preceded by the annex letter (e.g. Figure A.1, etc.).
+
+When a figure is continued over several pages, it can be useful to repeat the figure designation, followed by the title (optional) and by "`(1 of #)`", where # is the total number of pages on which the figure appears.
+
+
+====
+&nbsp;
+[align=center]
+*Figure* x (1 of #)
+====
+
+
+[[scls_28-3-2]]
+==== Subfigures
+
+In general, the use of subfigures should be avoided whenever possible since it complicates document layout and management.
+
+Only one level of subdivision of a figure is permitted. Subfigures shall be identified by a lower case letter [e.g. Figure 1 may comprise subfigures a), b), c), ...]. Other forms of identification of the subfigures such as 1.1, 1.2, ..., 1-1, 1-2, ..., etc. shall not be used.
+
+Separate keys, notes and footnotes for subfigures are not permitted.
+
+====
+[%unnumbered]
+image::hidden_fig2.png[]
+
+*Key*
+
+Paragraphs (containing requirements) and notes to the figure
+
+Footnotes to the figure
+
+[align=center]
+*Figure x -- Title*
+====
+
+
+[[scls_28-4]]
+=== Referencing
+
+Each figure shall be explicitly referred to within the text.
+
+Use, for example, the following forms for references to figures and subfigures:
+
+* "`Figure 3 illustrates…`";
+* "`See Figure 6 b)`".
+
+
+[[scls_28-5]]
+=== Specific principles and rules
+
+[[scls_28-5-1]]
+==== Standards used in the creation of graphical content
+
+The standards listed in <<table_9>> provide information regarding the creation of graphical content.
+
+[[table_9]]
+.Standards used in the creation of graphical content
+[cols="3",options="header"]
+|===
+| Subject | Standard | Title
+
+| General | IEC 61082-1 | _Preparation of documents used in electrotechnology -- Part 1: Rules_
+
+| Graphical symbols | IEC 62648 | _Graphical symbols for use on equipment -- Guidelines for the inclusion of graphical symbols in IEC publications_
+	
+| | IEC 80416-1 | _Basic principles for graphical symbols for use on equipment -- Part 1: Creation of graphical symbols for registration_
+
+| | ISO/IEC 81714-1 | _Design of graphical symbols for use in the technical documentation of products -- Part 1: Basic rules_
+
+| Line types | ISO 128-20 | _Technical drawings -- General principles of presentation -- Part 20: Basic conventions for lines_
+
+| Dimensioning | ISO 129 (all parts) | _Technical drawings -- Indication of dimensions and tolerances_
+
+| Dimensional and geometrical product specifications | ISO 1101 | _Geometrical product specifications (GPS) -- Geometrical tolerancing -- Tolerances of form, orientation, location and run-out_
+
+| Projection | ISO 128-30 | _Technical drawings -- General principles of presentation -- Part 30: Basic conventions for views_
+
+| Flowcharts and organigrams | ISO 5807 | _Information processing -- Documentation symbols and conventions for data, program and system flowcharts, program network charts and system resources charts_
+|===
+
+
+[[scls_28-5-2]]
+==== Choice of letter symbols, style of lettering
+
+Letter symbols used in figures to represent general cases of angular or linear quantities shall be in accordance with ISO 80000-3. Subscripts can be used where necessary to distinguish between different applications of a given symbol.
+
+Various lengths, stem:[l], on a drawing should be written with descriptor indices, e.g. stem:[l_1], stem:[l_2], stem:[l_3], and not, for instance, stem:[A], stem:[B], stem:[C], etc. or stem:[a], stem:[b], stem:[c], etc. The main symbols used in drawings from ISO 80000-3 are given in <<table_10>>.
+
+[[table_10]]
+.Main symbols used in drawings from ISO 80000-3
+[cols="2",options="header"]
+|===
+| Name | Symbols
+
+| Length | stem:[l], stem:[L]
+| Breadth | stem:[b], stem:[B]
+| Height | stem:[h], stem:[H]
+| Thickness | stem:[d], stem:[delta]
+| Radius | stem:[r], stem:[R]
+| Radial distance | stem:[r_Q], stem:[rho]
+| Diameter | stem:[d], stem:[D]
+| Length of path | stem:[s]
+| Distance | stem:[d], stem:[r]
+| Cartesian coordinates | stem:[x, y, z]
+| Position vector | stem:[bb(r)]
+| Displacement | stem:[bb(Delta r)]
+| Radius of curvature | stem:[rho]
+|===
+
+
+Lettering on technical product documentation shall be in accordance with the ISO 3098 series. Italic letters shall be used for variable quantities.
+
+The vertical (upright) style shall be used for all other lettering.
+
+When all units for a quantity are the same, a suitable statement (e.g. "`Dimensions in millimetres`") shall be placed above the right-hand corner of the figure.
+
+See <<figure_5>>.
+
+[[figure_5]]
+.Example illustrating the elements of a figure
+====
+[%unnumbered]
+image::fig5.png[]
+
+*Key*
+
+1:: mandrel shank
+2:: blind rivet head
+
+The mandrel shall be designed such that the blind rivet end deforms during installation, and the shank can expand.
+
+NOTE: Figure # illustrates a type A rivet head.
+
+^a^ The break area shall be milled.
+
+^b^ The mandrel head is commonly chromium plated.
+====
+
+
+[[scls_28-5-3]]
+==== Key and labels to figures
+
+Figures shall be language neutral in order to facilitate translation, using key references or figure footnotes (see <<figure_5>>) instead of textual descriptions (in accordance with ISO 6433).
+
+In graphs (see <<figure_6>>), labelling of curves, lines, etc. shall be replaced by key references. Labelling on the axes shall not be replaced by numerical key references, which could be confused with numeric values.
+
+
+[[figure_6]]
+.Example of a graph
+====
+[[figure_6a]]
+image::fig6.jpg[]
+
+*Key*
+
+stem:[w]:: mass fraction of gelatinized kernels, expressed in per cent
+	
+stem:[t]:: cooking time, expressed in minutes
+
+stem:[t_{90}]:: time required to gelatinize stem:[90 %] of the kernels
+
+P:: point of the curve corresponding to a cooking time of stem:[t_{90}]
+
+NOTE: These results are based on a study carried out on three different types of kernel.
+
+^a^ The time stem:[t_{90}] was estimated to be 18,2 min for this example.
+====
+
+
+In flowcharts and organigrams, the use of textual descriptions is permitted (see <<scls_28-6-4>>).
+
+
+[[scls_28-5-4]]
+==== Notes to figures
+
+A single note in a figure shall be preceded by "`NOTE`", placed at the beginning of the first line of the text of the note. See <<figure_5>>. When several notes occur in the same figure, they shall be designated "`NOTE 1`", "`NOTE 2`", "`NOTE 3`", etc. The numbering restarts for each new figure.
+
+Notes to figures shall not contain requirements or any information considered indispensable for the use of the document. Any requirements relating to the content of a figure shall be given in the text, in a footnote to the figure or as a paragraph between the figure and its title. Notes to figures do not need to be referred to.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[scls_28-5-5]]
+==== Footnotes to figures
+
+Footnotes to figures are numbered independently from footnotes to the text.
+
+Footnotes to figures shall be distinguished by superscript lower case letters, starting with "`a`". The footnotes shall be referred to in the figure by inserting the same superscript lower case letter. See <<figure_5>>.
+
+Footnotes to figures may contain requirements.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[scls_28-6]]
+=== Types of figure
+
+[[scls_28-6-1]]
+==== Mechanical engineering drawings
+
+Mechanical engineering drawings shall be prepared in accordance with relevant ISO standards (listed in <<scls_28-5-1>>). Different views, details and sections of a component or multicomponent object shall be presented in conformity with ISO 128-30, ISO 128-34, ISO 128-40 and ISO 128-44. Different views, details and sections of a component or multicomponent object shall not be presented as subfigures.
+
+See <<figure_7>>.
+
+
+[[figure_7]]
+.Example of a mechanical engineering drawing
+image::fig7.jpg[]
+
+
+[[scls_28-6-2]]
+==== Graphical symbols
+
+Graphical symbols for use on equipment shall be in accordance with IEC 60417 and ISO 7000. Public information symbols shall be in accordance with ISO 7001. Safety signs shall be in accordance with ISO 7010.
+
+For purposes of consistency and coherence, IEC TC 3, IEC SC 3C and ISO/TC 145 are responsible for the standardization of graphical symbols and safety signs. If an adequate symbol or safety sign does not exist in the IEC and ISO databases, contact IEC TC 3, IEC SC 3C and ISO/TC 145 in order to register a standardized symbol.
+
+<<table_11>> gives an overview of the categories of graphical symbol.
+
+
+[[table_11]]
+.Categories of graphical symbol
+[cols="6",options="header"]
+|===
+| Category of graphical symbol
+| Basic message
+| Location
+| Design principles
+| Overview
+| Responsible committee
+
+h| Safety signs (symbols)
+| Related to safety and health of persons
+| In workplaces and public areas
+| ISO 3864-1 +
+ISO 3864-3
+| ISO 7010
+| ISO/TC 145/SC 2
+
+h| Product safety labels
+| Related to safety and health of persons
+| On products
+| ISO 3864-2 +
+ISO 3864-3
+| ―
+| ISO/TC 145/SC 2
+
+h| Graphical symbols for use on equipment
+| Related to equipment
+| On equipment
+| IEC 80416-1 +
+ISO 80416-2 +
+IEC 80416-3
+| ISO 7000 +
+IEC 60417
+| ISO/TC 145/SC 3 +
+IEC/SC 3C
+
+h| Technical product documentation symbols
+| (Product representation)
+| Technical product documentation +
+(drawings, diagrams, etc.)
+| ISO 81714-1
+| ISO 14617 +
+IEC 60617
+| ISO/TC 10/SC 10 +
+IEC TC 3
+|===
+
+
+See <<figure_8>>.
+
+[[figure_8]]
+.Example of a graphical symbol
+====
+[[figure_8a]]
+.IEC 60417-5012
+image::fig8.jpg[]
+====
+
+
+[[scls_28-6-3]]
+==== Circuit diagrams and connection diagrams
+
+Diagrams, such as circuit diagrams and connection diagrams, for example for test circuits, shall be prepared in accordance with IEC 61082-1. Graphical symbols used in schematic diagrams shall be in accordance with IEC 60617 and ISO 14617. Reference designations shall be in accordance with IEC 81346. Signal designations shall be in accordance with IEC 61175-1. See <<figure_9>>.
+
+
+[[figure_9]]
+.Example of a circuit diagram
+====
+[[figure_9a]]
+image::fig9.jpg[]
+
+*Key*
+
+[cols="2",options="unnumbered"]
+|===
+a| *Components*
+
+C1:: capcitor stem:[C = 0.5 "unitsml(uF)"]
+C2:: capacitor stem:[C = 0.5 "unitsml(uF)"]
+K1:: relay
+Q1:: RCCB under test (with terminals L, N and PE)
+R1:: inductor stem:[L = 0.5 "unitsml(uH)"]
+R2:: resistor stem:[R = 2.5 "unitsml(Ohm)"]
+R3:: resistor stem:[R = 25 "unitsml(Ohm)"]
+S1:: manual control switch
+Z1:: filter
+
+a| *Connections and supplies*
+
+L, N:: supply voltage with neutral
+L+, L-:: DC supply voltage for the test circuit
+|===
+
+^a^ Connection to be made if the tested object has a terminal for PE.
+====
+
+
+[[scls_28-6-4]]
+==== Flowcharts
+
+Flowcharts shall be prepared in accordance with ISO 5807. See <<figure_10>>.
+
+
+[[figure_10]]
+.Example of a flowchart
+image::fig10.jpg[]
+

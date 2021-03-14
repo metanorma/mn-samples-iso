@@ -1,0 +1,188 @@
+
+[[cls_18]]
+== Measurement and test methods
+
+[[scls_18-1]]
+=== Purpose or rationale
+
+Measurement and test methods specify the procedure for determining the values of characteristics or for checking conformity to stated requirements. Using a standardized test method ensures comparability of the results.
+
+Measurement and test methods may be presented as separate clauses, or be incorporated in the requirements, or be presented as annexes (see <<cls_20>>) or as separate parts (see <<scls_6-3>>). A measurement and test method shall be prepared as a separate document if it is likely to be referred to in a number of other documents.
+
+
+[[scls_18-2]]
+=== Normative or informative?
+
+The measurement and test methods clause is a normative element.
+
+
+[[scls_18-3]]
+=== Mandatory, conditional or optional?
+
+The measurement and test methods clause is a conditional element.
+
+
+[[scls_18-4]]
+=== Numbering and subdivision
+
+Measurement and test methods may be subdivided in the following order (where appropriate):
+
+. principle;
+. reagents and materials (see <<scls_18-5-3>>);
+. apparatus (see <<scls_18-5-4>>);
+. preparation and preservation of test samples and test pieces;
+. procedure;
+. expression of results, including method of calculation and precision of the test method, and, in ISO, the measurement uncertainty;
+. test report.
+
+When health, safety or environmental warnings are needed, these should be placed next to the relevant content in the test method. General warnings should be placed at the beginning of the test method.
+
+====
+Example of a general warning: +
+WARNING -- The use of this document can involve hazardous materials, operations and equipment. It does not purport to address all of the safety or environmental problems associated with its use.
+====
+
+====
+Examples of specific warnings: +
+WARNING -- Cyanide solutions are highly toxic. Appropriate measures shall be taken to avoid ingestion. Care shall be taken in the disposal of these solutions. +
+WARNING -- Too high a temperature increase can cause a vigorous, exothermic reaction in the digestion solution with a high pressure increase and blow-off of the security valve. Losses of analytes are possible. +
+WARNING -- This test involves handling of hot apparatus. In addition, for some iron ores, spitting can occur when loading the sample into the hot container. +
+WARNING -- The reagents used in this method are strongly corrosive and partly very toxic. Safety precautions are absolutely necessary, not only due to the strong corrosive reagents, but also to high temperature and high pressure.
+====
+
+
+
+[[scls_18-5]]
+=== Specific principles and rules
+
+[[scls_18-5-1]]
+==== General
+
+If appropriate, tests shall be identified as type tests, performance tests, sampling tests, routine tests, etc.
+
+The document shall specify the sequence of testing if the sequence can influence the results.
+
+Requirements, sampling and test methods are interrelated elements of product standardization and should be considered together even though the different elements may appear in separate clauses in a document, or in separate documents.
+
+When a specific sampling method is necessary, this shall be clearly stated in the test method.
+
+When drafting test methods, it is important to take into account documents for general test methods and of related tests for similar characteristics in other documents.
+
+Non-destructive test methods shall be chosen whenever they can replace, within the same level of confidence, destructive test methods.
+
+Test methods should conform to the metrological principles concerning validation, measurement traceability and estimation of measurement uncertainty described in ISO/IEC 17025:2017, 7.2, 7.6 and 7.7. Other documents may be applicable: ISO/IEC Guide 98-3 (_GUM:1995_) and ISO/IEC Guide 99 (_VIM_). Requirements related to testing equipment should comply with the provisions concerning accuracy and calibration specified in ISO/IEC 17025:2017, 6.5.
+
+For guidance on the drafting of methods of chemical analysis, see ISO 78-2. Much of ISO 78-2 is also applicable to test methods for products other than chemical products.
+
+Documents specifying test methods involving the use of hazardous products, apparatus or processes shall include a general warning and appropriate specific warnings. For recommended wording, see ISO/IEC Guide 51. For guidance on the appropriate location of such warnings, see ISO 78-2.
+
+A document which specifies test methods shall not imply any obligation to perform any kind of test. It shall merely state the method by which the test, if required and referred to (e.g. in the same or another document, in a regulation, or in contracts), is to be performed.
+
+If a statistical method for the assessment of the conformity of a product, process or service is specified in the document, any statements of compliance with the document only relate to the conformity of the population or the lot.
+
+If it is specified in the document that every single item is to be tested in accordance with the document, any statements concerning the conformity of the product to the document mean that every single item has been tested and that each has fulfilled the corresponding requirements.
+
+If test methods are in use which differ from that most acceptable for general application, this shall not be a reason for not specifying the most acceptable in a document.
+
+
+[[scls_18-5-2]]
+==== Numbering
+
+In order to facilitate cross-referencing, individual reagents, materials and apparatus shall be numbered, even if there is only one.
+
+In the associated text where the procedure is given, a cross-reference to the listed item may be provided.
+
+====
+Carefully remove the membrane filter (5.6) from the stand (5.1) with disinfected forceps (5.12).
+====
+
+
+[[scls_18-5-3]]
+==== Reagents and materials
+
+The title shall be "`Reagents`" or "`Materials`" or "`Reagents and materials`", as appropriate.
+
+It is a conditional element giving a list of any reagents and materials used.
+
+The content of a reagents and materials clause will usually comprise an optional introductory text together with a list detailing one or more reagents and materials.
+
+The introductory text shall be used only to specify general provisions to which cross-reference is not made. Any cross-referred item shall not be included in this text but shall be listed as a distinct entry as described below.
+
+NOTE: The introductory text is not a hanging paragraph (see <<scls_22-3-3>>), as the clause consists of a list of reagents and materials and not subclauses.
+
+The following example shows the presentation style used (for further examples of drafting, see ISO 78-2).
+
+====
+*5   Reagents* +
+Use only reagents of recognized analytical grade and only distilled water or water of equivalent purity. +
+*5.1    Cleaning medium*, for example methanol or water containing a few drops of liquid detergent.
+====
+
+
+[[scls_18-5-4]]
+==== Apparatus
+
+The apparatus subclause is a conditional element giving a list of the apparatus used in the document. Wherever possible, equipment produced by a single manufacturer should not be specified. Where such equipment is not readily available, this clause shall include such specifications for the equipment as to ensure that comparable testing can be conducted by all parties. See also <<cls_31>> regarding the use of trade names and trademarks.
+
+The content of an apparatus clause will usually comprise an optional introductory text together with a list detailing one or more pieces of apparatus.
+
+The introductory text shall be used only to specify general provisions to which cross-reference is not made. Any item cross-referred to shall not be included in this text but shall be listed as a distinct entry as described below.
+
+NOTE: The introductory text is not a hanging paragraph (see <<scls_22-3-3>>), as the clause consists of a list of apparatus and not subclauses.
+
+The following example shows the presentation style used (for further examples of drafting, see ISO 78-2).
+
+====
+*A.2   Apparatus* +
+The usual laboratory apparatus and, in particular, the following.
+
+*A.2.1    Sample divider*, consisting of a conical sample divider or multiple-slot sample divider with a distribution system, e.g. ‘‘Split-it-right’’ sample divider, such as that shown in Figure A.1.
+
+*A.2.2    Sieve*, with round perforations of diameter 1,4 mm.
+
+*A.2.3    Tweezers*.
+
+*A.2.4    Scalpel*.
+
+*A.2.5    Paintbrush*.
+
+*A.2.6    Steel bowls*, of diameter 100 mm ± 5 mm; seven per test sample.
+
+*A.2.7    Balance*, which can be read to the nearest 0,01 g.
+====
+
+
+[[scls_18-5-5]]
+==== Alternative test methods
+
+If more than one adequate test method exists for a characteristic, only one should in principle be specified. If, for any reason, more than one test method is to be specified, a referee test method (often called reference test method) may be identified in the document to resolve doubts or dispute.
+
+
+[[scls_18-5-6]]
+==== Choice of test methods according to accuracy
+
+When choosing a test method, consider the accuracy of the method relative to the required value and tolerance of the characteristic being assessed.
+
+The chosen test method shall provide an unambiguous determination of whether the sample meets the specified requirement.
+
+When it is technically necessary, each test method shall incorporate a statement as to its limit of accuracy.
+
+
+[[scls_18-5-7]]
+==== Test equipment
+
+If, in preparing a document related to a product, it is necessary to standardize some kind of testing equipment that is likely to be used for testing other products as well, it shall be dealt with in a separate document, prepared in consultation with the committee dealing with such equipment.
+
+
+[[scls_18-5-8]]
+==== Test report
+
+This clause specifies which information is to be included in the test report. The clause shall require information to be given on at least the following aspects of the test:
+
+* the sample;
+* the International Standard used (including its year of publication);
+* the method used (if the standard includes several);
+* the result(s), including a reference to the clause which explains how the results were calculated;
+* any deviations from the procedure;
+* any unusual features observed;
+* the date of the test.

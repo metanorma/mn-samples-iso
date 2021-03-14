@@ -1,0 +1,233 @@
+
+[[cls_10]]
+== Referencing
+
+[[scls_10-1]]
+=== Purpose or rationale
+
+The entire collection of International Standards published by ISO and IEC is interrelated and forms a system whose integrity has to be preserved.
+
+Therefore, references to particular pieces of text should be used instead of repetition of the original source material. Repetition introduces the risk of error or inconsistency and increases the length of the document. However, if it is considered necessary to repeat such material, its source shall be referenced precisely.
+
+Imprecise references such as "`the following clause`" or "`the figure above`" shall not be used.
+
+References can be made
+
+* to other parts of the document (e.g. a clause, table or figure - see <<scls_10-6>>), or
+* to other documents or publications (see <<scls_10-2>>).
+
+References can be
+
+* informative (see <<cls_21>>), or
+* normative (see <<cls_15>>).
+
+References can be
+
+* dated (see <<scls_10-5>>), or
+* undated (see <<scls_10-4>>).
+
+
+====
+It is often useful to copy relevant terminological entries into the Terms and definitions clause, in which case the source is cited:
+
+[align=left]
+*3.1* +
+*asset* +
+item, thing or entity that has potential or actual value to an organization +
+&#x200c;[SOURCE: ISO 55000:2014, 3.2.1]
+====
+
+
+====
+Material copied from an external document:
+
+[%unnumbered]
+image::fig_a-6.jpg[]
+
+*Key*
+
+1:: life; maintenance time
+
+SOURCE: DISSADO, L.A., FOTHERGILL, J.C (1992)^[5]^, reproduced with the permission of the authors
+
+[align=center]
+*Figure A.6 -- Property versus time behaviour, detection of threshold (end point, PL) and maintenance time*
+====
+
+
+For management system standards, the rules of the ISO/IEC Directives, Part 1, Consolidated ISO Supplement apply.
+
+
+[[scls_10-2]]
+=== Permitted referenced documents
+
+Normatively referenced documents shall be documents published by ISO or IEC. In the absence of appropriate ISO or IEC documents, those published by other bodies may be listed as normative references provided that
+
+. the referenced document is recognized by the committee as having wide acceptance and authoritative status,
+. the committee has the agreement of the authors or publishers (where known) of the referenced document for its inclusion as a reference,
+. the authors or publishers (where known) have also agreed to inform the committee of their intention to revise the referenced document and what points the revision will affect,
+. the document is available under commercial terms which are fair, reasonable and non-discriminatory, and
+. [[item_10-2-e]]any patented item required for the implementation of the ISO and/or IEC deliverable in the referenced document is available to be licensed in accordance with subclause 2.14 of the ISO/IEC Directives, Part 1, 2018, "`Reference to patented items`".
+
+Informative reference may be made to any other type of document. Informative references shall be listed in the Bibliography.
+
+ISO and IEC normatively referenced documents shall have reached at least the enquiry stage (40.20 DIS or CDV).
+
+The committees shall validate all referenced documents when a document is revised.
+
+The normative references list shall not include the following:
+
+* referenced documents which are not publicly available (in this context, "`publicly available`" means published documents which are available free of charge, or available commercially under reasonable and non-discriminatory terms to any user);
+* referenced documents which are cited only informatively as bibliographic or background material.
+
+
+[[scls_10-3]]
+=== Presentation of references
+
+Documents shall be referred to by their number, and if applicable, date of publication and title.
+
+====
+ISO/TR 12353-3:2013, _Road vehicles -- Traffic accident analysis -- Part 3: Guidelines for the interpretation of recorded crash pulse data to determine impact severity_ +
+ISO 14044:2006, _Environmental management -- Life cycle assessment -- Requirements and guidelines_ +
+ISO 17101-2:2012, _Agricultural machinery -- Thrown-object test and acceptance criteria -- Part 2: Flail mowers_ +
+ISO 14617 (all parts), _Graphical symbols for diagrams_ +
+ISO/IEC 17025:2017, _General requirements for the competence of testing and calibration laboratories_ +
+IEC 61175-1, _Industrial systems, installations and equipment and industrial products -- Designation of signals -- Part 1: Basic rules_
+====
+
+
+For other referenced documents and information resources (printed, electronic or otherwise), the relevant rules set out in ISO 690 shall be followed.
+
+====
+Printed book or monograph:
+
+{nbsp}GREAT BRITAIN. Data Protection Act 1984. Schedule 1, c35, Part 1, Clause 7. London: HMSO
+
+Electronic book or monograph:
+
+{nbsp}INTERNET ENGINEERING TASK FORCE (IETF). RFC 3979: Intellectual Property Rights in IETF Technology [online]. Edited by S. Bradner. March 2005 [viewed 2015-12-21]. Available at http://www.ietf.org/rfc/rfc3979.txt
+
+Contribution to printed serial publication:
+
+{nbsp}AMAJOR, L.C. The Cenomanian hiatus in the Southern Benue Trough, Nigeria. Geological Magazine. 1985, 122(1), 39-50. ISSN 0016-7568
+
+Contribution to online serial publication:
+
+{nbsp}STRINGER, John A., et al. Reduction of RF-induced sample heating with a scroll coil resonator structure for solid-state NMR probes. Journal of Magnetic Resonance [online]. Elsevier. March 2005, 173(1), 40-48 [viewed 2018-04-17]. Available at: http://dx.doi.org/10.1016/j.jmr.2004.11.015
+====
+
+For online referenced documents, information sufficient to identify and locate the source shall be provided. Preferably, the primary source of the referenced document should be cited, in order to ensure traceability.
+
+The information shall include the method of access to the referenced document and the full network address, with the same punctuation and use of upper case and lower case letters as given in the source (see ISO 690).
+
+Furthermore, the referenced document should be expected to remain valid for the expected life of the referring document.
+
+
+====
+ISO/IEC Directives, IEC Supplement. International Electrotechnical Commission. Available at http://www.iec.ch/members_experts/refdocs/ +
+Statutes and directives. International Electrotechnical Commission, (C)2004-2010 [viewed 2011-02-09]. Available at http://www.iec.ch/members_experts/refdocs/ +
+ISO 7000/IEC 60417 [online database], Graphical symbols for use on equipment [viewed 2016-04-18]. Available at http://www.graphical-symbols.info/
+====
+
+
+[[scls_10-4]]
+=== Undated references
+
+Undated references may be made:
+
+* only to a complete document;
+* if it will be possible to use all future changes of the referenced document for the purposes of the referring document;
+* when it is understood that the reference will include all amendments to and revisions of the referenced document.
+
+The date of publication or dash (see <<scls_10-5>>) shall not be given for undated references. When an undated reference is to all parts of a document, the standard identifier shall be followed by "`(all parts)`".
+
+In the Normative references clause or Bibliography, use the following forms to list undated references.
+
+====
+[cols="2",options="unnumbered"]
+|===
+| _IEC 60335 (all parts), Household and similar electrical appliances -- Safety_ + | Reference to all parts
+| _IEC 60335-1, Household and similar electrical appliances -- Safety -- Part 1: General requirements_ | Reference to a single part
+|===
+====
+
+In the text, use the following forms to make undated references to a document.
+
+====
+"`… use the methods specified in ISO 128-20 and ISO 80000-1 …`"; +
+"`… IEC 60417 shall be used…`".
+====
+
+
+[[scls_10-5]]
+=== Dated references
+
+Dated references are references to
+
+* a specific edition, indicated by the date of publication, or
+* a specific enquiry or final draft, indicated by a dash.
+
+Normative references to enquiry or final drafts are potentially risky, and are strongly discouraged, as the referenced document can change before publication.
+
+For dated references, each shall be given with its year of publication, or, in the case of enquiry or final drafts, with a dash together with a footnote, such as "`Under preparation`".
+
+The date of publication shall be indicated by the year or, for documents for which more than one edition of the document or an element within the document will be published in the same calendar year, the year of publication and the month (and, where necessary, the day).
+
+If the referenced document is amended or revised, the dated references to it will need to be reviewed to assess whether they should be updated or not.
+
+In this context, a part is regarded as a separate document.
+
+Within the text, references to specific elements (e.g. clauses or subclauses, tables and figures) of a referenced document shall always be dated, because subsequent editions could result in the renumbering of such elements within the referenced document.
+
+In the Normative references clause or Bibliography, use the following forms to list dated references.
+
+
+====
+[cols="2",options="unnumbered"]
+|===
+| IEC 62271-1:2007, _High-voltage switchgear and controlgear -- Part 1: Common specifications_ | Dated reference to a standard
+| IEC 62271-1:2007/AMD1:2011, _High-voltage switchgear and controlgear -- Part 1: Common specifications_ | Dated reference to an amendment (using IEC conventions)
+| ISO 7131:2009/Amd 1:2017, _Earth-moving machinery -- Loaders -- Terminology and commercial specifications -- Amendment 1_ | Dated reference to an amendment (using ISO conventions)
+|===
+====
+
+In the text, use the standard identifier rather than the title when referring to an ISO or IEC publication. The titles are usually only written out in full in the Normative references clause and in the Bibliography.
+
+In the text, use the following forms to make dated references to a document.
+
+====
+[cols="2",options="unnumbered"]
+|===
+| … as specified in IEC 64321-4:1996, Table 1, … | Dated reference to a specific table in another published document
+| … perform the tests given in IEC 60068-1:1988 … | Dated reference to a published document
+| … use symbol IEC 60417-5017:2002-10… | Dated reference to an entry within a database standard
+| … according to IEC 62271-1:2007/AMD1:2011 … | Dated reference to an amendment (using IEC conventions)
+| … ISO 1234:—footnote:[Under preparation. Stage at the time of publication: ISO/DIS 1234:2014.], lists the test methods for… | Dated reference to an enquiry or final draft. (Typically, the footnote is inserted the first time the reference appears.)
+|===
+====
+
+====
+Dated versus undated references:
+
+[cols="2",options="unnumbered"]
+|===
+| The test methods of IEC 61300-2-2 shall be used. | This is a reference to a complete document and it is therefore undated
+| The dimensions shall be in accordance with IEC 60793-2-50:2012, Table B.1. | This is a reference to a specific element in the referenced document and it is therefore dated
+|===
+====
+
+
+[[scls_10-6]]
+=== References in a document to itself
+
+References shall not be made to page numbers, since pagination can change if the referenced document is published in different formats, or if the document is revised.
+
+For an individual document, the form "`this document`" shall be used.
+
+For a document published in separate parts, the standard identifier followed by the phrase "`(all parts)`" shall be used to refer to the entire series.
+
+
+[example]
+The formulae in ISO 10300 (all parts) are intended to establish uniformly acceptable methods for calculating the pitting resistance and bending strength of...
+
+Such undated references are understood to include all amendments and revisions to the referenced document.

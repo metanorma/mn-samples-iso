@@ -1,0 +1,94 @@
+
+[[cls_15]]
+== Normative references
+
+[[scls_15-1]]
+=== Purpose or rationale
+
+The Normative references clause lists, for information, those documents which are cited in the text in such a way that some or all of their content constitutes requirements of the document.
+
+Information on how these references apply is found in the place where they are cited in the document, and not in the Normative references clause.
+
+
+[[scls_15-2]]
+=== Normative or informative?
+
+The Normative references clause is an informative element.
+
+The list of references it contains is given for the convenience of the user, who can then consult the place where they are cited in the document to understand and assess how they apply.
+
+
+[[scls_15-3]]
+=== Mandatory, conditional or optional?
+
+The Normative references clause is a mandatory element, even if it contains no normative references.
+
+
+[[scls_15-4]]
+=== Numbering and subdivision
+
+The Normative references clause shall be numbered as Clause 2. It shall not be subdivided.
+
+Referenced documents listed are not numbered.
+
+
+[[scls_15-5]]
+=== Specific principles and rules
+
+[[scls_15-5-1]]
+==== General
+
+The Normative references clause shall only appear once in each document.
+
+[[scls_15-5-2]]
+==== Introductory wording
+
+The list of normative references shall be introduced by the following wording:
+
+____
+
+The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.
+____
+
+
+The above wording is also applicable to a part of a multipart document.
+
+If no references exist, include the following phrase below the clause title:
+
+____
+
+There are no normative references in this document.
+____
+
+
+[[scls_15-5-3]]
+==== Referencing
+
+Only references cited in the text in such a way that some or all of their content constitutes requirements of the document shall be listed in the Normative references clause.
+
+====
+In the following case, the citation is normative and the document shall be listed in the Normative references clause:
+____
+Connectors shall conform to the electrical characteristics specified by IEC 60603-7-1.
+____
+
+In the following case, the citation does not express a requirement so the document cited is not a normative reference. Instead, the document cited shall be listed in the Bibliography:
+____
+Wiring of these connectors should take into account the wire and cable diameter of the cables defined in IEC 61156.
+____
+====
+
+<<table_3>> provides the verbal forms and expressions that make a citation normative.
+
+When citing other documents, avoid using potentially ambiguous expressions, where it is unclear whether a requirement or a recommendation is being expressed. For example, the expressions "`see …`" and "`refer to …`" should only be used informatively.
+
+====
+In the following case, the reference is informative.
+____
+For additional information on communication, see ISO 14063.
+____
+====
+
+The types of document which may be referenced are given in <<scls_10-2>>.
+
+References listed may be dated or undated. See <<scls_10-4>> and <<scls_10-5>>.

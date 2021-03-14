@@ -1,0 +1,199 @@
+
+[[cls_3]]
+== Terms and definitions
+
+=== Document type
+
+[[scls_3-1-1]]
+==== document
+
+ISO or IEC standardization draft or publication
+
+[example]
+term:[International Standards,International Standard], term:[Technical Specifications,Technical Specification], term:[Publicly Available Specifications,Publicly Available Specification], term:[Technical Reports,Technical Report] and term:[Guides,Guide].
+
+==== standard
+
+term:[document], established by consensus and approved by a recognized body, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context
+
+NOTE: Standards should be based on the consolidated results of science, technology and experience, and aimed at the promotion of optimum community benefits.
+
+[.source]
+<<ISO-IEC_guide-2,clause 3.2>>
+
+
+==== international standard
+
+term:[standard] that is adopted by an international standardizing/standards organization and made available to the public
+
+[.source]
+<<ISO-IEC_guide-2,clause 3.2.1.1>>
+
+
+==== International Standard
+
+term:[international standard] where the international standards organization is ISO or IEC
+
+
+[[scls_3-1-5]]
+==== Technical Specification
+alt:[TS]
+
+term:[document] published by ISO or IEC for which there is the future term:[possibility] of agreement on an term:[International Standard], but for which at present
+
+* the required support for approval as an International Standard cannot be obtained,
+* there is doubt on whether consensus has been achieved,
+* the subject matter is still under technical development, or
+* there is another reason precluding immediate publication as an International Standard
+
+NOTE: The content of a Technical Specification, including its annexes, may include term:[requirements,requirement].
+
+NOTE: A Technical Specification is not allowed to conflict with an existing International Standard.
+
+NOTE: Competing Technical Specifications on the same subject are permitted.
+
+NOTE: Prior to mid-1999, Technical Specifications were designated as term:[Technical Reports,Technical Report] of type 1 or 2.
+
+
+[[scls_3-1-6]]
+==== Publicly Available Specification
+alt:[PAS]
+
+term:[document] published by ISO or IEC to respond to an urgent market need, representing either
+
+. a consensus in an organization external to ISO or IEC, or
+. a consensus of the experts within a working group
+
+NOTE: A Publicly Available Specification is not allowed to conflict with an existing term:[International Standard].
+
+NOTE: Competing Publicly Available Specifications on the same subject are permitted.
+
+
+[[scls_3-1-7]]
+==== Guide
+
+term:[document] published by ISO or IEC giving rules, orientation, advice or term:[recommendations,recommendation] relating to international standardization
+
+NOTE: Guides can address issues of interest to all users of documents published by ISO and IEC.
+
+
+[[scls_3-1-8]]
+==== Technical Report
+alt:[TR]
+
+term:[document] published by ISO or IEC containing collected data of a different kind from that normally published as an term:[International Standard] or term:[Technical Specification]
+
+NOTE: Such data may include, for example, data obtained from a survey carried out among the national bodies, data on work in other international organizations or data on the "`term:[state of the art]`" in relation to standards of national bodies on a particular subject.
+
+NOTE: Prior to mid-1999, Technical Reports were designated as Technical Reports of type 3.
+
+
+=== Elements of a document
+
+==== normative element
+
+element that describes the scope of the term:[document] or sets out term:[provisions,provision]
+
+==== informative element
+
+element intended to assist the understanding or use of the term:[document] or that provides contextual information about its content, background or relationship with other documents
+
+==== mandatory element
+
+element that has to be present in a term:[document]
+
+[example]
+The Scope is an example of a mandatory element.
+
+==== conditional element
+
+element that is present depending on the term:[provisions,provision] of the particular term:[document]
+
+[example]
+The symbols and abbreviated terms clause is an example of a conditional element.
+
+==== optional element
+
+element that the writer of a term:[document] may choose to include or not
+
+[example]
+The Introduction is an example of an optional element.
+
+
+=== Provisions
+
+==== provision
+
+expression in the content of a normative term:[document] that takes the form of a term:[statement], an instruction, a term:[recommendation] or a term:[requirement]
+
+NOTE: These forms of provision are distinguished by the form of wording they employ; e.g. instructions are expressed in the imperative mood, recommendations by the use of the auxiliary "`should`" and requirements by the use of the auxiliary "`shall`".
+
+[.source]
+<<ISO-IEC_guide-2,clause 7.1>>
+
+==== statement
+
+expression, in the content of a term:[document], that conveys information
+
+NOTE: <<table_5>> specifies the verbal forms for indicating a course of action permissible within the limits of the document. <<table_6>> specifies the verbal forms to be used for statements of term:[possibility] and term:[capability].
+
+
+[[scls_3-3-3]]
+==== requirement
+
+expression, in the content of a term:[document], that conveys objectively verifiable criteria to be fulfilled and from which no deviation is permitted if conformance with the document is to be claimed
+
+NOTE: Requirements are expressed using the verbal forms specified in <<table_3>>.
+
+
+[[scls_3-3-4]]
+==== recommendation
+
+expression, in the content of a term:[document], that conveys a suggested possible choice or course of action deemed to be particularly suitable without necessarily mentioning or excluding others
+
+NOTE: Recommendations are expressed using the verbal forms specified in <<table_4>>.
+
+NOTE: In the negative form, a recommendation is the expression that a suggested possible choice or course of action is not preferred but it is not prohibited.
+
+
+[[scls_3-3-5]]
+==== permission
+
+expression, in the content of a term:[document], that conveys consent or liberty (or opportunity) to do something
+
+NOTE: Permissions are expressed using the verbal forms specified in <<table_5>>.
+
+
+[[scls_3-3-6]]
+==== possibility
+
+expression, in the content of a term:[document], that conveys expected or conceivable material, physical or causal outcome
+
+NOTE: Possibility is expressed using the verbal forms specified in <<table_6>>.
+
+
+[[scls_3-3-7]]
+==== capability
+
+expression, in the content of a term:[document], that conveys the ability, fitness, or quality necessary to do or achieve a specified thing
+
+NOTE: Capability is expressed using the verbal forms specified in <<table_6>>.
+
+
+[[scls_3-3-8]]
+==== external constraint
+
+constraint or obligation on the user of the term:[document] (e.g. laws of nature or particular conditions existing in some countries or regions) that is not stated as a term:[provision] of the document
+
+NOTE: External constraints are referred to using the verbal form specified in <<table_7>>.
+
+NOTE: Use of the word "`must`" does not imply that the external constraint referred to is a term:[requirement] of the document.
+
+
+=== state of the art
+
+developed stage of technical term:[capability] at a given time as regards products, processes and services, based on the relevant consolidated findings of science, technology and experience
+
+[.source]
+<<ISO-IEC_guide-2,clause 1.4>>
+

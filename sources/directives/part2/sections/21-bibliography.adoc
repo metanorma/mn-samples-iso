@@ -1,0 +1,47 @@
+
+[[cls_21]]
+== Bibliography (concept)
+
+[[scls_21-1]]
+=== Purpose or rationale
+
+The Bibliography lists, for information, those documents which are cited informatively in the document, as well as other information resources.
+
+
+[[scls_21-2]]
+=== Normative or informative?
+
+The Bibliography is an informative element. It shall not contain requirements, permissions or recommendations.
+
+[[scls_21-3]]
+=== Mandatory, conditional or optional?
+
+The Bibliography is a conditional element. Its inclusion is dependent on whether informative references are present in the document.
+
+[[scls_21-4]]
+=== Numbering and subdivision
+
+The Bibliography shall not have a clause number. It may be subdivided in order to group the referenced documents under descriptive headings. Such headings shall not be numbered.
+
+Referenced documents and information resources listed may be numbered.
+
+
+[[scls_21-5]]
+=== Specific principles and rules
+
+The Bibliography, if present, shall appear after the last annex.
+
+Referenced documents and information resources listed can be dated or undated. See <<scls_10-4>> and <<scls_10-5>>.
+
+
+====
+In the following case, the citation is not normative but informative. The document cited shall be listed not in the Normative references clause but in the Bibliography:
+____
+Wiring of these connectors should take into account the wire and cable diameter of the cables defined in IEC 61156.
+____
+
+In the following case, the citation is normative and the document shall be listed in the Normative references clause:
+____
+Connectors shall conform to the electrical characteristics specified by IEC 60603-7-1.
+____
+====

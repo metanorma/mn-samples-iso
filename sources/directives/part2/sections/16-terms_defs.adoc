@@ -1,0 +1,333 @@
+
+[[cls_16]]
+== Terms and definitions
+
+[[scls_16-1]]
+=== Purpose or rationale
+
+The Terms and definitions clause provides definitions necessary for the understanding of certain terms used in the document.
+
+If necessary, terminological entries can be supplemented by information (including requirements) given in the notes to entry.
+
+
+====
+*3.6* +
+*moisture content mass by volume* +
+mass of evaporable water divided by volume of dry material +
+Note 1 to entry: The method of evaporating water from a moist material shall be stated when "`moisture content mass by volume`" is used.
+====
+
+Terminology may take the form of an independent terminology standard (a vocabulary, nomenclature, or list of equivalent terms in different languages) or be included in a Terms and definitions clause in a document that also deals with other aspects.
+
+
+[[scls_16-2]]
+=== Normative or informative?
+
+The Terms and definitions clause is a normative element. It defines the way in which the listed terms shall be interpreted.
+
+
+[[scls_16-3]]
+=== Mandatory, conditional or optional?
+
+The Terms and definitions clause is a mandatory element, even if it contains no terminological entries.
+
+
+[[scls_16-4]]
+=== Numbering and subdivision
+
+The Terms and definitions clause shall be numbered as Clause 3. It may be subdivided. Terminological entries shall be numbered. The numbering and structure shall be identical in all language versions.
+
+NOTE: These numbers are not considered as subclause numbers.
+
+====
+&nbsp;
+
+*3 Terms and definitions*
+
+For the purposes of this document, the following terms and definitions apply.
+
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+* ISO Online browsing platform: available at https://www.iso.org/obp
+* IEC Electropedia: available at http://www.electropedia.org/
+
+*3.1* +
+*management performance indicator* +
+*MPI* +
+environmental performance indicator that provides information about the management efforts to influence an organization’s environmental performance +
+&#x200c;[SOURCE: ISO 14031:1999, 2.10.1]
+====
+
+Terms and definitions should preferably be listed according to the hierarchy of the concepts (i.e. systematic order). Alphabetical order is the least preferred order.
+
+====
+&nbsp;
+
+*3    Terms and definitions*
+
+[…]
+
+*3.2    Surface properties*
+
+*3.2.1* +
+*abrasion* +
+loss of material from a surface due to frictional forces
+
+[…]
+
+*3.5    Optical properties*
+
+[…]
+
+*3.5.8* +
+*colour retention* +
+degree of permanence of a colour +
+Note 1 to entry: Colour retention can be influenced by weathering.
+====
+
+For convenience, the symbols and abbreviated terms may be combined with the terms and definitions in order to bring together terms and their definitions, symbols and abbreviated terms under an appropriate composite title, for example "`Terms, definitions, symbols and abbreviated terms`".
+
+
+[[scls_16-5]]
+=== Specific principles and rules
+
+[[scls_16-5-1]]
+==== General
+
+The Terms and definitions clause shall only appear once in each document.
+
+
+[[scls_16-5-2]]
+==== Rules for the development of terminological entries
+
+Terminological entries shall be drafted in accordance with ISO 10241-1. <<scls_16-5>> contains only a summary of some of these rules. General principles and methods for terminology work are specified in ISO 704.
+
+
+[[scls_16-5-3]]
+==== Introductory wording
+
+If all the specific terms and definitions are provided in Clause 3, use the following introductory text:
+
+____
+For the purposes of this document, the following terms and definitions apply.
+
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+* ISO Online browsing platform: available at https://www.iso.org/obp
+* IEC Electropedia: available at http://www.electropedia.org/
+____
+
+
+If reference is given to an external document, use the following introductory text:
+
+____
+For the purposes of this document, the terms and definitions given in [external document reference xxx] apply.
+
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+* ISO Online browsing platform: available at https://www.iso.org/obp
+* IEC Electropedia: available at http://www.electropedia.org/
+____
+
+
+If terms and definitions are provided in Clause 3, in addition to a reference to an external document, use the following introductory text:
+
+____
+
+For the purposes of this document, the terms and definitions given in [external document reference xxx] and the following apply.
+
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+* ISO Online browsing platform: available at https://www.iso.org/obp
+* IEC Electropedia: available at http://www.electropedia.org/
+____
+
+If there are no terms and definitions provided, use the following introductory text:
+
+____
+No terms and definitions are listed in this document.
+
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+
+* ISO Online browsing platform: available at https://www.iso.org/obp
+* IEC Electropedia: available at http://www.electropedia.org/
+____
+
+
+NOTE: The introductory text is not a hanging paragraph (see <<scls_22-3-3>>), as the Terms and definitions clause consists of a list of terminological entries and not subclauses.
+
+
+[[scls_16-5-4]]
+==== Permitted content
+
+Only terms which are used in the document shall be listed in the Terms and definitions clause. This rule does not apply to terminology standards, whose terms are intended for wider use.
+
+
+[[scls_16-5-5]]
+==== Terms
+
+Common terms, which a qualified user of the document will already know, should not be defined.
+
+Types of term:
+
+* *Preferred terms* are the primary terms for a given concept. The preferred term is the form which is used throughout the main body of the text. They are written in bold type (with the exception of symbols, which shall be presented as used in running text).
+* *Admitted terms* are accepted synonyms for the preferred term. They are written in regular type.
+* *Deprecated terms* are synonyms of the preferred term which are no longer in use or whose use is discouraged. They are written in regular type.
+
+There can be more than one term of each type. An abbreviated term or a symbol can constitute a term.
+
+====
+[cols="2",options="unnumbered"]
+|===
+| | *3.1*
+| Preferred term | *implant body*
+| Admitted term | dental implant body
+| Deprecated | term DEPRECATED: implant fixture
+| Definition | primary single component or portion of a dental implant which is intended to remain within tissues
+|===
+====
+
+Terms shall be written in lower case characters. Upper case characters, mathematical symbols, typographical signs and syntactic signs (e.g. punctuation marks, hyphens, parentheses, square brackets and other connectors or delimiters) as well as their character styles (i.e. fonts and bold, italic, bold italic, or other style conventions) shall be used in a term only if they constitute part of the normal written form of the term. Terms shall in general be presented in their basic grammatical form, i.e. nouns in the singular, verbs in the infinitive.
+
+====
+[cols="2",options="unnumbered"]
+|===
+| Correct use of parentheses: |
+| *bis(dimethylthiocarbamyl) disulfide* | The parentheses and the content therein are part of the term.
+| Incorrect use of parentheses: |
+| *integrity* (of system) | The words in parentheses are not part of the term.
+|===
+====
+
+====
+[cols="2",options="unnumbered"]
+|===
+| Incorrect expression of equivalent terms: |
+| *live working (work)* | It is incorrect to indicate a synonymous term using parentheses.
+| Correct expression of equivalent terms: |
+| *live working* +
+*live work* | The preferred term and any synonyms are written on separate lines.
+|===
+====
+
+====
+[cols="2",options="unnumbered"]
+|===
+| Correct use of capitalization: | 
+| *Reynolds number* | "`Reynolds`" is a proper noun. It is capitalized.
+| Incorrect use of capitalization: |
+| *Planned outage* | "`Planned`" is not a proper noun. Do not capitalize this.
+|===
+====
+
+
+[[scls_16-5-6]]
+==== Definitions
+
+The definition shall be written in such a form that it can replace the term in its context. It shall not start with an article ("`the`", "`a`") nor end with a full stop. A definition shall not take the form of, or contain, a requirement.
+
+Only one definition per terminological entry is allowed. If a term is used to define more than one concept, a separate terminological entry shall be created for each concept and the domain shall be included in angle brackets before the definition.
+
+
+====
+*2.1.17* +
+*die* +
+<extrusion> metal block with a shaped orifice through which plastic material is extruded
+
+*2.1.18* +
+*die* +
+<moulding> assembly of parts enclosing the cavity from which the moulding takes its form
+====
+
+Circular definitions, which repeat the term being defined, are not allowed.
+
+
+[[scls_16-5-7]]
+==== Examples
+
+Examples provide information that illustrates the concept. Examples shall not contain requirements (use of "`shall`") or any information considered indispensable for the use of the document, for example instructions (imperative mood), recommendations (use of "`should`") or permission (use of "`may`"). Examples should be written as a statement of fact.
+
+Examples to terminological entries are designated "`EXAMPLE`" and shall be numbered starting with "`1`" within each terminological entry. A single example in a terminological entry shall not be numbered.
+
+
+[[scls_16-5-8]]
+==== Non-verbal representations
+
+Figures and formulae may be included within a terminological entry. The definition may take the form of a formula. Refer to ISO 10241-1.
+
+
+[[scls_16-5-9]]
+==== Notes to entry
+
+A note to a terminological entry (referred to as "`Note # to entry`") follows different rules from a note ("`NOTE #`") integrated in the text (see <<cls_24>>). It provides additional information that supplements the terminological data, e.g.:
+
+* provisions (statements, instructions, recommendations or requirements) relating to the use of a term,
+* information regarding the units applicable to a quantity, or
+* an explanation of the reasons for selecting an abbreviated form as the preferred term.
+
+Notes to entry shall be numbered starting with "`1`" within each terminological entry. A single note to entry shall be numbered.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+====
+*3.1.4* +
+*continuous scale* +
+scale with a continuum of possible values +
+EXAMPLE &nbsp; &nbsp; &nbsp; Interval scale and ratio scale. +
+Note 1 to entry:    A continuous scale can be transformed into a discrete scale, by grouping "`values`". This inevitably leads to some loss of information. Often the resulting discrete scale will be ordinal. +
+Note 2 to entry:    Scale resolution can be adversely affected by measurement system limitations. Such measurement limitations can, sometimes, give rise to measurements being represented on a discrete, ordinal, scale. +
+&#x200c;[SOURCE: ISO 3534-2:2006, 1.1.4]
+====
+
+====
+*3.6* +
+*moisture content mass by volume* +
+mass of evaporable water divided by volume of dry material +
+Note 1 to entry: The method of evaporating water from a moist material shall be stated when this term is used.
+====
+
+
+[[scls_16-5-10]]
+==== Source
+
+If a terminological entry is reproduced from another document, the source shall be given at the end of the entry. If any changes are made to the original terminological entry, this shall be indicated, along with a description of what has been modified. A document given as a source of a terminological entry is informative. Within a terminological entry, cross-references can also be made to terms defined elsewhere.
+
+====
+*3.1.2* +
+*terminological entry* +
+part of a terminological data collection which contains the _terminological data_ (3.1.3) related to one _concept_ (3.2.1) +
+Note 1 to entry: A terminological entry prepared in accordance with the principles and methods given in ISO 704 follows the same structural principles whether it is monolingual or multilingual. +
+&#x200c;[SOURCE: ISO 1087-1:2000, 3.8.2, modified — Note 1 to entry has been added.]
+====
+
+
+[[scls_16-5-11]]
+==== Footnotes
+
+Footnotes to any part of a terminological entry are not allowed.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[scls_16-6]]
+=== Overview of the main elements of a terminological entry
+
+<<figure_1>> gives an overview of the main elements of a terminological entry.
+
+
+[[figure_1]]
+.Overview of the main elements of a terminological entry
+image::fig1.jpg[]
+
+
+[[scls_16-7]]
+=== Other elements of a terminological entry
+
+Other data categories may be included in a terminological entry, such as:
+
+* country codes;
+* grammatical information;
+* pronunciation.
+
+Refer to ISO 10241-1 for the general requirements and examples.
+

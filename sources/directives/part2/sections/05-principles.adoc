@@ -1,0 +1,106 @@
+
+[[cls_5]]
+== Principles
+
+=== Planning and preparation
+
+Rules for the planning and preparation of new work items are given in the ISO/IEC Directives, Part 1. The rules given in the ISO/IEC Directives and ISO and IEC Supplements shall be applied throughout all stages of drafting to avoid delay. In order to ensure the timely publication of a document or of a series of associated documents, the following shall be determined before drafting begins:
+
+* the intended structure;
+* any interrelationships;
+* the organization and subdivision of the subject matter (see <<cls_6>>).
+
+In the case of a multipart document, a list of the intended parts should be drawn up (preferably including their titles and scopes).
+
+
+=== Aim-oriented approach
+
+Not all characteristics of an item or a subject can be or need to be standardized. The choice of characteristics to be standardized depends on the aims of the document (e.g. health, safety, protection of the environment, interface, interchangeability, compatibility or interworking, and variety control). A functional analysis of the product can help to identify the characteristics to be included in the document.
+
+It is permitted, but not necessary, to give an explanation for the inclusion of individual characteristics. More general background information can be given in the Introduction (see <<cls_13>>).
+
+
+=== Fitness for implementation as a regional or national standard
+
+Characteristics that are suitable for international acceptance shall be chosen. Where necessary, several options may be indicated (e.g. owing to differences in legislation, climate, environment, economies, social conditions, trade patterns).
+
+The content of a document shall be written so that it can be applied and adopted without change as a regional or national standard.
+
+See ISO/IEC Guide 21-1 for regional or national adoption of International Standards and ISO/IEC Guide 21-2 for regional or national adoption of other International Deliverables.
+
+
+=== Performance principle
+
+Whenever possible, requirements shall be expressed in terms of performance rather than design or descriptive characteristics. This principle allows maximum freedom for technical development and reduces the risk of undesirable market impacts (e.g. limiting development of innovative solutions).
+
+[example]
+Different approaches are possible in the specification of requirements concerning a table. +
+Design requirements: The table shall have four wooden legs. +
+Performance requirements: The table shall be constructed such that when subjected to … [stability and strength criteria].
+
+
+When the performance principle is adopted, care shall be taken to ensure that important features are not inadvertently omitted from the performance requirements.
+
+If it is impossible to determine the necessary performance characteristics, the material or product may be specified. However, in such a case, the phrase "`… or any other material or product proved to be equally suitable`" should be included.
+
+Requirements concerning the manufacturing process shall usually be omitted in favour of tests to be made on the final product. There are, nevertheless, some fields in which reference to the manufacturing process is needed (e.g. hot rolling, extrusion) or even in which an inspection of the manufacturing process is necessary (e.g. pressure vessels).
+
+However, the choice between specifying by description or by performance needs consideration because specification by performance can lead to complicated, costly and lengthy testing procedures.
+
+
+=== Verifiability
+
+Requirements shall be objectively verifiable. Only those requirements that can be verified shall be included.
+
+Phrases such as "`sufficiently strong`" or "`of adequate strength`" shall not be used because they are subjective statements.
+
+The stability, reliability or lifetime of a product shall not be specified if no test method is known that can verify the claim in a reasonably short time. A guarantee by the manufacturer is not a substitute for such requirements. Guarantee conditions shall not be included because they are commercial or contractual, rather than technical, in nature.
+
+=== Consistency
+
+Consistency should be maintained within each document, and within a series of associated documents.
+
+* The structure of associated documents and the numbering of their clauses should, as far as possible, be identical.
+* Identical wording should be used to express identical provisions.
+* The same terminology should be used throughout. The use of synonyms should be avoided.
+
+Consistency is particularly important to help the user understand documents or series of associated documents. It is also important when using automated text processing techniques and computer-aided translation.
+
+
+=== Avoidance of duplication and unnecessary deviations
+
+Documents should avoid duplication. This is particularly important in test methods, which are often applicable to more than one product, or type of product.
+
+Before standardizing any item or subject, the writer shall determine whether an applicable standard already exists. If it is necessary to invoke a requirement that appears elsewhere, this should be done by reference, not by repetition – see <<cls_10>>.
+
+If a test method is, or is likely to be, applicable to two or more types of product, a document shall be prepared on the method itself, and each document dealing with a given product shall refer to it (indicating any modifications that could be necessary). This will help to prevent unnecessary deviations.
+
+As far as possible, the requirements for one item or subject should be confined to one document.
+
+In some fields, it can be desirable to write a document specifying generic requirements applicable to a group of items or subjects.
+
+If it is considered necessary to repeat a requirement from an exterior source, its source shall be referenced precisely (see <<scls_10-1>>).
+
+
+=== Accommodation of more than one product size
+
+If the aim of a document is standardization of a single size for a product, but there is more than one widely accepted size in international use, a committee may decide to include alternative product sizes in the document. However, in such cases, every effort shall be made to reduce the number of alternatives to a minimum, taking the following points into account:
+
+* the volume of international trade in the sort of product involved shall serve as a criterion for "`international use`", not the number of countries or the volume of production in those countries;
+* only sizes that are likely to be in international use in the reasonably foreseeable future (e.g. five years or more) shall be included in the document.
+
+Whenever alternative solutions are to be adopted internationally, they shall all be included in the same document and preferences for the different alternatives shall be provided. The reasons for the preferences shall be explained in the introduction to the document.
+
+When agreed by the committee and approved by the ISO Technical Management Board (ISO/TMB) or the IEC Standardization Management Board (IEC/SMB), a transitional period may be indicated during which the use of non-preferred values is permitted.
+
+
+=== Characteristics not specified in a document
+
+In some cases, a document may list characteristics that can be chosen freely by the supplier. The characteristics chosen shall be stated, for example on a name-plate, label or accompanying document.
+
+For most kinds of complex item, it is impractical to specify exhaustive performance requirements. Instead, it is preferable to require that the item be supplied with a list of performance data.
+
+This approach is not acceptable in the case of health and safety requirements.
+
+Documents listing characteristics for which suppliers or purchasers are required to state values or other data not specified by the document shall specify how such values are to be measured and stated.
+

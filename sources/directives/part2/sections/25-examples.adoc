@@ -1,0 +1,65 @@
+
+[[cls_25]]
+== Examples
+
+[[scls_25-1]]
+=== Purpose or rationale
+
+Examples illustrate concepts presented in the document. The document shall be usable without the examples.
+
+
+[[scls_25-2]]
+=== Title
+
+Examples do not need to have a title, but they can, if necessary, be grouped into a clause or subclause entitled "`Example`" or "`Examples`" (see <<scls_25-6>>, which is titled "`Examples`").
+
+
+[[scls_25-3]]
+=== Numbering and subdivision
+
+Within a given clause or subclause, examples shall be numbered sequentially. The numbering restarts at each new subdivision. A single example in a subdivision does not need to be numbered.
+
+
+[[scls_25-4]]
+=== Referencing
+
+Examples do not need to be specifically referred to in the text.
+
+If examples are referred to, use for example, the following forms for references:
+
+* "`see 6.6.3, Example 5`";
+* "`Clause 4, Example 2 lists …`".
+
+
+[[scls_25-5]]
+=== Specific principles and rules
+
+Examples shall not contain requirements (use of "`shall`") or any information considered indispensable for the use of the document, for example instructions (imperative mood), recommendations (use of "`should`") or permission (use of "`may`"). Examples should be written as a statement of fact.
+
+An example can cite text to illustrate a point. If the cited text contains requirements, recommendations and permissions, this is acceptable.
+
+
+[[scls_25-6]]
+=== Examples
+
+====
+The generic model can be applicable to other possible manufacturing operations categories or for other operations areas within the enterprise. +
+EXAMPLE &nbsp; &nbsp; &nbsp; A company could apply the model to receiving operations management and associated services.
+====
+
+====
+In national implementation of International Standards, the international designation shall be used without change. However, the national standard identification may be inserted between the description block and the International Standard number block.
+
+EXAMPLE &nbsp; &nbsp; &nbsp; If the international designation of a screw is
+____
+Slotted pan screw ISO 1580-M5 × 20-4,8
+____
+
+its national designation can be
+____
+Slotted pan screw VN 4183-ISO 1580-M5 × 20-4,8
+____ 
+
+if VN 4183 is the identification of the national standard corresponding to ISO 1580 which has been adopted without change.
+====
+

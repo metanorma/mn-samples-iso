@@ -1,0 +1,93 @@
+
+[[cls_12]]
+== Foreword (concept)
+
+[[scls_12-1]]
+=== Purpose or rationale
+
+The Foreword provides information on:
+
+* the organization responsible for publishing the document;
+* the committee that developed the document;
+* the procedures and rules under which the document was developed;
+* the voting process;
+* legal disclaimers;
+* relationships between the present document and other documents.
+
+
+[[scls_12-2]]
+=== Normative or informative?
+
+The Foreword is an informative element. It shall not contain requirements, permissions or recommendations.
+
+
+[[scls_12-3]]
+=== Mandatory, conditional or optional?
+
+The Foreword is a mandatory element.
+
+
+[[scls_12-4]]
+=== Numbering and subdivision
+
+The Foreword shall not have a clause number and shall not be subdivided.
+
+
+[[scls_12-5]]
+=== Specific principles and rules
+
+[[scls_12-5-1]]
+==== Fixed text
+
+The general part of the Foreword is a fixed text supplied by the Central Secretariat of ISO or by the Central Office of the IEC. It provides information relating to the organization responsible and to documents in general, legal texts as well as the procedures and rules under which the content was developed.
+
+[[scls_12-5-2]]
+==== Specific text
+
+The fixed part of the Foreword is followed by a specific part, supplied by the committee secretariat, and it shall provide as many of the following as are appropriate:
+
+. the designation and name of the committee that developed the document (working groups and other temporary entities are not referred to in the Foreword);
++
+[example]
+This document was prepared by Technical Committee ISO/TC 35, _Paints and varnishes, Subcommittee SC 9, General test methods for paints and varnishes_.
+
+
+. an indication of any other international organization that has contributed to the development of the document;
++
+[example]
+International Standard IEC 82045-2 has been prepared by IEC technical committee 3: _Information structures, documentation and graphical symbols_, in collaboration with ISO subcommittees SC 1: _Basic conventions_ and SC 8: _Construction documentation_ of ISO technical committee 10: _Technical product documentation_.
+
+
+. a statement that the document cancels and replaces other documents in whole or in part, and a statement of significant changes from the previous edition of the document;
++
+====
+This first edition of ISO 3233-3 cancels and replaces ISO 23811:2009, which has been technically revised.
+
+In addition to the change in number, the main changes are as follows:
+
+* symbols have been harmonized with those used in ISO 3233-1 and ISO 3233-2;
+* determination of dry film thickness has been added;
+
+[…]
+====
+
+. the relationship of the document to other documents;
++
+--
+[example]
+This document is intended to be used in conjunction with IEC 60704-1:2010.
+
+[example]
+A list of all parts in the ISO 7637 series can be found on the ISO website.
+
+[example]
+A list of all parts in the IEC 60364 series, published under the general title _Low-voltage_ electrical installations, can be found on the IEC website.
+--
+
+. for documents containing text in languages additional to the official languages, the following text completed as appropriate.
++
+--
+____
+In addition to text written in the official … [ISO or IEC] … languages (English, French, Russian), this document gives text in … [language] …. This text is published under the responsibility of the Member Body/National Committee for … (…) and is given for information only. Only the text given in the official languages can be considered as … [ISO or IEC] … text.
+____
+--
