@@ -1,0 +1,63 @@
+
+[[cls_23]]
+== Lists
+
+[[scls_23-1]]
+=== Purpose or rationale
+
+A list serves to subdivide information to aid understanding.
+
+
+[[scls_23-2]]
+=== Title
+
+Lists do not have a title. They may, however, be preceded by a title or introductory phrase.
+
+
+[[scls_23-3]]
+=== Numbering and subdivision
+
+Lists can be numbered or unnumbered. Lists can be subdivided.
+
+See the examples below.
+
+
+====
+The following basic principles shall apply to the drafting of definitions.
+
+. The definition shall have the same grammatical form as the term:
+.. to define a verb, a verbal phrase shall be used;
+.. to define a singular noun, the singular shall be used.
+. The preferred structure of a definition is a basic part stating the class to which the concept belongs, and another part enumerating the characteristics that distinguish the concept from other members of the class.
+====
+
+====
+No switch is required for any of the following categories of apparatus:
+
+* apparatus having a power consumption not exceeding 10 W under normal operating conditions;
+* apparatus having a power consumption not exceeding 50 W, measured 2 min after the application of any of the fault conditions;
+* apparatus intended for continuous operation.
+====
+
+
+====
+Vibrations in the apparatus can be caused by
+
+* unbalance in the rotating elements,
+* slight deformations in the frame,
+* the rolling bearings, and
+* aerodynamic loads.
+====
+
+
+[[scls_23-4]]
+=== Referencing
+
+The purpose of a list should be made clear by its context. For example, an introductory proposition or a subclause title can serve to introduce the list. Lists do not need to be specifically referred to in the text.
+
+If cross-references to list items are necessary, a numbered list shall be used. Within a subdivision, each list item in a numbered list shall have a unique identifier. Numbering restarts at each new clause or subclause.
+
+Use, for example, the following forms for references to lists:
+
+* "`as specified in 3.1 b)`";
+* "`the requirements given in B.2 c)`".

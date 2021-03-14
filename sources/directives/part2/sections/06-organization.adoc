@@ -1,0 +1,175 @@
+
+[[cls_6]]
+== Organization and subdivision of the subject matter
+
+=== Names of the main subdivisions
+
+The terms that shall be used to designate the divisions and subdivisions of subject matter are given in <<table_1>> in English and in French.
+
+[[table_1]]
+.Names of divisions and subdivisions
+[cols="3"]
+|===
+| English term | French term | Example of numbering
+
+| Part | Partie | 9999-1
+
+| Clause +
+Subclause +
+Subclause +
+Paragraph
+
+| Article +
+Paragraphe +
+Paragraphe +
+Alinéa
+
+| 1 +
+1.1 +
+1.1.1 +
+[no number]
+
+| Annex | Annexe | A
+|===
+
+
+[[scls_6-2]]
+=== Subdivision into documents
+
+Documents are so diverse that no universally acceptable rules can be established for the subdivision of the subject matter.
+
+However, as a general principle, an individual document shall be prepared for each subject to be standardized, and published either as a single standard or a single part of a series.
+
+====
+Examples of reasons for the subdivision into parts under the same number are
+
+* the document is likely to become too long,
+* subsequent parts of the content are interlinked,
+* portions of the document could be referred to in regulations, and
+* portions of the document are intended to serve for certification purposes.
+====
+
+Such subdivision has the advantage that each part can be revised separately as necessary.
+
+In particular, the aspects of a product that are of separate interest to different parties (e.g. manufacturers, certification bodies, legislative bodies or other users) shall be clearly distinguished, preferably as parts of a document or as individual documents.
+
+====
+Examples of such individual aspects are
+
+* health and safety requirements,
+* performance requirements,
+* maintenance and service requirements,
+* installation rules, and
+* quality assessment.
+====
+
+
+[[scls_6-3]]
+=== Subdivision of the subject matter within a series of parts
+
+There are two main ways of subdividing subject matter within a series of parts.
+
+. Each part deals with a specific aspect of the subject and can stand alone.
++
+--
+====
+Part 1: Vocabulary +
+Part 2: Requirements +
+Part 3: Test methods +
+Part 4: …
+====
+ 
+====
+Part 1: Vocabulary +
+Part 2: Harmonics +
+Part 3: Electrostatic discharge +
+Part 4: …
+====
+--
+
+. [[item_6-3-b]]There are both common and specific aspects to the subject. The common aspects shall be given in Part 1. Specific aspects (which can modify or supplement the common aspects and therefore cannot stand alone) shall be given in separate individual parts.
++
+--
+====
+Part 1: General requirements +
+Part 2: Thermal requirements +
+Part 3: Air purity requirements +
+Part 4: Acoustical requirements
+====
+
+====
+Part 1: General requirements +
+Part 21: Particular requirements for electric irons +
+Part 22: Particular requirements for spin extractors +
+Part 23: Particular requirements for dishwashers
+====
+
+====
+For IEC documents only +
+Part 1: General requirements +
+Part 2-1: Requirements for plasma displays +
+Part 2-2: Requirements for monitors +
+Part 2-3: Requirements for LCDs
+====
+--
+
+Where the system described in <<item_6-3-b>> is used, care shall be taken that the references from one part to another are valid. There are two ways of achieving this.
+
+* If reference is made to a particular element, the reference shall be dated (see <<scls_10-5>>).
+* When undated references (see <<scls_10-4>>) are used, the committee responsible shall validate the references at the time of review of the document.
+
+Each part of a multipart document shall be drafted in accordance with the same rules as those used for an individual document.
+
+The number of a part shall be in Arabic numerals, starting with 1, following the document number and preceded by a hyphen.
+
+[example]
+ISO 9999-1, ISO 9999-2
+
+In ISO, parts cannot be further subdivided. In IEC, parts can be subdivided down to two levels. See the examples in <<scls_11-4>>.
+
+[example]
+IEC 60335-2-9
+
+If a document is subdivided in a number of separate parts, the first part should include an explanation of the intended structure in its introduction. When developing a series, consider reserving Part 1 for general aspects such as a vocabulary.
+
+In the Foreword of each part in the series, a reference may be made to the titles of all other parts that have been or are planned to be published.
+
+====
+A list of all parts in the ISO xxxx series can be found on the ISO website. +
+A list of all parts in the IEC xxxx series, published under the general title xxx, can be found on the IEC website.
+====
+
+
+[[scls_6-4]]
+=== Subdivision of the subject matter within an individual document
+
+An example of a typical arrangement is given in <<table_2>>.
+
+
+[[table_2]]
+.Overview of the major subdivisions of a document and their arrangement in the text
+[cols="2",options="header"]
+|===
+| Major subdivision | Mandatory/Optional/Conditional
+
+| Title | Mandatory
+
+| Foreword | Mandatory
+
+| Introduction | Optional/Conditional footnote:[See <<scls_13-3>>.]
+
+| Scope | Mandatory
+
+| Normative references | Mandatory footnote:[When no normative references or terms are listed, use the introductory texts provided in <<scls_15-5-2>> and <<scls_16-5-3>>.]
+
+| Terms and definitions | Mandatory footnote:[When no normative references or terms are listed, use the introductory texts provided in <<scls_15-5-2>> and <<scls_16-5-3>>.]
+
+| Symbols and abbreviated terms | Conditional
+
+| Technical content +
+For example: test methods | Mandatory/Optional/Conditional
+
+| Annexes | Optional
+
+| Bibliography | Conditional
+|===

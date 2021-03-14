@@ -1,0 +1,162 @@
+
+[[annex_d]]
+[appendix,obligation="informative"]
+== Reference documents and sources for drafting
+
+
+[[scls_D-1]]
+=== General reference documents and sources for drafting
+
+[cols="2",options="unnumbered"]
+|===
+
+| *Language reference works*
+| _The Shorter Oxford English Dictionary_ +
+_The Concise Oxford Dictionary_ +
+_The Collins Concise English Dictionary_ (https://www.collinsdictionary.com/dictionary/english) +
+_Webster's New World College Dictionary_ (http://websters.yourdictionary.com/) +
+_Chambers Concise Dictionary_ +
+_Dictionnaire Le Robert_ +
+_Dictionnaire Larousse_ (http://www.larousse.fr/dictionnaires/francais) +
+_Dictionnaire des difficultés de la langue française_, V. Thomas, Larousse
+
+| *Standardized terminology*
+| IEC 60050 (all parts), _International Electrotechnical Vocabulary, available at_ http://www.electropedia.org +
+ISO/IEC 2382 (all parts), _Information technology -- Vocabulary_ +
+ISO/IEC 17000, _Conformity assessment -- Vocabulary and general principles_ +
+ISO/IEC Guide 2, _Standardization and related activities -- General vocabulary_ +
+ISO/IEC Guide 99, _International vocabulary of metrology -- Basic and general concepts and associated terms (VIM)_ +
+_ISO Online browsing platform_, available at https://www.iso.org/obp
+
+
+| *Principles and methods of terminology*
+| ISO 704, _Terminology work -- Principles and methods_ +
+ISO 10241-1, _Terminological entries in standards -- Part 1: General requirements and examples of presentation_
+
+| *Quantities, units and their symbols*
+| ISO 80000 (all parts), _Quantities and units_ +
+IEC 60027 (all parts), _Letter symbols to be used in electrical technology_ +
+IEC 80000 (all parts), _Quantities and units_
+
+| *Abbreviated terms*
+| ISO 639 (all parts), _Codes for the representation of names of languages_ +
+ISO 1951, _Presentation/representation of entries in dictionaries -- Requirements, recommendations and information_ +
+ISO 3166 (all parts), _Codes for the representation of names of countries and their subdivisions_
+
+| *Bibliographic references*
+| ISO 690, _Information and documentation -- Guidelines for bibliographic references and citations to information resources_
+
+
+| *Technical drawings and diagrams*
+| ISO 128 (all parts), _Technical drawings -- General principles of presentation_ +
+ISO 129 (all parts), _Technical drawings -- Dimensioning_ +
+ISO 3098 (all parts), _Technical product documentation -- Lettering_ +
+ISO 6433, _Technical drawings -- Item references_ +
+ISO 14405 (all parts), _Geometrical product specifications (GPS) -- Dimensional tolerancing_ +
+IEC 61082-1, _Preparation of documents used in electrotechnology -- Part 1: Rules_ +
+IEC 61175-1, _Industrial systems, installations and equipment and industrial products -- Designation of signals -- Part 1: Basic rules_ +
+IEC 81346 (all parts), _Industrial systems, installations and equipment and industrial products -- Structuring principles and reference designations_ +
+_ISO Resource area_, available at https://www.iso.org/iso/graphics_formats_and_tools.pdf +
+_Document preparation in the IEC_, IEC, available at
+http://www.iec.ch/standardsdev/resources/docpreparation/
+
+
+| *Technical documentation*
+| IEC 61355-1, _Classification and designation of documents for plants, systems and equipment -- Part 1: Rules and classification tables_ +
+IEC 61360 (all parts), _Standard data element types with associated classification scheme for electric components_ +
+Technical documentation standards developed by individual ISO technical committees are listed in the ISO Catalogue under group 01.140.30 _Documents in administration, commerce and industry_.
+
+
+| *Graphical symbols, public information symbols and safety signs*
+| ISO 3864 (all parts), _Graphical symbols -- Safety colours and safety signs_ +
+ISO 7000, Database: _Graphical symbols for use on equipment -- Index and synopsis_ +
+ISO 7001, _Graphical symbols -- Public information symbols_ +
+ISO 7010, _Graphical symbols -- Safety colours and safety signs -- Safety signs used in workplaces and public areas_ +
+ISO 9186 (all parts), _Graphical symbols -- Test method_s +
+ISO 14617 (all parts), _Graphical symbols for diagrams_ +
+ISO 22727, _Graphical symbols -- Creation and design of public information symbols -- Requirements_ +
+ISO 81714-1, _Design of graphical symbols for use in the technical documentation of products -- Part 1: Basic rules_ +
+IEC 60417, _Graphical symbols for use on equipment_ +
+IEC 60617, _Graphical symbols for diagrams_ +
+IEC 80416 (all parts), _Basic principles for graphical symbols for use on equipment_+
+IEC 81714-2, _Design of graphical symbols for use in the technical documentation of products -- Part 2: Specification for graphical symbols in a computer sensible form, including graphical symbols for a reference library, and requirements for their interchange_ +
+ISO/IEC Guide 74, _Graphical symbols -- Technical guidelines for the consideration of consumers' needs_
+|===
+
+
+[[scls_D-2]]
+=== Technical reference documents and sources for drafting
+
+In order to achieve technical consistency within all the documents published by ISO and IEC, the text of every document should be drafted in accordance with the following documents. The following list of basic reference works is not exhaustive. For specific subjects not covered by the list below, writers should use documents published by ISO and IEC, as far as possible.
+
+
+[cols="2",options="unnumbered"]
+|===
+| *Limits, fits and surface properties* +
+*Tolerancing of dimensions and uncertainty of measurement*
+| Documents developed by ISO/TC 213, _Dimensional and geometrical product specifications and verification_ (see ISO Catalogue).
+
+| *Preferred numbers*
+| ISO 3, _Preferred numbers -- Series of preferred numbers_ +
+ISO 17, _Guide to the use of preferred numbers and of series of preferred numbers_ +
+ISO 497, _Guide to the choice of series of preferred numbers and of series containing more rounded values of preferred numbers_ +
+IEC 60063, _Preferred number series for resistors and capacitors_ +
+IEC Guide 103, Guide on dimensional co-ordination
+
+| *Statistical methods*
+| ISO 3534 (all parts), _Statistics -- Vocabulary and symbols_ +
+ISO/IEC Guide 98-3, _Uncertainty of measurement -- Part 3: Guide to the expression of uncertainty in measurement_ (GUM:1995) +
+Documents developed by IEC TC 56, _Dependability_ (see IEC Catalogue), and by ISO/TC 69, _Applications of statistical methods_ (see ISO Catalogue).
+
+| *Environmental conditions and associated tests*
+| ISO Guide 64, _Guide for addressing environmental issues in product standards_ +
+IEC Guide 106, _Guide for specifying environmental conditions for equipment performance rating_ +
+Documents developed by IEC TC 104, _Environmental conditions, classification and methods of test_ (see IEC Catalogue).
+
+| *Health and safety*
+| ISO/IEC Guide 50, _Safety aspects -- Guidelines for child safety_ +
+ISO/IEC Guide 51, _Safety aspects -- Guidelines for their inclusion in standards_ +
+IEC Guide 104, _The preparation of safety publications and the use of basic safety publications and group safety publications_
+
+| *Chemistry*
+| ISO 78-2, _Chemistry -- Layouts for standards -- Part 2: Methods of chemical analysis_
+
+| *EMC (electromagnetic compatibility)*
+| IEC Guide 107, _Electromagnetic compatibility -- Guide to the drafting of electromagnetic compatibility publications_
+
+| *Conformity and quality*
+| ISO 9000, _Quality management systems -- Fundamentals and vocabulary_ +
+ISO 9001, _Quality management systems -- Requirements_ +
+ISO 9004, _Managing for the sustained success of an organization -- A quality management approach_ +
+ISO/IEC 17050-1, _Conformity assessment -- Supplier’s declaration of conformity -- Part 1: General requirements_ +
+ISO/IEC 17050-2, _Conformity assessment -- Supplier’s declaration of conformity -- Part 2: Supporting documentation_ +
+ISO/IEC Guide 23, _Methods of indicating conformity with standards for third-party certification systems_
+
+| *Environmental management*
+| ISO 14040, _Environmental management -- Life cycle assessment -- Principles and framework_ +
+ISO 14044, _Environmental management -- Life cycle assessment -- Requirements and guidelines_
+
+| *Packaging, protection and storage*
+| Technical documentation standards developed by individual ISO technical committees are listed in the ISO Catalogue under ICS group 55 _Packaging and distribution of goods_. +
+Technical documentation standards developed by individual IEC technical committees are listed in the IEC Catalogue under ICS group 55 _Packaging and distribution of goods_.
+
+| *Consumer issues*
+| ISO/IEC Guide 14, _Purchase information on goods and services intended for consumers_ +
+ISO/IEC Guide 37, _Instructions for use of products of consumer interest_ +
+ISO/IEC Guide 41, _Packaging -- Recommendations for addressing consumer needs_ +
+ISO/IEC Guide 46, _Comparative testing of consumer products and related services -- General principles_ +
+ISO/IEC Guide 74, _Graphical symbols -- Technical guidelines for the consideration of consumers' needs_ +
+ISO/IEC Guide 76, _Development of service standards -- Recommendations for addressing consumer issues_
+
+| *International standardization*
+| ISO/IEC Guide 21-1, _Regional or national adoption of International Standards and other International Deliverables -- Part 1: Adoption of International Standards_ +
+ISO/IEC Guide 21-2, _Regional or national adoption of International Standards and other International Deliverables -- Part 2: Adoption of International Deliverables other than International Standards_
+
+| *Accessibility*
+| ISO/IEC Guide 71, _Guide for addressing accessibility in standards_ +
+ISO 17069, _Accessible design -- Consideration and assistive products for accessible meeting_
+
+| *Sustainability*
+ISO Guide 82, _Guidelines for addressing sustainability in standards_ +
+IEC Guide 109, _Environmental aspects -- Inclusion in electrotechnical product standards_
+|===

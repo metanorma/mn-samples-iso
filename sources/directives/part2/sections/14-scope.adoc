@@ -1,0 +1,69 @@
+
+[[cls_14]]
+== Scope (concept)
+
+[[scls_14-1]]
+=== Purpose or rationale
+
+The Scope clearly defines the subject of the document and the aspects covered, thereby indicating the limits of applicability of the document or particular parts of it.
+
+If necessary, the Scope should indicate subjects that might be reasonably inferred to be covered but actually excluded from the document.
+
+[example]
+This document excludes ….
+
+In documents that are subdivided into parts, the Scope of each part shall define the subject of that part of the document only.
+
+The Scope shall be succinct so that it can be used as a summary for bibliographic purposes, for example, as an abstract. If further details and background information are necessary, these shall be included in either the Introduction or in an annex.
+
+
+[[scls_14-2]]
+=== Normative or informative?
+
+The Scope is a normative element. It shall not contain requirements, permissions or recommendations.
+
+
+[[scls_14-3]]
+=== Mandatory, conditional or optional?
+
+The Scope is a mandatory element.
+
+
+[[scls_14-4]]
+=== Numbering and subdivision
+
+The Scope shall be numbered as Clause 1. It may be subdivided; however, this is not normally necessary as it is meant to be succinct.
+
+
+[[scls_14-5]]
+=== Specific principles and rules
+
+The Scope shall only appear once in each document and shall be worded as a series of statements of fact.
+
+Forms of expression such as the following shall be used:
+
+“This document
+
+* specifies
++
+--	
+the dimensions of …” +
+a method of …” +
+the characteristics of …”
+--
+
+* establishes
++
+--
+a system for …” +
+general principles for …”
+--
+
+* gives guidelines for …”
+
+* defines terms …”
+
+Statements of applicability of the document shall be introduced by wording such as:
+
+* "`This document is applicable to …`"
+* "`This document does not apply to …`"

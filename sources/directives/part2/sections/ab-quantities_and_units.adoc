@@ -1,0 +1,261 @@
+
+[[annex_b]]
+[appendix,obligation="normative"]
+== Quantities and units
+
+<<table_b-1>> lists provisions that are specified elsewhere in the ISO/IEC Directives, Part 2, or in the particular International Standards dealing with quantities and units.
+
+[[table_b-1]]
+.Quantities and units
+[cols="2",options="header"]
+|===
+| Aspect to be considered | Explanations and examples
+
+| Decimal sign | The decimal sign shall be a comma.
+
+| Permitted units
+a| International Standards shall only use:
+
+* SI units, as given in the various parts of ISO 80000 and IEC 80000;
+* a few additional units used with the SI, namely minute (min), hour (h), day (d), degree (°), minute (′), second (″), litre (l), tonne (t), electronvolt (eV) and unified atomic mass unit (u), as shown in ISO 80000-1;
+* the units neper (Np) and bel (B), which are given in ISO 80000-1 and ISO 80000-3, and octave, which is given in ISO 80000-8;
+* the units baud (Bd), bit (bit), octet (o), byte (B), erlang (E), hartley (Hart), natural unit of information (nat) and shannon (Sh), which are given in IEC 80000-13, and var (var) which is given in IEC 80000-6, for use in electrical technology and information technology.
+
+NOTE: In most cases, for consistency, in International Standards only the symbol "`l`" is used for litre, although the symbol "`L`" is also given in ISO 80000-3.
+
+| Mixing symbols and names of units
+a| Do not mix symbols and names of units.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`kilometres per hour`" and "`km/h`" ! Incorrect: "`km per hour`" and "`kilometres/hour`".
+!===
+====
+
+| Writing numerical values with unit symbols
+a| 	
+Use numerical values written in figures with unit symbols.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`5 m`" ! Incorrect: "`five m`" and "`5 metres`".
+!===
+====
+
+
+| Space between numerical values and unit symbols
+a| There shall be a space between the numerical value and the unit symbol except in the case of superscript-type unit symbols used for plane angles. However, the degree should preferably be subdivided decimally.
+
+====
+[cols="7",options="unnumbered"]
+!===
+! stem:[5 "unitsml(mm)"] ! stem:[15 "unitsml(Ohm)"] ! stem:[37 "unitsml(km/h)"] ! stem:[14 "unitsml(A)"] ! stem:[115 "unitsml(deg)"] ! stem:[27 "unitsml(degC)"] ! stem:[25 "unitsml(K)"]
+!===
+====
+
+| Use of +, − and ± signs as a monadic operator
+a| A plus or minus sign before a number (or quantity), used to indicate "`same sign`" or "`change of sign`", is a monadic operator and shall not be separated from the number by a space.
+
+====
+A Celsius temperature from stem:[-7 "unitsml(degC)"] to stem:[+5 "unitsml(degC)"] +
+Tolerance stem:[+-5 "unitsml(cm)"] on the length of the square.
+====
+
+| Use of +, −, ±, × , · , =, > and < signs as dyadic operators or to express relations
+a| There shall be spaces on both sides of signs for dyadic operators such as \+, stem:[-], stem:[+-], stem:[xx] and stem:[cdot] (half-high dot), and relations such as stem:[=], stem:[<], stem:[>].
+
+====
+[cols="^,^,^,^",options="unnumbered"]
+!===
+! stem:[5 + 2] ! stem:[5 - 3] ! stem:[n +- 1.6] ! stem:[D > 2 "unitsml(mm)"]
+!===
+====
+
+| Abbreviated terms for units
+a| Do not use non-standardized abbreviated terms for units.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`s`" ! Incorrect: "`sec`"
+! Correct: "`min`" ! Incorrect: "`mins`"
+! Correct: "`h`" ! Incorrect: "`hrs`"
+! Correct: "`cm3`" ! Incorrect: "`cc`"
+! Correct: "`l`" ! Incorrect: "`lit`"
+! Correct: "`A`" ! Incorrect: "`amps`"
+! Correct: "`r/min`" ! Incorrect: "`rpm`"
+!===
+====
+
+
+
+| Modification of internationally standardized unit symbols
+a| Internationally standardized unit symbols shall not be modified by adding subscripts or other information.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`Umax = 500 V`" ! Incorrect: "`U = 500 Vmax`"
+! Correct: "`a mass fraction of 5 %`" ! Incorrect: "`5 % (m/m)`"
+! Correct: "`a volume fraction of 7 %`" ! Incorrect: "`7 % (V/V)`"
+!===
+====
+
+Remember that % = 0,01 and ‰ = 0,001 are "`pure`" numbers. +
+Do not mix information with unit symbols.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`the water content is 20 ml/kg`" ! Incorrect: "`20 ml H2O/kg`" or "`20 ml of water/kg`".
+!===
+====
+
+| Use of language-specific abbreviated terms
+a| Wherever possible, language-specific abbreviated terms should not be used. When language-specific abbreviated terms which are in common use, such as ppm, are used, their meaning shall be explained.
+
+
+| Use of ambiguous terms
+a| Ambiguous terms such as "`billion`" shall not be used.
+
+
+| Writing unit, quantity or variable symbols
+a| Unit symbols shall always be in upright type. +
+Quantity or variable symbols shall always be in italic type. +
+Symbols representing numerical values shall be different from symbols representing the corresponding quantities.
+
+[example]
+stem:["unitsml(V)"] is the symbol for the unit Volt. stem:["unitsml(U)"] is the symbol for the quantity electric tension or voltage.
+
+| Writing subscripts
+a| A subscript that represents a quantity or a variable is printed in italic type.
+
+[example]
+stem:[q_V] for volumetric flow rate
+
+Other subscripts, such as those representing words or fixed numbers, are printed in upright type.
+
+[example]
+stem:[D_{"in"}] for internal diameter
+
+
+| Writing mathematical formulae
+a| Mathematical formulae involving quantities are preferred to formulae involving numerical values because mathematical formulae between quantities are independent of the choice of units whereas mathematical formulae between numerical values are not.
+
+
+| Use of "`weight`" and "`mass`"
+a| The quantity "`weight`" is a force (gravitational force) and is measured in newtons (N). +
+The quantity "`mass`" is measured in kilograms (kg).
+
+
+| Use of the word "`unit`"
+a| Quotient quantities shall not contain the word "`unit`" in the denominator.
+
+====
+Correct: "`mass per length`" or "`lineic mass`" +
+Incorrect: "`mass per unit length`".
+====
+
+| Quantities describing objects
+a| Distinguish between an object and any quantity describing the object.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! "`surface`" and "`area`" ! "`body`" and "`mass`"
+! "`resistor`" and "`resistance`" ! "`coil`" and "`inductance`"
+!===
+====
+
+| Use of units when expressing ranges, tolerances or mathematical relationships
+a| When expressing ranges, tolerances or mathematical relationships ensure that the use of the unit is unambiguous.
+
+====
+[cols="2",options="unnumbered"]
+!===
+
+! Correct: "`10 mm to 12 mm`" ! Incorrect: "`10 to 12 mm`" and "`10 – 12 mm`"
+
+! Correct: "`0 °C to 10 °C`" ! Incorrect: "`0 to 10 °C`" and "`0 – 10 °C`"
+
+! Correct: "`23 °C ± 2 °C`" and "`(23 ± 2) °C`" ! Incorrect: "`23 ± 2 °C`"
+
+! Correct: "`(60 ± 3) %`" and "`60 % ± 3 %`" ! Incorrect: "`60 ± 3 %`"
+!===
+====
+
+| Addition and subtraction of quantity values
+a| Two or more quantity values cannot be added or subtracted, unless they all belong to a quantity of the same kind (e.g. diameter, circumference and wavelength are quantities of the same kind, called "`length`"). +
+Note that quantity values having the same unit might nevertheless belong to a quantity of a different kind (e.g. both "`action`" and "`angular momentum`" have the SI unit J s, but are not of the same kind and thus cannot be added or subtracted).
+
+| Using the symbol % (per cent), tolerances
+a| The symbol % (per cent), with the meaning "`part per hundred`", is an abbreviation for the number 0,01 and can only be used when stating quantity values which are pure numbers.
+
+====
+[cols="2",options="unnumbered"]
+!===
+! Correct: "`(230 ± 11,5) V`" ! Incorrect: (230 ± 5 %) V
+!===
+====
+
+Tolerances shall not be expressed by using the symbol %, unless for quantity values which are pure numbers. However, a verbal expression like "`230 V, with a tolerance of + 5 %`" can be used.
+
+| Symbol for expressing logarithm
+a| Do not write "`log`" in mathematical formulae if the base needs to be specified. Write "`lg`", "`ln`", "`lb`" or "`stem:[log_a]`".
+
+| Mathematical signs and symbols
+a| Use the mathematical signs and symbols recommended in ISO 80000-2, for example "`tan`" and not "`tg`".
+
+
+.2+| Line breaks in mathematical formulae
+a| Line breaks in mathematical formulae and expressions shall be in accordance with ISO 80000-2. Any line break shall be after, and not before, the signs stem:[=], \+, stem:[-], stem:[+-] and ∓, or, if necessary, the signs stem:[xx], stem:[cdot] or stem:[//].
+a| 
+
+====
+[cols="2",options="unnumbered"]
+!===
+a! Correct:
+
+[stem%unnumbered]
+++++
+- {partial W}/{partial x} + {"d"}/{"d"t} {partial W}/{partial x} =
+++++
+
+[stem%unnumbered]
+++++
+Q[(-"grad " V - {partial A}/{partial t})_x + (v xx "rot" A)_x]
+++++
+
+a! Incorrect:
+
+[stem%unnumbered]
+++++
+- {partial W}/{partial x} + {"d"}/{"d"t} {partial W}/{partial x}
+++++
+
+[stem%unnumbered]
+++++
+= Q[(-"grad " V - {partial A}/{partial t})_x + (v xx "rot" A)_x]
+++++
+
+
+a! Correct: +
+stem:[23 "unitsml(degC)" +-] +
+stem:[2 "unitsml(degC)"]
+a! Incorrect: +
+stem:[23 "unitsml(degC)"] +
+stem:[+- 2 "unitsml(degC)"]
+
+a! Correct: +
+stem:[24 "unitsml(mm)" xx] +
+stem:[36 "unitsml(mm)"]
+a! Incorrect: +
+stem:[24 "unitsml(mm)"] +
+stem:[xx 36 "unitsml(mm)"]
+!===
+====
+
+|===
+

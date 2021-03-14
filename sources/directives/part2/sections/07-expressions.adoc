@@ -1,0 +1,204 @@
+
+[[cls_7]]
+== Verbal forms for expressions of provisions
+
+=== General
+
+The user of the document needs to be able to identify the requirements he/she is obliged to satisfy in order to claim compliance with a document. The user also needs to be able to distinguish these requirements from other types of provision where there is a choice (i.e. recommendations, permissions, possibilities and capabilities).
+
+It is essential to follow rules for the use of verbal forms so that a clear distinction can be made between requirements, recommendations, permissions, possibilities and capabilities.
+
+The first column in <<table_3>> to <<table_7>> shows the preferred verbal form to be used to express each type of provision. The equivalent expressions given in the second column shall be used only in certain cases when the form given in the first column cannot be used for linguistic reasons.
+
+Only singular forms are shown in <<table_3>> to <<table_7>>.
+
+
+[[scls_7-2]]
+=== Requirement
+
+See the definition given in <<scls_3-3-3>>.
+
+The verbal forms shown in <<table_3>> shall be used to express requirements.
+
+
+[[table_3]]
+.Requirement
+[cols="2",options="header"]
+|===
+| Preferred verbal form | Equivalent phrases or expressions for use in certain cases
+
+| shall
+| is to +
+is required to +
+it is required that +
+has to +
+only … is permitted +
+it is necessary
+
+| shall not
+| is not allowed [permitted] [acceptable] [permissible] +
+is required to be not +
+is required that … be not +
+is not to be +
+do not
+
+2+a|
+[example]
+Connectors shall conform to the electrical characteristics specified by IEC 60603-7-1.
+
+2+a|
+Imperative mood: +
+The imperative mood is frequently used in English to express requirements in procedures or test methods.
+
+[example]
+Switch on the recorder.
+
+[example]
+Do not activate the mechanism before…
+
+2+| Do not use "`must`" as an alternative for "`shall`". This avoids confusion between the requirements of a document and external constraints (see <<scls_7-6>>). +
+Do not use "`may not`" instead of "`shall not`" to express a prohibition.
+|===
+
+
+=== Recommendation
+
+See the definition given in <<scls_3-3-4>>.
+
+The verbal forms shown in <<table_4>> shall be used to express recommendations.
+
+[[table_4]]
+.Recommendation
+[cols="2",options="header"]
+|===
+| Preferred verbal form | Equivalent phrases or expressions for use in certain cases
+
+| should | it is recommended that ought to
+| should not | it is not recommended that ought not to
+
+2+a|
+[example]
+Wiring of these connectors should take into account the wire and cable diameter of the cables defined in IEC 61156.
+
+2+| In French, do not use "`devrait`" in this context.
+|===
+
+
+=== Permission
+
+See the definition given in <<scls_3-3-5>>.
+
+The verbal forms shown in <<table_5>> shall be used to express permission.
+
+[[table_5]]
+.Permission
+[cols="2",options="header"]
+|===
+| Preferred verbal form | Equivalent phrases or expressions for use in certain cases
+
+| may
+| is permitted +
+is allowed +
+is permissible
+
+| may not
+| it is not required that +
+no … is required
+
+2+a|
+
+[example]
+IEC 60512-26-100 may be used as an alternative to IEC 60512-27-100 for connecting hardware that has been previously qualified to IEC 60603-7-3:2008.
+
+[example]
+Within an EPB document, if the quantity is not passed to other EPB documents, one or more of the subscripts may be omitted provided that the meaning is clear from the context.
+
+2+|
+Do not use "`possible`" or "`impossible`" in this context. +
+Do not use "`can`" instead of "`may`" in this context. +
+Do not use "`might`" instead of "`may`" in this context. +
+"`May`" signifies permission expressed by the document, whereas "`can`" refers to the ability of a user of the document or to a possibility open to him/her. +
+The French verb "`pouvoir`" can indicate both permission and possibility. If there is a risk of misunderstanding, the use of other expressions is advisable.
+|===
+
+
+
+=== Possibility and capability
+
+See the definitions given in <<scls_3-3-6>> and <<scls_3-3-7>>.
+
+The verbal forms shown in <<table_6>> shall be used to express possibility and capability.
+
+[[table_6]]
+.Possibility and capability
+[cols="2",options="header"]
+|===
+| Preferred verbal form | Equivalent phrases or expressions for use in certain cases
+
+| can
+| be able to +
+there is a possibility of +
+it is possible to
+
+| cannot
+| be unable to +
+there is no possibility of +
+it is not possible to
+
+2+a|
+[example]
+Use of this connector in corrosive atmospheric conditions can lead to failure of the locking mechanism.
+
+[example]
+These measurements can be used to compare different sprayer setups on the same sprayer.
+
+[example]
+Only the reverse calculation approach given in E.3 can be used for calculated energy performance.
+
+[example]
+The sum over time can be related either to consecutive readings or to readings on different time slots (e.g. peak versus off-peak).
+
+2+|
+Do not use "`may`" instead of "`can`" in this context. +
+"`May`" signifies permission expressed by the document, whereas "`can`" refers to the ability of a user of the document or to a possibility open to him/her. +
+The French verb "`pouvoir`" can indicate both permission and possibility. If there is a risk of misunderstanding, the use of other expressions is advisable.
+|===
+
+
+[[scls_7-6]]
+=== External constraint
+
+See the definition given in <<scls_3-3-8>>.
+
+External constraints are not requirements of the document. They are given for the information of the user.
+
+The verbal form shown in <<table_7>> shall be used to indicate constraints or obligations defined outside the document.
+
+[[table_7]]
+.External constraint
+[cols="2",options="header"]
+|===
+| Preferred verbal form | Equivalent phrases or expressions for use in certain cases
+
+| must |
+
+2+a|
+====
+Particular conditions existing in a country:
+____
+Because Japan is a seismically active country, all buildings must be earthquake-resistant.
+____
+====
+
+====
+A law of nature:
+____
+	
+All fish must maintain a balance of salt and water in their bodies to stay healthy.
+____
+====
+
+2+|
+Do not use "`must`" as an alternative for "`shall`". This avoids confusion between the requirements of a document and external constraints (see <<scls_7-2>>).
+|===
+

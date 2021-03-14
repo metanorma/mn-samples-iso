@@ -1,0 +1,132 @@
+
+[[cls_9]]
+== Numbers, quantities, units and values
+
+=== Representation of numbers and numerical values
+
+* The decimal sign shall be a comma on the line in all language versions.
+
+* To express values of physical quantities, Arabic numerals followed by the international symbol for the unit shall be used (see ISO 80000, IEC 80000 and IEC 60027).
+
+* If the magnitude (absolute value) of a number less than 1 is written in decimal form, the decimal sign shall be preceded by a zero.
++
+[example]
+0,001
+
+* Each group of three digits shall be separated by a small space from the preceding digits. This also applies to digits following the decimal sign. This does not apply to binary and hexadecimal numbers, numbers designating years or the numbering of standards.
++
+[example]
+stem:[23456] &nbsp; &nbsp; &nbsp;  stem:[2345] &nbsp; &nbsp; &nbsp;  stem:[2.345] &nbsp; &nbsp; &nbsp;  stem:[2.3456] &nbsp; &nbsp; &nbsp;  stem:[2.34567] but the year 2011
+
+* The multiplication cross (stem:[xx]) shall be used to indicate the multiplication of numbers and numerical values written in decimal form, in vector products and in cartesian products.
++
+--
+[example]
+stem:[A = 80 " mm" xx 25 " mm"]
+
+[example]
+stem:[l = 2.5 x 10^3 " m"]
+
+[example]
+stem:[vec I_G = vec I_1 xx vec I_2]
+--
+
+
+* The half-high dot (·) shall be used to indicate a scalar product of vectors and comparable cases, and may also be used to indicate a product of scalars and in compound units.
++
+--
+[example]
+stem:[U = R cdot I]
+
+[example]
+stem:["unitsml(rad)" cdot "unitsml(m^2//kg)"]
+--
+
+* In some cases, the multiplication sign may be omitted.
++
+--
+[example]
+stem:[4c - 5d] &nbsp; &nbsp; &nbsp; &nbsp; stem:[6ab] &nbsp; &nbsp; &nbsp; &nbsp; stem:[7(a + b)] &nbsp; &nbsp; &nbsp; &nbsp; stem:[3 ln 2]
+--
+
+* ISO 80000-2 gives an overview of multiplication symbols for numbers.
+
+
+=== Values, dimensions and tolerances
+
+==== General
+
+Values and dimensions shall be indicated as being minimum or maximum. Their tolerances (if applicable) shall be specified in an unambiguous manner.
+
+[example]
+stem:[80 "unitsml(mm)" xx 25 "unitsml(mm)" xx 50 "unitsml(mm)"] (not stem:[80 xx 25 xx 50 "unitsml(mm)"])
+
+[example]
+stem:[80 "unitsml(uF)" +- 2 "unitsml(uF)"] or stem:[(80 +- 2) "unitsml(uF)"]
+
+[example]
+stem:[lambda = 220 xx (1 +- 0.02) "unitsml(W//(m cdot K))"]
+
+====
+stem:[80_{0}^{+2}] (not stem:[80_{-0}^{+2}])
+====
+
+====
+stem:[10 "unitsml(kPa)"] to stem:[12 "unitsml(kPag)"] (not stem:[10] to stem:[12 "unitsml(kPa)"] or stem:[10] – stem:[12 "unitsml(kPa)"])
+====
+
+In order to avoid misunderstanding, tolerances on values expressed in per cent shall be expressed in a mathematically correct form.
+
+[example]
+Write "`from stem:[63 %] to stem:[67 %]`" to express a range.
+
+[example]
+Write "`stem:[(65 +- 2) %]`" to express a centre value with tolerance.
+
+The form "`stem:[65 +- 2 %]`" shall not be used.
+
+The degree should be divided decimally.
+
+[example]
+Write 17,25° rather than 17°15′.
+
+Any value or dimension that is mentioned for information only shall be clearly distinguishable from requirements.
+
+
+==== Limiting values
+
+For some purposes, it is necessary to specify limiting values (maximum, minimum). Usually one limiting value is specified for each characteristic. In the case of several widely used categories or levels, several limiting values are required.
+
+Limiting values of strictly local importance shall not be included in a document.
+
+
+==== Selected values
+
+For some purposes, values or series of values may be selected, particularly for variety control and interface purposes. They may be selected according to the series of preferred numbers given in ISO 3 (see also ISO 17 and ISO 497), or according to some modular system or other determining factors. For the electrotechnical field, recommended systems of dimensional sizes are given in IEC Guide 103.
+
+Documents that have been established to specify selected values for equipment, or components that may be referred to in the provisions of other documents, shall be regarded, in this respect, as basic standards.
+
+
+[example]
+For electrotechnical work, IEC 60063 specifies series of preferred values for resistors and capacitors.
+
+[example]
+For chemical testing, ISO/TC 48 has developed standards for laboratory equipment.
+
+
+Values of strictly local importance shall not be included in a document. In standardizing a rationalized series of values, existing series shall be examined to see whether any would be acceptable for international application.
+
+If a series of preferred numbers is used, difficulties can arise if fractions (such as stem:[3.15]) are introduced: these can sometimes be inconvenient or require unnecessarily high accuracy. In such cases, they should be rounded in accordance with ISO 497. The specification of different values for use in different countries (whereby both the precise value and the rounded value are contained in the document) shall be avoided.
+
+
+=== Quantities, units, symbols and signs
+
+* The International System of units (SI) as set out in ISO 80000 and IEC 80000 shall be used.
+* The units in which any values are expressed shall be indicated.
+* The unit symbols for degree, minute and second for plane angle shall immediately follow the numerical value; all other unit symbols shall be preceded by a space.
+* Symbols for quantities shall be chosen, wherever possible, from the various parts of IEC 60027, ISO 80000 and IEC 80000.
+* Language-specific abbreviated terms such as ppm should not be used, if possible. If it is necessary to use language-specific abbreviated terms such as ppm, their meaning shall be explained.
+* Mathematical signs and symbols shall be in accordance with ISO 80000-2.
+
+Use <<annex_b>> as a checklist of the quantities and units which shall be used.
+

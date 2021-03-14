@@ -1,0 +1,179 @@
+
+[[cls_29]]
+== Tables
+
+[[scls_29-1]]
+=== Purpose or rationale
+
+Tables are used when they are the most efficient means of presenting information in an easily comprehensible form.
+
+
+[[scls_29-2]]
+=== Title
+
+It is recommended to provide a concise table title.
+
+
+[[scls_29-3]]
+=== Numbering and subdivision
+
+Tables shall be designated "`Table`" and numbered with Arabic numerals, beginning with 1. A single table shall be designated "`Table 1`". This numbering shall be independent of the numbering of the clauses and of any figures.
+
+Further subdivision [e.g. Table 1 a)] is not permitted. A table within a table is not permitted. Subdivision of a table into subsidiary sections with new column headings is not permitted.
+
+It is often better to create several tables rather than trying to consolidate too much information into one table. The simpler the presentation, the better.
+
+If a very complex table is necessary, it can be better to include it as a software supplement to the document.
+
+In annexes, the table numbering restarts and the number is preceded by the annex letter (e.g. Table A.1).
+
+When a table is continued over several pages, it can be useful to indicate the continuation.
+
+
+====
+&nbsp;
+[align=center]
+*Table x* _(continued)_
+====
+
+
+====
+&nbsp;
+[align=center]
+*Table* x (1 of #)
+====
+
+The column headings together with any statement concerning units can be repeated on all pages after the first.
+
+
+[[scls_29-4]]
+=== Referencing
+
+Each table shall be explicitly referred to within the text.
+
+Use, for example, the following forms for references to tables:
+
+* "`Table 3 lists…`";
+* "`See Table B.1`".
+
+
+[[scls_29-5]]
+=== Specific principles and rules
+
+[[scls_29-5-1]]
+==== Notes to tables
+
+Notes to tables shall be located within the frame of the relevant table and shall precede table footnotes. A single note in a table shall be preceded by "`NOTE`", placed at the beginning of the first line of the text of the note. When several notes occur in the same table, they shall be designated "`NOTE 1`", "`NOTE 2`", "`NOTE 3`", etc. The numbering restarts for each new table.
+
+Notes to tables shall not contain requirements or any information considered indispensable for the use of the document. Any requirements relating to the content of a table shall be given in the text, in a footnote to the table or as a paragraph within the table. Notes to tables do not need to be referred to.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[scls_29-5-2]]
+==== Footnotes to tables
+
+Footnotes to tables are numbered independently from footnotes to the text. They shall be located within the frame of the relevant table, and shall appear at the foot of the table.
+
+Footnotes to tables shall be distinguished by superscript lower case letters, starting with "`a`". The footnotes shall be referred to in the table by inserting the same superscript lower case letter.
+
+Footnotes to tables may contain requirements. <<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[scls_29-5-3]]
+==== Keys to tables
+
+In tables, it is sometimes necessary to abbreviate words or references in order to save space or to improve readability. The meaning of such abbreviated terms shall be explained in a key. See <<table_12>>.
+
+[[table_12]]
+.Example of a table with a key
+[cols="5",options="header"]
+|===
+| Data object name | Common data class | Explanation | T | M/O/C
+
+| LNName | | The name shall be composed of the class name, the LN-Prefix and LN-Instance-ID according to IEC 61850-7-2:2010, Clause 22. | |
+
+5+^h| Data objects
+5+^h| _Status information_
+
+| Op | ACT | Level of action reached | T | M
+
+5+h| _Settings_
+
+| StrVal | ASG | Start level set-point | | C
+| OpDlTmms | ING | Operate delay time [ms] | | O
+
+5+a|
+*Key*
+
+T:: Transient data objects
+M/O/C:: The data object is mandatory (M) or optional (O) or conditional (&#x200c;C)
+|===
+
+
+[[scls_29-6]]
+=== Examples
+
+====
+The layout of the different elements that can appear in a table
+
+[align=right]
+Dimensions in millimetres
+
+[cols="^,^,^,^",options="unnumbered,header"]
+|===
+| Type | Length | Inside diameter | Outside diameter
+
+| | stem:[l_1]{blank}footnote:[Table footnote 1.] | stem:[d_1] |
+| | stem:[l_2] | stem:[d_2] footnote:[Table footnote 2.] footnote:[Table footnote 3.] |
+4+<a| A paragraph containing a requirement.
+
+[NOTE]
+Table note.
+
+[NOTE]
+Table note.
+
+|===
+====
+
+
+====
+When there are several different units:
+
+[cols="4",options="unnumbered,header"]
+|===
+| Type
+| Linear density +
+stem:["unitsml(kg/m)"]
+| Inside diameter +
+stem:["unitsml(mm)"]
+| Outside diameter +
+stem:["unitsml(mm)"]
+|===
+====
+
+
+====
+When all the units are the same:
+
+[align=right]
+Dimensions in millimetres
+
+
+[cols="4",options="unnumbered,header"]
+|===
+| Type | Length | Inside diameter | Outside diameter
+
+| | | |
+|===
+====
+
+
+====
+Correct and incorrect table headers. Table cells shall not be split diagonally.
+
+[%unnumbered]
+image::hidden_fig3.jpg[]
+====
+

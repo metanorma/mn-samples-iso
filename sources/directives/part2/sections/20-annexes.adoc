@@ -1,0 +1,72 @@
+
+[[cls_20]]
+== Annexes
+
+[[scls_20-1]]
+=== Purpose or rationale
+
+Annexes are used to provide additional information to the main body of the document and are developed for several reasons, for example:
+
+* when the information or table is very long and including it in the main body of the document would distract the user;
+* to set apart special types of information (e.g. software, example forms, results of interlaboratory tests, alternative test methods, tables, lists, data);
+* to present information regarding a particular application of the document.
+
+
+[[scls_20-2]]
+=== Normative or informative?
+
+Annexes can be normative or informative elements.
+
+Normative annexes provide additional normative text to the main body of the document.
+
+Informative annexes provide additional information intended to assist the understanding or use of the document. Informative annexes may contain optional requirements. For example, a test method that is optional may contain requirements but there is no need to comply with these requirements to claim compliance with the document. The status of the annex (informative or normative) shall be made clear by the way in which it is referred to in the text and shall be stated under the heading of the annex.
+
+====
+[cols="2",options="unnumbered"]
+|===
+| […] see Annex A for additional information […] | The status of Annex A is informative.
+| […] the test method shall be carried out as specified in Annex B […] | The status of Annex B is normative.
+|===
+====
+
+[[scls_20-3]]
+=== Mandatory, conditional or optional?
+
+Annexes are optional elements.
+
+
+[[scls_20-4]]
+=== Numbering and subdivision
+
+Each annex shall be designated by a heading comprising the word "`Annex`" followed by a capital letter, starting with "`A`", for example "`Annex A`". The annex heading shall be followed by the indication "`(normative)`" or "`(informative)`", and by the title.
+
+====
+&nbsp;
+[align=center]
+*Annex A* +
+(informative) +
+*Example form*
+====
+
+Annexes may be subdivided into clauses, subclauses, paragraphs and lists.
+
+Numbers given to the clauses, subclauses, tables, figures and mathematical formulae of an annex shall be preceded by the letter designating that annex followed by a full stop. The numbering shall start afresh with each annex.
+
+====
+In the case of Annex A, the first clause would be numbered A.1, the first figure would be Figure A.1, the first table would be Table A.1 and the first formula would be Formula (A.1).
+====
+
+
+[[scls_20-5]]
+=== Specific principles and rules
+
+Each annex shall be explicitly referred to within the text.
+
+====
+"`Annex B provides further information…`"; +
+"`Use the methods described in Annex C`"; +
+"`See Figure A.6`"; +
+"`Clause A.2 describes…`"; +
+"`…as specified in C.2.5.`".
+====
+

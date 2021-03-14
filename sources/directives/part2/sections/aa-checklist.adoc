@@ -1,0 +1,120 @@
+
+[[annex_a]]
+[appendix]
+== Checklist for writers and editors of documents
+
+The checklist given in <<table_a-1>> is a tool to help writers and editors of documents.
+
+[[table_a-1]]
+[cols="4",options="header"]
+.Checklist for writers and editors of documents
+|===
+| Task | Assessment | Done | Comments
+
+.2+| Structure (<<cls_6>>, <<cls_22>>)
+| Check table of contents: +
+Is the top-level structure logical? +
+Is the subdivision consistent?
+| |
+| Hanging paragraphs: +
+Check for and remove any hanging paragraphs.
+| |
+
+
+.2+| Use of plain language +
+(<<cls_4>>, <<cls_5>>)
+
+| Is the text clear and concise? | |
+| Are the sentences short? (check punctuation) | |
+
+.5+| Title (<<cls_11>>)
+| Is the title organized going from the more general to the more particular? | |
+| Does the title unintentionally limit the scope of the document? | |
+| Is it as clear and concise as possible? | |
+| Make sure that the title does not contain more than three elements. | |
+| If there are several parts, are the titles aligned? | |
+
+.2+| Foreword (<<cls_12>>)
+| Is the document a revision? If so, insert a revision statement including any amendments and technical corrigenda and a list of changes with respect to previous edition. | |
+| Are there any other organizations involved in the drafting that should be mentioned? | |
+
+.2+| Introduction (<<cls_13>>)
+| Is it purely informative? | |
+| Does it describe the content or give information on why the document is needed? | |
+
+.3+| Scope (<<cls_14>>)
+| Does it describe what the document does? | |
+| Does it state where it is applicable? | |
+| Does it only contain statements of fact? | |
+
+
+.4+| Normative references (<<cls_15>>)
+| Are all of the references listed in the Normative references clause cited in the text in such a way that some or all of their content constitutes requirements of the document? | |
+| Are the references dated or undated? | |
+| Are the references used ISO and IEC standards? If not, do suitable ISO and IEC standards exist which could be used instead? | |
+| Are the normative references publicly available? | |
+
+
+.3+| Terms and definitions (<<cls_16>>)
+| Are the terms listed used in the document? | |
+a| Do suitable terms exist in the terminology databases?
+
+* http://www.electropedia.org/
+* https://www.iso.org/obp  | |
+| Are the definitions correctly drafted? | |
+
+
+.4+| Figures (<<cls_28>>)
+| Does each figure have a concise title? | |
+| Is each figure numbered correctly? | |
+| Is there a key if necessary? | |
+| Are all figures cross-referenced in the text? | |
+
+| Graphical symbols (<<scls_28-6-2>>)
+| Are symbols used taken from the ISO and IEC databases? +
+If not, contact IEC TC 3, IEC SC 3C and ISO/TC 145 in order to register a standardized symbol. | | 
+
+
+.3+| Tables (<<cls_29>>)
+| Does each table have a concise title? | |
+| Is each table numbered correctly? | |
+| Are all tables cross-referenced in the text? | |
+
+
+.2+| Annexes (<<cls_20>>)
+| Is there a reference to each annex in the main part of the text? | |
+| Is their status (normative or informative) correct? Is this made clear in the main part of the text? | |
+
+.4+| Bibliography (<<cls_21>>)
+| Is it formatted consistently? | |
+| Are all the entries correct and complete? | |
+| Are any of them normative references that should be listed in <<cls_2>>? | |
+| Are any of the listed documents duplicated in <<cls_2>>? | |
+
+
+.5+| Drafting of provisions (<<cls_7>>)
+| Make sure that "`shall`" "`should`" or "`may`" are not used in the Foreword, Scope or notes.  | |
+| Make sure that "`shall`" is not used in the Introduction. | |
+| Are "`may`" and "`can`" used correctly? | |
+| Is "`must`" used anywhere in the document? +
+Is "`must`" used correctly to mean external constraints? | |
+| Make sure that no requirements specifying compliance with national/legal regulations are included. | |
+
+
+.3+| Potential legal problems (<<cls_30>>, <<cls_31>>, <<cls_32>>)
+| Copyrights | |
+| Trademarks | |
+| Patents | |
+
+| Conformity assessment (<<cls_33>>)
+| Are there potential conformity assessment issues? | |
+
+| Cross-references (<<cls_10>>)
+| Are all cross-references correct? | |
+
+.2+| Common problems (<<annex_b>>)
+| Are symbols for variable quantities correctly formatted in the text and mathematical formulae? | |
+| Is a comma on the line used as the decimal sign? | |
+
+| Other issues | | |
+|===

@@ -1,0 +1,91 @@
+
+[[cls_24]]
+== Notes
+
+[[scls_24-1]]
+=== Purpose or rationale
+
+Notes are used for giving additional information intended to assist the understanding or use of the text of the document. The document shall be usable without the notes.
+
+For rules on notes to figures, see <<scls_28-5-4>>.
+
+For rules on notes to tables, see <<scls_29-5-1>>.
+
+Notes to entry (in terminological entries) follow different rules from those for notes, see <<scls_16-5-9>>. <<table_8>> summarizes how to use notes and footnotes within documents.
+
+
+[[table_8]]
+.Use of notes and footnotes within documents
+[cols="6",options="header"]
+|===
+| | Element | Rule | Numbering | Designation | Provisions allowed?
+
+.2+| *In terminology* | Note # to entry | <<scls_16-5-9>> | Always numbered | Note 1 to entry, Note 2 to entry, etc. | May contain provisions (shall, should or may) related to the use of the term
+| _Footnotes to terminological entries are not allowed_ | <<scls_16-5-11>> | | |
+
+.2+| *In the text*
+| Note | <<scls_24-1>> | Numbered if more than one; numbering restarts for each new clause or subclause | NOTE 1, NOTE 2, etc. | No requirements (shall) or any information considered indispensable for the use of the document, recommendations (should) or permissions (may)
+| Footnote | <<scls_26-1>> | Sequential throughout the document | Normally with Arabic numerals | No requirements (shall) or any information considered indispensable for the use of the document, recommendations (should) or permissions (may)
+
+.2+| *Figures*
+| Notes to figures | <<scls_28-5-4>> | Numbered if more than one; numbered independently from the notes to the text; numbering restarts for each new figure | NOTE 1, NOTE 2, etc. | No requirements (shall) or any information considered indispensable for the use of the document, recommendations (should) or permissions (may)
+| Footnotes to figures | <<scls_28-5-5>> | Numbered if more than one; numbered independently from the footnotes to the text; numbering restarts for each new figure | Normally superscript lower case letters, starting with "`a`" | May contain requirements
+
+.2+| *Tables*
+| Notes to tables | <<scls_29-5-1>> | Numbered if more than one; numbered independently from the notes to the text; numbering restarts for each new table | NOTE 1, NOTE 2, etc. | No requirements (shall) or any information considered indispensable for the use of the document, recommendations (should) or permissions (may)
+| Footnotes to tables | <<scls_29-5-2>> | Numbered if more than one; numbered independently from the footnotes to the text; numbering restarts for each new table | Normally superscript lower case letters, starting with "`a`" | May contain requirements
+|===
+
+
+[[scls_24-2]]
+=== Title
+
+Notes do not have a title.
+
+
+[[scls_24-3]]
+=== Numbering and subdivision
+
+Within a given clause or subclause, notes shall be numbered sequentially. The numbering restarts at each new subdivision. A single note in a subdivision does not need to be numbered.
+
+
+[[scls_24-4]]
+=== Referencing
+
+Notes do not need to be specifically referred to in the text.
+
+If notes are referred to, use for example, the following forms for references:
+
+* "`an explanation is provided in 7.1, Note 2`";
+* "`see 8.6, Note 3`".
+
+
+[[scls_24-5]]
+=== Specific principles and rules
+
+Notes shall not contain requirements (e.g. use of "`shall`", see <<table_3>>) or any information considered indispensable for the use of the document, for example instructions (imperative mood), recommendations (e.g. use of "`should`", see <<table_4>>) or permission (e.g. use of "`may`", see <<table_5>>). Notes should be written as a statement of fact.
+
+<<table_8>> summarizes how to use notes and footnotes within documents.
+
+[[scls_24-6]]
+=== Examples
+
+====
+Correct example of the use of a note:
+____
+“Each label shall have a length of between 25 mm and 40 mm and a width of between 10 mm and 15 mm. +
+NOTE    The size of the label was chosen so that it will fit most sizes of syringe without obscuring the graduation marks.”
+____
+====
+
+====
+Incorrect examples of the use of a note:
+
+[cols="2",options="unnumbered"]
+|===
+| NOTE   In this context a part shall be regarded as a separate document … | "`shall`" constitutes a requirement
+| NOTE   Alternatively, test at a load of … | "`test`" constitutes a requirement, expressed here in the form of an instruction using the imperative
+| NOTE   Where a laboratory is part of a larger organization, the organizational arrangements should be such that departments having conflicting interests … | "`should`" constitutes a recommendation
+| NOTE   Individuals may have more than one function … | "`may`" constitutes a permission
+|===
+====

@@ -1,0 +1,177 @@
+
+[[cls_27]]
+== Mathematical formulae
+
+[[scls_27-1]]
+=== Purpose or rationale
+
+A mathematical formula uses symbols to express the relationship between quantities.
+
+[NOTE]
+====
+Notations such as
+
+stem:[V/{"km/h"}], stem:[l/m] and stem:[t/s] or stem:[V//("km/h")], stem:[l//m], stem:[t//s]
+
+for numerical values are not mathematical formulae. They are particularly useful on the axes of graphs and in the headings of columns in tables.
+====
+
+
+[[scls_27-2]]
+=== Title
+
+Mathematical formulae do not have a title.
+
+
+[[scls_27-3]]
+=== Numbering and subdivision
+
+If needed for cross-referencing purposes, mathematical formulae can be numbered in a document. Arabic numbers in parentheses shall be used, starting with 1.
+
+
+====
+&nbsp;
+
+stem:[x^2 + y^2 < z^2] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (1)
+
+====
+
+The numbering shall be continuous and independent of the numbering of clauses, tables and figures. Subdivision of mathematical formulae [for example (2a), (2b), etc.] is not permitted.
+
+When mathematical formulae in annexes are numbered, the numbering restarts and is preceded by the annex letter.
+
+====
+&nbsp;
+
+stem:[x^2 + y^2 < z^2] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (A.1)
+
+====
+
+
+[[scls_27-4]]
+=== Referencing
+
+If a formula is numbered, it should be referred to in the text. The purpose of a formula should be made clear by its context, for example, with an introductory proposition.
+
+Use, for example, the following forms for references to mathematical formulae:
+
+* "`see 10.1, Formula (3)`";
+* "`see A.2, Formula (A.5)`".
+
+
+[[scls_27-5]]
+=== Specific principles and rules
+
+Mathematical formulae shall be expressed in mathematically correct form.
+
+The variables shall be represented by italicized single-letter symbols. The meanings of the symbols shall be explained in connection with the mathematical formulae, unless they appear in a symbols and abbreviated terms clause.
+
+====
+[stem%unnumbered]
+++++
+V = l/t
+++++
+
+Where
+
+stem:[V]:: is the speed of a point in uniform motion;
+stem:[l]:: is the distance travelled;
+stem:[t]:: is the duration.
+====
+
+However, the same symbol shall never be used within a document both for a quantity and for its corresponding numerical value. For example, use of the formula in Example 1 and of the formula in Example 2 in the same context would imply that stem:[1 = 3.6] (which obviously is not true).
+
+If, exceptionally, a formula between numerical values is used, the style shown in Example 2 shall be followed.
+
+====
+[stem%unnumbered]
+++++
+V = 3.6 xx l/t
+++++
+
+where
+
+stem:[V]:: is the numerical value of the speed, expressed in kilometres per hour (km/h), of a point in uniform motion;
+stem:[l]:: is the numerical value of the distance travelled, expressed in metres (m);
+stem:[t]:: is the numerical value of the duration, expressed in seconds (s).
+====
+
+Descriptive terms or names of quantities shall not be arranged in the form of a mathematical formula. Names of quantities or multiletter abbreviated terms, for example presented in italics or with subscripts, shall not be used in the place of symbols.
+
+====
+[cols="2",options="unnumbered"]
+|===
+a| Correct:
+
+[stem%unnumbered]
+++++
+t_i = sqrt{S_{"ME",i}/sqrt{S_{"MR",i}}}
+++++
+
+where
+
+stem:[t_i]:: is the statistical value for the system stem:[i];
+stem:[S_{"ME",i}]:: is the residual mean square for the system stem:[i];
+stem:[sqrt{S_{"MR",i}]:: is the mean square due to regression for the system stem:[i].
+
+a| Incorrect:
+
+[stem%unnumbered]
+++++
+t_i = sqrt{MSE_i/MSR_i}
+++++
+
+where
+
+stem:[t_i]:: is the statistical value for the system stem:[i];
+stem:[S_{"ME",i}]:: is the residual mean square for the system stem:[i];
+stem:[sqrt{S_{"MR",i}]:: is the mean square due to regression for the system stem:[i].
+|===
+====
+
+
+====
+[cols="2",options="unnumbered"]
+|===
+a| Correct: stem:[rho = m/V] a| Incorrect: stem:["density" = "mass"/"volumen"]
+|===
+====
+
+
+====
+[cols="2",options="unnumbered"]
+|===
+a| Correct:
+
+[stem%unnumbered]
+++++
+dim(E) = dim(F) * dim(l)
+++++
+
+where
+
+stem:[E]:: is energy;
+stem:[F]:: is force;
+stem:[l]:: is length.
+
+a| Incorrect:
+
+[stem%unnumbered]
+++++
+dim("energy") = dim("force") * dim("length")
+++++
+
+or
+
+[stem%unnumbered]
+++++
+dim(energy) = dim(force) * dim(length)
+++++
+|===
+====
+
+The same symbol should not be used to represent different quantities within the same document. Subscripts can be useful to distinguish symbols for related concepts.
+
+Unit symbols shall not be used within mathematical formulae.
+
+Further examples are presented in <<annex_b>>.

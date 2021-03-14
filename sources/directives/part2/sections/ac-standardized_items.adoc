@@ -1,0 +1,313 @@
+
+[[annex_c]]
+[appendix,obligation="normative"]
+== Designation of internationally standardized items
+
+
+[[scls_C-1]]
+=== General
+
+For the purpose of <<annex_c>>, an "`internationally standardized item`" means either a tangible item (such as a material or a manufactured product), or an intangible item (such as a process or system, a test method, a collection of symbols, or requirements for marking and delivery).
+
+There are many circumstances when it is convenient to have a brief designation to identify the item instead of a lengthy description. These include references given to items in documents, in catalogues, in written communications, in technical and scientific literature, in the ordering of goods, materials and equipment and in the presentation of goods on display and for sale.
+
+The designation system given in <<annex_c>> shall be used to give items a unique designation. This designation provides a rapid and unambiguous description of the item. The system is intended solely for application in International Standards, and in regional and national standards identical in content with them. It supports international comprehension about items which meet the requirements of the relevant International Standard.
+
+NOTE The designation is no substitute for the full content of the document. In order to know what a document is about, it needs to be read.
+
+A designation system does not need to appear in every document that contains elements of choice. It is particularly useful for product and material documents. The committee may choose whether to include a designation system.
+
+
+
+[[scls_C-2]]
+=== Applicability
+
+[[scls_C-2-1]]
+==== {blank}
+
+Each standardized item has a number of characteristics. The values associated with those characteristics may be either single or multiple. Where only a single value is specified for each characteristic in the document, it is sufficient to quote the number of the document and the identification is unambiguous. Where several values are given, the users have to make a choice. In this case it is not sufficient for users to quote only the number of the document; the value or values required from the range also have to be designated.
+
+====
+The volume of a molar solution of sulfuric acid used in a test method is a single value and does not require a choice.
+
+A range of nominal lengths in millimetres of countersunk head screws in a specification has multiple values and requires a choice.
+====
+
+[[scls_C-2-2]]
+==== {blank}
+
+The designation system described may be applied in the following types of document.
+
+. A document in which more than one choice is open in relation to a characteristic defined in the document.
++
+[example]
+The choice from a range of alternative dimensions or other properties in a specification for a product; the choice of a particular test method in a generic document covering a variety of methods for determining the value of a given characteristic of a product; the choice of specific values of certain testing parameters of which a number of alternatives are offered in the document. [For product or material standards, <<item_C-2-2-c>> also applies.]
+
+. A document which defines terms and symbols from which a selection has to be made to communicate information.
+. [[item_C-2-2-c]]For a product or material, a document which contains alternatives in one or more of its requirements, and which provides a specification complete enough to ensure that the product or material conforming to it is of sufficient quality for its intended use.
+
+NOTE: There would be considerable risk of misunderstanding by the purchaser if a designation system were applied to a specification that incompletely defined the suitability of a product for its purpose. The designation system is intended to make known only the "`selection`" aspects in a document, so users would assume that the other characteristics required to ensure suitability of purpose were covered by the document.
+
+
+[[scls_C-2-3]]
+==== {blank}
+
+The designation system is suitable for use in any type of communication, including automatic data processing.
+
+
+[[scls_C-3]]
+=== Designation system
+
+[[scls_C-3-1]]
+==== {blank}
+
+Each designation comprises a "`Description block`" and an "`Identity block`". The system is illustrated in Figure C.1.
+
+[[figure_c-1]]
+.Structure of designation system
+image::figure_c-1.jpg[]
+
+
+See <<scls_C-7>> for examples.
+
+[[scls_C-3-2]]
+==== {blank}
+
+In this designation system, the standard number identifies all the required characteristics and their values and is contained in the International Standard number block. The chosen values of those characteristics to which several values have been assigned are contained in the "`Individual item block`". For a document in which each characteristic is assigned only a single value, no individual item block need appear in the designation.
+
+
+[[scls_C-4]]
+=== Use of characters
+
+[[scls_C-4-1]]
+==== {blank}
+
+The designation consists of characters which shall be letters, digits or signs.
+
+[[scls_C-4-2]]
+==== {blank}
+
+Where letters are used, they shall be of the Latin alphabet. No distinction in meaning shall be made between upper case letters and lower case letters. For the description block, lower case letters, which are commonly used in writing or print, may be transformed into upper case letters in automatic data processing. For the identity block, there is a preference for upper case letters.
+
+[[scls_C-4-3]]
+==== {blank}
+
+Where digits are used, they shall be Arabic.
+
+[[scls_C-4-4]]
+==== {blank}
+
+The only signs permitted shall be the hyphen (-), the plus sign (+), the solidus ( / ), the comma (,) and the multiplication sign (stem:[xx]). In automatic data processing, the multiplication sign is the letter "`X`".
+
+[[scls_C-4-5]]
+==== {blank}
+
+In the designation, spaces may be inserted for better readability. However, spaces are not counted as characters and they may be omitted when the designation is used in automatic data processing.
+
+
+[[scls_C-5]]
+=== Description block
+
+The committee shall allot a description block to the standardized item. This description block shall be as short as possible and is preferably taken from the subject classification of the document (e.g. keywords, International Classification for Standards). The description should be that which best characterizes the standardized item. When referring to the document, the use of the description block is optional. When used, it shall be placed in front of the International Standard number block.
+
+
+[[scls_C-6]]
+=== Identity block
+
+[[scls_C-6-1]]
+==== General
+
+The identity block shall be composed in such a way that it designates the standardized item unambiguously. It consists of two consecutive blocks of characters:
+
+* the International Standard number block, comprising a maximum of 8 characters (the letters "`ISO`" or "`IEC`" plus a maximum of 5 digits);
+* the individual item block (digits, letters, signs), comprising a recommended maximum of 18 characters.
+
+In order to mark the division between the International Standard number block and the individual item block, a hyphen (-) shall be the first character of the individual item block.
+
+
+[[scls_C-6-2]]
+==== International Standard number block
+
+[[scls_C-6-2-1]]
+===== {blank}
+
+The International Standard number block shall be as short as possible (e.g. ISO 1 in the case of the first ISO standard). Spaces or zeros may be added when recording on machine-readable medium (e.g. "`ISO 1`" or "`ISO 00001`").
+
+[[scls_C-6-2-2]]
+===== {blank}
+
+If a document is being revised and the former edition contained a method for the designation of the standardized item, care shall be taken that the designation to be specified in the new edition cannot lead to confusion with any designation applied according to the former edition of the document. In general this requirement can easily be met and therefore it is not necessary to include the year of publication in the International Standard number block.
+
+[[scls_C-6-2-3]]
+===== {blank}
+
+The same applies in cases when amendments or other modifications are issued: they shall modify the designation of the standardized item accordingly.
+
+[[scls_C-6-2-4]]
+===== {blank}
+
+If the document consists of several parts issued and referred to individually, the number of the relevant part (or its code, if so required by the document) shall be indicated in the individual item block, immediately after the hyphen.
+
+[[scls_C-6-3]]
+==== Individual item block
+
+[[scls_C-6-3-1]]
+===== {blank}
+
+The individual item block shall also be as short as possible and constructed to serve the purpose of the designation in the best way possible.
+
+[[scls_C-6-3-2]]
+===== {blank}
+
+To give an unambiguous code to each item, the individual item block may be further subdivided into several data blocks, each containing specific information represented by a code (see <<scls_C-6-3-3>>). These blocks shall be separated from each other by a separator, for example a hyphen. The meaning of the codes in each data block shall be bound by their position. One or more data blocks can be omitted but the empty space shall be indicated by using an extra separator for each omitted data block.
+
+====
+&nbsp;
+[%unnumbered]
+image::hidden_fig4.jpg[]
+====
+
+[[scls_C-6-3-3]]
+===== {blank}
+
+The most important parameters shall appear first. Entries in plain language (e.g. "`wool`") shall not be used as part of the individual item block, as otherwise there would be a need for translation; they shall be replaced by coded entries. The key to such coded entries shall be provided in the document concerned.
+
+[[scls_C-6-3-4]]
+===== {blank}
+
+In the individual item block, letters I and O shall be avoided because they could lead to confusion with the numerical digits "`one`" and "`zero`".
+
+[[scls_C-6-3-5]]
+===== {blank}
+
+If the simplest way of enumerating the data required in the specification would require the use of a large number of characters, a double coding can be used in which all possibilities of an aspect are enumerated and coded with one or more characters.
+
+====
+"`stem:[1500 xx 1000 x 15]`" contains 12 characters and covers only the aspect of size without even specifying the tolerances.
+
+Using double coding, it becomes: stem:[1500 xx 1000 xx 15 = A], stem:[1500 xx 2000 xx 20 = B].
+====
+
+[[scls_C-6-3-6]]
+===== {blank}
+
+If more than one document refers to a product, one of them shall contain the rules for the designation of the product (composed of the designation of the individual standardized items).
+
+
+[[scls_C-7]]
+=== Examples
+
+====
+PRODUCT:
+
+A short enclosed-scale thermometer for precision use according to ISO 656, graduation interval stem:[0.2 "unitsml(degC)"], main scale stem:[58 "unitsml(degC)"] to stem:[82 "unitsml(degC)"].
+
+DESIGNATION:
+
+Thermometer ISO 656-EC-0,2-58-82
+
+In this designation, the elements have the following meaning:
+
+EC:: short enclosed-scale thermometer;
+0,2:: graduation interval stem:[= 0.2 "unitsml(degC)"];
+58-82:: the range of the main scale is from stem:[58 "unitsml(degC)"] to stem:[82 "unitsml(degC)"].
+
+NOTE: In this designation, the letters "`EC`" could be omitted because ISO 656 refers only to short enclosed-scale thermometers.
+====
+
+
+====
+PRODUCT:
+
+A throwaway carbide indexable insert, according to ISO 883, triangular, with side clearance, tolerance class G (precision ground), nominal size 16,5 mm, thickness 3,18 mm, corner radius 0,8 mm, for rounded cutting edges, to be used for both left-hand and right-hand cutting (designation according to ISO 1832), for group of application P20 according to ISO 513.
+
+DESIGNATION:
+
+Throwaway insert ISO 883-TPGN160308-EN-P20
+
+In this designation, the elements have the following meaning:
+ 
+T:: symbol for the shape (triangular);
+P:: symbol for the side clearance (the relief angle is identified as being 11°);
+G:: tolerance class G (tolerance ±0,025 mm on the height of triangle and ±0,13 mm on the thickness of the insert);
+N:: symbol for the special features (N = no special features);
+16:: symbol for the size (nominal size of triangle = 16,5 mm);
+03:: symbol for the thickness (stem:[3.18 "unitsml(mm)"]);
+08:: symbol for the corner configuration (stem:["corner radius" = 0.8 "unitsml(mm)"]);
+E:: symbol for the cutting edge condition (rounded cutting edges);
+N:: symbol for the cutting direction (both left-hand and right-hand cutting);
+P20:: symbol for the application of carbide (applicable for steel, steel castings, malleable cast iron with long chips).
+====
+
+
+====
+PRODUCT:
+
+A slotted pan head screw with thread M5, nominal length 20 mm, product grade A, property class 4,8, according to ISO 1580.
+
+DESIGNATION:
+
+Slotted pan screw ISO 1580-M5 × 20-4,8
+
+This designation refers to ISO 1580, which is the International Standard that contains the dimensions of the slotted pan head screws. It refers to the following standards for the other characteristics of these screws.
+
+. The International Standard for the tolerances on metric screw thread (ISO 965-2), which refers to the International Standards for the basic data (ISO 965-1), the basic profile (ISO 68), the general plan (ISO 261) and the gauging (ISO 1502). The element "`M5`" of the designation determines which data of these standards are relevant for the designated screw, on the assumption that the relevant screw thread tolerance class is fixed in the standard mentioned under b).
+
+. The International Standard for the tolerances (ISO 4759-1) on the dimensions and other features of the screws, which makes use of the symbols for limits and fits (ISO 286-1), for tolerances of form and position (ISO 1101), for tolerances of screw thread (ISO 965-3), and for surface roughness (ISO 468 and others). The relevant product grade (A) is fixed in ISO 1580 for the screw in question. It is unnecessary to include the product grade A in the designation because in ISO 1580 only one product grade is indicated.
+
+. The International Standard for the mechanical properties of fasteners (ISO 898-1), which refers to International Standards for the tensile test of steel (ISO 6892), for hardness tests (ISO 6506 and ISO 6508) and for the impact test (ISO 83). The element "`4,8`" of the designation is sufficient to determine which data of the document are relevant.
+
+With the relatively short designation the screw in question is defined completely, although several International Standards are involved.
+====
+
+
+====
+PRODUCT:
+
+The determination of ethyl ether soluble matter in plasticized cellulose acetate, procedure A.
+
+
+DETERMINATION:
+
+Test method, cellulose acetate ISO 1875-A
+====
+
+
+[[scls_C-8]]
+=== National implementation
+
+[[scls_C-8-1]]
+==== {blank}
+
+National implementation of the international designation system is applicable only when an International Standard is adopted as a national standard without change.
+
+[[scls_C-8-2]]
+==== {blank}
+
+In national implementation of International Standards, the international designation shall be used without change. However, the national standard identification may be inserted between the description block and the International Standard number block.
+
+
+====
+If the international designation of a screw is
+
+Slotted pan screw ISO 1580-M5 stem:[xx] 20-4,8
+
+its national designation may be
+
+Slotted pan screw VN 4183-ISO 1580-M5 stem:[xx] 20-4,8
+
+if VN 4183 is the identification of the national standard corresponding to ISO 1580 which has been adopted without change. +
+Another possibility for a national designation would be
+
+Flachkopfschraube mit Schlitz OENORM ISO 1580-M5 stem:[xx] 20-4,8
+
+if "`OENORM ISO 1580`" is the identification of the national standard corresponding to ISO 1580 which has been adopted without change.
+====
+
+[[scls_C-8-3]]
+==== {blank}
+
+A national standard may only use the International Standard identification in its own identifier if it is identical with that International Standard (see ISO/IEC Guide 21-1). If an individual item is standardized nationally and that item is identical to an item specified in a corresponding, but not identical, International Standard, it is permitted to use the international designation of the standardized item for that particular item.
+
+If an individual item is standardized nationally and that item corresponds but is not identical to the item in a corresponding International Standard, the national designation of the standardized item shall not include reference to the International Standard.
+

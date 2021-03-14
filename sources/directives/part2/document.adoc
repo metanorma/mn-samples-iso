@@ -1,0 +1,126 @@
+= ISO/IEC Directives, Part 2 Principles and rules for the structure and drafting of ISO and IEC documents
+:docnumber:
+:tc-docnumber:
+:partnumber: 2
+:edition: 8
+:revdate:
+:copyright-year: 2018
+:language: en
+:title-intro-en: ISO/IEC Directives
+:title-main-en: Principles and rules for the structure and drafting of ISO and IEC documents
+:title-intro-fr: Directives ISO/IEC
+:title-main-fr: Principes et règles de structure et de rédaction des documents ISO et IEC
+:doctype: international-standard
+:docstage:
+:docsubstage:
+:technical-committee-number:
+:secretariat: SAC
+:technical-committee:
+:subcommittee-number:
+:subcommittee:
+:workgroup-type: WG
+:workgroup-number:
+:workgroup:
+:docfile: document.adoc
+:imagesdir: images
+:library-ics:
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+:no-isobib:
+
+include::sections/00-foreword.adoc[]
+
+include::sections/00-introduction.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-norm_refs.adoc[]
+
+include::sections/03-terms_defs.adoc[]
+
+// GENERAL PRINCIPLES
+
+include::sections/04-standarization.adoc[]
+
+include::sections/05-principles.adoc[]
+
+include::sections/06-organization.adoc[]
+
+include::sections/07-expressions.adoc[]
+
+include::sections/08-language.adoc[]
+
+include::sections/09-numbers.adoc[]
+
+include::sections/10-referencing.adoc[]
+
+// SUBDIVISIONS OF THE DOCUMENT
+
+include::sections/11-title.adoc[]
+
+include::sections/12-foreword.adoc[]
+
+include::sections/13-introduction.adoc[]
+
+include::sections/14-scope.adoc[]
+
+include::sections/15-norm_refs.adoc[]
+
+include::sections/16-terms_defs.adoc[]
+
+include::sections/17-symbols_and_abbrv_terms.adoc[]
+
+include::sections/18-measurement.adoc[]
+
+include::sections/19-marking.adoc[]
+
+include::sections/20-annexes.adoc[]
+
+include::sections/21-bibliography.adoc[]
+
+// COMPONENTS OF THE TEXT
+
+include::sections/22-clauses_subclauses.adoc[]
+
+include::sections/23-lists.adoc[]
+
+include::sections/24-notes.adoc[]
+
+include::sections/25-examples.adoc[]
+
+include::sections/26-footnotes.adoc[]
+
+include::sections/27-mathematical_formulae.adoc[]
+
+include::sections/28-figures.adoc[]
+
+include::sections/29-tables.adoc[]
+
+// POLICY
+
+include::sections/30-patent_rights.adoc[]
+
+include::sections/31-trademarks.adoc[]
+
+include::sections/32-copyright.adoc[]
+
+include::sections/33-conformity_assessment.adoc[]
+
+include::sections/34-management_systems.adoc[]
+
+include::sections/35-ms_mss.adoc[]
+
+// ANNEXES
+
+include::sections/aa-checklist.adoc[]
+
+include::sections/ab-quantities_and_units.adoc[]
+
+include::sections/ac-standardized_items.adoc[]
+
+include::sections/ad-ref_documents.adoc[]
+
+
+
