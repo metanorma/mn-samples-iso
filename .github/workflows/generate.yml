@@ -41,4 +41,4 @@ jobs:
 
       - uses: actions-mn/setup@master
 
-      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms
+      - run: metanorma site generate --agree-to-terms
