@@ -62,4 +62,4 @@ jobs:
           os.system("gem install specific_install")
           os.system("gem specific_install -l https://github.com/{}.git -b {}".format(repo, branch))
 
-      - run: metanorma site generate . -o published -c metanorma.yml --agree-to-terms
+      - run: metanorma site generate --agree-to-terms

@@ -38,7 +38,7 @@ If you don't want to deal with local dependencies, use the docker:
 
 [source,sh]
 ----
-docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site generate . -o published -c metanorma.yml
+docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site generate
 ----
 
 
@@ -46,7 +46,7 @@ docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site 
 
 [source,sh]
 ----
-metanorma site generate . -o published -c metanorma.yml
+metanorma site generate
 ----
 
 
