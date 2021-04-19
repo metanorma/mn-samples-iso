@@ -2,26 +2,36 @@
 metanorma:
   source:
     files:
-      - sources/amendment/rice-amd.awi.adoc
-      - sources/amendment/rice-amd.cd.adoc
-      - sources/amendment/rice-amd.damd.adoc
-      - sources/amendment/rice-amd.fdamd.adoc
-      - sources/amendment/rice-amd.final.adoc
-      - sources/amendment/rice-amd.np.adoc
-      - sources/amendment/rice-amd.prf.adoc
-      - sources/amendment/rice-amd.wd.adoc
+      - sources/amendment/rice-amd-en.awi.adoc
+      - sources/amendment/rice-amd-en.cd.adoc
+      - sources/amendment/rice-amd-en.damd.adoc
+      - sources/amendment/rice-amd-en.fdamd.adoc
+      - sources/amendment/rice-amd-en.final.adoc
+      - sources/amendment/rice-amd-en.np.adoc
+      - sources/amendment/rice-amd-en.prf.adoc
+      - sources/amendment/rice-amd-en.wd.adoc
       - sources/amendment/rice-amd-fr.adoc
+      - sources/directives/part1-consolidated-iso/document.adoc
+      - sources/directives/part1/document.adoc
+      - sources/directives/part2/document.adoc
+      - sources/guide/document.adoc
+      - sources/international-standard/body/body-en.adoc
+      - sources/international-standard/body/body-fr.adoc
+      - sources/international-standard/body/body-zh.adoc
       - sources/international-standard/rice-en.awi.adoc
       - sources/international-standard/rice-en.cd.adoc
-      - sources/international-standard/rice-en.cd.sections.adoc
       - sources/international-standard/rice-en.dis.adoc
       - sources/international-standard/rice-en.fdis.adoc
       - sources/international-standard/rice-en.final.adoc
       - sources/international-standard/rice-en.np.adoc
       - sources/international-standard/rice-en.prf.adoc
       - sources/international-standard/rice-en.wd.adoc
-      - sources/international-standard/rice-zh.adoc
       - sources/international-standard/rice-fr.adoc
+      - sources/international-standard/rice-zh.adoc
+      - sources/international-workshop-agreement/document.adoc
+      - sources/publicly-available-specification/document.adoc
+      - sources/technical-report/document.adoc
+      - sources/technical-specification/document.adoc
 
   collection:
     organization: "Metanorma : Standards for standards"
