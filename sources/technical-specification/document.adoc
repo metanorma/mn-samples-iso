@@ -65,7 +65,7 @@
 :comment: ### Metanorma flavour: applies to all ISO documents
 :mn-document-class: iso
 :comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
-:mn-output-extensions: xml,html,doc,html_alt
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
 :data-uri-image:
 
