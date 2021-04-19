@@ -34,7 +34,7 @@ a| Do not mix symbols and names of units.
 ====
 
 | Writing numerical values with unit symbols
-a| 	
+a|
 Use numerical values written in figures with unit symbols.
 
 ====
@@ -127,7 +127,7 @@ Quantity or variable symbols shall always be in italic type. +
 Symbols representing numerical values shall be different from symbols representing the corresponding quantities.
 
 [example]
-stem:["unitsml(V)"] is the symbol for the unit Volt. stem:["unitsml(U)"] is the symbol for the quantity electric tension or voltage.
+stem:["unitsml(V)"] is the symbol for the unit Volt. stem:[U] is the symbol for the quantity electric tension or voltage.
 
 | Writing subscripts
 a| A subscript that represents a quantity or a variable is printed in italic type.
@@ -211,7 +211,7 @@ a| Use the mathematical signs and symbols recommended in ISO 80000-2, for exampl
 
 .2+| Line breaks in mathematical formulae
 a| Line breaks in mathematical formulae and expressions shall be in accordance with ISO 80000-2. Any line break shall be after, and not before, the signs stem:[=], \+, stem:[-], stem:[+-] and ∓, or, if necessary, the signs stem:[xx], stem:[cdot] or stem:[//].
-a| 
+a|
 
 ====
 [cols="2",options="unnumbered"]

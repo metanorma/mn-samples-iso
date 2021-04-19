@@ -39,7 +39,7 @@ stem:[vec I_G = vec I_1 xx vec I_2]
 stem:[U = R cdot I]
 
 [example]
-stem:["unitsml(rad)" cdot "unitsml(m^2//kg)"]
+stem:["unitsml(rad*m^2/kg, symbol: rad cdot m^2//kg)"]
 --
 
 * In some cases, the multiplication sign may be omitted.
@@ -65,14 +65,14 @@ stem:[80 "unitsml(mm)" xx 25 "unitsml(mm)" xx 50 "unitsml(mm)"] (not stem:[80 xx
 stem:[80 "unitsml(uF)" +- 2 "unitsml(uF)"] or stem:[(80 +- 2) "unitsml(uF)"]
 
 [example]
-stem:[lambda = 220 xx (1 +- 0.02) "unitsml(W//(m cdot K))"]
+stem:[lambda = 220 xx (1 +- 0.02) "unitsml(W/(m*K), multiplier: &#xb7;)"]
 
 ====
 stem:[80_{0}^{+2}] (not stem:[80_{-0}^{+2}])
 ====
 
 ====
-stem:[10 "unitsml(kPa)"] to stem:[12 "unitsml(kPag)"] (not stem:[10] to stem:[12 "unitsml(kPa)"] or stem:[10] – stem:[12 "unitsml(kPa)"])
+stem:[10 "unitsml(kPa)"] to stem:[12 "unitsml(kPa)"] (not stem:[10] to stem:[12 "unitsml(kPa)"] or stem:[10] – stem:[12 "unitsml(kPa)"])
 ====
 
 In order to avoid misunderstanding, tolerances on values expressed in per cent shall be expressed in a mathematically correct form.
