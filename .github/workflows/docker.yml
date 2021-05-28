@@ -32,9 +32,16 @@ jobs:
           key: fontist-docker
           restore-keys: fontist-docker
 
-      - run: curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
+      - uses: metanorma/metanorma-build-scripts/gh-rubygems-setup-action@master
+        with:
+          token: ${{ secrets.METANORMA_CI_PAT_TOKEN }}
 
-      - run: metanorma site generate --agree-to-terms
+      - run: |
+          curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
+
+      - uses: actions-mn/cli/site-gen@main
+        with:
+          agree-to-terms: true
 
       - uses: actions/upload-artifact@master
         with:
