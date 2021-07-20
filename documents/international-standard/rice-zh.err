@@ -1,0 +1,259 @@
+/__w/mn-samples-iso/mn-samples-iso/site/documents/international-standard/rice-zh.err errors
+
+
+== Style
+
+(): AnnexA-4-1:测试样品的制备: subclause is only child
+(XML Line 000090): number not broken up in threes: 17301
+	<p id="_1d502cf4-753d-464b-a359-34e8c58ad840">可以在ISO网站上找到ISO 17301 系列中所有部件的列表。</p>
+(XML Line 000113): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="section"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000120): possible decimal point: 3.2
+	<termsource status="modified">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"/>
+	<modification>
+	<p id="_c27ecb6b-7b11-4f68-91dc-fe7a83683028">3.2, “货米”一词改为以弃用，不包含注1</p>
+	</modification>
+(XML Line 000123): possible decimal point: 3.2
+	<p id="_c27ecb6b-7b11-4f68-91dc-fe7a83683028">3.2, “货米”一词改为以弃用，不包含注1</p>
+(XML Line 000130): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"/>
+	<modification>
+	<p id="_95f093cd-5bc2-4579-a947-ed9f2cfcf835">3.3</p>
+	</modification>
+(XML Line 000133): possible decimal point: 3.3
+	<p id="_95f093cd-5bc2-4579-a947-ed9f2cfcf835">3.3</p>
+(XML Line 000166): possible decimal point: 3.1
+	<termsource status="modified">
+	<origin bibitemid="ISO6646" type="inline" citeas="ISO 6646"/>
+	<modification>
+	<p id="_ade1bcbb-08b4-4bd0-9bdd-58ea1fb7af56">3.1</p>
+	</modification>
+(XML Line 000169): possible decimal point: 3.1
+	<p id="_ade1bcbb-08b4-4bd0-9bdd-58ea1fb7af56">3.1</p>
+(XML Line 000176): possible decimal point: 3.1
+	<termsource status="modified">
+	<origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"/>
+	<modification>
+	<p id="_c67fe9d6-c1b6-4475-ae82-7ec4b56c6062">3.1</p>
+	</modification>
+(XML Line 000179): possible decimal point: 3.1
+	<p id="_c67fe9d6-c1b6-4475-ae82-7ec4b56c6062">3.1</p>
+(XML Line 000186): possible decimal point: 3.2
+	<termsource status="modified">
+	<origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"/>
+	<modification>
+	<p id="_328159dc-7eb8-4f68-ac41-6f253372c7b4">3.2</p>
+	</modification>
+(XML Line 000189): possible decimal point: 3.2
+	<p id="_328159dc-7eb8-4f68-ac41-6f253372c7b4">3.2</p>
+(XML Line 000196): possible decimal point: 3.1
+	<termsource status="modified">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/>
+	<modification>
+	<p id="_21e7daa3-a304-4f53-abda-e88d300f5e8c">3.1</p>
+	</modification>
+(XML Line 000199): possible decimal point: 3.1
+	<p id="_21e7daa3-a304-4f53-abda-e88d300f5e8c">3.1</p>
+(XML Line 000203): possible decimal point: 3.2
+	<termsource status="modified">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/>
+	<modification>
+	<p id="_2d5404f8-e4c3-4155-bac5-cbfb962fc40b">3.2</p>
+	</modification>
+(XML Line 000206): possible decimal point: 3.2
+	<p id="_2d5404f8-e4c3-4155-bac5-cbfb962fc40b">3.2</p>
+(XML Line 000213): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/>
+	<modification>
+	<p id="_fa749212-2f8c-4dc3-8c12-2a1fdbcb56f1">3.3</p>
+	</modification>
+(XML Line 000216): possible decimal point: 3.3
+	<p id="_fa749212-2f8c-4dc3-8c12-2a1fdbcb56f1">3.3</p>
+(XML Line 000219): Hanging paragraph in clause
+	<clause id="_规格" inline-header="false" obligation="normative"><title>规格</title><clause id="_一般感官和健康特征" inline-header="false" obligation="normative"><title>一般，感官和健康特征</title><p id="_f35e887d-13cb-4f98-9df6-611319dfd5fb">大米的谷粒，无论是煮过的，去皮的还是碾磨的，以及整个还是破碎的，都应该是健康的，干净的，没有异味或异味，表明其变质。</p>
+	<p id="_9c8c66b2-3728-497e-8a36-8057b00d2b93">添加剂和杀虫剂残留物及其他污染物的含量不得超过目的地国允许的最大限量。</p>
+	<p id="_1c63dcba-4128-4bde-9f06-210f9b3c30c3">不允许肉眼可见的活昆虫的存在。 在将大块样品分离为测试样品之前应该确定这一点。</p></clause>
+	<clause id="_物理和化学特性" inline-header="false" obligation="normative"><title>物理和化学特性</title><clause id="_b8b01185-b32d-43f1-b097-3606c3a7a336" inline-header="false" obligation="normative"><p id="_c3b518d7-e7f3-4f35-8167-dbea295ddbfc">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn reference="1"><p id="_49b85518-bd78-4999-a21d-4cee4225912c">从前表示为15％（m/米）。</p></fn></p>
+	<p id="_c2f9dde2-07eb-4a16-af27-615e50b6d283">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。</p>
+(XML Line 000222): Hanging paragraph in clause
+	<clause id="_物理和化学特性" inline-header="false" obligation="normative"><title>物理和化学特性</title><clause id="_b8b01185-b32d-43f1-b097-3606c3a7a336" inline-header="false" obligation="normative"><p id="_c3b518d7-e7f3-4f35-8167-dbea295ddbfc">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn reference="1"><p id="_49b85518-bd78-4999-a21d-4cee4225912c">从前表示为15％（m/米）。</p></fn></p>
+	<p id="_c2f9dde2-07eb-4a16-af27-615e50b6d283">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。</p>
+	<note id="_01e6ffb3-f489-4604-9d0c-c14120796e32">
+	<p id="_32cc93ab-4d6a-47b4-b485-389f9ec4347f">根据气候，运输和储存的持续时间，某些目的地有时需要较低的湿度质量分数。 有关更多详细信息，请参见<eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>，<eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/>和<eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>。</p>
+	</note></clause>
+(XML Line 000374): Scope must occur before Terms and Definitions
+	<clause id="clause5" inline-header="false" obligation="normative">
+	<title>采样</title>
+	<p id="_a894cbe2-cdee-4d48-acdc-98d233a60bec">采样应按照<eref type="inline" bibitemid="ISO24333" citeas="ISO 24333:2009"/>，第5章.</p>
+	</clause>
+(XML Line 000378): Scope must occur before Terms and Definitions
+	<clause id="_测试方法" inline-header="false" obligation="normative"><title>测试方法</title><clause id="_含水量" inline-header="false" obligation="normative">
+	<title>含水量</title>
+	<p id="_9db0962f-468f-46ed-b4ce-30a033c06f1d">按照<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>中规定的方法确定湿度的质量分数。</p>
+	</clause>
+	<clause id="_糯米含量" inline-header="false" obligation="normative">
+(XML Line 000378): Hanging paragraph in clause
+	<clause id="_测试方法" inline-header="false" obligation="normative"><title>测试方法</title><clause id="_含水量" inline-header="false" obligation="normative">
+	<title>含水量</title>
+	<p id="_9db0962f-468f-46ed-b4ce-30a033c06f1d">按照<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>中规定的方法确定湿度的质量分数。</p>
+	</clause>
+	<clause id="_糯米含量" inline-header="false" obligation="normative">
+(XML Line 000390): Hanging paragraph in clause
+	<clause id="_糙米产量" inline-header="false" obligation="normative"><title>糙米产量</title><clause id="_判定" inline-header="false" obligation="normative"><title>判定</title><admonition id="_ade4457f-a9ff-417d-8eaf-6e973cc13769" type="caution">
+	<p id="_6cd06134-7cef-45b9-a345-36d674e544d7">只能用水稻或煮米饭来确定糙米产量。</p>
+	</admonition>
+	<p id="_b48a434a-109f-4288-a5a8-3dd8f273667d">根据<eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>确定糙米产量。</p></clause>
+	<clause id="_精确" inline-header="false" obligation="normative"><title>精确</title><clause id="_实验室间测试" inline-header="false" obligation="normative">
+(XML Line 000394): Hanging paragraph in clause
+	<clause id="_精确" inline-header="false" obligation="normative"><title>精确</title><clause id="_实验室间测试" inline-header="false" obligation="normative">
+	<title>实验室间测试</title>
+	<p id="_66f32ed0-2af9-4f25-8933-a57db92ec3b0">实验室间试验的结果在<xref target="AnnexD"/>中提供以供参考。</p>
+	</clause>
+	<clause id="_重复性" inline-header="false" obligation="normative"><title>重复性</title><p id="_3bd8d487-bda8-42d4-aa89-366742f06421">同一个实验室在同一实验室使用相同的方法在相同的实验室中使用相同的设备在短时间间隔内使用相同的设备获得的两个独立的单一测试结果之间的绝对差值不得超过干的值的算术平均值<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math></stem>从超过5％的情况下对稻谷的实验室间研究中获得：</p>
+(XML Line 000399): no space before percent sign: 1%
+	<formula id="_5acb74f9-93bc-4089-91cf-6e0fe191120a" unnumbered="true">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi><mo>=</mo><mn>1</mn><mi>%</mi></math></stem>
+	</formula>
+(XML Line 000412): no space before percent sign: 3%
+	<formula id="_27e5add8-f27d-4b85-a9f0-e4c7a521a93d" unnumbered="true">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mo>=</mo><mn>3</mn><mi>%</mi></math></stem>
+	</formula>
+(XML Line 000424): Scope must occur before Terms and Definitions
+	<clause id="clause7" inline-header="false" obligation="normative"><title>测试报告</title><p id="_29d3cf91-1c1a-4630-a1e2-cb9e7fa3de52">对于每种测试方法，测试报告应指定以下内容：</p>
+	<ol id="_125b50e5-b785-4a9f-a827-57f88763555f">
+	<li>
+	<p id="_b773c802-8e1f-4a38-a783-75ba3b324927">所有完整识别样本所需的信息；</p>
+	</li>
+(XML Line 000451): Scope must occur before Terms and Definitions
+	<clause id="_包装" inline-header="false" obligation="normative"><title>包装</title><p id="_54762242-176e-4aaf-b9a2-d2740bbd1741">包装不得将任何气味或味道传递给产品，也不得包含可能损害产品或构成健康风险的物质。</p>
+	<p id="_777fec90-8500-4283-b3c4-3ecf7c75fe2f">如果使用袋子，则应符合<eref type="inline" bibitemid="ISO8351-1" citeas="ISO 8351-1:1994"/>第9条或<eref type="inline" bibitemid="ISO8351-2" citeas="ISO 8351-2"/>的要求。</p></clause>
+(XML Line 000453): Scope must occur before Terms and Definitions
+	<clause id="_印记" inline-header="false" obligation="normative">
+	<title>印记</title>
+	<p id="_1528896c-be1c-442e-9ef0-5f50806a8be1">包装应按照目的地国家的要求标记或标签。</p>
+	</clause>
+(XML Line 000457): Hanging paragraph in clause
+	<annex id="AnnexA" inline-header="false" obligation="normative"><title>缺陷的确定</title><clause id="_原理" inline-header="false" obligation="normative">
+	<title>原理</title>
+	<p id="_f5ccb7fd-7af8-4e87-8b28-ebcfa78ad288">根据以下类型手动分离外来物质，破碎的内核，破损的内核和其他类型的大米：糙米，精米，外壳糙米和碾米。 然后称重每种类型。</p>
+	</clause>
+	<clause id="_仪器" inline-header="false" obligation="normative"><title>仪器</title><p id="_6d9510d8-21b0-455b-901d-d06173d5245c">通常的实验室设备，特别是以下。</p>
+(XML Line 000461): Hanging paragraph in clause
+	<clause id="_仪器" inline-header="false" obligation="normative"><title>仪器</title><p id="_6d9510d8-21b0-455b-901d-d06173d5245c">通常的实验室设备，特别是以下。</p>
+	<clause id="AnnexA-2-1" inline-header="true" obligation="normative">
+	<title>样品分配器，</title>
+	<p id="_d8c294ec-3351-4e60-a590-744b27a98b7a">由具有分配系统的圆锥形样品分配器或多槽样品分配器组成，例如， “Split-it-right-right”示例分频器，如<xref target="figureA-1"/>中所示。</p>
+	</clause>
+(XML Line 000491): Hanging paragraph in clause
+	<clause id="_程序" inline-header="false" obligation="normative">
+	<title>程序</title>
+	<clause id="AnnexA-4-1" inline-header="false" obligation="normative"><title>测试样品的制备</title><p id="_4747e12b-8dfc-4a9d-ae64-c3020a5d208e">小心地混合实验室样品使其尽可能均匀，然后使用分隔器（<xref target="AnnexA-2-1"/>）进行减少，直到获得约30g的量。</p>
+	<p id="_00a51eb1-a803-4066-93d5-88d6825d68fb">卡在滤网孔中的所有颗粒都应该被认为是被滤网截留的。</p>
+	<figure id="figureA-1">
+(XML Line 000500): no space between number and SI unit: 1g
+	<p id="_741b26c6-53fc-4a12-8316-4465a1dc3b61">按照<xref target="AnnexA-4-1"/>的规定，将其中一个测试样品称重，精确至0.1g，并将不同的缺陷分成碗（<xref target="AnnexA-2-6"/>）。 当内核有多个缺陷时，将其分类到最大允许值最低的缺陷类别（参见<xref target="table1"/>）。</p>
+(XML Line 000531): Hanging paragraph in clause
+	<annex id="AnnexB" inline-header="false" obligation="informative"><title>蒸米饭中糯米含量的测定</title><clause id="_原理_2" inline-header="false" obligation="informative">
+	<title>原理</title>
+	<p id="_905b6d94-3252-4d78-8646-347765ac980e">糯米粒在碘溶液中染色时具有红棕色，而非糯米粒显示深蓝色。</p>
+	</clause>
+	<clause id="_仪器_2" inline-header="false" obligation="informative"><title>仪器</title><p id="_9abadaf8-5bed-4e74-8c0f-8f572f8f21c7">通常的实验室设备，特别是以下。</p>
+(XML Line 000535): Hanging paragraph in clause
+	<clause id="_仪器_2" inline-header="false" obligation="informative"><title>仪器</title><p id="_9abadaf8-5bed-4e74-8c0f-8f572f8f21c7">通常的实验室设备，特别是以下。</p>
+	<clause id="AnnexB-2-1" inline-header="true" obligation="informative">
+	<title>秤，</title>
+	<p id="_bed7b6b7-a766-4d42-b9fe-0204977c936f">能够称量到最接近的0.01克。</p>
+	</clause>
+(XML Line 000550): possible decimal point: 0.020
+	<p id="_c0700cec-3d59-4bc3-b36d-6969c52a5711">长圆形的孔(1 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>0.02</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable></math></stem> mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>×</mo></math></stem> 20 mm <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable><mtr><mtd><mrow><mo>+</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable></math></stem> mm）。</p>
+(XML Line 000561): Hanging paragraph in clause
+	<clause id="_试剂" inline-header="false" obligation="informative"><title>试剂</title><admonition id="_d837c610-ac4d-4e47-a491-bfa33d25fbd1" type="warning">
+	<p id="_b8cd0490-06b9-4da7-ba05-4aca89b0fe2f">碘与皮肤直接接触会引起损伤，所以在处理碘时应该小心。 碘蒸气对眼睛和粘膜非常刺激。</p>
+	</admonition>
+	<clause id="AnnexB-3-1" inline-header="true" obligation="informative">
+	<title>去离子水，</title>
+(XML Line 000578): Hanging paragraph in clause
+	<clause id="_判定_3" inline-header="false" obligation="informative"><title>判定</title><clause id="_3" inline-header="false" obligation="informative">
+	
+	<p id="_84f18302-3952-404b-9f96-7e2f5a05a26a">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2"/>）。</p>
+	</clause>
+	<clause id="_4" inline-header="false" obligation="informative">
+(XML Line 000596): no space between number and SI unit: 1g
+	<p id="_5d9a01b2-8436-432c-a0e2-5296459febab">将糯米部分（<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub></math></stem>）和非糯米部分（<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></math></stem>）称量至最接近的0.1g。</p>
+
+
+== Document Attributes
+
+(): Hans is not a recognised script
+
+
+== Metanorma XML Syntax
+
+(XML Line 000141:125): IDREF "foreword" without matching ID
+(XML Line 000141:125): IDREF "foreword" without matching ID
+(XML Line 000158:135): element "eref" missing required attributes "citeas" and "type"
+(XML Line 000158:164): element "eref" missing required attributes "citeas" and "type"
+(XML Line 000166:48): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000166:48): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000166:83): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000166:83): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000173:54): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000173:54): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000173:95): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000173:95): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000183:103): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000183:103): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000183:62): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000183:62): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000194:31): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000194:31): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000194:75): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000194:75): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000197:60): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000197:60): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000197:99): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000197:99): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000201:115): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000201:115): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000201:68): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000201:68): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000215:31): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000215:31): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000215:75): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000215:75): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000218:114): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000218:114): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000218:69): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000218:69): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000222:117): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000222:117): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000222:70): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000222:70): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000229:114): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000229:114): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000229:68): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000229:68): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000239:126): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000239:126): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000239:75): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000239:75): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000249:101): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000249:101): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000249:57): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000249:57): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000259:52): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000259:52): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000259:91): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000259:91): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000266:121): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000266:121): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000266:72): element "variant" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000266:72): attribute "lang" not allowed here; expected attribute "language", "script" or "type"
+(XML Line 000441:255): text not allowed here; expected element "p"
+(XML Line 000441:258): element "fn" incomplete; missing required element "p"
+(XML Line 000480:48): element "ol" missing required attribute "type"
