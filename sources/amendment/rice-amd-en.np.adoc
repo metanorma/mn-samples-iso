@@ -36,7 +36,6 @@
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
-:data-uri-image:
 :draft:
 
 include::sections/00-foreword.adoc[]

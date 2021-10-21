@@ -8,16 +8,16 @@
 :comment: ### Year of copyright
 :copyright-year: 2020
 :comment: ### See comment 2 below
-:title-intro-en: 
+:title-intro-en:
 :title-main-en: Guidelines for addressing climate change in standards
-:title-part-en: 
-:title-intro-fr: 
-:title-main-fr: 
+:title-part-en:
+:title-intro-fr:
+:title-main-fr:
 :title-part-fr:
 :comment: ### This is the N-document number assigned within the ISO/TC, SC or WG. This number is only relevant within the scope of its assignment for tracking purposes (optional)
 :tc-docnumber: 99999
 :comment: ###  ISO document part number. This can be "part-subpart" if this is an ISO/IEC or IEC document. (Optional.)
-:partnumber: 
+:partnumber:
 :comment: ### Document type of publication. See comment 3 below
 :doctype: guide
 :comment: ### Stage code. See comment 4 below
@@ -27,21 +27,21 @@
 :comment: ### See comment 6 below
 :technical-committee-type: TC
 :comment: ### Number of the relevant ISO subcommittee
-:technical-committee-number: 
+:technical-committee-number:
 :comment: ### Name of the relevant ISO technical committee (mandatory)
 :technical-committee: Technical Management Board - groups
 :comment: ### Name of the relevant ISO subcommittee. (Omit if not applicable.)
-:subcommittee: 
+:subcommittee:
 :comment: ### Type of the relevant ISO subcommittee. Defaults to SC if not supplied. Values: SC, JSC. (Omit if not applicable.)
-:subcommittee-type: 
+:subcommittee-type:
 :comment: ### Number of the relevant ISO subcommittee. (Omit if not applicable.)
-:subcommittee-number: 
+:subcommittee-number:
 :comment: ### Type of the relevant ISO workgroup. Defaults to WG if not supplied. Example values: JWG, JAG, AG (advisory group), AHG, SWG, SG, MA (maintenance agency), CORG, JCG, CAG
-:workgroup-type: 
+:workgroup-type:
 :comment: ### Number of the relevant ISO workgroup
-:workgroup-number: 
+:workgroup-number:
 :comment: ### Name of the relevant ISO workgroup
-:workgroup: 
+:workgroup:
 :comment: ### National body acting as the secretariat for the document in the drafting stage.
 :secretariat: SAC
 :comment: ### Document language. (Two values are permitted: en, fr.)
@@ -67,17 +67,16 @@
 :comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
-:data-uri-image:
 
 
 ////
 Comment 1: DOCUMENT NUMBER (:docnumber:)
 
-Sequence of digits that gives the document number value included in the document identifier, for example: 
+Sequence of digits that gives the document number value included in the document identifier, for example:
 
 99999 (to author ISO-99999)
-8000 (to author ISO-8000), 
-22745 (to author ISO-22745), 
+8000 (to author ISO-8000),
+22745 (to author ISO-22745),
 29002 (to author ISO-29002)
 ////
 
@@ -99,14 +98,14 @@ Both the English and the French titles for the document are required, for both t
 ////
 Comment 3: DOCUMENT TYPE (:doctype:) (mandatory)
 
-Its possible values are defined by ISO deliverables: https://www.iso.org/deliverables-all.html 
+Its possible values are defined by ISO deliverables: https://www.iso.org/deliverables-all.html
 
-The permitted types are: 
-international-standard, 
-technical-specification, 
-technical-report, 
-publicly-available-specification, 
-international-workshop-agreement, 
+The permitted types are:
+international-standard,
+technical-specification,
+technical-report,
+publicly-available-specification,
+international-workshop-agreement,
 guide.
 ////
 
@@ -154,7 +153,7 @@ Close review/voting/comment period (PWI,NP,WD,CD) / Standard published (IS): 60
 ////
 Comment 6: TECHNICAL COMMITTEE TYPE (:technical-committee-type:)
 
-Type of the relevant technical committee. Defaults to TC if not supplied. 
+Type of the relevant technical committee. Defaults to TC if not supplied.
 
 Values: TC, PC, JTC, JPC.
 ////

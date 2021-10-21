@@ -61,17 +61,16 @@
 :comment: ### Desired output formats. Metanorma-ISO supports the following output extension values: xml (MN XML), html (ISO-style HTML), html_alt (pretty HTML), doc (Word .doc)
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
-:data-uri-image:
 
 
 ////
 Comment 1: DOCUMENT NUMBER (:docnumber:)
 
-Sequence of digits that gives the document number value included in the document identifier, for example: 
+Sequence of digits that gives the document number value included in the document identifier, for example:
 
 99999 (to author ISO-99999)
-8000 (to author ISO-8000), 
-22745 (to author ISO-22745), 
+8000 (to author ISO-8000),
+22745 (to author ISO-22745),
 29002 (to author ISO-29002)
 ////
 
@@ -93,14 +92,14 @@ Both the English and the French titles for the document are required, for both t
 ////
 Comment 3: DOCUMENT TYPE (:doctype:) (mandatory)
 
-Its possible values are defined by ISO deliverables: https://www.iso.org/deliverables-all.html 
+Its possible values are defined by ISO deliverables: https://www.iso.org/deliverables-all.html
 
-The permitted types are: 
-international-standard, 
-technical-specification, 
-technical-report, 
-publicly-available-specification, 
-international-workshop-agreement, 
+The permitted types are:
+international-standard,
+technical-specification,
+technical-report,
+publicly-available-specification,
+international-workshop-agreement,
 guide.
 ////
 
@@ -144,7 +143,7 @@ Approved for publication (CD): 99
 ////
 Comment 6: TECHNICAL COMMITTEE TYPE (:technical-committee-type:)
 
-Type of the relevant technical committee. Defaults to TC if not supplied. 
+Type of the relevant technical committee. Defaults to TC if not supplied.
 
 Values: TC, PC, JTC, JPC.
 ////
