@@ -7,49 +7,7 @@ on:
     types: [ metanorma/metanorma-* ]
 
 jobs:
-  test-macos:
-    name: Test on Ruby ${{ matrix.ruby }}
-    runs-on: ${{ matrix.os }}
-    continue-on-error: ${{ matrix.experimental }}
-    strategy:
-      fail-fast: false
-      matrix:
-        ruby: [ '2.4', '2.5', '2.6', '2.7', '3.0' ]
-        os: [ ubuntu-latest, windows-latest, macos-latest ]
-        experimental: [ false ]
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
-          submodules: true
-
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ${{ matrix.ruby }}
-
-      - uses: actions/setup-python@v1
-        with:
-          python-version: '3.6'
-
-      - run: pip install xml2rfc
-
-      - name: install metanorma
-        shell: python
-        env:
-          TRIGGER_REPO: ${{ github.event.client_payload.repo }}
-          TRIGGER_REF: ${{ github.event.client_payload.ref }}
-        run: |
-          import os
-
-          repo = os.environ.get("TRIGGER_REPO")
-          branch = os.environ.get("TRIGGER_REF")
-
-          print("Install {} {}".format(repo, branch))
-
-          if repo != "metanorma/metanorma-cli":
-            os.system("gem install metanorma-cli")
-
-          os.system("gem install specific_install")
-          os.system("gem specific_install -l https://github.com/{}.git -b {}".format(repo, branch))
-
-      - run: metanorma site generate --agree-to-terms
+  test-docker:
+    uses: mmetanorma/metanorma-build-scripts/.github/workflows/sample-test.yml@main
+    secrets:
+      pat_token: ${{ secrets.METANORMA_CI_PAT_TOKEN }}
