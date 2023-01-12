@@ -1,0 +1,426 @@
+/__w/mn-samples-iso/mn-samples-iso/site/documents/international-standard/rice-fr.err errors
+
+
+== Anchors
+
+(XML Line 000001): Crossreference target paddy is undefined
+	<xref target="paddy" style="short"/>
+(XML Line 000001): Crossreference target husked_rice is undefined
+	<xref target="husked_rice" style="short"/>
+(XML Line 000001): Crossreference target paddy is undefined
+	<xref target="paddy" style="short"/>
+(XML Line 000001): Crossreference target husked_rice is undefined
+	<xref target="husked_rice" style="short"/>
+(XML Line 000001): Crossreference target term-HDK is undefined
+	<xref target="term-HDK"/>
+(XML Line 000001): Crossreference target gelatinization is undefined
+	<xref target="gelatinization" style="short"/>
+(XML Line 000001): Crossreference target gel_state is undefined
+	<xref target="gel_state" style="short"/>
+(XML Line 000062): Crossreference target annexA is undefined
+	<xref target="annexA" style="short"/>
+(XML Line 000062): Crossreference target figureA-1 is undefined
+	<xref target="figureA-1" style="short"/>
+(XML Line 000084): normalised identifier in <references id="_r__xe9_f__xe9_rences_normatives" normative="true" obligation="informative"/> from _références_normatives
+	<references id="_r__xe9_f__xe9_rences_normatives" normative="true" obligation="informative">
+	<title>Références normatives</title><p id="_894632a0-42d7-488e-a9c0-82ea153225da">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
+	
+	
+	 <bibitem id="ISO712" type="standard" schema-version="v1.2.1">  <fetched>2023-01-12</fetched>  
+(XML Line 000214): normalised identifier in <terms id="_termes_et_d__xe9_finitions" obligation="normative"/> from _termes_et_définitions
+	<terms id="_termes_et_d__xe9_finitions" obligation="normative">
+	<title>Termes et définitions</title><p id="_b2bf30b2-6bf5-480c-8280-0fe718a1612b">Pour les besoins du présent document, les termes et définitions de <eref bibitemid="ISO712"/> et <eref bibitemid="ISO24333"/> ainsi que les suivants, s’appliquent.</p>
+	<p id="_8946bd9f-cace-4fef-931d-678ab4653a9f">L’ISO et l’IEC tiennent à jour des bases de données terminologiques
+	destinées à être utilisées en normalisation, consultables aux adresses
+	suivantes:</p>
+(XML Line 000393): Crossreference target figureC-1 is undefined
+	<xref target="figureC-1" style="short"/>
+(XML Line 000426): normalised identifier in <clause id="_sp__xe9_cifications" inline-header="false" obligation="normative"/> from _spécifications
+	<clause id="_sp__xe9_cifications" inline-header="false" obligation="normative">
+	<title>Spécifications</title>
+	<clause id="_caractéristiques_générales_organoleptiques_et_sanitaires" inline-header="false" obligation="normative">
+	<title>Caractéristiques générales, organoleptiques et sanitaires</title>
+	<p id="_e209886b-c687-4a40-a3f3-100038ea777b">Les grains de riz étuvés ou non, décortiqués ou usinés, entiers ou brisés, doivent être sains, propres, sans odeurs étrangères ou dénotant une altération.</p>
+(XML Line 000428): normalised identifier in <clause id="_caract__xe9_ristiques_g__xe9_n__xe9_rales_organoleptiques_et_sanitaires" inline-header="false" obligation="normative"/> from _caractéristiques_générales_organoleptiques_et_sanitaires
+	<clause id="_caract__xe9_ristiques_g__xe9_n__xe9_rales_organoleptiques_et_sanitaires" inline-header="false" obligation="normative">
+	<title>Caractéristiques générales, organoleptiques et sanitaires</title>
+	<p id="_e209886b-c687-4a40-a3f3-100038ea777b">Les grains de riz étuvés ou non, décortiqués ou usinés, entiers ou brisés, doivent être sains, propres, sans odeurs étrangères ou dénotant une altération.</p>
+	
+	<p id="_a15c7015-3950-470b-bc7e-84c7b481b0b3">Les niveaux d’additifs et de résidus de pesticides et d’autres contaminants ne doivent pas dépasser les limites maximales admises par les réglementations nationales du pays destinataire ou, à défaut, par la Commission mixte FAO/OMS du Codex Alimentarius.</p>
+(XML Line 000437): normalised identifier in <clause id="_caract__xe9_ristiques_physiques_et_chimiques" inline-header="false" obligation="normative"/> from _caractéristiques_physiques_et_chimiques
+	<clause id="_caract__xe9_ristiques_physiques_et_chimiques" inline-header="false" obligation="normative">
+	<title>Caractéristiques physiques et chimiques</title>
+	<clause id="_648840a7-55af-4105-95a7-7183222679f7" inline-header="false" obligation="normative">
+	<p id="_f607cac2-4d80-453e-8ddc-6b0c599ab3e4">La fraction massique d’eau, déterminée conformément à l’<eref type="inline" style="short" bibitemid="ISO712" citeas="ISO 712"/> (où elle est appelée «teneur en eau»), en utilisant une étuve conforme aux exigences de l’<eref type="inline" style="short" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>, ne doit pas être supérieure à 15 %<fn reference="1"><p id="_6ccc0ac8-2887-44d1-8816-ebb3dada105d">Auparavant indiqué comme 15 % (<em>m/m</em>).</p>
+	</fn>.</p>
+(XML Line 000443): Crossreference target annexA is undefined
+	<xref target="annexA" style="short"/>
+(XML Line 000443): Crossreference target table1 is undefined
+	<xref target="table1" style="short"/>
+(XML Line 000450): Crossreference target annexA is undefined
+	<xref target="annexA" style="short"/>
+(XML Line 000450): Crossreference target table1 is undefined
+	<xref target="table1" style="short"/>
+(XML Line 000575): normalised identifier in <clause id="_m__xe9_thodes_dessai" inline-header="false" obligation="normative"/> from _méthodes_dessai
+	<clause id="_m__xe9_thodes_dessai" inline-header="false" obligation="normative">
+	<title>Méthodes d’essai</title>
+	<clause id="_teneur_en_eau" inline-header="false" obligation="normative">
+	<title>Teneur en eau</title>
+	<p id="_e96b2010-bb9d-4aba-816c-ab56da4a09e7">Déterminer la fraction massique d’eau en utilisant la méthode spécifiée dans l’<eref type="inline" style="short" bibitemid="ISO712" citeas="ISO 712"/>.</p>
+(XML Line 000584): Crossreference target annexB is undefined
+	<xref target="annexB" style="short"/>
+(XML Line 000587): normalised identifier in <clause id="_teneur_en_azote_et_en_prot__xe9_ines_brutes" inline-header="false" obligation="normative"/> from _teneur_en_azote_et_en_protéines_brutes
+	<clause id="_teneur_en_azote_et_en_prot__xe9_ines_brutes" inline-header="false" obligation="normative">
+	<title>Teneur en azote et en protéines brutes</title>
+	<p id="_6c21cae1-5c80-4f64-8a95-5af798c2bfe7">Déterminer la teneur en azote et en protéines brutes conformément soit à l’<eref type="inline" style="short" bibitemid="ISO16634" citeas="ISO 16634:--"/><fn reference="2"><p id="_ba079564-cee0-4542-8e18-c92350b976a4">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p></fn>, Article 9, soit à l’<eref type="inline" style="short" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. Pour plus de détails concernant la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir la Référence <eref type="inline" style="short" bibitemid="ref12" citeas="[10]"/> dans la Bibliographie. Pour la méthode de Dumas, voir les Références <eref type="inline" style="short" bibitemid="ref10" citeas="[15]"/> et <eref type="inline" style="short" bibitemid="ref16" citeas="[16]"/>.</p>
+	
+	<p id="_d84f00e8-3371-45fa-81a5-23fcb4241b7b">Calculer la teneur en protéines brutes du produit sec en multipliant la valeur obtenue lors de la détermination de la teneur en azote par le facteur de conversion spécifié dans l’<eref type="inline" style="short" bibitemid="ISO20483" citeas="ISO 20483:2013"/>, Annexe C et Tableau C.1, qui est adapté au type de céréales et de légumineuses <eref type="footnote" style="short" bibitemid="ref13" citeas="[11]"/><eref type="footnote" style="short" bibitemid="ref14" citeas="[12]"/> et à leur utilisation.</p>
+(XML Line 000594): normalised identifier in <clause id="_temps_de_g__xe9_latinisation" inline-header="false" obligation="normative"/> from _temps_de_gélatinisation
+	<clause id="_temps_de_g__xe9_latinisation" inline-header="false" obligation="normative">
+	<title>Temps de gélatinisation</title>
+	<p id="_40e8e56a-ec25-4147-b414-cf5737706b8c">Déterminer le temps de gélatinisation, t90, pour les grains de riz durant la cuisson. Un exemple de courbe type est donné à la <xref target="figureC-1" style="short"/>. Trois stades types de gélatinisation sont montrés à la <xref target="figureC-2" style="short"/>.</p>
+	
+	<p id="_357eecdb-51e7-419e-bb8a-e2a5beb82af2">Noter les résultats comme spécifié dans l’<xref target="clause7" style="short"/>.</p>
+(XML Line 000596): Crossreference target figureC-1 is undefined
+	<xref target="figureC-1" style="short"/>
+(XML Line 000596): Crossreference target figureC-2 is undefined
+	<xref target="figureC-2" style="short"/>
+(XML Line 000598): Crossreference target clause7 is undefined
+	<xref target="clause7" style="short"/>
+(XML Line 000601): normalised identifier in <clause id="_rendement_en_riz_d__xe9_cortiqu__xe9_" inline-header="false" obligation="normative"/> from _rendement_en_riz_décortiqué
+	<clause id="_rendement_en_riz_d__xe9_cortiqu__xe9_" inline-header="false" obligation="normative">
+	<title>Rendement en riz décortiqué</title>
+	<clause id="_détermination" inline-header="false" obligation="normative">
+	<title>Détermination</title>
+	<admonition id="_7a04325f-30f6-426b-80e8-9bb6fe2da3d6" type="caution"><p id="_95894765-2ae9-49d1-b301-1436b5fb0514">N’utiliser que du paddy ou du riz étuvé pour la détermination du rendement en riz décortiqué.</p>
+(XML Line 000603): normalised identifier in <clause id="_d__xe9_termination" inline-header="false" obligation="normative"/> from _détermination
+	<clause id="_d__xe9_termination" inline-header="false" obligation="normative">
+	<title>Détermination</title>
+	<admonition id="_7a04325f-30f6-426b-80e8-9bb6fe2da3d6" type="caution"><p id="_95894765-2ae9-49d1-b301-1436b5fb0514">N’utiliser que du paddy ou du riz étuvé pour la détermination du rendement en riz décortiqué.</p>
+	</admonition>
+	<p id="_bfb3d44f-34d2-49cf-a841-17ee6b281f3b">Déterminer le rendement en riz décortiqué conformément à l’<eref type="inline" style="short" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
+(XML Line 000610): normalised identifier in <clause id="_fid__xe9_lit__xe9_" inline-header="false" obligation="normative"/> from _fidélité
+	<clause id="_fid__xe9_lit__xe9_" inline-header="false" obligation="normative">
+	<title>Fidélité</title>
+	<clause id="_essai_interlaboratoires" inline-header="false" obligation="normative">
+	<title>Essai interlaboratoires</title>
+	<p id="_75a99881-e7ed-43dd-a1fd-1c756915bf21">Les résultats d’un essai interlaboratoires sont donnés dans l’<xref target="annexD" style="short"/> pour information.</p>
+(XML Line 000614): Crossreference target annexD is undefined
+	<xref target="annexD" style="short"/>
+(XML Line 000617): normalised identifier in <clause id="_r__xe9_p__xe9_tabilit__xe9_" inline-header="false" obligation="normative"/> from _répétabilité
+	<clause id="_r__xe9_p__xe9_tabilit__xe9_" inline-header="false" obligation="normative">
+	<title>Répétabilité</title>
+	<p id="_204caa72-5fe6-42c7-ae82-3ea22291b17a">La différence absolue entre deux résultats d’essai individuels indépendants, obtenus à l’aide de la même méthode, sur un matériau identique, soumis à essai dans le même laboratoire, par le même opérateur, utilisant le même appareillage dans un court intervalle de temps, n’excédera que dans 5 % des cas au plus la moyenne arithmétique des valeurs de <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi></math><asciimath>r</asciimath></stem> découlant de l’essai interlaboratoires:</p>
+	
+	<formula id="_36995c0e-34b6-41df-8266-5171699163ee" unnumbered="true"><stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>r</mi><mo>=</mo><mn>1</mn><mo>%</mo></math><asciimath>r = 1 %</asciimath></stem></formula>
+(XML Line 000626): normalised identifier in <clause id="_reproductibilit__xe9_" inline-header="false" obligation="normative"/> from _reproductibilité
+	<clause id="_reproductibilit__xe9_" inline-header="false" obligation="normative">
+	<title>Reproductibilité</title>
+	<p id="_5b2c00d1-4f84-4773-b4da-54489149e483">La différence absolue entre deux résultats d’essai individuels, obtenus à l’aide de la même méthode, sur un matériau identique, soumis à essai dans des laboratoires différents, par des opérateurs différents, utilisant des appareillages différents, n’excédera que dans 5 % des cas au plus la moyenne arithmétique de la valeur de <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi></math><asciimath>R</asciimath></stem> découlant de l’essai interlaboratoires:</p>
+	
+	<formula id="_99bf6548-224e-47fa-9d1f-7f484ba3a406" unnumbered="true"><stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>R</mi><mo>=</mo><mn>3</mn><mo>%</mo></math><asciimath>R = 3 %</asciimath></stem></formula>
+(XML Line 000686): Crossreference target figureA-1 is undefined
+	<xref target="figureA-1" style="short"/>
+(XML Line 000717): normalised identifier in <clause id="___xe9_chantillonnage" inline-header="false" obligation="normative"/> from _échantillonnage
+	<clause id="___xe9_chantillonnage" inline-header="false" obligation="normative">
+	<title>Échantillonnage</title>
+	<p id="_202f6e37-134f-41d9-a8f2-fe52e004c058">Voir l’<xref target="clause5" style="short"/>.</p>
+	</clause>
+(XML Line 000719): Crossreference target clause5 is undefined
+	<xref target="clause5" style="short"/>
+(XML Line 000722): normalised identifier in <clause id="_mode_op__xe9_ratoire" inline-header="false" obligation="normative"/> from _mode_opératoire
+	<clause id="_mode_op__xe9_ratoire" inline-header="false" obligation="normative">
+	<title>Mode opératoire</title>
+	<clause id="annexA-4-1" inline-header="false" obligation="normative">
+	<title>Préparation de l’échantillon pour essai</title>
+	<p id="_96654225-8520-4e99-ba21-5e23ea1b3f1b">Mélanger avec soin l’échantillon pour laboratoire pour le rendre aussi homogène que possible, puis procéder à la réduction à l’aide du diviseur (<xref target="annexA-2-1" style="short"/>), jusqu’à obtention d’une quantité d’environ 30 g.</p>
+(XML Line 000726): Crossreference target annexA-2-1 is undefined
+	<xref target="annexA-2-1" style="short"/>
+(XML Line 000736): normalised identifier in <clause id="_d__xe9_termination_2" inline-header="false" obligation="normative"/> from _détermination_2
+	<clause id="_d__xe9_termination_2" inline-header="false" obligation="normative">
+	<title>Détermination</title>
+	<p id="_2a149d97-b2d6-4e7a-8e3f-c8f73eda834a">Peser, à 0,1 g près, l’un des échantillons pour essai obtenus conformément à <xref target="annexA-4-1" style="short"/> et séparer, en les plaçant dans les coupelles (<xref target="annexA-2-6" style="short"/>), les différents défauts. Lorsqu’un grain présente plusieurs défauts, le classer dans la catégorie où la valeur maximale permise est la plus faible (voir <xref target="table1" style="short"/>).</p>
+	
+	<p id="_338b7752-d36a-4ee4-9445-8f25fabc4e21">Peser, à 0,01 g près, les fractions ainsi obtenues.</p>
+(XML Line 000738): Crossreference target annexA-4-1 is undefined
+	<xref target="annexA-4-1" style="short"/>
+(XML Line 000738): Crossreference target annexA-2-6 is undefined
+	<xref target="annexA-2-6" style="short"/>
+(XML Line 000738): Crossreference target table1 is undefined
+	<xref target="table1" style="short"/>
+(XML Line 000745): Crossreference target formulaA-1 is undefined
+	<xref target="formulaA-1" style="short"/>
+(XML Line 000765): Crossreference target clause7 is undefined
+	<xref target="clause7" style="short"/>
+(XML Line 000813): normalised identifier in <clause id="_r__xe9_actifs" inline-header="false" obligation="informative"/> from _réactifs
+	<clause id="_r__xe9_actifs" inline-header="false" obligation="informative">
+	<title>Réactifs</title>
+	<admonition id="_ba77d9c8-d311-441c-b32f-72e9271af808" type="warning"><p id="_83c4a9cf-165d-446c-9464-01ede09d0b82">Le contact direct de l’iode avec la peau peut causer des lésions; la prudence est donc nécessaire lors de la manipulation de l’iode. Les vapeurs d’iode sont très irritantes pour les yeux et les muqueuses.</p>
+	</admonition>
+	<clause id="annexB-3-1" inline-header="true" obligation="informative">
+(XML Line 000831): Crossreference target annexB-3-2 is undefined
+	<xref target="annexB-3-2" style="short"/>
+(XML Line 000831): Crossreference target annexB-3-1 is undefined
+	<xref target="annexB-3-1" style="short"/>
+(XML Line 000837): normalised identifier in <clause id="___xe9_chantillonnage_2" inline-header="false" obligation="informative"/> from _échantillonnage_2
+	<clause id="___xe9_chantillonnage_2" inline-header="false" obligation="informative">
+	<title>Échantillonnage</title>
+	<p id="_1d6eb7b2-f89d-4898-b52f-5f249b1ae460">L’échantillonnage doit être effectué conformément à l’<xref target="clause5" style="short"/>.</p>
+	</clause>
+(XML Line 000839): Crossreference target clause5 is undefined
+	<xref target="clause5" style="short"/>
+(XML Line 000842): normalised identifier in <clause id="_d__xe9_termination_3" inline-header="false" obligation="informative"/> from _détermination_3
+	<clause id="_d__xe9_termination_3" inline-header="false" obligation="informative">
+	<title>Détermination</title>
+	<clause id="_3" inline-header="false" obligation="informative">
+	<p id="_f1ceec08-b376-4b24-8b48-9f14d700e2f0">Peser une prise d’essai de 100 g de riz usiné et la placer dans un bécher en verre (<xref target="annexB-2-2" style="short"/>).</p>
+	</clause>
+(XML Line 000845): Crossreference target annexB-2-2 is undefined
+	<xref target="annexB-2-2" style="short"/>
+(XML Line 000849): Crossreference target annexB-3-3 is undefined
+	<xref target="annexB-3-3" style="short"/>
+(XML Line 000849): Crossreference target annexB-2-5 is undefined
+	<xref target="annexB-2-5" style="short"/>
+(XML Line 000853): Crossreference target annexB-2-4 is undefined
+	<xref target="annexB-2-4" style="short"/>
+(XML Line 000853): Crossreference target annexB-2-7 is undefined
+	<xref target="annexB-2-7" style="short"/>
+(XML Line 000857): Crossreference target annexB-2-3 is undefined
+	<xref target="annexB-2-3" style="short"/>
+(XML Line 000857): Crossreference target annexB-2-6 is undefined
+	<xref target="annexB-2-6" style="short"/>
+(XML Line 000867): Crossreference target formulaB-1 is undefined
+	<xref target="formulaB-1" style="short"/>
+(XML Line 000884): Crossreference target clause7 is undefined
+	<xref target="clause7" style="short"/>
+(XML Line 000884): Crossreference target formulaB-1 is undefined
+	<xref target="formulaB-1" style="short"/>
+(XML Line 000890): Crossreference target figureC-1 is undefined
+	<xref target="figureC-1" style="short"/>
+(XML Line 000890): Crossreference target figureC-2 is undefined
+	<xref target="figureC-2" style="short"/>
+(XML Line 000936): Crossreference target tableD-1 is undefined
+	<xref target="tableD-1" style="short"/>
+
+
+== Style
+
+(): annexA-4-1:Préparation de l’échantillon pour essai: subclause is only child
+(XML Line 000001): number not broken up in threes: 16634
+	<fn reference="2">
+	  <p id="_a911f0e6-1d93-7fb4-1cca-2e703b80f96c">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p>
+	</fn>
+(XML Line 000001): number not broken up in threes: 16634
+	<p id="_a911f0e6-1d93-7fb4-1cca-2e703b80f96c">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p>
+(XML Line 000048): possible decimal point: 4.3
+	<p id="_5daf2436-16aa-48e7-7125-76ef49250371">suppression de 4.3.</p>
+(XML Line 000183): number not broken up in threes: 16634
+	<note format="text/plain" type="Unpublished-Status">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</note>
+(XML Line 000238): possible decimal point: 3.1
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"/><modification><p id="_b99d2408-d486-3578-72a5-45380feef838">3.1</p>
+	</modification>
+	</termsource>
+(XML Line 000238): possible decimal point: 3.1
+	<p id="_b99d2408-d486-3578-72a5-45380feef838">3.1</p>
+(XML Line 000255): possible decimal point: 3.2
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"/><modification><p id="_dff3d834-ff6f-d3f9-585b-751f3daae2fd">3.2, Le terme “riz cargo” est représenté comme rejeté, et la Note 1 à l’article n’est pas incluse ici</p>
+	</modification>
+	</termsource>
+(XML Line 000255): possible decimal point: 3.2
+	<p id="_dff3d834-ff6f-d3f9-585b-751f3daae2fd">3.2, Le terme “riz cargo” est représenté comme rejeté, et la Note 1 à l’article n’est pas incluse ici</p>
+(XML Line 000266): possible decimal point: 3.3
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"/><modification><p id="_cc7e2752-428e-b6df-e71b-9fcc2c57e7ab">3.3</p>
+	</modification>
+	</termsource>
+(XML Line 000266): possible decimal point: 3.3
+	<p id="_cc7e2752-428e-b6df-e71b-9fcc2c57e7ab">3.3</p>
+(XML Line 000354): possible decimal point: 3.1
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO6646" type="inline" citeas="ISO 6646"/><modification><p id="_df9b04be-c82a-5609-6ca0-93d5312d749e">3.1</p>
+	</modification>
+	</termsource>
+(XML Line 000354): possible decimal point: 3.1
+	<p id="_df9b04be-c82a-5609-6ca0-93d5312d749e">3.1</p>
+(XML Line 000368): possible decimal point: 3.1
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"/><modification><p id="_dc1a7616-1140-1693-51f9-a4af12f06dc2">3.1, Dans la définition, «dans l’ISO 20483» a été ajouté</p>
+	</modification>
+	</termsource>
+(XML Line 000368): possible decimal point: 3.1
+	<p id="_dc1a7616-1140-1693-51f9-a4af12f06dc2">3.1, Dans la définition, «dans l’ISO 20483» a été ajouté</p>
+(XML Line 000382): possible decimal point: 3.2
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO20483" type="inline" citeas="ISO 20483:2013"/><modification><p id="_284d275b-dfe5-31aa-49af-baf2702a63dc">3.2, Dans la définition, «décrite dans l’ISO 20483» a été ajouté</p>
+	</modification>
+	</termsource>
+(XML Line 000382): possible decimal point: 3.2
+	<p id="_284d275b-dfe5-31aa-49af-baf2702a63dc">3.2, Dans la définition, «décrite dans l’ISO 20483» a été ajouté</p>
+(XML Line 000393): non-terms clauses cannot cross-reference terms clause (figureC-1)
+	<xref target="figureC-1" style="short"/>
+(XML Line 000396): possible decimal point: 3.1
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/><modification><p id="_480fb577-26b3-b1de-5a6d-620117f47742">3.1</p>
+	</modification>
+	</termsource>
+(XML Line 000396): possible decimal point: 3.1
+	<p id="_480fb577-26b3-b1de-5a6d-620117f47742">3.1</p>
+(XML Line 000407): possible decimal point: 3.2
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/><modification><p id="_4141edee-cdfd-5298-55db-dcab1db4df96">3.2</p>
+	</modification>
+	</termsource>
+(XML Line 000407): possible decimal point: 3.2
+	<p id="_4141edee-cdfd-5298-55db-dcab1db4df96">3.2</p>
+(XML Line 000420): possible decimal point: 3.3
+	<termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"/><modification><p id="_58a9e2e7-776f-0a18-f954-4563c5b1d141">3.3</p>
+	</modification>
+	</termsource>
+(XML Line 000420): possible decimal point: 3.3
+	<p id="_58a9e2e7-776f-0a18-f954-4563c5b1d141">3.3</p>
+(XML Line 000570): Scope must occur before Terms and Definitions
+	<clause id="clause5" inline-header="false" obligation="normative">
+	<title>Échantillonnage</title>
+	<p id="_6d81c545-598f-da88-495c-1245be8768f8">L’échantillonnage doit être effectué conformément à l’<eref type="inline" style="short" bibitemid="ISO24333" citeas="ISO 24333:2009"/>, Article 5.</p>
+	</clause>
+(XML Line 000575): Scope must occur before Terms and Definitions
+	<clause id="_m__xe9_thodes_dessai" inline-header="false" obligation="normative">
+	<title>Méthodes d’essai</title>
+	<clause id="_teneur_en_eau" inline-header="false" obligation="normative">
+	<title>Teneur en eau</title>
+	<p id="_99608664-035f-1339-8ddf-06c84c90d0f1">Déterminer la fraction massique d’eau en utilisant la méthode spécifiée dans l’<eref type="inline" style="short" bibitemid="ISO712" citeas="ISO 712"/>.</p>
+(XML Line 000589): number not broken up in threes: 16634
+	<p id="_cf67fc77-a23c-d28f-1bdd-1ebb4a983d94">Déterminer la teneur en azote et en protéines brutes conformément soit à l’<eref type="inline" style="short" bibitemid="ISO16634" citeas="ISO 16634:--"/><fn reference="2"><p id="_a911f0e6-1d93-7fb4-1cca-2e703b80f96c">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p></fn>, Article 9, soit à l’<eref type="inline" style="short" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. Pour plus de détails concernant la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir la Référence <eref type="inline" style="short" bibitemid="ref12" citeas="[10]"/> dans la Bibliographie. Pour la méthode de Dumas, voir les Références <eref type="inline" style="short" bibitemid="ref10" citeas="[15]"/> et <eref type="inline" style="short" bibitemid="ref16" citeas="[16]"/>.</p>
+(XML Line 000638): Scope must occur before Terms and Definitions
+	<clause id="clause7" inline-header="false" obligation="normative">
+	<title>Rapport d’essai</title>
+	<p id="_7ba993ab-6171-c369-3991-f732bd9a0eb4">Pour chaque méthode d’essai, le rapport d’essai doit spécifier ce qui suit:</p>
+	
+	<ol id="_80301e4e-eee4-8cba-7429-00b4f7aab2a3"><li><p id="_09602c2e-9464-f480-f7e8-ec686e98376e">tous les renseignements nécessaires à l’identification complète de l’échantillon</p>
+(XML Line 000642): List entry of broken up sentence must end with semicolon: tous les renseignements nécessaires à l’identification complète de l’échantillon
+	<li><p id="_09602c2e-9464-f480-f7e8-ec686e98376e">tous les renseignements nécessaires à l’identification complète de l’échantillon</p>
+	</li>
+(XML Line 000661): Scope must occur before Terms and Definitions
+	<clause id="_emballage" inline-header="false" obligation="normative">
+	<title>Emballage</title>
+	<p id="_51e594cb-b112-ab9e-ffd9-a19a00294404">Les emballages ne doivent communiquer ni odeur ni flaveur au produit, et ne doivent pas contenir de substances pouvant endommager le produit ou présenter un risque pour la santé.</p>
+	
+	<p id="_08c3e205-2c80-47ed-5c55-9c17c13c8855">Si des sacs sont utilisés, ils doivent être conformes aux exigences de l’<eref type="inline" style="short" bibitemid="ISO8351-1" citeas="ISO 8351-1:1994"/>, Article 9 ou de l’<eref type="inline" style="short" bibitemid="ISO8351-2" citeas="ISO 8351-2"/>, selon le cas.</p>
+(XML Line 000668): Scope must occur before Terms and Definitions
+	<clause id="_marquage" inline-header="false" obligation="normative">
+	<title>Marquage</title>
+	<p id="_e3b82f56-fee5-e14a-1d7f-566c9194bc10">Les emballages doivent être marqués ou étiquetés selon les indications requises par le pays de destination.</p>
+	</clause>
+(XML Line 000680): Hanging paragraph in clause
+	<clause id="_appareillage" inline-header="false" obligation="normative">
+	<title>Appareillage</title>
+	<p id="_ad218847-4168-92f6-060a-3cb0df646f81">Matériel courant de laboratoire et, en particulier, ce qui suit.</p>
+	
+	<clause id="annexA-2-1" inline-header="true" obligation="normative">
+(XML Line 000695): No full stop at end of title or caption: Brucelles.
+	<title>Brucelles.</title>
+(XML Line 000699): No full stop at end of title or caption: Scalpel.
+	<title>Scalpel.</title>
+(XML Line 000703): No full stop at end of title or caption: Pinceau.
+	<title>Pinceau.</title>
+(XML Line 000776): Hanging paragraph in clause
+	<clause id="_appareillage_2" inline-header="false" obligation="informative">
+	<title>Appareillage</title>
+	<p id="_8923821d-afff-be58-0bdd-519f1b4e90f8">Matériel courant de laboratoire et, en particulier, ce qui suit.</p>
+	
+	<clause id="annexB-2-1" inline-header="true" obligation="informative">
+(XML Line 000797): possible decimal point: 0.020
+	<p id="_d71a1828-1514-6062-2283-a667c9a37dc6">avec des ouvertures allongées et arrondies mesurant <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="(" close=")"><mrow><mn>1</mn><mi>m</mi><mi>m</mi><mtable><mtr><mtd><mrow><mo>+</mo><mn>0.02</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable><mi>m</mi><mi>m</mi></mrow></mfenced><mo>×</mo><mfenced open="(" close=")"><mrow><mn>20</mn><mi>m</mi><mi>m</mi><mtable><mtr><mtd><mrow><mo>+</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable><mi>m</mi><mi>m</mi></mrow></mfenced></math><asciimath>(1 mm {:(+0.02),(0):} mm) times (20 mm {:(+2),(-1):} mm)</asciimath></stem>.</p>
+(XML Line 000797): no space between number and SI unit: 1mm
+	<p id="_d71a1828-1514-6062-2283-a667c9a37dc6">avec des ouvertures allongées et arrondies mesurant <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfenced open="(" close=")"><mrow><mn>1</mn><mi>m</mi><mi>m</mi><mtable><mtr><mtd><mrow><mo>+</mo><mn>0.02</mn></mrow></mtd></mtr><mtr><mtd><mn>0</mn></mtd></mtr></mtable><mi>m</mi><mi>m</mi></mrow></mfenced><mo>×</mo><mfenced open="(" close=")"><mrow><mn>20</mn><mi>m</mi><mi>m</mi><mtable><mtr><mtd><mrow><mo>+</mo><mn>2</mn></mrow></mtd></mtr><mtr><mtd><mrow><mo>−</mo><mn>1</mn></mrow></mtd></mtr></mtable><mi>m</mi><mi>m</mi></mrow></mfenced></math><asciimath>(1 mm {:(+0.02),(0):} mm) times (20 mm {:(+2),(-1):} mm)</asciimath></stem>.</p>
+(XML Line 000801): No full stop at end of title or caption: Baguette d’agitation.
+	<title>Baguette d’agitation.</title>
+(XML Line 000805): No full stop at end of title or caption: Brucelles ou pincettes.
+	<title>Brucelles ou pincettes.</title>
+(XML Line 000809): No full stop at end of title or caption: Papier absorbant.
+	<title>Papier absorbant.</title>
+(XML Line 000813): Hanging paragraph in clause
+	<clause id="_r__xe9_actifs" inline-header="false" obligation="informative">
+	<title>Réactifs</title>
+	<admonition id="_bf9e8dbc-7c88-f8ef-d011-85390ea74b9e" type="warning"><p id="_b92d8300-65ae-2306-c90f-b55d0994d72a">Le contact direct de l’iode avec la peau peut causer des lésions; la prudence est donc nécessaire lors de la manipulation de l’iode. Les vapeurs d’iode sont très irritantes pour les yeux et les muqueuses.</p>
+	</admonition>
+	<clause id="annexB-3-1" inline-header="true" obligation="informative">
+
+
+== Metanorma XML Syntax
+
+(XML Line 000127:176): element "eref" missing required attributes "citeas" and "type"
+(XML Line 000127:208): element "eref" missing required attributes "citeas" and "type"
+(XML Line 000149:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000149:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000149:61): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000149:61): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000166:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000166:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000166:67): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000166:67): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000183:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000183:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000183:67): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000183:67): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000194:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000194:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000194:70): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000194:70): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000207:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000207:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000207:65): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000207:65): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000217:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000217:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000217:73): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000217:73): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000251:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000251:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000251:70): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000251:70): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000258:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000258:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000258:71): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000258:71): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000271:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000271:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000271:73): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000271:73): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000282:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000282:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000282:72): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000282:72): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000285:239): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000296:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000296:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000296:77): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000296:77): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000310:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000310:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000310:70): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000310:70): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000324:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000324:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000324:65): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000324:65): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000335:26): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000335:26): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000335:75): element "variant" not allowed here; expected the element end-tag, text or element "br", "em", "index", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt" or "underline"
+(XML Line 000335:75): attribute "lang" not allowed here; expected attribute "language", "locale", "script" or "type"
+(XML Line 000374:174): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000374:349): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000379:365): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000379:446): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000379:529): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000490:200): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000490:218): element "fn" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "erefstack", "hr", "image", "index", "index-xref", "keyword", "link", "note", "pagebreak", "ruby", "smallcap", "span", "stem", "strike", "strong", "sub", "sup", "svg", "tt", "underline" or "xref"
+(XML Line 000506:181): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000513:197): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000523:200): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000523:449): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000523:647): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000523:784): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000523:855): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000525:306): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000525:456): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000525:525): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000541:179): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000599:202): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000599:299): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000760:169): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
+(XML Line 000873:143): attribute "style" not allowed here; expected attribute "alt", "bibitemid", "case", "citeas", "droploc" or "normative"
