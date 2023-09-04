@@ -4,16 +4,34 @@ name: generate
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
   pull_request:
-    paths-ignore:
-      - .gitlab-ci.yml
-      - .github/workflows/test.yml
-      - .github/workflows/docker.yml
   workflow_dispatch:
 
 jobs:
-  test-docker:
-    uses: metanorma/ci/.github/workflows/sample-gen.yml@main
-    secrets:
-      pat_token: ${{ secrets.METANORMA_CI_PAT_TOKEN }}
+  site-generate:
+    name: Generate on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    concurrency:
+      group: '${{ github.workflow }}-${{ matrix.os }}-${{ github.head_ref || github.ref_name }}'
+      cancel-in-progress: true
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ ubuntu-latest, windows-latest, macos-latest ]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Cache Metanorma assets
+        uses: actions-mn/cache@v1
+
+      - name: Setup Metanorma toolchain
+        uses: actions-mn/setup@main
+
+      - name: Metanorma generate site
+        uses: actions-mn/build-and-publish@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          agree-to-terms: true
+          destination: artifact
