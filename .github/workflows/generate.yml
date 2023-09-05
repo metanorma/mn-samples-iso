@@ -32,6 +32,6 @@ jobs:
       - name: Metanorma generate site
         uses: actions-mn/build-and-publish@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           agree-to-terms: true
           destination: artifact
+          artifact-name: ${{ github.event.repository.name }}-${{ runner.os }}
