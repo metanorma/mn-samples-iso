@@ -2,10 +2,16 @@
 [appendix,obligation=informative]
 == Determination of the waxy rice content of parboiled rice
 
+[reviewer=ISO]
+****
+* Annex B is cited informatively in 6.2
+****
+
 === Principle
 
-Waxy rice kernels have a reddish brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.
+Waxy rice kernels have a reddish-brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.
 
+[[cls-B2]]
 === Apparatus
 
 The usual laboratory apparatus and, in particular, the following.
@@ -32,7 +38,7 @@ or any white colour container of a suitable size.
 [[AnnexB-2-4]]
 ==== Wire sieve,
 
-with long rounded apertures of (1 mm stem:[{:(+0.02),(0):}] mm) &times; (20 mm stem:[{:(+2),(-1):}] mm).
+with long rounded apertures of stem:[(1 "unitsml(mm)"] stem:[{:(+0.02),(0):}] stem:["unitsml(mm)")] stem:[xx (20 "unitsml(mm)"] stem:[{:(+2),(-1):}] stem:["unitsml(mm)")].
 
 [%inline-header]
 [[AnnexB-2-5]]
@@ -46,9 +52,16 @@ with long rounded apertures of (1 mm stem:[{:(+0.02),(0):}] mm) &times; (20 mm s
 [[AnnexB-2-7]]
 ==== Tissue paper.
 
+[reviewer=ISO,from=cls-B2,to=cls-B3]
+****
+* The apparatus clause has a specific presentation style
+** ISO/IEC Directives, Part 2, 2021, 18.5.4
+****
+
+[[cls-B3]]
 ===  Reagents
 
-WARNING: Direct contact of iodine with skin can cause lesions so care should be taken in handling iodine. Iodine vapour is very irritating to eyes and mucous membranes.
+WARNING: Care should be taken in handling iodine. Direct contact of iodine with skin can cause lesions. Iodine vapour is very irritating to eyes and mucous membranes.
 
 [%inline-header]
 [[AnnexB-3-1]]
@@ -60,16 +73,21 @@ Grade 3 quality as specified in <<ISO3696>>.
 [[AnnexB-3-2]]
 ==== Iodine stock solution,
 
-containing a mass fraction of 4,1 % iodine and 6,3 % potassium iodide in deionized water such as Lugols.footnote:[Lugols is an example of a suitable product available commercially. This information is given for the convenience of users of this document and does not constitute an endorsement by ISO of this product.]
+containing a mass fraction of 4,1 % iodine and 6,3 % potassium iodide in deionized water.
 
 [%inline-header]
 [[AnnexB-3-3]]
 ==== Iodine working solution,
 
-obtained by diluting the stock solution (<<AnnexB-3-2>>) two times (by volume) with deionized water (<<AnnexB-3-1>>).
+freshly prepared daily, by diluting the stock solution (<<AnnexB-3-2>>) two times (by volume) with deionized water (<<AnnexB-3-1>>).
 
-Prepare fresh daily.
+[reviewer=ISO,from=cls-B3,to=cls-B4]
+****
+* The reagent clause has a specific presentation style
+** ISO/IEC Directives, Part 2, 2021, 18.5.3
+****
 
+[[cls-B4]]
 === Sampling
 
 Sampling shall be carried out in accordance with <<clause5>>.
@@ -86,7 +104,7 @@ Add enough iodine working solution (<<AnnexB-3-3>>) to soak the kernels, and sti
 Pour the rice and solution into a wire sieve (<<AnnexB-2-4>>), and shake the basket slightly in order to drain out the solution. Then place the wire sieve on a piece of tissue paper (<<AnnexB-2-7>>) to absorb the excess liquid.
 
 ==== {blank}
-Pour the stained kernels into a bowl (<<AnnexB-2-3>>). Using tweezers or forceps (<<AnnexB-2-6>>), separate the reddish brown kernels of waxy rice from the dark blue kernels of non-waxy rice.
+Pour the stained kernels into a bowl (<<AnnexB-2-3>>). Using tweezers or forceps (<<AnnexB-2-6>>), separate the reddish-brown kernels of waxy rice from the dark blue kernels of non-waxy rice.
 
 ==== {blank}
 Weigh the waxy rice portion (stem:[m_1]) and the non-waxy rice portion (stem:[m_2]) to the nearest 0,1 g.
