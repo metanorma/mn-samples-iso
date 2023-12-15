@@ -1,5 +1,12 @@
+[[terms]]
 == Terms and definitions
 
+[reviewer=ISO,from=terms,to=terms]
+****
+* Mandatory clause
+* Definitions of terms used that are necessary for understanding the document
+** ISO/IEC Directives, Part 2, 2021, Clause 16
+****
 
 === paddy
 alt:[paddy rice]
@@ -12,24 +19,33 @@ rice retaining its husk after threshing
 
 
 === husked rice
+alt:[brown rice]
 deprecated:[cargo rice]
 
 term:[paddy] from which the husk only has been removed
 
 [.source]
-<<ISO7301,clause 3.2>>, The term "cargo rice" is shown as deprecated, and Note 1 to entry is not included here
+<<ISO7301,clause 3.2>>, The term "cargo rice" is shown as deprecated. Note 1 to entry has been removed.
 
 === milled rice
 alt:[white rice]
 
-term:[husked rice] from which almost all of the bran and embryo have been removed by milling
+term:[husked rice] from which some or all of the bran and embryo have been removed by mechanical milling
 
 [.source]
 <<ISO7301,clause 3.3>>
 
+[reviewer=ISO]
+****
+* Preferred term "milled rice" in bold type
+* Admitted term "white rice" in regular type
+* Hyperlink to another defined term (3.2)
+* Source document is informative and listed in the Bibliography
+****
+
 === parboiled rice
 
-rice whose starch has been fully gelatinized by soaking term:[paddy] in water followed by a heat treatment and a drying process
+rice whose starch has been fully gelatinized by soaking term:[paddy] rice or term:[husked rice] in water followed by a heat treatment and a drying process
 
 === waxy rice
 variety of rice whose kernels have a white and opaque appearance
@@ -45,13 +61,18 @@ organic and inorganic components other than whole or broken kernels
 [example]
 Foreign seeds, husks, bran, sand, dust.
 
+[reviewer=ISO]
+****
+* Abbreviated term "EM" given under the term
+* EXAMPLE given under the definition
+****
 
 === HDK
 alt:[heat-damaged kernel]
 
 kernel, whole or broken, which has changed its normal colour as a result of heating
 
-NOTE: This category includes whole or broken kernels that are yellow due to alteration. Parboiled rice in a batch of non-parboiled rice is also included in this category.
+NOTE: This category includes whole or broken kernels that are yellow due to alteration. term:[parboiled rice, Parboiled rice] in a batch of non-parboiled rice is also included in this category.
 
 === damaged kernel
 kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding term:[HDK]
@@ -59,10 +80,10 @@ kernel, whole or broken, showing obvious deterioration due to moisture, pests, d
 === immature kernel
 alt:[unripe kernel]
 
-kernel, whole or broken, which is unripe and/or underdeveloped
+kernel, whole or broken, which is unripe or underdeveloped, or both
 
 === husked rice yield
-amount of husked rice obtained from paddy
+amount of term:[husked rice] obtained from paddy
 
 // all terms and defs references are dated
 [.source]
@@ -84,15 +105,18 @@ NOTE: It is expressed as a mass fraction of dry product, as a percentage.
 [.source]
 <<ISO20483,clause 3.2>>
 
-
 === gelatinization
 hydration process conferring the jelly-like state typical of the coagulated colloids, which are named "gels", on kernels
 
 NOTE: See <<figureC-1>>.
 
 [.source]
-<<ISO14864,clause 3.1>>
+<<ISO14864,clause 3.1>>, Note 1 to entry added.
 
+[reviewer=ISO]
+****
+* Note to terminological entry provides additional information
+****
 
 === gel state
 condition reached as a consequence of term:[gelatinization], when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets
@@ -106,5 +130,10 @@ stem:[t_90]
 time necessary for 90 % of the kernels to pass from their natural state to the term:[gel state]
 
 [.source]
-<<ISO14864,clause 3.3>>
+<<ISO14864,clause 3.3>>, admitted term, stem:[t_90], added to the term entry.
+
+[reviewer=ISO]
+****
+* Symbol appears below the term
+****
 
