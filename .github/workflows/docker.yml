@@ -35,7 +35,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           agree-to-terms: true
-
+          destination: artifact
 
   deploy:
     runs-on: ubuntu-latest
