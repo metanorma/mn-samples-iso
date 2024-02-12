@@ -1,4 +1,4 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)</title><contributor><role type='author'/><organization><name>Metanorma : Standards for standards</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en"> — Competence of standards professionals — In companies</title>
   <title type="title-main" format="text/plain" language="en">Competence of standards professionals</title>
   <title type="title-part" format="text/plain" language="en">In companies</title>
@@ -8,10 +8,11 @@
   <uri type="doc">documents/international-workshop-agreement/document.doc</uri>
   <uri type="html">documents/international-workshop-agreement/document.html</uri>
   <uri type="rxl">documents/international-workshop-agreement/document.rxl</uri>
-  <docidentifier type="ISO">ISO IWA 30-1:2019</docidentifier>
-  <docidentifier type="iso-undated">ISO IWA 30-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO IWA 30-1:2019(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO IWA 30-1:2019(E)</docidentifier>
+  <docidentifier type="ISO">ISO IWA 30-1.2:2019</docidentifier>
+  <docidentifier type="iso-reference">ISO IWA 30-1.2:2019(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:IWA 30:-1:stage-60.60.v2:en</docidentifier>
+  <docidentifier type="iso-undated">ISO IWA 30-1.2</docidentifier>
+  <docidentifier type="iso-with-lang">ISO IWA 30-1.2:2019(en)</docidentifier>
   <docidentifier type="iso-tc">IWA/30-1</docidentifier>
   <docnumber>IWA 30</docnumber>
   <date type="published">
@@ -28,10 +29,73 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Technical Management Board - groups</subdivision>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Date and time</subdivision>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Technical Management Board - groups</subdivision>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Date and time</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -41,7 +105,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
     <iteration>2</iteration>
   </status>
@@ -73,10 +137,10 @@
     <structuredidentifier>
       <project-number part="1">ISO IWA 30</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (AWI) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -92,10 +156,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.awi.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.awi.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.awi.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/AWI Amd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/AWI Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/AWI Amd 1(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/AWI Amd 1:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/AWI Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-10.99:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -108,10 +171,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -119,7 +251,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="AWI Amd">10</stage>
+    <stage abbreviation="AWI">10</stage>
     <substage>99</substage>
   </status>
   <copyright>
@@ -145,10 +277,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>New work item proposal</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (CD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -164,10 +296,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.cd.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.cd.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.cd.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/CD Amd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/CD Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/CD Amd 1(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/CD Amd 1:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/CD Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-30.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -180,10 +311,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -191,7 +391,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="CD Amd">30</stage>
+    <stage abbreviation="CD">30</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -217,10 +417,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Committee draft</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (DAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -236,10 +436,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.damd.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.damd.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.damd.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/DAmd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/DAmd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/DAmd 1(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO 17301-1:2016/DAmd 1:2017(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/DAM 1:2017</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/DAM 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-40.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -252,10 +451,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -263,7 +531,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="DAmd">40</stage>
+    <stage abbreviation="DAMD">40</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -289,10 +557,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Draft</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (FDAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -308,10 +576,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.fdamd.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.fdamd.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.fdamd.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/FDAmd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/FDAmd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/FDAmd 1(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO 17301-1:2016/FDAmd 1:2017(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/FDAM 1:2017</docidentifier>
+  <docidentifier type="iso-reference">ISO 17301-1:2016/FDAM 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-50.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -324,10 +591,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -335,7 +671,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="FDAmd">50</stage>
+    <stage abbreviation="FDAMD">50</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -361,10 +697,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Final draft</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (final) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -381,9 +717,8 @@
   <uri type="html">documents/amendment/rice-amd-en.final.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.final.rxl</uri>
   <docidentifier type="ISO">ISO 17301-1:2016/Amd 1:2017</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-60.60:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -399,10 +734,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -410,7 +814,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -436,10 +840,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (NP) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -455,10 +859,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.np.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.np.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.np.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/PWI Amd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/PWI Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/PWI Amd 1(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/PWI Amd 1:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/PWI Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-00.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -471,10 +874,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -482,7 +954,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="PWI Amd">00</stage>
+    <stage abbreviation="PWI">00</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -508,10 +980,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Preliminary work item</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (PRF) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -528,9 +1000,8 @@
   <uri type="html">documents/amendment/rice-amd-en.prf.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.prf.rxl</uri>
   <docidentifier type="ISO">ISO 17301-1:2016/Amd 1:2017</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-draft:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -546,10 +1017,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -583,10 +1123,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Proof</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (WD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -602,10 +1142,9 @@
   <uri type="doc">documents/amendment/rice-amd-en.wd.doc</uri>
   <uri type="html">documents/amendment/rice-amd-en.wd.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-en.wd.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/AWI Amd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/AWI Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/AWI Amd 1(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/AWI Amd 1:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/AWI Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-20.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -618,10 +1157,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -629,7 +1237,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="AWI Amd">20</stage>
+    <stage abbreviation="AWI">20</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -655,10 +1263,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Working draft</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -674,10 +1282,9 @@
   <uri type="doc">documents/amendment/rice-amd-fr.doc</uri>
   <uri type="html">documents/amendment/rice-amd-fr.html</uri>
   <uri type="rxl">documents/amendment/rice-amd-fr.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016/CD Amd 1</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1/CD Amd 1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016/CD Amd 1(E)</docidentifier>
+  <docidentifier type="ISO">ISO 17301-1:2016/CD Amd 1:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016/CD Amd 1:2017(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-30.00:amd:2017:v1</docidentifier>
   <docnumber>17301</docnumber>
   <date type="created">
     <on>2016-05-01</on>
@@ -690,10 +1297,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Produits alimentaires</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Céréales et légumineuses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Produits alimentaires</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Céréales et légumineuses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -701,7 +1377,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="CD Amd">30</stage>
+    <stage abbreviation="CD">30</stage>
     <substage>00</substage>
   </status>
   <copyright>
@@ -727,10 +1403,10 @@
     <structuredidentifier>
       <project-number part="1">17301</project-number>
     </structuredidentifier>
-    <stagename>Committee draft</stagename>
+    <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (AWI)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -745,9 +1421,10 @@
   <uri type="html">documents/international-standard/rice-en.awi.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.awi.rxl</uri>
   <docidentifier type="ISO">ISO/AWI 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/AWI 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/AWI 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-10.99:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/AWI 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -758,10 +1435,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -798,10 +1544,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>New work item proposal</stagename>
+    <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (CD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -816,9 +1562,10 @@
   <uri type="html">documents/international-standard/rice-en.cd.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.cd.rxl</uri>
   <docidentifier type="ISO">ISO/CD 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/CD 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/CD 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/CD 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -829,10 +1576,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -869,10 +1685,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Committee draft</stagename>
+    <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (DIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -887,9 +1703,10 @@
   <uri type="html">documents/international-standard/rice-en.dis.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.dis.rxl</uri>
   <docidentifier type="ISO">ISO/DIS 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/DIS 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/DIS 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/DIS 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-40.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/DIS 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/DIS 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <date type="vote-started">
@@ -906,10 +1723,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -946,10 +1832,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Draft</stagename>
+    <stagename>Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (FDIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -964,9 +1850,10 @@
   <uri type="html">documents/international-standard/rice-en.fdis.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.fdis.rxl</uri>
   <docidentifier type="ISO">ISO/FDIS 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/FDIS 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/FDIS 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/FDIS 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-50.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/FDIS 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/FDIS 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -977,10 +1864,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1017,10 +1973,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Final draft</stagename>
+    <stagename>Final Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (Final)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1035,13 +1991,53 @@
   <uri type="html">documents/international-standard/rice-en.final.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.final.rxl</uri>
   <docidentifier type="ISO">ISO 17301-1:2016</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016(E)</docidentifier>
   <docidentifier type="iso-reference">ISO 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-60.60:en</docidentifier>
+  <docidentifier type="iso-undated">ISO 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 17301-1:2016(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
     <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
@@ -1054,6 +2050,36 @@
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <version>
     <revision-date>2016-05-01</revision-date>
@@ -1061,7 +2087,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1088,10 +2114,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (NP)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1106,9 +2132,10 @@
   <uri type="html">documents/international-standard/rice-en.np.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.np.rxl</uri>
   <docidentifier type="ISO">ISO/PWI 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/PWI 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/PWI 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/PWI 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-00.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/PWI 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/PWI 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -1119,10 +2146,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1159,10 +2255,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Preliminary work item</stagename>
+    <stagename>Preliminary Work Item International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (PRF)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1176,10 +2272,11 @@
   <uri type="doc">documents/international-standard/rice-en.prf.doc</uri>
   <uri type="html">documents/international-standard/rice-en.prf.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.prf.rxl</uri>
-  <docidentifier type="ISO">ISO 17301-1:2016</docidentifier>
-  <docidentifier type="iso-undated">ISO 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 17301-1:2016(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO 17301-1:2016(E)</docidentifier>
+  <docidentifier type="ISO">ISO/PRF 17301-1:2016</docidentifier>
+  <docidentifier type="iso-reference">ISO/PRF 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-draft:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/PRF 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/PRF 17301-1:2016(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -1190,10 +2287,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1230,10 +2396,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Proof</stagename>
+    <stagename>Proof of a new International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (WD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1248,9 +2414,10 @@
   <uri type="html">documents/international-standard/rice-en.wd.html</uri>
   <uri type="rxl">documents/international-standard/rice-en.wd.rxl</uri>
   <docidentifier type="ISO">ISO/AWI 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/AWI 17301-1(E)</docidentifier>
   <docidentifier type="iso-reference">ISO/AWI 17301-1:2016(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-20.00:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/AWI 17301-1(en)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -1261,10 +2428,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Amylose in rice</subdivision>
+      <identifier type="">WG 4</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1301,10 +2537,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Working draft</stagename>
+    <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1319,9 +2555,10 @@
   <uri type="html">documents/international-standard/rice-fr.html</uri>
   <uri type="rxl">documents/international-standard/rice-fr.rxl</uri>
   <docidentifier type="ISO">ISO/CD 17301-1</docidentifier>
-  <docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/CD 17301-1(F)</docidentifier>
   <docidentifier type="iso-reference">ISO/CD 17301-1:2016(F)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:fr</docidentifier>
+  <docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/CD 17301-1(fr)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -1332,10 +2569,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Produits alimentaires</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Céréales et légumineuses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Rice Group</subdivision>
+      <identifier type="">WG 3</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Produits alimentaires</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Céréales et légumineuses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Rice Group</subdivision>
+      <identifier type="">WG 3</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1371,10 +2677,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Committee draft</stagename>
+    <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -1389,9 +2695,10 @@
   <uri type="html">documents/international-standard/rice-zh.html</uri>
   <uri type="rxl">documents/international-standard/rice-zh.rxl</uri>
   <docidentifier type="ISO">ISO/CD 17301-1</docidentifier>
+  <docidentifier type="iso-reference">ISO/CD 17301-1:2016()</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:zh</docidentifier>
   <docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/CD 17301-1(X)</docidentifier>
-  <docidentifier type="iso-reference">ISO/CD 17301-1:2016(X)</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/CD 17301-1(zh)</docidentifier>
   <docidentifier type="iso-tc">17301</docidentifier>
   <docnumber>17301</docnumber>
   <contributor>
@@ -1402,10 +2709,79 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Rice Group</subdivision>
+      <identifier type="">WG 3</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Food products</subdivision>
+      <identifier type="">TC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Cereals and pulses</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Rice Group</subdivision>
+      <identifier type="">WG 3</identifier>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1441,10 +2817,10 @@
     <structuredidentifier>
       <project-number part="1">ISO 17301</project-number>
     </structuredidentifier>
-    <stagename>Committee draft</stagename>
+    <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Fire safety — Statistical data collection — Vocabulary</title>
   <title type="title-intro" format="text/plain" language="en">Fire safety</title>
   <title type="title-main" format="text/plain" language="en">Statistical data collection</title>
@@ -1458,10 +2834,11 @@
   <uri type="doc">documents/technical-specification/document.doc</uri>
   <uri type="html">documents/technical-specification/document.html</uri>
   <uri type="rxl">documents/technical-specification/document.rxl</uri>
-  <docidentifier type="ISO">ISO/TS 17755-2-2:2020</docidentifier>
-  <docidentifier type="iso-undated">ISO/TS 17755-2-2</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/TS 17755-2-2:2020(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO/TS 17755-2-2:2020(E)</docidentifier>
+  <docidentifier type="ISO">ISO/TS 17755-2-2.0:2020</docidentifier>
+  <docidentifier type="iso-reference">ISO/TS 17755-2-2.0:2020(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:ts:17755-2:-2:stage-60.60.v0:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/TS 17755-2-2.0</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/TS 17755-2-2.0:2020(en)</docidentifier>
   <docnumber>17755-2</docnumber>
   <date type="published">
     <on>2020-08-06</on>
@@ -1477,10 +2854,77 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Fire safety</subdivision>
+      <identifier type="">TC 92</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Fire safety</subdivision>
+      <identifier type="">TC 92</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1490,7 +2934,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1521,10 +2965,10 @@
     <structuredidentifier>
       <project-number part="2">ISO 17755-2</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Technical Specification</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020 — </title>
   <title type="title-intro" format="text/plain" language="en">Petroleum products — Fuels (class F)</title>
   <title type="title-main" format="text/plain" language="en">Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
@@ -1536,10 +2980,11 @@
   <uri type="doc">documents/publicly-available-specification/document.doc</uri>
   <uri type="html">documents/publicly-available-specification/document.html</uri>
   <uri type="rxl">documents/publicly-available-specification/document.rxl</uri>
-  <docidentifier type="ISO">ISO 23263:2019</docidentifier>
-  <docidentifier type="iso-undated">ISO 23263</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 23263:2019(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO 23263:2019(E)</docidentifier>
+  <docidentifier type="ISO">ISO/PAS 23263-.0:2019</docidentifier>
+  <docidentifier type="iso-reference">ISO/PAS 23263-.0:2019(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:pas:23263:-:stage-60.60.v0:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/PAS 23263-.0</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/PAS 23263-.0:2019(en)</docidentifier>
   <docidentifier type="iso-tc">23263</docidentifier>
   <docnumber>23263</docnumber>
   <date type="published">
@@ -1554,10 +2999,77 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Petroleum and related products, fuels and lubricants from natural or synthetic sources</subdivision>
+      <identifier type="">TC 28</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Classifications and specifications</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Petroleum and related products, fuels and lubricants from natural or synthetic sources</subdivision>
+      <identifier type="">TC 28</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Classifications and specifications</subdivision>
+      <identifier type="">SC 4</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1567,7 +3079,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1594,10 +3106,10 @@
     <structuredidentifier>
       <project-number>ISO 23263</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Publicly Available Specification</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
   <title type="title-intro" format="text/plain" language="en">Information technology</title>
   <title type="title-main" format="text/plain" language="en">Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
@@ -1606,10 +3118,11 @@
   <uri type="doc">documents/technical-report/document.doc</uri>
   <uri type="html">documents/technical-report/document.html</uri>
   <uri type="rxl">documents/technical-report/document.rxl</uri>
-  <docidentifier type="ISO">ISO/TR 29166:2011</docidentifier>
-  <docidentifier type="iso-undated">ISO/TR 29166</docidentifier>
-  <docidentifier type="iso-with-lang">ISO/TR 29166:2011(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO/TR 29166:2011(E)</docidentifier>
+  <docidentifier type="ISO">ISO/TR 29166-.0:2011</docidentifier>
+  <docidentifier type="iso-reference">ISO/TR 29166-.0:2011(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:tr:29166:-:stage-60.60.v0:en</docidentifier>
+  <docidentifier type="iso-undated">ISO/TR 29166-.0</docidentifier>
+  <docidentifier type="iso-with-lang">ISO/TR 29166-.0:2011(en)</docidentifier>
   <docidentifier type="iso-tc">29166</docidentifier>
   <docnumber>29166</docnumber>
   <date type="published">
@@ -1626,10 +3139,77 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Information technology</subdivision>
+      <identifier type="">JTC 1</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Document description and processing languages</subdivision>
+      <identifier type="">SC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Information technology</subdivision>
+      <identifier type="">JTC 1</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Document description and processing languages</subdivision>
+      <identifier type="">SC 34</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1639,7 +3219,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1666,10 +3246,10 @@
     <structuredidentifier>
       <project-number>ISO 29166</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Technical Report</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en"> — Guidelines for addressing climate change in standards — </title>
   <title type="title-main" format="text/plain" language="en">Guidelines for addressing climate change in standards</title>
   <title type="main" format="text/plain" language="fr"> —  — </title>
@@ -1678,10 +3258,11 @@
   <uri type="doc">documents/guide/document.doc</uri>
   <uri type="html">documents/guide/document.html</uri>
   <uri type="rxl">documents/guide/document.rxl</uri>
-  <docidentifier type="ISO">ISO 99999:2020</docidentifier>
-  <docidentifier type="iso-undated">ISO 99999</docidentifier>
-  <docidentifier type="iso-with-lang">ISO 99999:2020(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO 99999:2020(E)</docidentifier>
+  <docidentifier type="ISO">ISO Guide 99999-.2:2020</docidentifier>
+  <docidentifier type="iso-reference">ISO Guide 99999-.2:2020(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:guide:99999:-:stage-60.60.v2:en</docidentifier>
+  <docidentifier type="iso-undated">ISO Guide 99999-.2</docidentifier>
+  <docidentifier type="iso-with-lang">ISO Guide 99999-.2:2020(en)</docidentifier>
   <docidentifier type="iso-tc">99999</docidentifier>
   <docnumber>99999</docnumber>
   <date type="published">
@@ -1698,10 +3279,75 @@
     </organization>
   </contributor>
   <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Technical Management Board - groups</subdivision>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
     <role type="publisher"/>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision>Technical Management Board - groups</subdivision>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1711,7 +3357,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
     <iteration>2</iteration>
   </status>
@@ -1743,10 +3389,10 @@
     <structuredidentifier>
       <project-number>ISO 99999</project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Guide</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en"> — ISO/IEC Directives — Procedures for the technical work</title>
   <title type="title-main" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-part" format="text/plain" language="en">Procedures for the technical work</title>
@@ -1758,12 +3404,52 @@
   <uri type="doc">documents/directives/part1/document.doc</uri>
   <uri type="html">documents/directives/part1/document.html</uri>
   <uri type="rxl">documents/directives/part1/document.rxl</uri>
-  <docidentifier type="ISO">ISO DIR -1:2020</docidentifier>
-  <docidentifier type="iso-undated">ISO DIR -1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO DIR -1:2020(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO DIR -1:2020(E)</docidentifier>
+  <docidentifier type="ISO">ISO DIR :2020</docidentifier>
+  <docidentifier type="iso-reference">ISO DIR :2020(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:doc:iso:dir::2020</docidentifier>
+  <docidentifier type="iso-undated">ISO DIR </docidentifier>
+  <docidentifier type="iso-with-lang">ISO DIR :2020(en)</docidentifier>
   <contributor>
     <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
@@ -1774,6 +3460,36 @@
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
     </organization>
   </contributor>
   <edition>16</edition>
@@ -1783,7 +3499,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1806,10 +3522,10 @@
     <structuredidentifier>
       <project-number part="1">ISO </project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Directives</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">ISO/IEC Directives — Consolidated ISO Supplement — Procedures specific to ISO</title>
   <title type="title-intro" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-main" format="text/plain" language="en">Consolidated ISO Supplement</title>
@@ -1819,13 +3535,56 @@
   <title type="title-main" format="text/plain" language="fr">Supplément ISO consolidé</title>
   <title type="title-part" format="text/plain" language="fr">Procédures spécifiques à l’ISO</title>
   <uri type="xml">documents/directives/part1-consolidated-iso/document.xml</uri>
+  <uri type="pdf">documents/directives/part1-consolidated-iso/document.pdf</uri>
+  <uri type="doc">documents/directives/part1-consolidated-iso/document.doc</uri>
+  <uri type="html">documents/directives/part1-consolidated-iso/document.html</uri>
   <uri type="rxl">documents/directives/part1-consolidated-iso/document.rxl</uri>
-  <docidentifier type="ISO">ISO DIR -1:2020</docidentifier>
-  <docidentifier type="iso-undated">ISO DIR -1</docidentifier>
-  <docidentifier type="iso-with-lang">ISO DIR -1:2020(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO DIR -1:2020(E)</docidentifier>
+  <docidentifier type="ISO">ISO DIR :2020</docidentifier>
+  <docidentifier type="iso-reference">ISO DIR :2020(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:doc:iso:dir::2020</docidentifier>
+  <docidentifier type="iso-undated">ISO DIR </docidentifier>
+  <docidentifier type="iso-with-lang">ISO DIR :2020(en)</docidentifier>
   <contributor>
     <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
@@ -1838,6 +3597,36 @@
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
   <edition>11</edition>
   <version>
     <revision-date/>
@@ -1845,7 +3634,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1868,10 +3657,10 @@
     <structuredidentifier>
       <project-number part="1">ISO </project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Directives</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.1">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
   <title type="main" format="text/plain" language="en">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
   <title type="title-intro" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-main" format="text/plain" language="en">Principles and rules for the structure and drafting of ISO and IEC documents</title>
@@ -1883,12 +3672,52 @@
   <uri type="doc">documents/directives/part2/document.doc</uri>
   <uri type="html">documents/directives/part2/document.html</uri>
   <uri type="rxl">documents/directives/part2/document.rxl</uri>
-  <docidentifier type="ISO">ISO DIR -2:2018</docidentifier>
-  <docidentifier type="iso-undated">ISO DIR -2</docidentifier>
-  <docidentifier type="iso-with-lang">ISO DIR -2:2018(E)</docidentifier>
-  <docidentifier type="iso-reference">ISO DIR -2:2018(E)</docidentifier>
+  <docidentifier type="ISO">ISO DIR :2018</docidentifier>
+  <docidentifier type="iso-reference">ISO DIR :2018(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:doc:iso:dir::2018</docidentifier>
+  <docidentifier type="iso-undated">ISO DIR </docidentifier>
+  <docidentifier type="iso-with-lang">ISO DIR :2018(en)</docidentifier>
   <contributor>
     <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Agency</description>
+    </role>
     <organization>
       <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>
@@ -1901,6 +3730,36 @@
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Technical committee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">TC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Subcommittee</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">SC</identifier>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="authorizer">
+      <description>Workgroup</description>
+    </role>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <subdivision/>
+      <identifier type="">WG</identifier>
+    </organization>
+  </contributor>
   <edition>8</edition>
   <version>
     <revision-date/>
@@ -1908,7 +3767,7 @@
   <language>en</language>
   <script>Latn</script>
   <status>
-    <stage abbreviation="IS">60</stage>
+    <stage>60</stage>
     <substage>60</substage>
   </status>
   <copyright>
@@ -1931,7 +3790,7 @@
     <structuredidentifier>
       <project-number part="2">ISO </project-number>
     </structuredidentifier>
-    <stagename>International standard</stagename>
+    <stagename>Directives</stagename>
   </ext>
 </bibdata></relation>
 </relaton-collection>

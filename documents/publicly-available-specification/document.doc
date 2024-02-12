@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_aa961551.37a7.452d"
+Content-Type: multipart/related; boundary="----=_NextPart_fb76726a.4667.4539"
 
-------=_NextPart_aa961551.37a7.452d
+------=_NextPart_fb76726a.4667.4539
 Content-ID: <document.htm>
 Content-Disposition: inline; filename="document.htm"
 Content-Type: text/html; charset="utf-8"
@@ -1933,10 +1933,10 @@ p.TOCTitle, li.TOCTitle, div.TOCTitle {
   margin: 39.7pt 53.85pt 1.0cm 53.85pt;
   mso-header-margin: 35.45pt;
   mso-footer-margin: 14.2pt;
-  mso-even-header: url(cid:header.html) eh1;
-  mso-header: url(cid:header.html) h1;
-  mso-even-footer: url(cid:header.html) ef1;
-  mso-footer: url(cid:header.html) f1;
+  mso-even-header: url(cid:header.html) fh1;
+  mso-header: url(cid:header.html) fh1;
+  mso-even-footer: url(cid:header.html) ff1;
+  mso-footer: url(cid:header.html) ff1;
   mso-first-header: url(cid:header.html) fh1;
   mso-first-footer: url(cid:header.html) ff1;
   mso-paper-source: 0; }
@@ -2037,6 +2037,22 @@ div.WordSection3 {
 
 div.colophon {
   page: WordSection4; }
+
+@page WordSection5 {
+  size: 595.3pt 841.9pt;
+  margin: 39.7pt 53.85pt 1.0cm 53.85pt;
+  mso-header-margin: 35.45pt;
+  mso-footer-margin: 14.2pt;
+  mso-page-numbers: 1;
+  mso-columns: 2 even 36.0pt;
+  mso-even-header: url(cid:header.html) eh2;
+  mso-header: url(cid:header.html) h2;
+  mso-even-footer: url(cid:header.html) f4;
+  mso-footer: url(cid:header.html) f4;
+  mso-paper-source: 0; }
+
+div.index {
+  page: WordSection5; }
 
 /* List Definitions */
 @list l11 {
@@ -2498,12 +2514,9 @@ p.Code .nt {
 
 
 -->
-]]></style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/>
-    <style>
-      <!--
-div.table_container {
-  margin-bottom: 14pt;
-}
+]]></style><meta http-equiv=Content-Type content="text/html; charset=UTF-8"/><style>
+  <!--
+
 
 ol
         {margin-bottom:0cm;}
@@ -2557,10 +2570,13 @@ td.rouge-code p.Sourcecode {
   margin: 0px;
 }
 
+div.table_container {
+  margin-bottom: 14pt;
+}
+
 -->
-    </style>
-    <style>
-      <!--
+</style><style>
+  <!--
 @charset "UTF-8";
 p.Sourcecode, li.Sourcecode, div.Sourcecode, pre.Sourcecode {
   mso-style-name: Sourcecode;
@@ -3542,7 +3558,7 @@ p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
   mso-bidi-font-weight: normal; }
 
 p.1, li.1, div.1 {
-  mso-style-name: &#24341;&#29992;1;
+  mso-style-name: 引用1;
   mso-style-priority: 99;
   mso-style-unhide: no;
   margin-top: 0cm;
@@ -4105,7 +4121,7 @@ p.title-second, li.title-second, div.title-second {
   mso-fareast-language: JA; }
 
 p.10, li.10, div.10 {
-  mso-style-name: &#26631;&#39064;1;
+  mso-style-name: 标题1;
   mso-style-unhide: no;
   mso-margin-top-alt: auto;
   margin-right: 0cm;
@@ -4331,7 +4347,7 @@ span.title2 {
   mso-style-unhide: no; }
 
 span.11 {
-  mso-style-name: &#21103;&#26631;&#39064;1;
+  mso-style-name: 副标题1;
   mso-style-unhide: no; }
 
 span.partlabel {
@@ -6687,7 +6703,7 @@ p.FrontHead, li.FrontHead, div.FrontHead {
   mso-style-unhide: no;
   mso-style-qformat: yes;
   mso-style-parent: Base_Heading;
-  mso-style-next: "&#931;&#974;&#956;&#945; &#954;&#949;&#953;&#956;&#941;&#957;&#959;&#965;";
+  mso-style-next: "Σώμα κειμένου";
   margin-top: 15.5pt;
   margin-right: 0cm;
   margin-bottom: 15.5pt;
@@ -7055,8 +7071,7 @@ td.example_label, td.note_label {
   font-family: "Cambria",serif; }
 
 -->
-    </style>
-  </head>
+</style></head>
   <body lang="EN-US" link="blue" vlink="#954F72" xml:lang="EN-US">
     <div class="WordSection1">
 
@@ -7075,7 +7090,7 @@ td.example_label, td.note_label {
 
 
 <p class="MsoBodyText" align="right" style="text-align:right">
-  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO 23263 </span>
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO/PAS 23263-.0 </span>
 </p>
 
 
@@ -7084,7 +7099,7 @@ td.example_label, td.note_label {
 
 
 <p class="MsoBodyText" align="right" style="text-align:right">
-  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO&#xA0;TC 28/SC 4/ </span>
+  <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO/TC 28/SC 4/</span>
 </p>
 
 
@@ -7097,6 +7112,8 @@ td.example_label, td.note_label {
 <p class="MsoBodyText" align="right" style="text-align:right">
   <span lang="EN-GB" xml:lang="EN-GB">First edition</span>
 </p>
+
+
 
 
 
@@ -7143,314 +7160,203 @@ td.example_label, td.note_label {
 
 
 
+
+
 <!--</div>-->
 
 
-
-      
-    </div>
+</div>
     <p class="MsoBodyText">
       <br clear="all" class="section"/>
     </p>
     <div class="WordSection2">
 
 <div><a name="boilerplate-copyright-destination" id="boilerplate-copyright-destination"></a><div class="boilerplate-copyright">
-    <div>
 
+<div><a name="_copyright_protected_document" id="_copyright_protected_document"></a>
 
+<p class="zzCopyright"><a name="boilerplate-year" id="boilerplate-year"></a>&#xA9; <span class="std_publisher">ISO&#xA0;</span><span class="std_docNumber">2019</span></p>
 
-      <p class="zzCopyright"><a name="boilerplate-year" id="boilerplate-year"></a>&#xA9; <span class="std_publisher">ISO</span> <span class="std_docNumber">2019</span></p>
-
-  <p class="zzCopyright"><a name="boilerplate-message" id="boilerplate-message"></a>
-    All rights
-    reserved. Unless otherwise specified, or required in the context of its implementation,
-    no part of this publication may be
+<p class="zzCopyright"><a name="boilerplate-message" id="boilerplate-message"></a>All rights reserved. Unless otherwise specified, or required in the context of its implementation,
+no part of this publication may be
 reproduced or utilized otherwise in any form or by any means, electronic or
 mechanical, including photocopying, or posting on the internet or an intranet,
 without prior written permission. Permission can be requested from either ISO
-at the address below or ISO&#x2019;s member body in the country of the requester.
-  </p>
+at the address below or ISO&#x2019;s member body in the country of the requester.</p>
 
-  <p style="text-indent:20.15pt;" align="left" class="zzCopyright"><a name="boilerplate-address" id="boilerplate-address"></a>
-    ISO copyright office</p>
+<p style="text-indent:20.15pt;" align="left" class="zzCopyright"><a name="boilerplate-address" id="boilerplate-address"></a>ISO copyright office</p>
 <p class="zzCopyright" style="text-indent:20.15pt;">
-    CP 401 &#x2022; Ch. de Blandonnet 8</p>
+CP 401 &#x2022; Ch. de Blandonnet 8</p>
 <p class="zzCopyright" style="text-indent:20.15pt;">
-    CH-1214 Vernier, Geneva</p>
+CH-1214 Vernier, Geneva</p>
 <p class="zzCopyright" style="text-indent:20.15pt;">
-    Phone: +41 22 749 01 11</p>
+Phone: +41 22 749 01 11</p>
 <p class="zzCopyright" style="text-indent:20.15pt;">
-    Email: copyright@iso.org</p>
+Email: <a href="mailto:copyright@iso.org">copyright@iso.org</a></p>
 <p class="zzCopyright" style="text-indent:20.15pt;">
-    Website: www.iso.org
-  </p>
-    <p class="zzCopyright"><a name="boilerplate-place" id="boilerplate-place"></a>
-    Published in Switzerland
-  </p>
+Website: www.iso.org</p>
+
+<p class="zzCopyright"><a name="boilerplate-place" id="boilerplate-place"></a>Published in Switzerland</p>
 </div>
-  </div></div>
+</div></div>
 
-<p class="zzContents">
-  <span lang="EN-GB" xml:lang="EN-GB">Contents</span>
-</p>
 
-<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC \o "2-3" \h \z \t
+
+<div class="authority">
+</div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div class="TOC"><a name="_5b3c3021-9062-46b9-8fdd-37aecef28dcb" id="_5b3c3021-9062-46b9-8fdd-37aecef28dcb"></a><p class="zzContents">Contents</p><p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC \o "2-3" \h \z \t
 "Heading 1,1,ANNEX,1,Biblio Title,1,Foreword Title,1,Intro Title,1,ANNEXN,1,ANNEXZ,1,na2,1,na3,1,na4,1,na5,1,na6,1,Title,1,Base_Heading,1,Box-title,1,Front Head,1,Index Head,1,AMEND Terms Heading,1,AMEND Heading 1 Unnumbered,1"
  <span style="mso-element:field-separator"></span></span>
 <span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc251849288">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc061294512">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc251849288 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc061294512 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc035487129">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc113263260">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc035487129 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc113263260 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc489905816">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc956254192">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc489905816 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc956254192 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc049396766">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc445085271">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc049396766 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc445085271 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc015793327">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc331456009">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc015793327 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc331456009 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc2">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc569324616">3.4 Total sediment-aged<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc202558793">3.4 Total sediment-aged<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc569324616 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc202558793 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc3">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc077665356">3.4.1 potential total sediment<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc3"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc253189330">3.4.1 potential total sediment<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc077665356 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc253189330 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc3">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc371067393">3.4.2 accelerated total sediment<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc3"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc324774085">3.4.2 accelerated total sediment<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc371067393 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc324774085 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc491206803">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc599497320">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc491206803 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc599497320 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc2">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc698104119">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc808964744">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc698104119 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc808964744 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc2">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc425844463">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc864789922">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc425844463 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc864789922 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc3">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc175152210">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc3"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc436098287">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc175152210 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc436098287 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc248038762">
-           
-          <span style="font-weight:normal;">(normative)</span>
-           
-           
-          Annex One
-        <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc703739312">
+   
+  <span style="font-weight:normal;">(normative)</span>
+   
+   
+  Annex One
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc248038762 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc703739312 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc484879324">
-           
-          <span style="font-weight:normal;">(informative)</span>
-           
-           
-          Annex Two
-        <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc092449797">
+   
+  <span style="font-weight:normal;">(informative)</span>
+   
+   
+  Annex Two
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc484879324 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc092449797 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span class="MsoHyperlink">
-    <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc520126678">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
-<span style="mso-tab-count:1 dotted">. </span>
-</span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
+<a href="#_Toc401676999">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc520126678 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc401676999 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
-  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span>
-  </span>
-</p>
+  <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
-<p class="MsoToc1">
-  <span lang="EN-GB" xml:lang="EN-GB">
-    <span style="mso-element:field-end"></span>
-  </span>
-  <span lang="EN-GB" xml:lang="EN-GB">
-    <o:p>&#xA0;</o:p>
-  </span>
-</p>
-
-
-
-      <div class="authority">
-  
-
-
-</div>
-      <p class="MsoBodyText">
-        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
-      </p>
-      <div><a name="_cca59c05-1b9d-755c-66b0-b2dc6ab90962" id="_cca59c05-1b9d-755c-66b0-b2dc6ab90962"></a>
-        <p class="ForewordTitle">Foreword</p>
-        <p class="ForewordText"><a name="_af04a30c-6da7-69ff-6b0b-8b89283f2084" id="_af04a30c-6da7-69ff-6b0b-8b89283f2084"></a>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
-        <p class="ForewordText"><a name="_f1083fe6-457b-ed9f-a5a1-091fed6f8b06" id="_f1083fe6-457b-ed9f-a5a1-091fed6f8b06"></a>The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p>
-        <p class="ForewordText"><a name="_9e049049-8b46-3d3e-97b9-eebd6fb12fcb" id="_9e049049-8b46-3d3e-97b9-eebd6fb12fcb"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p>
-        <p class="ForewordText"><a name="_7e1abcbc-1c78-a09a-bc68-12d69ddd83ca" id="_7e1abcbc-1c78-a09a-bc68-12d69ddd83ca"></a>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.
-For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#x2019;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p>
-        <p class="ForewordText"><a name="_c0b0efe1-9c4d-65f5-08d6-d50461ca06a8" id="_c0b0efe1-9c4d-65f5-08d6-d50461ca06a8"></a>This document was prepared by Technical Committee ISO/TC <i>28</i>, <i>Petroleum and related products, fuels and lubricants from natural or synthetic sources</i>, Subcommittee <i>SC</i> <i>4</i>, <i>Classifications and specifications</i>.</p>
-        <p class="ForewordText"><a name="_a237f6e9-02b8-c6c0-7972-f36751abd121" id="_a237f6e9-02b8-c6c0-7972-f36751abd121"></a>Any feedback or questions on this document should be directed to the user&#x2019;s national standards body. A complete listing of these bodies can be found at <a href="https://www.iso.org/members.html">www.iso.org/members.html</a>.</p>
-      </div>
-      <p class="MsoBodyText">
-        <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
-      </p>
-      <div class="Section3"><a name="introduction" id="introduction"></a>
-        <p class="IntroTitle">Introduction</p>
-        <p class="MsoBodyText"><a name="_a667f070-6eb5-a3e0-863a-c5779a7cd93c" id="_a667f070-6eb5-a3e0-863a-c5779a7cd93c"></a>This document was developed in cooperation with ship owners, ship operators, classification societies, fuel testing services, engine designers, marine fuel suppliers, traders, fuel additive suppliers and the petroleum industry, in view of the implementation of maximum 0,50 mass % S in marine fuels in 2020 for operation outside Emission Control Areas (ECAs).</p>
-      </div>
-      <p class="MsoBodyText">&#xA0;</p>
-    </div>
+<p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span><span lang="EN-GB" xml:lang="EN-GB"><o:p>&#xA0;</o:p></span></p>
+</div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div><a name="_cca59c05-1b9d-755c-66b0-b2dc6ab90962" id="_cca59c05-1b9d-755c-66b0-b2dc6ab90962"></a><p class="ForewordTitle">Foreword</p><p class="ForewordText"><a name="_af04a30c-6da7-69ff-6b0b-8b89283f2084" id="_af04a30c-6da7-69ff-6b0b-8b89283f2084"></a>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p><p class="ForewordText"><a name="_f1083fe6-457b-ed9f-a5a1-091fed6f8b06" id="_f1083fe6-457b-ed9f-a5a1-091fed6f8b06"></a>The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p><p class="ForewordText"><a name="_9e049049-8b46-3d3e-97b9-eebd6fb12fcb" id="_9e049049-8b46-3d3e-97b9-eebd6fb12fcb"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p><p class="ForewordText"><a name="_7e1abcbc-1c78-a09a-bc68-12d69ddd83ca" id="_7e1abcbc-1c78-a09a-bc68-12d69ddd83ca"></a>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.
+For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#x2019;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p><p class="ForewordText"><a name="_c0b0efe1-9c4d-65f5-08d6-d50461ca06a8" id="_c0b0efe1-9c4d-65f5-08d6-d50461ca06a8"></a>This document was prepared by Technical Committee ISO/TC <i>28</i>, <i>Petroleum and related products, fuels and lubricants from natural or synthetic sources</i>, Subcommittee <i>SC</i> <i>4</i>, <i>Classifications and specifications</i>.</p><p class="ForewordText"><a name="_a237f6e9-02b8-c6c0-7972-f36751abd121" id="_a237f6e9-02b8-c6c0-7972-f36751abd121"></a>Any feedback or questions on this document should be directed to the user&#x2019;s national standards body. A complete listing of these bodies can be found at <a href="https://www.iso.org/members.html">www.iso.org/members.html</a>.</p></div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div class="Section3"><a name="introduction" id="introduction"></a><p class="IntroTitle">Introduction</p><p class="MsoBodyText"><a name="_a667f070-6eb5-a3e0-863a-c5779a7cd93c" id="_a667f070-6eb5-a3e0-863a-c5779a7cd93c"></a>This document was developed in cooperation with ship owners, ship operators, classification societies, fuel testing services, engine designers, marine fuel suppliers, traders, fuel additive suppliers and the petroleum industry, in view of the implementation of maximum 0,50 mass % S in marine fuels in 2020 for operation outside Emission Control Areas (ECAs).</p></div><p class="MsoBodyText">&#xA0;</p></div>
     <p class="MsoBodyText">
       <br clear="all" class="section"/>
     </p>
     <div class="WordSection3">
-      <p class="zzSTDTitle">Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F) &#x2014; Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</p>
-      <div><a name="_scope" id="_scope"></a>
+      <p class="zzSTDTitle">
+        <span>Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F) &#x2014; Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</span>
+      </p>
+      <div>
+        <a name="_scope" id="_scope"></a>
         <h1>1<span style="mso-tab-count:1">&#xA0; </span>Scope</h1>
         <p class="MsoBodyText"><a name="_f715dcba-8712-aff8-372a-7764a518fd68" id="_f715dcba-8712-aff8-372a-7764a518fd68"></a>This document addresses quality considerations that apply to marine fuels in view of the implementation of maximum 0,50 mass % S in 2020 and the range of marine fuels that will be placed on the market in response to the international statutory requirements to reduce exhaust gas emissions. It defines general requirements that apply to all 0,50 mass % sulfur (S) fuels and confirms the applicability of ISO 8217 for those fuels.</p>
         <p class="MsoBodyText"><a name="_d2b58125-a3b1-1ed0-27e7-d3ea9169dfdf" id="_d2b58125-a3b1-1ed0-27e7-d3ea9169dfdf"></a>&#x2026;&#x200B;</p>
       </div>
       <div><h1>2<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
 <p class="MsoBodyText"><a name="_21ac2b92-2fe6-317d-983c-a478441ede9f" id="_21ac2b92-2fe6-317d-983c-a478441ede9f"></a>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
- <p class="RefNorm"><a name="iso8217" id="iso8217"></a>ISO 8217:2017, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F)&#x2009;&#x2014;&#x2009;Specifications of marine fuels</span></i></p>
+<p class="RefNorm"><a name="iso8217" id="iso8217"></a>ISO&#xA0;8217:2017, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F)&#x2009;&#x2014;&#x2009;Specifications of marine fuels</span></i></p>
 </div>
       <div><a name="terms" id="terms"></a><h1>3<span style="mso-tab-count:1">&#xA0; </span>Terms and definitions</h1><p class="MsoBodyText"><a name="_fcf8a560-80b7-050c-5b7c-a0fa533bb966" id="_fcf8a560-80b7-050c-5b7c-a0fa533bb966"></a>For the purposes of this document,
     the following terms and definitions apply.</p><p class="MsoBodyText"><a name="_ad8b7c56-0577-cbbd-8b29-1a9a010ee6c9" id="_ad8b7c56-0577-cbbd-8b29-1a9a010ee6c9"></a>ISO and IEC maintain terminology databases for use in
@@ -7471,14 +7377,14 @@ standardization at the following addresses:</p>
 <p class="Definition"><a name="_1af022a5-9f17-9030-b998-0089b0590abf" id="_1af022a5-9f17-9030-b998-0089b0590abf"></a>highest temperature at which a given volume of distillate fuel fails to pass through a standardized filtration device in a specified time when cooled under standardized conditions</p>
 
 
- <p class="Source">[SOURCE: <a href="#ip_309">IP 309</a>]</p><p class="TermNum"><a name="term-cloud-point" id="term-cloud-point"></a>3.3</p><p class="Terms" style="text-align:left;"><b>cloud point</b></p><p class="AdmittedTerm" style="text-align:left;">CP</p>
+ <p class="Source">[SOURCE: <a href="#ip_309">IP&#xA0;309</a>]</p><p class="TermNum"><a name="term-cloud-point" id="term-cloud-point"></a>3.3</p><p class="Terms" style="text-align:left;"><b>cloud point</b></p><p class="AdmittedTerm" style="text-align:left;">CP</p>
 
 
 
 <p class="Definition"><a name="_31a331f6-b1db-c030-96ae-180166541411" id="_31a331f6-b1db-c030-96ae-180166541411"></a>temperature at which a cloud of wax crystals first appears in a transparent liquid when it is cooled under specified conditions</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso_3015"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">3015</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>, modified
+ <p class="Source">[SOURCE: <a href="#iso_3015"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">3015</span>, <span class="citesec" style="mso-pattern:none;">3.1</span></a>, modified
  &#x2013; In the definition, liquid has been specified to be &#x201C;transparent&#x201D;.]</p><div><a name="_total_sediment_aged" id="_total_sediment_aged"></a><h2>3.4<span style="mso-tab-count:1">&#xA0; </span>Total sediment-aged</h2>
 
 <div><a name="_potential_total_sediment" id="_potential_total_sediment"></a><h3>3.4.1<span style="mso-tab-count:1">&#xA0; </span>potential total sediment</h3>
@@ -7486,9 +7392,9 @@ standardization at the following addresses:</p>
 <p class="AdmittedTerm" style="text-align:left;">TSP</p>
 
 
-<p class="MsoBodyText"><a name="_cb5c5de1-e658-d545-2edd-cb03ea5a0884" id="_cb5c5de1-e658-d545-2edd-cb03ea5a0884"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after ageing a sample of residual fuel for 24 h at 100 &#xB0;C under prescribed conditions</p>
+<p class="MsoBodyText"><a name="_cb5c5de1-e658-d545-2edd-cb03ea5a0884" id="_cb5c5de1-e658-d545-2edd-cb03ea5a0884"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after ageing a sample of residual fuel for 24 h at 100 &#xB0;C under prescribed conditions</p>
 
-<p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>]</p>
+<p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <span class="citesec" style="mso-pattern:none;">3.1</span></a>]</p>
 </div>
 
 <div><a name="_accelerated_total_sediment" id="_accelerated_total_sediment"></a><h3>3.4.2<span style="mso-tab-count:1">&#xA0; </span>accelerated total sediment</h3>
@@ -7496,24 +7402,25 @@ standardization at the following addresses:</p>
 <p class="AdmittedTerm" style="text-align:left;">TSA</p>
 
 
-<p class="MsoBodyText"><a name="_1bdf92bc-6388-f13f-b1e5-1a08dc0afe34" id="_1bdf92bc-6388-f13f-b1e5-1a08dc0afe34"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after dilution of a sample of residual fuel with hexadecane in the ratio of 1 ml per 10 g of sample under carefully controlled conditions, followed by storage for 1h at 100 &#xB0;C</p>
+<p class="MsoBodyText"><a name="_1bdf92bc-6388-f13f-b1e5-1a08dc0afe34" id="_1bdf92bc-6388-f13f-b1e5-1a08dc0afe34"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after dilution of a sample of residual fuel with hexadecane in the ratio of 1 ml per 10 g of sample under carefully controlled conditions, followed by storage for 1h at 100 &#xB0;C</p>
 
-<p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.2</span></a>]</p>
+<p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <span class="citesec" style="mso-pattern:none;">3.2</span></a>]</p>
 </div>
 </div><p class="TermNum"><a name="term-microphone" id="term-microphone"></a>3.5</p><p class="Terms" style="text-align:left;"><b>microphone</b></p>
 <p class="Definition"><a name="_772660b7-c303-cebf-c19f-f0dd4a485c37" id="_772660b7-c303-cebf-c19f-f0dd4a485c37"></a>transducer that converts sound into an electrical signal</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p><p class="TermNum"><a name="term-headphone" id="term-headphone"></a>3.6</p><p class="Terms" style="text-align:left;"><b>headphone</b></p>
+ <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>, <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p><p class="TermNum"><a name="term-headphone" id="term-headphone"></a>3.6</p><p class="Terms" style="text-align:left;"><b>headphone</b></p>
 <p class="Definition"><a name="_ea71a263-110c-3da5-f09f-91707255aed0" id="_ea71a263-110c-3da5-f09f-91707255aed0"></a>transducer that converts an electrical signal into sound, designed to be worn close to the ear</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.17</span></a>]</p><p class="TermNum"><a name="term-headset" id="term-headset"></a>3.7</p><p class="Terms" style="text-align:left;"><b>headset</b></p>
+ <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>, <span class="citesec" style="mso-pattern:none;">3.17</span></a>]</p><p class="TermNum"><a name="term-headset" id="term-headset"></a>3.7</p><p class="Terms" style="text-align:left;"><b>headset</b></p>
 <p class="Definition"><a name="_7725b61c-20c6-da66-9e3a-54294c9ba4a1" id="_7725b61c-20c6-da66-9e3a-54294c9ba4a1"></a><b>term <span class="ISOCodebold">headphones</span>, display <span class="ISOCodebold">headphone</span> not resolved via ID <span class="ISOCodebold">headphones</span></b> combined with a <i>microphone</i> (<a href="#term-microphone"><span class="citesec" style="mso-pattern:none;">3.5</span></a>)</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso20109"><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>,  <span class="citesec" style="mso-pattern:none;">3.5</span></a>]</p></div>
-      <div><a name="content" id="content"></a>
+ <p class="Source">[SOURCE: <a href="#iso20109"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <span class="citesec" style="mso-pattern:none;">3.5</span></a>]</p></div>
+      <div>
+        <a name="content" id="content"></a>
         <h1>4<span style="mso-tab-count:1">&#xA0; </span>Main content</h1>
         <div><a name="general" id="general"></a><h2>4.1<span style="mso-tab-count:1">&#xA0; </span>General</h2>
 
@@ -7526,14 +7433,15 @@ this document.</p>
 
 <div><a name="_basic_data_types" id="_basic_data_types"></a><h3>4.2.1<span style="mso-tab-count:1">&#xA0; </span>Basic data types</h3>
 
-<div class="figure"><a name="_93712cfc-6301-e9bf-6c5c-15a20ec09b12" id="_93712cfc-6301-e9bf-6c5c-15a20ec09b12"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:066fffbe-7255-4d46-9e50-9a6971f8e819.png" height="258" width="400"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
+<div class="figure"><a name="_93712cfc-6301-e9bf-6c5c-15a20ec09b12" id="_93712cfc-6301-e9bf-6c5c-15a20ec09b12"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:71159019-5492-4736-88ef-5eaab10d280a.png" height="290" width="448"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
 </div>
 </div>
       </div>
       <p class="MsoBodyText">
         <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
       </p>
-      <div class="Section3"><a name="annex-1" id="annex-1"></a>
+      <div class="Section3">
+        <a name="annex-1" id="annex-1"></a>
         <p class="ANNEX">
           <br/>
           <span style="font-weight:normal;">(normative)</span>
@@ -7546,7 +7454,8 @@ this document.</p>
       <p class="MsoBodyText">
         <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
       </p>
-      <div class="Section3"><a name="annex-2" id="annex-2"></a>
+      <div class="Section3">
+        <a name="annex-2" id="annex-2"></a>
         <p class="ANNEX">
           <br/>
           <span style="font-weight:normal;">(informative)</span>
@@ -7560,7 +7469,7 @@ this document.</p>
         <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
       </p>
       <div><p class="BiblioTitle">Bibliography</p>
-<p class="BiblioEntry"><a name="iso_3015" id="iso_3015"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>ISO 3015, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of cloud point</span></i></p><p class="BiblioEntry"><a name="iso_3016" id="iso_3016"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO 3016, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of pour point</span></i></p><p class="BiblioEntry"><a name="iso_10307-1" id="iso_10307-1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO 10307-1:2009, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 1: Determination by hot filtration</span></i></p><p class="BiblioEntry"><a name="iso_10307-2" id="iso_10307-2"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO 10307-2:2009, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 2: Determination using standard procedures for ageing</span></i></p><p class="BiblioEntry"><a name="iso20109" id="iso20109"></a>[5]<span style="mso-tab-count:1">&#xA0; </span>ISO 20109:2016, <i><span class="stddocTitle" style="mso-pattern:none;">Simultaneous interpreting&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="iso22259" id="iso22259"></a>[6]<span style="mso-tab-count:1">&#xA0; </span>ISO 22259:2019, <i><span class="stddocTitle" style="mso-pattern:none;">Conference systems&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="ip_309" id="ip_309"></a>[7]<span style="mso-tab-count:1">&#xA0; </span>IP 309,
+<p class="BiblioEntry"><a name="iso_3015" id="iso_3015"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;3015, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of cloud point</span></i></p><p class="BiblioEntry"><a name="iso_3016" id="iso_3016"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;3016, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of pour point</span></i></p><p class="BiblioEntry"><a name="iso_10307-1" id="iso_10307-1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;10307-1:2009, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 1: Determination by hot filtration</span></i></p><p class="BiblioEntry"><a name="iso_10307-2" id="iso_10307-2"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;10307-2:2009, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 2: Determination using standard procedures for ageing</span></i></p><p class="BiblioEntry"><a name="iso20109" id="iso20109"></a>[5]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;20109:2016, <i><span class="stddocTitle" style="mso-pattern:none;">Simultaneous interpreting&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="iso22259" id="iso22259"></a>[6]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;22259:2019, <i><span class="stddocTitle" style="mso-pattern:none;">Conference systems&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="ip_309" id="ip_309"></a>[7]<span style="mso-tab-count:1">&#xA0; </span>IP&#xA0;309,
 <i>Diesel and domestic heating fuels&#x2009;&#x2014;&#x2009;Determination of cold filter plugging point</i>
   </p><p class="BiblioEntry"><a name="inter" id="inter"></a>[8]<span style="mso-tab-count:1">&#xA0; </span>INTERNATIONAL MARITIME ORGANIZATION (IMO), Marine Pollution (MARPOL) Annex VI&#x2009;&#x2014;&#x2009;as amended. IMO Protocol of 1997, as amended by resolution MEPC.176(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto</p>
 
@@ -7576,11 +7485,12 @@ this document.</p>
     </div>
     <br clear="all" style="page-break-before:left;mso-break-type:section-break"/>
     <div class="colophon"></div>
-  <div style="mso-element:footnote-list"/></body>
+    <div style="mso-element:footnote-list"/>
+  </body>
 </html>
 
 
-------=_NextPart_aa961551.37a7.452d
+------=_NextPart_fb76726a.4667.4539
 Content-ID: <filelist.xml>
 Content-Disposition: inline; filename="filelist.xml"
 Content-Transfer-Encoding: base64
@@ -7588,14 +7498,537 @@ Content-Type: application/xml
 
 PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
 ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1pc28vbW4tc2FtcGxl
-cy1pc28vc2l0ZS9kb2N1bWVudHMvcHVibGljbHktYXZhaWxhYmxlLXNwZWNpZmljYXRpb24vZG9j
-dW1lbnQuaHRtIi8+ICA8bzpGaWxlIEhSZWY9IjA2NmZmZmJlLTcyNTUtNGQ0Ni05ZTUwLTlhNjk3
-MWY4ZTgxOS5wbmciLz4KICA8bzpGaWxlIEhSZWY9ImZpbGVsaXN0LnhtbCIvPgogIDxvOkZpbGUg
-SFJlZj0iaGVhZGVyLmh0bWwiLz4KPC94bWw+Cg==
+cy1pc28vX3NpdGUvZG9jdW1lbnRzL3B1YmxpY2x5LWF2YWlsYWJsZS1zcGVjaWZpY2F0aW9uL2Rv
+Y3VtZW50Lmh0bSIvPiAgPG86RmlsZSBIUmVmPSI3MTE1OTAxOS01NDkyLTQ3MzYtODhlZi01ZWFh
+YjEwZDI4MGEucG5nIi8+CiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxl
+IEhSZWY9ImhlYWRlci5odG1sIi8+CjwveG1sPgo=
 
-------=_NextPart_aa961551.37a7.452d
-Content-ID: <066fffbe-7255-4d46-9e50-9a6971f8e819.png>
-Content-Disposition: inline; filename="066fffbe-7255-4d46-9e50-9a6971f8e819.png"
+------=_NextPart_fb76726a.4667.4539
+Content-ID: <header.html>
+Content-Disposition: inline; filename="header.html"
+Content-Transfer-Encoding: base64
+Content-Type: text/html charset="utf-8"
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
+cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
+ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
+bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
+bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
+PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
+IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
+Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
+Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
+aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1p
+c28vbW4tc2FtcGxlcy1pc28vX3NpdGUvZG9jdW1lbnRzL3B1YmxpY2x5LWF2YWlsYWJsZS1zcGVj
+aWZpY2F0aW9uL2RvY3VtZW50Lmh0bWwiPg0KPCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQogPG86
+c2hhcGVkZWZhdWx0cyB2OmV4dD0iZWRpdCIgc3BpZG1heD0iMjA0OSIvPg0KPC94bWw+PHhtbD4N
+CiA8bzpzaGFwZWxheW91dCB2OmV4dD0iZWRpdCI+DQogIDxvOmlkbWFwIHY6ZXh0PSJlZGl0IiBk
+YXRhPSIxIi8+DQogPC9vOnNoYXBlbGF5b3V0PjwveG1sPjwhW2VuZGlmXS0tPg0KPC9oZWFkPg0K
+DQo8Ym9keSBsYW5nPUVOIGxpbms9Ymx1ZSB2bGluaz0iIzk1NEY3MiI+DQoNCjxkaXYgc3R5bGU9
+J21zby1lbGVtZW50OmZvb3Rub3RlLXNlcGFyYXRvcicgaWQ9ZnM+DQoNCjxwIGNsYXNzPU1zb05v
+cm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUt
+aGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lh
+bC1jaGFyYWN0ZXI6Zm9vdG5vdGUtc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+
+DQoNCjxociBhbGlnbj1sZWZ0IHNpemU9MSB3aWR0aD0iMzMlIj4NCg0KPCFbZW5kaWZdPjwvc3Bh
+bj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdG5v
+dGUtY29udGludWF0aW9uLXNlcGFyYXRvcicgaWQ9ZmNzPg0KDQo8cCBjbGFzcz1Nc29Ob3JtYWwg
+c3R5bGU9J21hcmdpbi1ib3R0b206MGNtO21hcmdpbi1ib3R0b206LjAwMDFwdDtsaW5lLWhlaWdo
+dDoNCm5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQj48c3BhbiBzdHlsZT0nbXNvLXNwZWNpYWwtY2hh
+cmFjdGVyOmZvb3Rub3RlLWNvbnRpbnVhdGlvbi1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9v
+dG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwv
+c3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLXNl
+cGFyYXRvcicgaWQ9ZXM+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRv
+bTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBs
+YW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5vdGUtc2Vw
+YXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+DQoNCjxociBhbGlnbj1sZWZ0IHNpemU9
+MSB3aWR0aD0iMzMlIj4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4N
+Cg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZW5kbm90ZS1jb250aW51YXRpb24tc2VwYXJhdG9y
+JyBpZD1lY3M+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0nbWFyZ2luLWJvdHRvbTowY207
+bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVO
+LUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFyYWN0ZXI6Zm9vdG5vdGUtY29udGludWF0
+aW9uLXNlcGFyYXRvcic+PCFbaWYgIXN1cHBvcnRGb290bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVm
+dCBzaXplPTE+DQoNCjwhW2VuZGlmXT48L3NwYW4+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxk
+aXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9ZWhhPg0KDQo8cCBjbGFzcz1Nc29IZWFk
+ZXIgYWxpZ249bGVmdCBzdHlsZT0ndGV4dC1hbGlnbjpsZWZ0O2xpbmUtaGVpZ2h0OjEyLjBwdDsN
+Cm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J21z
+by1uby1wcm9vZjp5ZXMnPjwhLS1baWYgZ3RlIHZtbCAxXT48djpzaGFwZXR5cGUNCiBpZD0iX3gw
+MDAwX3QyMDIiIGNvb3Jkc2l6ZT0iMjE2MDAsMjE2MDAiIG86c3B0PSIyMDIiIHBhdGg9Im0sbCwy
+MTYwMHIyMTYwMCxsMjE2MDAseGUiPg0KIDx2OnN0cm9rZSBqb2luc3R5bGU9Im1pdGVyIi8+DQog
+PHY6cGF0aCBncmFkaWVudHNoYXBlb2s9InQiIG86Y29ubmVjdHR5cGU9InJlY3QiLz4NCjwvdjpz
+aGFwZXR5cGU+PHY6c2hhcGUgaWQ9IldvcmRBcnRfeDAwMjBfMiIgbzpzcGlkPSJfeDAwMDBfczEw
+MjYiIHR5cGU9IiNfeDAwMDBfdDIwMiINCiBzdHlsZT0ncG9zaXRpb246YWJzb2x1dGU7bWFyZ2lu
+LWxlZnQ6MDttYXJnaW4tdG9wOjA7d2lkdGg6NTAwLjA1cHQ7aGVpZ2h0OjE2Ljc1cHQ7DQogei1p
+bmRleDoyNTE2NTgyNDA7dmlzaWJpbGl0eTp2aXNpYmxlO21zby13cmFwLXN0eWxlOnNxdWFyZTsN
+CiBtc28td2lkdGgtcGVyY2VudDowO21zby1oZWlnaHQtcGVyY2VudDowO21zby13cmFwLWRpc3Rh
+bmNlLWxlZnQ6OXB0Ow0KIG1zby13cmFwLWRpc3RhbmNlLXRvcDowO21zby13cmFwLWRpc3RhbmNl
+LXJpZ2h0OjlwdDsNCiBtc28td3JhcC1kaXN0YW5jZS1ib3R0b206MDttc28tcG9zaXRpb24taG9y
+aXpvbnRhbDpjZW50ZXI7DQogbXNvLXBvc2l0aW9uLWhvcml6b250YWwtcmVsYXRpdmU6cGFnZTtt
+c28tcG9zaXRpb24tdmVydGljYWw6Ym90dG9tOw0KIG1zby1wb3NpdGlvbi12ZXJ0aWNhbC1yZWxh
+dGl2ZTpwYWdlO21zby13aWR0aC1wZXJjZW50OjA7bXNvLWhlaWdodC1wZXJjZW50OjA7DQogbXNv
+LXdpZHRoLXJlbGF0aXZlOnBhZ2U7bXNvLWhlaWdodC1yZWxhdGl2ZTpwYWdlO3YtdGV4dC1hbmNo
+b3I6dG9wJyBvOmdmeGRhdGE9IlVFc0RCQlFBQmdBSUFBQUFJUUMyZ3ppUy9nQUFBT0VCQUFBVEFB
+QUFXME52Ym5SbGJuUmZWSGx3WlhOZExuaHRiSlNSUVU3RE1CQkYNCjkwamN3ZklXSlU2N1FBZ2w2
+WUswUzBDb0hHQmtUeEtMWkd4NVRHaHZqNU8yRzBTUldOb3ovNzhudTl3Y3hrRk1HTmc2cXVRcUw2
+UkENCjBzNVk2aXI1dnQ5bEQxSndCREl3T01KS0hwSGxwcjY5S2ZkSGp5eFNtcmlTZll6K1VTbldQ
+WTdBdWZOSWFkSzZNRUpNeDlBcEQvb0QNCk9sVHJvcmhYMmxGRWlsbWNPMlJkTnRqQzV4REY5cEN1
+VHlZQkI1Ymk2YlE0c3lvSjNnOVdRMHltYWlMemc1S2RDWGxLTGp2Y1c4OTMNClNVT3FYd256NURy
+Z25IdEpUeE9zUWZFS0lUN0RtRFNVQ2F4dzdScW44Nzg3WnNtUk05ZTJWbVBlQk40dXFZdlR0Vzdq
+dmlqZzlOL3kNCkpzWGVjTHEwcStXRDZtOEFBQUQvL3dNQVVFc0RCQlFBQmdBSUFBQUFJUUE0L1NI
+LzFnQUFBSlFCQUFBTEFBQUFYM0psYkhNdkxuSmwNCmJIT2trTUZxd3pBTWh1K0R2WVBSZlhHYXd4
+aWpUaStqMEd2cEhzRFlpbU1hVzBZeTJmcjJNNFBCTW5yYlViL1E5NGwvZi9oTWkxcVINCkpWSTJz
+T3Q2VUpnZCtaaURnZmZMOGVrRmxGU2J2VjBvbzRFYkNoekd4NGY5R1JkYjI1SE1zWWhxbEN3RzVs
+ckxxOWJpWmt4V09pcVkNCjIyWWlUcmEya1lNdTFsMXRRRDMwL2JQbTN3d1lOMHgxOGdiNDVBZFFs
+MXRwNWovc0ZCMlQwRlE3UjBuVE5FVjNqNm85ZmVRenJvMWkNCk9XQTE0Rm0rUThhMWE4K0J2dS9k
+L2RNYjJKWTV1aVBiaEcva3RuNGNxR1UvZXIzcGN2d0NBQUQvL3dNQVVFc0RCQlFBQmdBSUFBQUEN
+CklRQkJyVlFVMlFFQUFKMERBQUFPQUFBQVpISnpMMlV5YjBSdll5NTRiV3lzVTExdjB6QVVmVWZp
+UDFoK3Awa3p1cUdvNlRTWVFFaUQNClRkclFuaDNIYmdLeHIvRjFtL1RmYyswbUxXSnZFM213L0hG
+OWZNNjVKK3ZyMGZSc3J6eDJZQ3UrWE9TY0tTdWg2ZXkyNGorZVByLzcNCndCa0dZUnZSZzFVVlB5
+amsxNXUzYjlhREsxVUJMZlNOOG94QUxKYURxM2diZ2l1ekRHV3JqTUFGT0dYcFVJTTNJdERTYjdQ
+R2k0SFENClRaOFZlWDZaRGVBYjUwRXFSTnE5UFI3eVRjTFhXc2x3cnpXcXdQcUtFN2VRUnAvR09v
+N1paaTNLclJldTdlUkVRN3lDaFJHZHBVZFANClVMY2lDTGJ6M1FzbzAwa1BDRG9zSkpnTXRPNmtT
+aHBJelRML1I4MWpLNXhLV3NnY2RDZWI4UC9CeXUvN1IvZmdXUmcvd2tnTlRDTFENCjNZSDhoZVJO
+Tmpnc3A1cm9LWllZcSt2aEd6VFVUYkVMa0c2TTJwc29ud1F4Z2lHbkR5ZDMxUmlZcE0yTHkvenEv
+Y1dLTTBsbnhiSzQNCktsYlIva3lVODIzbk1YeFJZRmljVk54VDl4SzYyTjloT0piT0pSTzF5T2JJ
+SzR6MVNDV1JZZzNOZ1VnTzFOV0s0KytkOElxei9xc2wNCjIySUU1b21mSi9VOHNUdnpDU2dvUzg2
+MEIvTk0wYnJ4Uk9Ub1NuejZhWHdXM2szOEFpbDc2T2ZPSjVJcEFnMnp3a1IzbXA4RVpIb0sNCjFG
+NzBiSlhUTnltZWlrbjdHVFhldFhCRGx1b3VxVDFybWRSU0JwSmZVMTVqeVA1ZXA2cnpYN1g1QXdB
+QS8vOERBRkJMQXdRVUFBWUENCkNBQUFBQ0VBMm4rVXBOOEFBQUFKQVFBQUR3QUFBR1J5Y3k5a2Iz
+ZHVjbVYyTG5odGJFeVBRVXZEUUJDRjc0TC9ZUm5CbTkyMEpiV2sNCjJSUnBLUjdFUTZ1Q3gybDJ6
+QWF6dTJGM202Yi8zdEdMdlR3WUh1L04rOHIxYURzeFVJaXRkd3Fta3d3RXVkcnIxalVLM3Q5MkQw
+c1ENCk1hSFQySGxIQ2k0VVlWM2QzcFJZYUg5MmV4b09xUkZjNG1LQkNreEtmU0ZsckExWmpCUGZr
+MlB2eXdlTGljL1FTQjN3ek9XMms3TXMNClcwaUxyZU1QQm52YUdLcS9EeWVyNEdQVDcxN0dUNE92
+UTY2ZnQ3UEgvU1hVbzFMM2QrTjJ4ZkswQXBGb1RQOEorR1hnL1ZEeHNLTS8NCk9SMUZwNEJwMHAr
+eWx5K1dVeEJIQmZONURySXE1VFZCOVFNQUFQLy9Bd0JRU3dFQ0xRQVVBQVlBQ0FBQUFDRUF0b000
+a3Y0QUFBRGgNCkFRQUFFd0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFXME52Ym5SbGJuUmZWSGx3WlhO
+ZExuaHRiRkJMQVFJdEFCUUFCZ0FJQUFBQUlRQTQNCi9TSC8xZ0FBQUpRQkFBQUxBQUFBQUFBQUFB
+QUFBQUFBQUM4QkFBQmZjbVZzY3k4dWNtVnNjMUJMQVFJdEFCUUFCZ0FJQUFBQUlRQkINCnJWUVUy
+UUVBQUowREFBQU9BQUFBQUFBQUFBQUFBQUFBQUM0Q0FBQmtjbk12WlRKdlJHOWpMbmh0YkZCTEFR
+SXRBQlFBQmdBSUFBQUENCklRRGFmNVNrM3dBQUFBa0JBQUFQQUFBQUFBQUFBQUFBQUFBQUFETUVB
+QUJrY25NdlpHOTNibkpsZGk1NGJXeFFTd1VHQUFBQUFBUUENCkJBRHpBQUFBUHdVQUFBQUENCiIg
+ZmlsbGVkPSJmIiBzdHJva2VkPSJmIj4NCiA8djpzdHJva2Ugam9pbnN0eWxlPSJyb3VuZCIvPg0K
+IDx2OnBhdGggYXJyb3dvaz0idCIvPg0KIDx2OnRleHRib3ggaW5zZXQ9IjAsMCwwLDAiPg0KICA8
+IVtpZiAhbXNvXT4NCiAgPHRhYmxlIGNlbGxwYWRkaW5nPTAgY2VsbHNwYWNpbmc9MCB3aWR0aD0i
+MTAwJSI+DQogICA8dHI+DQogICAgPHRkPjwhW2VuZGlmXT4NCiAgICA8ZGl2Pg0KICAgIDxwIGNs
+YXNzPU1zb05vcm1hbCBhbGlnbj1jZW50ZXIgc3R5bGU9J3RleHQtYWxpZ246Y2VudGVyJz48c3Bh
+biBsYW5nPUVOLUdCDQogICAgc3R5bGU9J2ZvbnQtc2l6ZToyNC4wcHQ7Y29sb3I6I0M0NTkxMTtt
+c28tc3R5bGUtdGV4dGZpbGwtZmlsbC1jb2xvcjojQzQ1OTExOw0KICAgIG1zby1zdHlsZS10ZXh0
+ZmlsbC1maWxsLWFscGhhOjUwLjAlJz5FZGl0ZWQgRElTIC0gTVVTVCBCRSBVU0VEIEZPUiBGSU5B
+TA0KICAgIERSQUZUPG86cD48L286cD48L3NwYW4+PC9wPg0KICAgIDwvZGl2Pg0KICAgIDwhW2lm
+ICFtc29dPjwvdGQ+DQogICA8L3RyPg0KICA8L3RhYmxlPg0KICA8IVtlbmRpZl0+PC92OnRleHRi
+b3g+DQogPHc6d3JhcCBhbmNob3J4PSJwYWdlIiBhbmNob3J5PSJwYWdlIi8+DQo8L3Y6c2hhcGU+
+PCFbZW5kaWZdLS0+PC9zcGFuPjxzcGFuIGxhbmc9RU4tR0I+SVNPL1BBUyAyMzI2My0uMDoyMDE5
+KEUpPC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRl
+cicgaWQ9ZWgxPg0KPHAgY2xhc3M9TXNvSGVhZGVyIGFsaWduPWxlZnQgc3R5bGU9J3RleHQtYWxp
+Z246bGVmdDtsaW5lLWhlaWdodDoxMi4wcHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5
+Jz48c3BhbiBsYW5nPUVOLUdCPklTTy9QQVMgMjMyNjMtLjA6MjAxOShFKTwvc3Bhbj48L3A+DQo8
+L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1oMT4NCg0KPHAgY2xh
+c3M9TXNvSGVhZGVyIGFsaWduPXJpZ2h0IHN0eWxlPSd0ZXh0LWFsaWduOnJpZ2h0O2xpbmUtaGVp
+Z2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4t
+R0Igc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjwhLS1baWYgZ3RlIHZtbCAxXT48djpzaGFwZXR5
+cGUNCiBpZD0iX3gwMDAwX3QyMDIiIGNvb3Jkc2l6ZT0iMjE2MDAsMjE2MDAiIG86c3B0PSIyMDIi
+IHBhdGg9Im0sbCwyMTYwMHIyMTYwMCxsMjE2MDAseGUiPg0KIDx2OnN0cm9rZSBqb2luc3R5bGU9
+Im1pdGVyIi8+DQogPHY6cGF0aCBncmFkaWVudHNoYXBlb2s9InQiIG86Y29ubmVjdHR5cGU9InJl
+Y3QiLz4NCjwvdjpzaGFwZXR5cGU+PHY6c2hhcGUgaWQ9IldvcmRBcnRfeDAwMjBfMTUiIG86c3Bp
+ZD0iX3gwMDAwX3MxMDI3IiB0eXBlPSIjX3gwMDAwX3QyMDIiDQogc3R5bGU9J3Bvc2l0aW9uOmFi
+c29sdXRlO2xlZnQ6MDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLWxlZnQ6MDttYXJnaW4tdG9wOjA7
+DQogd2lkdGg6NTAwLjA1cHQ7aGVpZ2h0OjE2Ljc1cHQ7ei1pbmRleDoyNTE2NTgyNDA7dmlzaWJp
+bGl0eTp2aXNpYmxlOw0KIG1zby13cmFwLXN0eWxlOnNxdWFyZTttc28td2lkdGgtcGVyY2VudDow
+O21zby1oZWlnaHQtcGVyY2VudDowOw0KIG1zby13cmFwLWRpc3RhbmNlLWxlZnQ6OXB0O21zby13
+cmFwLWRpc3RhbmNlLXRvcDowO21zby13cmFwLWRpc3RhbmNlLXJpZ2h0OjlwdDsNCiBtc28td3Jh
+cC1kaXN0YW5jZS1ib3R0b206MDttc28tcG9zaXRpb24taG9yaXpvbnRhbDpjZW50ZXI7DQogbXNv
+LXBvc2l0aW9uLWhvcml6b250YWwtcmVsYXRpdmU6cGFnZTttc28tcG9zaXRpb24tdmVydGljYWw6
+Ym90dG9tOw0KIG1zby1wb3NpdGlvbi12ZXJ0aWNhbC1yZWxhdGl2ZTpwYWdlO21zby13aWR0aC1w
+ZXJjZW50OjA7bXNvLWhlaWdodC1wZXJjZW50OjA7DQogbXNvLXdpZHRoLXJlbGF0aXZlOnBhZ2U7
+bXNvLWhlaWdodC1yZWxhdGl2ZTpwYWdlO3YtdGV4dC1hbmNob3I6dG9wJyBvOmdmeGRhdGE9IlVF
+c0RCQlFBQmdBSUFBQUFJUUMyZ3ppUy9nQUFBT0VCQUFBVEFBQUFXME52Ym5SbGJuUmZWSGx3WlhO
+ZExuaHRiSlNSUVU3RE1CQkYNCjkwamN3ZklXSlU2N1FBZ2w2WUswUzBDb0hHQmtUeEtMWkd4NVRH
+aHZqNU8yRzBTUldOb3ovNzhudTl3Y3hrRk1HTmc2cXVRcUw2UkENCjBzNVk2aXI1dnQ5bEQxSndC
+REl3T01KS0hwSGxwcjY5S2ZkSGp5eFNtcmlTZll6K1VTbldQWTdBdWZOSWFkSzZNRUpNeDlBcEQv
+b0QNCk9sVHJvcmhYMmxGRWlsbWNPMlJkTnRqQzV4REY5cEN1VHlZQkI1Ymk2YlE0c3lvSjNnOVdR
+MHltYWlMemc1S2RDWGxLTGp2Y1c4OTMNClNVT3FYd256NURyZ25IdEpUeE9zUWZFS0lUN0RtRFNV
+Q2F4dzdScW44Nzg3WnNtUk05ZTJWbVBlQk40dXFZdlR0VzdqdmlqZzlOL3kNCkpzWGVjTHEwcStX
+RDZtOEFBQUQvL3dNQVVFc0RCQlFBQmdBSUFBQUFJUUE0L1NILzFnQUFBSlFCQUFBTEFBQUFYM0ps
+YkhNdkxuSmwNCmJIT2trTUZxd3pBTWh1K0R2WVBSZlhHYXd4aWpUaStqMEd2cEhzRFlpbU1hVzBZ
+eTJmcjJNNFBCTW5yYlViL1E5NGwvZi9oTWkxcVINCkpWSTJzT3Q2VUpnZCtaaURnZmZMOGVrRmxG
+U2J2VjBvbzRFYkNoekd4NGY5R1JkYjI1SE1zWWhxbEN3RzVsckxxOWJpWmt4V09pcVkNCjIyWWlU
+cmEya1lNdTFsMXRRRDMwL2JQbTN3d1lOMHgxOGdiNDVBZFFsMXRwNWovc0ZCMlQwRlE3UjBuVE5F
+VjNqNm85ZmVRenJvMWkNCk9XQTE0Rm0rUThhMWE4K0J2dS9kL2RNYjJKWTV1aVBiaEcva3RuNGNx
+R1UvZXIzcGN2d0NBQUQvL3dNQVVFc0RCQlFBQmdBSUFBQUENCklRQkJyVlFVMlFFQUFKMERBQUFP
+QUFBQVpISnpMMlV5YjBSdll5NTRiV3lzVTExdjB6QVVmVWZpUDFoK3Awa3p1cUdvNlRTWVFFaUQN
+ClRkclFuaDNIYmdLeHIvRjFtL1RmYyswbUxXSnZFM213L0hGOWZNNjVKK3ZyMGZSc3J6eDJZQ3Ur
+WE9TY0tTdWg2ZXkyNGorZVByLzcNCndCa0dZUnZSZzFVVlB5amsxNXUzYjlhREsxVUJMZlNOOG94
+QUxKYURxM2diZ2l1ekRHV3JqTUFGT0dYcFVJTTNJdERTYjdQR2k0SFENClRaOFZlWDZaRGVBYjUw
+RXFSTnE5UFI3eVRjTFhXc2x3cnpXcXdQcUtFN2VRUnAvR09vN1paaTNLclJldTdlUkVRN3lDaFJH
+ZHBVZFANClVMY2lDTGJ6M1FzbzAwa1BDRG9zSkpnTXRPNmtTaHBJelRML1I4MWpLNXhLV3NnY2RD
+ZWI4UC9CeXUvN1IvZmdXUmcvd2tnTlRDTFENCjNZSDhoZVJOTmpnc3A1cm9LWllZcSt2aEd6VFVU
+YkVMa0c2TTJwc29ud1F4Z2lHbkR5ZDMxUmlZcE0yTHkvenEvY1dLTTBsbnhiSzQNCktsYlIva3lV
+ODIzbk1YeFJZRmljVk54VDl4SzYyTjloT0piT0pSTzF5T2JJSzR6MVNDV1JZZzNOZ1VnTzFOV0s0
+KytkOElxei9xc2wNCjIySUU1b21mSi9VOHNUdnpDU2dvUzg2MEIvTk0wYnJ4Uk9Ub1NuejZhWHdX
+M2szOEFpbDc2T2ZPSjVJcEFnMnp3a1IzbXA4RVpIb0sNCjFGNzBiSlhUTnltZWlrbjdHVFhldFhC
+RGx1b3VxVDFybWRSU0JwSmZVMTVqeVA1ZXA2cnpYN1g1QXdBQS8vOERBRkJMQXdRVUFBWUENCkNB
+QUFBQ0VBMm4rVXBOOEFBQUFKQVFBQUR3QUFBR1J5Y3k5a2IzZHVjbVYyTG5odGJFeVBRVXZEUUJD
+Rjc0TC9ZUm5CbTkyMEpiV2sNCjJSUnBLUjdFUTZ1Q3gybDJ6QWF6dTJGM202Yi8zdEdMdlR3WUh1
+L04rOHIxYURzeFVJaXRkd3Fta3d3RXVkcnIxalVLM3Q5MkQwc1ENCk1hSFQySGxIQ2k0VVlWM2Qz
+cFJZYUg5MmV4b09xUkZjNG1LQkNreEtmU0ZsckExWmpCUGZrMlB2eXdlTGljL1FTQjN3ek9XMms3
+TXMNClcwaUxyZU1QQm52YUdLcS9EeWVyNEdQVDcxN0dUNE92UTY2ZnQ3UEgvU1hVbzFMM2QrTjJ4
+ZkswQXBGb1RQOEorR1hnL1ZEeHNLTS8NCk9SMUZwNEJwMHAreWx5K1dVeEJIQmZONURySXE1VFZC
+OVFNQUFQLy9Bd0JRU3dFQ0xRQVVBQVlBQ0FBQUFDRUF0b000a3Y0QUFBRGgNCkFRQUFFd0FBQUFB
+QUFBQUFBQUFBQUFBQUFBQUFXME52Ym5SbGJuUmZWSGx3WlhOZExuaHRiRkJMQVFJdEFCUUFCZ0FJ
+QUFBQUlRQTQNCi9TSC8xZ0FBQUpRQkFBQUxBQUFBQUFBQUFBQUFBQUFBQUM4QkFBQmZjbVZzY3k4
+dWNtVnNjMUJMQVFJdEFCUUFCZ0FJQUFBQUlRQkINCnJWUVUyUUVBQUowREFBQU9BQUFBQUFBQUFB
+QUFBQUFBQUM0Q0FBQmtjbk12WlRKdlJHOWpMbmh0YkZCTEFRSXRBQlFBQmdBSUFBQUENCklRRGFm
+NVNrM3dBQUFBa0JBQUFQQUFBQUFBQUFBQUFBQUFBQUFETUVBQUJrY25NdlpHOTNibkpsZGk1NGJX
+eFFTd1VHQUFBQUFBUUENCkJBRHpBQUFBUHdVQUFBQUENCiIgZmlsbGVkPSJmIiBzdHJva2VkPSJm
+Ij4NCiA8djpzdHJva2Ugam9pbnN0eWxlPSJyb3VuZCIvPg0KIDx2OnBhdGggYXJyb3dvaz0idCIv
+Pg0KIDx2OnRleHRib3ggaW5zZXQ9IjAsMCwwLDAiPg0KICA8IVtpZiAhbXNvXT4NCiAgPHRhYmxl
+IGNlbGxwYWRkaW5nPTAgY2VsbHNwYWNpbmc9MCB3aWR0aD0iMTAwJSI+DQogICA8dHI+DQogICAg
+PHRkPjwhW2VuZGlmXT4NCiAgICA8ZGl2Pg0KICAgIDxwIGNsYXNzPU1zb05vcm1hbCBhbGlnbj1j
+ZW50ZXIgc3R5bGU9J3RleHQtYWxpZ246Y2VudGVyJz48c3BhbiBsYW5nPUVOLUdCDQogICAgc3R5
+bGU9J2ZvbnQtc2l6ZToyNC4wcHQ7Y29sb3I6I0M0NTkxMTttc28tc3R5bGUtdGV4dGZpbGwtZmls
+bC1jb2xvcjojQzQ1OTExOw0KICAgIG1zby1zdHlsZS10ZXh0ZmlsbC1maWxsLWFscGhhOjUwLjAl
+Jz5FZGl0ZWQgRElTIC0gTVVTVCBCRSBVU0VEIEZPUiBGSU5BTA0KICAgIERSQUZUPG86cD48L286
+cD48L3NwYW4+PC9wPg0KICAgIDwvZGl2Pg0KICAgIDwhW2lmICFtc29dPjwvdGQ+DQogICA8L3Ry
+Pg0KICA8L3RhYmxlPg0KICA8IVtlbmRpZl0+PC92OnRleHRib3g+DQogPHc6d3JhcCBhbmNob3J4
+PSJwYWdlIiBhbmNob3J5PSJwYWdlIi8+DQo8L3Y6c2hhcGU+PCFbZW5kaWZdLS0+PC9zcGFuPjxz
+cGFuIGxhbmc9RU4tR0I+SVNPL1BBUyAyMzI2My0uMDoyMDE5KEUpPC9zcGFuPjwvcD4NCg0KPC9k
+aXY+DQoNCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjE+DQoNCjxwIGNs
+YXNzPU1zb0Zvb3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1y
+dWxlOg0KZXhhY3RseSc+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJl
+Z2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5QQUdF
+PHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1B
+VCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFu
+PjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48
+c3BhbiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBw
+b3J0RmllbGRzXT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNw
+YW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48IVtlbmRpZl0t
+LT48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdDsnPjxzcGFuDQpzdHls
+ZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj7CqQ0KSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwg
+cmlnaHRzIHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBz
+dHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mMT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0
+eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNw
+YW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPsKpIElTTyZuYnNwOzIwMTkm
+bmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxzcGFuDQpzdHlsZT0nbXNvLXRhYi1jb3VudDox
+Jz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdC
+IHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQt
+YmVnaW4nPjwvc3Bhbj4NClBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoCA8
+L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBh
+cmF0b3InPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9
+J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4zPC9zcGFu
+Pjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdm
+b250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3Nw
+YW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6
+MTAuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdt
+c28tZWxlbWVudDpoZWFkZXInIGlkPWZoMT4NCg0KPHAgY2xhc3M9TXNvSGVhZGVyPjxzcGFuIGxh
+bmc9RU4tR0I+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBz
+dHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mZjE+DQoNCjxwIGNsYXNzPU1zb0Zvb3Rlcj48
+c3BhbiBsYW5nPUVOLUdCPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoN
+Cg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laDI+DQo8cCBjbGFzcz1Nc29I
+ZWFkZXIgYWxpZ249bGVmdCBzdHlsZT0nbWFyZ2luLWJvdHRvbTozNi4wcHQ7dGV4dC1hbGlnbjps
+ZWZ0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxz
+cGFuIGxhbmc9RU4tR0I+SVNPL1BBUyAyMzI2My0uMDoyMDE5KEUpPC9zcGFuPjwvcD4NCjwvZGl2
+Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWVoMmw+DQo8cCBjbGFzcz1N
+c29IZWFkZXJMYW5kc2NhcGUgYWxpZ249bGVmdCBzdHlsZT0nbWFyZ2luLWJvdHRvbTozNi4wcHQ7
+dGV4dC1hbGlnbjpsZWZ0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1zby1saW5lLWhlaWdodC1ydWxl
+OmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0I+SVNPL1BBUyAyMzI2My0uMDoyMDE5KEUpPC9zcGFu
+PjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWgyPg0K
+DQo8cCBjbGFzcz1Nc29IZWFkZXIgYWxpZ249cmlnaHQgc3R5bGU9J21hcmdpbi1ib3R0b206MzYu
+MHB0O3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0
+LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+
+PCEtLVtpZiBndGUgdm1sIDFdPjx2OnNoYXBldHlwZQ0KIGlkPSJfeDAwMDBfdDIwMiIgY29vcmRz
+aXplPSIyMTYwMCwyMTYwMCIgbzpzcHQ9IjIwMiIgcGF0aD0ibSxsLDIxNjAwcjIxNjAwLGwyMTYw
+MCx4ZSI+DQogPHY6c3Ryb2tlIGpvaW5zdHlsZT0ibWl0ZXIiLz4NCiA8djpwYXRoIGdyYWRpZW50
+c2hhcGVvaz0idCIgbzpjb25uZWN0dHlwZT0icmVjdCIvPg0KPC92OnNoYXBldHlwZT48djpzaGFw
+ZSBpZD0iV29yZEFydF94MDAyMF8xNSIgbzpzcGlkPSJfeDAwMDBfczEwMjciIHR5cGU9IiNfeDAw
+MDBfdDIwMiINCiBzdHlsZT0ncG9zaXRpb246YWJzb2x1dGU7bGVmdDowO3RleHQtYWxpZ246bGVm
+dDttYXJnaW4tbGVmdDowO21hcmdpbi10b3A6MDsNCiB3aWR0aDo1MDAuMDVwdDtoZWlnaHQ6MTYu
+NzVwdDt6LWluZGV4OjI1MTY1ODI0MDt2aXNpYmlsaXR5OnZpc2libGU7DQogbXNvLXdyYXAtc3R5
+bGU6c3F1YXJlO21zby13aWR0aC1wZXJjZW50OjA7bXNvLWhlaWdodC1wZXJjZW50OjA7DQogbXNv
+LXdyYXAtZGlzdGFuY2UtbGVmdDo5cHQ7bXNvLXdyYXAtZGlzdGFuY2UtdG9wOjA7bXNvLXdyYXAt
+ZGlzdGFuY2UtcmlnaHQ6OXB0Ow0KIG1zby13cmFwLWRpc3RhbmNlLWJvdHRvbTowO21zby1wb3Np
+dGlvbi1ob3Jpem9udGFsOmNlbnRlcjsNCiBtc28tcG9zaXRpb24taG9yaXpvbnRhbC1yZWxhdGl2
+ZTpwYWdlO21zby1wb3NpdGlvbi12ZXJ0aWNhbDpib3R0b207DQogbXNvLXBvc2l0aW9uLXZlcnRp
+Y2FsLXJlbGF0aXZlOnBhZ2U7bXNvLXdpZHRoLXBlcmNlbnQ6MDttc28taGVpZ2h0LXBlcmNlbnQ6
+MDsNCiBtc28td2lkdGgtcmVsYXRpdmU6cGFnZTttc28taGVpZ2h0LXJlbGF0aXZlOnBhZ2U7di10
+ZXh0LWFuY2hvcjp0b3AnIG86Z2Z4ZGF0YT0iVUVzREJCUUFCZ0FJQUFBQUlRQzJnemlTL2dBQUFP
+RUJBQUFUQUFBQVcwTnZiblJsYm5SZlZIbHdaWE5kTG5odGJKU1JRVTdETUJCRg0KOTBqY3dmSVdK
+VTY3UUFnbDZZSzBTMENvSEdCa1R4S0xaR3g1VEdodmo1TzJHMFNSV05vei83OG51OXdjeGtGTUdO
+ZzZxdVFxTDZSQQ0KMHM1WTZpcjV2dDlsRDFKd0JESXdPTUpLSHBIbHByNjlLZmRIanl4U21yaVNm
+WXorVVNuV1BZN0F1Zk5JYWRLNk1FSk14OUFwRC9vRA0KT2xUcm9yaFgybEZFaWxtY08yUmROdGpD
+NXhERjlwQ3VUeVlCQjViaTZiUTRzeW9KM2c5V1EweW1haUx6ZzVLZENYbEtManZjVzg5Mw0KU1VP
+cVh3bno1RHJnbkh0SlR4T3NRZkVLSVQ3RG1EU1VDYXh3N1Jxbjg3ODdac21STTllMlZtUGVCTjR1
+cVl2VHRXN2p2aWpnOU4veQ0KSnNYZWNMcTBxK1dENm04QUFBRC8vd01BVUVzREJCUUFCZ0FJQUFB
+QUlRQTQvU0gvMWdBQUFKUUJBQUFMQUFBQVgzSmxiSE12TG5KbA0KYkhPa2tNRnF3ekFNaHUrRHZZ
+UFJmWEdhd3hpalRpK2owR3ZwSHNEWWltTWFXMFl5MmZyMk00UEJNbnJiVWIvUTk0bC9mL2hNaTFx
+Ug0KSlZJMnNPdDZVSmdkK1ppRGdmZkw4ZWtGbEZTYnZWMG9vNEViQ2h6R3g0ZjlHUmRiMjVITXNZ
+aHFsQ3dHNWxyTHE5Ymlaa3hXT2lxWQ0KMjJZaVRyYTJrWU11MWwxdFFEMzAvYlBtM3d3WU4weDE4
+Z2I0NUFkUWwxdHA1ai9zRkIyVDBGUTdSMG5UTkVWM2o2bzlmZVF6cm8xaQ0KT1dBMTRGbStROGEx
+YTgrQnZ1L2QvZE1iMkpZNXVpUGJoRy9rdG40Y3FHVS9lcjNwY3Z3Q0FBRC8vd01BVUVzREJCUUFC
+Z0FJQUFBQQ0KSVFCQnJWUVUyUUVBQUowREFBQU9BQUFBWkhKekwyVXliMFJ2WXk1NGJXeXNVMTF2
+MHpBVWZVZmlQMWgrcDBrenVxR282VFNZUUVpRA0KVGRyUW5oM0hiZ0t4ci9GMW0vVGZjKzBtTFdK
+dkUzbXcvSEY5Zk02NUordnIwZlJzcnp4MllDdStYT1NjS1N1aDZleTI0aitlUHIvNw0Kd0JrR1lS
+dlJnMVVWUHlqazE1dTNiOWFESzFVQkxmU044b3hBTEphRHEzZ2JnaXV6REdXcmpNQUZPR1hwVUlN
+M0l0RFNiN1BHaTRIUQ0KVFo4VmVYNlpEZUFiNTBFcVJOcTlQUjd5VGNMWFdzbHdyeldxd1BxS0U3
+ZVFScC9HT283WlppM0tyUmV1N2VSRVE3eUNoUkdkcFVkUA0KVUxjaUNMYnozUXNvMDBrUENEb3NK
+SmdNdE82a1NocEl6VEwvUjgxaks1eEtXc2djZENlYjhQL0J5dS83Ui9mZ1dSZy93a2dOVENMUQ0K
+M1lIOGhlUk5OamdzcDVyb0taWVlxK3ZoR3pUVVRiRUxrRzZNMnBzb253UXhnaUduRHlkMzFSaVlw
+TTJMeS96cS9jV0tNMGxueGJLNA0KS2xiUi9reVU4MjNuTVh4UllGaWNWTnhUOXhLNjJOOWhPSmJP
+SlJPMXlPYklLNHoxU0NXUllnM05nVWdPMU5XSzQrK2Q4SXF6L3FzbA0KMjJJRTVvbWZKL1U4c1R2
+ekNTZ29TODYwQi9OTTBicnhST1RvU256NmFYd1czazM4QWlsNzZPZk9KNUlwQWcyendrUjNtcDhF
+WkhvSw0KMUY3MGJKWFROeW1laWtuN0dUWGV0WEJEbHVvdXFUMXJtZFJTQnBKZlUxNWp5UDVlcDZy
+elg3WDVBd0FBLy84REFGQkxBd1FVQUFZQQ0KQ0FBQUFDRUEybitVcE44QUFBQUpBUUFBRHdBQUFH
+UnljeTlrYjNkdWNtVjJMbmh0YkV5UFFVdkRRQkNGNzRML1lSbkJtOTIwSmJXaw0KMlJScEtSN0VR
+NnVDeDJsMnpBYXp1MkYzbTZiLzN0R0x2VHdZSHUvTis4cjFhRHN4VUlpdGR3cW1rd3dFdWRycjFq
+VUszdDkyRDBzUQ0KTWFIVDJIbEhDaTRVWVYzZDNwUllhSDkyZXhvT3FSRmM0bUtCQ2t4S2ZTRmxy
+QTFaakJQZmsyUHZ5d2VMaWMvUVNCM3d6T1cyazdNcw0KVzBpTHJlTVBCbnZhR0txL0R5ZXI0R1BU
+NzE3R1Q0T3ZRNjZmdDdQSC9TWFVvMUwzZCtOMnhmSzBBcEZvVFA4SitHWGcvVkR4c0tNLw0KT1Ix
+RnA0QnAwcCt5bHkrV1V4QkhCZk41RHJJcTVUVkI5UU1BQVAvL0F3QlFTd0VDTFFBVUFBWUFDQUFB
+QUNFQXRvTTRrdjRBQUFEaA0KQVFBQUV3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQVcwTnZiblJsYm5S
+ZlZIbHdaWE5kTG5odGJGQkxBUUl0QUJRQUJnQUlBQUFBSVFBNA0KL1NILzFnQUFBSlFCQUFBTEFB
+QUFBQUFBQUFBQUFBQUFBQzhCQUFCZmNtVnNjeTh1Y21Wc2MxQkxBUUl0QUJRQUJnQUlBQUFBSVFC
+Qg0KclZRVTJRRUFBSjBEQUFBT0FBQUFBQUFBQUFBQUFBQUFBQzRDQUFCa2NuTXZaVEp2Ukc5akxu
+aHRiRkJMQVFJdEFCUUFCZ0FJQUFBQQ0KSVFEYWY1U2szd0FBQUFrQkFBQVBBQUFBQUFBQUFBQUFB
+QUFBQURNRUFBQmtjbk12Wkc5M2JuSmxkaTU0Yld4UVN3VUdBQUFBQUFRQQ0KQkFEekFBQUFQd1VB
+QUFBQQ0KIiBmaWxsZWQ9ImYiIHN0cm9rZWQ9ImYiPg0KIDx2OnN0cm9rZSBqb2luc3R5bGU9InJv
+dW5kIi8+DQogPHY6cGF0aCBhcnJvd29rPSJ0Ii8+DQogPHY6dGV4dGJveCBpbnNldD0iMCwwLDAs
+MCI+DQogIDwhW2lmICFtc29dPg0KICA8dGFibGUgY2VsbHBhZGRpbmc9MCBjZWxsc3BhY2luZz0w
+IHdpZHRoPSIxMDAlIj4NCiAgIDx0cj4NCiAgICA8dGQ+PCFbZW5kaWZdPg0KICAgIDxkaXY+DQog
+ICAgPHAgY2xhc3M9TXNvTm9ybWFsIGFsaWduPWNlbnRlciBzdHlsZT0ndGV4dC1hbGlnbjpjZW50
+ZXInPjxzcGFuIGxhbmc9RU4tR0INCiAgICBzdHlsZT0nZm9udC1zaXplOjI0LjBwdDtjb2xvcjoj
+QzQ1OTExO21zby1zdHlsZS10ZXh0ZmlsbC1maWxsLWNvbG9yOiNDNDU5MTE7DQogICAgbXNvLXN0
+eWxlLXRleHRmaWxsLWZpbGwtYWxwaGE6NTAuMCUnPkVkaXRlZCBESVMgLSBNVVNUIEJFIFVTRUQg
+Rk9SIEZJTkFMDQogICAgRFJBRlQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQogICAgPC9kaXY+DQog
+ICAgPCFbaWYgIW1zb10+PC90ZD4NCiAgIDwvdHI+DQogIDwvdGFibGU+DQogIDwhW2VuZGlmXT48
+L3Y6dGV4dGJveD4NCiA8dzp3cmFwIGFuY2hvcng9InBhZ2UiIGFuY2hvcnk9InBhZ2UiLz4NCjwv
+djpzaGFwZT48IVtlbmRpZl0tLT48L3NwYW4+PHNwYW4gbGFuZz1FTi1HQj5JU08vUEFTIDIzMjYz
+LS4wOjIwMTkoRSk8L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1l
+bnQ6aGVhZGVyJyBpZD1oMmw+DQo8cCBjbGFzcz1Nc29IZWFkZXJMYW5kc2NhcGUgYWxpZ249cmln
+aHQgc3R5bGU9J21hcmdpbi1ib3R0b206MzYuMHB0O3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWln
+aHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1H
+Qj5JU08vUEFTIDIzMjYzLS4wOjIwMTkoRSk8L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5
+bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZWYyPg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxl
+PSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1
+bGU6DQpleGFjdGx5Jz48cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0
+O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1b
+aWYgc3VwcG9ydEZpZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+
+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0eWxlPSdt
+c28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVu
+Onllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8
+L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFy
+YXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1m
+b250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
+cHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwh
+LS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3Jt
+YWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHls
+ZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48
+c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9J21z
+by10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoCA8L3NwYW4+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTo5
+LjBwdCc+wqkNCklTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+
+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290
+ZXInIGlkPWVmMmw+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0
+O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjxwIGNs
+YXNzPU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4wcHQ7bGluZS1oZWlnaHQ6MTIuMHB0
+O21zby1saW5lLWhlaWdodC1ydWxlOg0KZXhhY3RseSc+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48
+YiBzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bhbg0KbGFuZz1FTi1HQiBz
+dHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJl
+Z2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5QQUdF
+PHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1B
+VCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFu
+PjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+
+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdt
+c28tbm8tcHJvb2Y6eWVzJz4yPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBwb3J0RmllbGRz
+XT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1H
+QiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVs
+ZC1lbmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0INCnN0
+eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bh
+bj48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjkuMHB0Jz7CqQ0KSVNPJm5ic3A7
+MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9wPg0K
+PC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZjI+DQo8cCBjbGFz
+cz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVs
+ZTpleGFjdGx5Jz48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+wqkg
+SVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPC9zcGFuPjxzcGFuIGxh
+bmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4w
+cHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBw
+b3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4g
+bGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxl
+bWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPiBQQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5
+ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6
+ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9
+J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9u
+dC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4zPC9zcGFuPjwv
+c3Bhbj48L2I+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQt
+d2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+
+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwh
+W2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48bzpw
+PjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9v
+dGVyJyBpZD1mMmw+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBw
+dDttc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0n
+Zm9udC1zaXplOjEwLjBwdCc+wqkgSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJl
+c2VydmVkPC9zcGFuPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21z
+by1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bh
+bj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQt
+d2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+
+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPiBQQUdFPHNwYW4g
+c3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3Bh
+biBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48
+IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4g
+bGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8t
+cHJvb2Y6eWVzJz4zPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0K
+c3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHls
+ZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQn
+Pjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdm
+b250LXNpemU6MTAuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBz
+dHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1lZjM+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5
+bGU9J21hcmdpbi10b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQt
+cnVsZToNCmV4YWN0bHknPjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4w
+cHQ7bGluZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1ydWxlOg0KZXhhY3RseSc+PCEt
+LVtpZiBzdXBwb3J0RmllbGRzXT48YiBzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFs
+Jz48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9
+J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2Vy
+dW46eWVzJz7CoDwvc3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqAN
+Cjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2Vw
+YXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRp
+LWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEw
+LjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4yPC9zcGFuPjwvc3Bhbj48L2I+
+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5v
+cm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0
+eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0t
+PjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0n
+bXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXpl
+OjkuMHB0Jz7CqQ0KSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86
+cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZv
+b3RlcicgaWQ9ZWYzbD4NCjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4w
+cHQ7bGluZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1ydWxlOg0KZXhhY3RseSc+PHAg
+Y2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhlaWdodDoxMi4w
+cHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNd
+PjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuDQpsYW5nPUVOLUdC
+IHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQt
+YmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBB
+R0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9S
+TUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3Nw
+YW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFs
+Jz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9
+J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRGaWVs
+ZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVO
+LUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZp
+ZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0K
+c3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9z
+cGFuPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6OS4wcHQnPsKpDQpJU08mbmJz
+cDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+
+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mMz4NCjxwIGNs
+YXNzPU1zb0Zvb3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1y
+dWxlOmV4YWN0bHknPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz7C
+qSBJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8L3NwYW4+PHNwYW4g
+bGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7bXNvLWJpZGktZm9udC1zaXplOjEx
+LjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1
+cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bh
+biBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1l
+bGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+IFBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVu
+Onllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVu
+dDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHls
+ZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdm
+b250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjM8L3NwYW4+
+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9u
+dC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0
+Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+
+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxv
+OnA+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpm
+b290ZXInIGlkPWYzbD4NCjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbGluZS1oZWlnaHQ6MTIu
+MHB0O21zby1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxl
+PSdmb250LXNpemU6MTAuMHB0Jz7CqSBJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMg
+cmVzZXJ2ZWQ8L3NwYW4+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7
+bXNvLWJpZGktZm9udC1zaXplOjExLjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6MSc+
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
+oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9z
+cGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9u
+dC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0
+Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+IFBBR0U8c3Bh
+biBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxz
+cGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9i
+PjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bh
+biBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1u
+by1wcm9vZjp5ZXMnPjM8L3NwYW4+PC9zcGFuPjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxi
+DQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0
+eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVu
+ZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9
+J2ZvbnQtc2l6ZToxMC4wcHQnPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2
+IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWY0Pg0KICANCjxwIGNsYXNzPU1zb0Zvb3Rl
+cj48YiBzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bhbj5JQ1MgNzUuMTYw
+LjIwPG86cD48L286cD48L3NwYW4+PC9iPjwvcD4NCg0KDQoNCjxwIGNsYXNzPU1zb0Zvb3RlciBz
+dHlsZT0nbWFyZ2luLXRvcDowY20nPjxzcGFuIGxhbmc9RU4tQVUgc3R5bGU9J2ZvbnQtc2l6ZToN
+CjEwLjBwdDttc28tYW5zaS1sYW5ndWFnZTpFTi1BVSc+UHJpY2UgYmFzZWQgb24gPHNwYW4gc3R5
+bGU9J21zby1lbGVtZW50OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4gc3R5bGU9J21zby1zcGFj
+ZXJ1bjp5ZXMnPsKgPC9zcGFuPk5VTVBBR0VTPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMn
+PsKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQt
+c2VwYXJhdG9yJz48L3NwYW4+PHNwYW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI2PC9zcGFu
+PjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj4gcGFnZXM8L3NwYW4+
+PC9wPg0KDQo8cCBjbGFzcz1Nc29Gb290ZXI+PHNwYW4gbGFuZz1FTi1BVSBzdHlsZT0nZm9udC1z
+aXplOjEwLjBwdDsnPsKpDQpJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2
+ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQoNCg0KPC9ib2R5Pg0KDQo8L2h0
+bWw+DQo=
+
+------=_NextPart_fb76726a.4667.4539
+Content-ID: <71159019-5492-4736-88ef-5eaab10d280a.png>
+Content-Disposition: inline; filename="71159019-5492-4736-88ef-5eaab10d280a.png"
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -7998,526 +8431,4 @@ VBpwagWUjRFgnFjKWrt2LZL8naKcGCwEO8FasBksB/uh9z506JDXsHyA2rYSTioNOLUCivSy/d69
 eykoKSmJEncqyonBQrATrAWbwXKwH4zvyJEjXsPyAWrbSjipNODUCqiiKIriQQVUURQlSlRAFUVR
 okQFVFEUJUpUQBVFUaLk/wGevHFrulmTpQAAAABJRU5ErkJggg==
 
-------=_NextPart_aa961551.37a7.452d
-Content-ID: <header.html>
-Content-Disposition: inline; filename="header.html"
-Content-Transfer-Encoding: base64
-Content-Type: text/html charset="utf-8"
-
-PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
-cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
-ZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIg0KeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMu
-bWljcm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIg0KeG1sbnM6bXY9Imh0dHA6Ly9tYWNW
-bWxTY2hlbWFVcmkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCg0K
-PGhlYWQ+DQo8bWV0YSBuYW1lPVRpdGxlIGNvbnRlbnQ9IiI+DQo8bWV0YSBuYW1lPUtleXdvcmRz
-IGNvbnRlbnQ9IiI+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250ZW50PSJ0ZXh0
-L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPg0KPG1ldGEgbmFtZT1Qcm9nSWQgY29udGVudD1Xb3JkLkRv
-Y3VtZW50Pg0KPG1ldGEgbmFtZT1HZW5lcmF0b3IgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTUi
-Pg0KPG1ldGEgbmFtZT1PcmlnaW5hdG9yIGNvbnRlbnQ9Ik1pY3Jvc29mdCBXb3JkIDE1Ij4NCjxs
-aW5rIGlkPU1haW4tRmlsZSByZWw9TWFpbi1GaWxlIGhyZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1p
-c28vbW4tc2FtcGxlcy1pc28vc2l0ZS9kb2N1bWVudHMvcHVibGljbHktYXZhaWxhYmxlLXNwZWNp
-ZmljYXRpb24vZG9jdW1lbnQuaHRtbCI+DQo8IS0tW2lmIGd0ZSBtc28gOV0+PHhtbD4NCiA8bzpz
-aGFwZWRlZmF1bHRzIHY6ZXh0PSJlZGl0IiBzcGlkbWF4PSIyMDQ5Ii8+DQo8L3htbD48eG1sPg0K
-IDxvOnNoYXBlbGF5b3V0IHY6ZXh0PSJlZGl0Ij4NCiAgPG86aWRtYXAgdjpleHQ9ImVkaXQiIGRh
-dGE9IjEiLz4NCiA8L286c2hhcGVsYXlvdXQ+PC94bWw+PCFbZW5kaWZdLS0+DQo8L2hlYWQ+DQoN
-Cjxib2R5IGxhbmc9RU4gbGluaz1ibHVlIHZsaW5rPSIjOTU0RjcyIj4NCg0KPGRpdiBzdHlsZT0n
-bXNvLWVsZW1lbnQ6Zm9vdG5vdGUtc2VwYXJhdG9yJyBpZD1mcz4NCg0KPHAgY2xhc3M9TXNvTm9y
-bWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1o
-ZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFs
-LWNoYXJhY3Rlcjpmb290bm90ZS1zZXBhcmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4N
-Cg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0xIHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFu
-Pjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290bm90
-ZS1jb250aW51YXRpb24tc2VwYXJhdG9yJyBpZD1mY3M+DQoNCjxwIGNsYXNzPU1zb05vcm1hbCBz
-dHlsZT0nbWFyZ2luLWJvdHRvbTowY207bWFyZ2luLWJvdHRvbTouMDAwMXB0O2xpbmUtaGVpZ2h0
-Og0Kbm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCPjxzcGFuIHN0eWxlPSdtc28tc3BlY2lhbC1jaGFy
-YWN0ZXI6Zm9vdG5vdGUtY29udGludWF0aW9uLXNlcGFyYXRvcic+PCFbaWYgIXN1cHBvcnRGb290
-bm90ZXNdPg0KDQo8aHIgYWxpZ249bGVmdCBzaXplPTE+DQoNCjwhW2VuZGlmXT48L3NwYW4+PC9z
-cGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmVuZG5vdGUtc2Vw
-YXJhdG9yJyBpZD1lcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9t
-OjBjbTttYXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxh
-bmc9RU4tR0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1zZXBh
-cmF0b3InPjwhW2lmICFzdXBwb3J0Rm9vdG5vdGVzXT4NCg0KPGhyIGFsaWduPWxlZnQgc2l6ZT0x
-IHdpZHRoPSIzMyUiPg0KDQo8IVtlbmRpZl0+PC9zcGFuPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0K
-DQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDplbmRub3RlLWNvbnRpbnVhdGlvbi1zZXBhcmF0b3In
-IGlkPWVjcz4NCg0KPHAgY2xhc3M9TXNvTm9ybWFsIHN0eWxlPSdtYXJnaW4tYm90dG9tOjBjbTtt
-YXJnaW4tYm90dG9tOi4wMDAxcHQ7bGluZS1oZWlnaHQ6DQpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
-R0I+PHNwYW4gc3R5bGU9J21zby1zcGVjaWFsLWNoYXJhY3Rlcjpmb290bm90ZS1jb250aW51YXRp
-b24tc2VwYXJhdG9yJz48IVtpZiAhc3VwcG9ydEZvb3Rub3Rlc10+DQoNCjxociBhbGlnbj1sZWZ0
-IHNpemU9MT4NCg0KPCFbZW5kaWZdPjwvc3Bhbj48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KPGRp
-diBzdHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1laGE+DQoNCjxwIGNsYXNzPU1zb0hlYWRl
-ciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7bGluZS1oZWlnaHQ6MTIuMHB0Ow0K
-bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nbXNv
-LW5vLXByb29mOnllcyc+PCEtLVtpZiBndGUgdm1sIDFdPjx2OnNoYXBldHlwZQ0KIGlkPSJfeDAw
-MDBfdDIwMiIgY29vcmRzaXplPSIyMTYwMCwyMTYwMCIgbzpzcHQ9IjIwMiIgcGF0aD0ibSxsLDIx
-NjAwcjIxNjAwLGwyMTYwMCx4ZSI+DQogPHY6c3Ryb2tlIGpvaW5zdHlsZT0ibWl0ZXIiLz4NCiA8
-djpwYXRoIGdyYWRpZW50c2hhcGVvaz0idCIgbzpjb25uZWN0dHlwZT0icmVjdCIvPg0KPC92OnNo
-YXBldHlwZT48djpzaGFwZSBpZD0iV29yZEFydF94MDAyMF8yIiBvOnNwaWQ9Il94MDAwMF9zMTAy
-NiIgdHlwZT0iI194MDAwMF90MjAyIg0KIHN0eWxlPSdwb3NpdGlvbjphYnNvbHV0ZTttYXJnaW4t
-bGVmdDowO21hcmdpbi10b3A6MDt3aWR0aDo1MDAuMDVwdDtoZWlnaHQ6MTYuNzVwdDsNCiB6LWlu
-ZGV4OjI1MTY1ODI0MDt2aXNpYmlsaXR5OnZpc2libGU7bXNvLXdyYXAtc3R5bGU6c3F1YXJlOw0K
-IG1zby13aWR0aC1wZXJjZW50OjA7bXNvLWhlaWdodC1wZXJjZW50OjA7bXNvLXdyYXAtZGlzdGFu
-Y2UtbGVmdDo5cHQ7DQogbXNvLXdyYXAtZGlzdGFuY2UtdG9wOjA7bXNvLXdyYXAtZGlzdGFuY2Ut
-cmlnaHQ6OXB0Ow0KIG1zby13cmFwLWRpc3RhbmNlLWJvdHRvbTowO21zby1wb3NpdGlvbi1ob3Jp
-em9udGFsOmNlbnRlcjsNCiBtc28tcG9zaXRpb24taG9yaXpvbnRhbC1yZWxhdGl2ZTpwYWdlO21z
-by1wb3NpdGlvbi12ZXJ0aWNhbDpib3R0b207DQogbXNvLXBvc2l0aW9uLXZlcnRpY2FsLXJlbGF0
-aXZlOnBhZ2U7bXNvLXdpZHRoLXBlcmNlbnQ6MDttc28taGVpZ2h0LXBlcmNlbnQ6MDsNCiBtc28t
-d2lkdGgtcmVsYXRpdmU6cGFnZTttc28taGVpZ2h0LXJlbGF0aXZlOnBhZ2U7di10ZXh0LWFuY2hv
-cjp0b3AnIG86Z2Z4ZGF0YT0iVUVzREJCUUFCZ0FJQUFBQUlRQzJnemlTL2dBQUFPRUJBQUFUQUFB
-QVcwTnZiblJsYm5SZlZIbHdaWE5kTG5odGJKU1JRVTdETUJCRg0KOTBqY3dmSVdKVTY3UUFnbDZZ
-SzBTMENvSEdCa1R4S0xaR3g1VEdodmo1TzJHMFNSV05vei83OG51OXdjeGtGTUdOZzZxdVFxTDZS
-QQ0KMHM1WTZpcjV2dDlsRDFKd0JESXdPTUpLSHBIbHByNjlLZmRIanl4U21yaVNmWXorVVNuV1BZ
-N0F1Zk5JYWRLNk1FSk14OUFwRC9vRA0KT2xUcm9yaFgybEZFaWxtY08yUmROdGpDNXhERjlwQ3VU
-eVlCQjViaTZiUTRzeW9KM2c5V1EweW1haUx6ZzVLZENYbEtManZjVzg5Mw0KU1VPcVh3bno1RHJn
-bkh0SlR4T3NRZkVLSVQ3RG1EU1VDYXh3N1Jxbjg3ODdac21STTllMlZtUGVCTjR1cVl2VHRXN2p2
-aWpnOU4veQ0KSnNYZWNMcTBxK1dENm04QUFBRC8vd01BVUVzREJCUUFCZ0FJQUFBQUlRQTQvU0gv
-MWdBQUFKUUJBQUFMQUFBQVgzSmxiSE12TG5KbA0KYkhPa2tNRnF3ekFNaHUrRHZZUFJmWEdhd3hp
-alRpK2owR3ZwSHNEWWltTWFXMFl5MmZyMk00UEJNbnJiVWIvUTk0bC9mL2hNaTFxUg0KSlZJMnNP
-dDZVSmdkK1ppRGdmZkw4ZWtGbEZTYnZWMG9vNEViQ2h6R3g0ZjlHUmRiMjVITXNZaHFsQ3dHNWxy
-THE5Ymlaa3hXT2lxWQ0KMjJZaVRyYTJrWU11MWwxdFFEMzAvYlBtM3d3WU4weDE4Z2I0NUFkUWwx
-dHA1ai9zRkIyVDBGUTdSMG5UTkVWM2o2bzlmZVF6cm8xaQ0KT1dBMTRGbStROGExYTgrQnZ1L2Qv
-ZE1iMkpZNXVpUGJoRy9rdG40Y3FHVS9lcjNwY3Z3Q0FBRC8vd01BVUVzREJCUUFCZ0FJQUFBQQ0K
-SVFCQnJWUVUyUUVBQUowREFBQU9BQUFBWkhKekwyVXliMFJ2WXk1NGJXeXNVMTF2MHpBVWZVZmlQ
-MWgrcDBrenVxR282VFNZUUVpRA0KVGRyUW5oM0hiZ0t4ci9GMW0vVGZjKzBtTFdKdkUzbXcvSEY5
-Zk02NUordnIwZlJzcnp4MllDdStYT1NjS1N1aDZleTI0aitlUHIvNw0Kd0JrR1lSdlJnMVVWUHlq
-azE1dTNiOWFESzFVQkxmU044b3hBTEphRHEzZ2JnaXV6REdXcmpNQUZPR1hwVUlNM0l0RFNiN1BH
-aTRIUQ0KVFo4VmVYNlpEZUFiNTBFcVJOcTlQUjd5VGNMWFdzbHdyeldxd1BxS0U3ZVFScC9HT283
-WlppM0tyUmV1N2VSRVE3eUNoUkdkcFVkUA0KVUxjaUNMYnozUXNvMDBrUENEb3NKSmdNdE82a1No
-cEl6VEwvUjgxaks1eEtXc2djZENlYjhQL0J5dS83Ui9mZ1dSZy93a2dOVENMUQ0KM1lIOGhlUk5O
-amdzcDVyb0taWVlxK3ZoR3pUVVRiRUxrRzZNMnBzb253UXhnaUduRHlkMzFSaVlwTTJMeS96cS9j
-V0tNMGxueGJLNA0KS2xiUi9reVU4MjNuTVh4UllGaWNWTnhUOXhLNjJOOWhPSmJPSlJPMXlPYklL
-NHoxU0NXUllnM05nVWdPMU5XSzQrK2Q4SXF6L3FzbA0KMjJJRTVvbWZKL1U4c1R2ekNTZ29TODYw
-Qi9OTTBicnhST1RvU256NmFYd1czazM4QWlsNzZPZk9KNUlwQWcyendrUjNtcDhFWkhvSw0KMUY3
-MGJKWFROeW1laWtuN0dUWGV0WEJEbHVvdXFUMXJtZFJTQnBKZlUxNWp5UDVlcDZyelg3WDVBd0FB
-Ly84REFGQkxBd1FVQUFZQQ0KQ0FBQUFDRUEybitVcE44QUFBQUpBUUFBRHdBQUFHUnljeTlrYjNk
-dWNtVjJMbmh0YkV5UFFVdkRRQkNGNzRML1lSbkJtOTIwSmJXaw0KMlJScEtSN0VRNnVDeDJsMnpB
-YXp1MkYzbTZiLzN0R0x2VHdZSHUvTis4cjFhRHN4VUlpdGR3cW1rd3dFdWRycjFqVUszdDkyRDBz
-UQ0KTWFIVDJIbEhDaTRVWVYzZDNwUllhSDkyZXhvT3FSRmM0bUtCQ2t4S2ZTRmxyQTFaakJQZmsy
-UHZ5d2VMaWMvUVNCM3d6T1cyazdNcw0KVzBpTHJlTVBCbnZhR0txL0R5ZXI0R1BUNzE3R1Q0T3ZR
-NjZmdDdQSC9TWFVvMUwzZCtOMnhmSzBBcEZvVFA4SitHWGcvVkR4c0tNLw0KT1IxRnA0QnAwcCt5
-bHkrV1V4QkhCZk41RHJJcTVUVkI5UU1BQVAvL0F3QlFTd0VDTFFBVUFBWUFDQUFBQUNFQXRvTTRr
-djRBQUFEaA0KQVFBQUV3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQVcwTnZiblJsYm5SZlZIbHdaWE5k
-TG5odGJGQkxBUUl0QUJRQUJnQUlBQUFBSVFBNA0KL1NILzFnQUFBSlFCQUFBTEFBQUFBQUFBQUFB
-QUFBQUFBQzhCQUFCZmNtVnNjeTh1Y21Wc2MxQkxBUUl0QUJRQUJnQUlBQUFBSVFCQg0KclZRVTJR
-RUFBSjBEQUFBT0FBQUFBQUFBQUFBQUFBQUFBQzRDQUFCa2NuTXZaVEp2Ukc5akxuaHRiRkJMQVFJ
-dEFCUUFCZ0FJQUFBQQ0KSVFEYWY1U2szd0FBQUFrQkFBQVBBQUFBQUFBQUFBQUFBQUFBQURNRUFB
-Qmtjbk12Wkc5M2JuSmxkaTU0Yld4UVN3VUdBQUFBQUFRQQ0KQkFEekFBQUFQd1VBQUFBQQ0KIiBm
-aWxsZWQ9ImYiIHN0cm9rZWQ9ImYiPg0KIDx2OnN0cm9rZSBqb2luc3R5bGU9InJvdW5kIi8+DQog
-PHY6cGF0aCBhcnJvd29rPSJ0Ii8+DQogPHY6dGV4dGJveCBpbnNldD0iMCwwLDAsMCI+DQogIDwh
-W2lmICFtc29dPg0KICA8dGFibGUgY2VsbHBhZGRpbmc9MCBjZWxsc3BhY2luZz0wIHdpZHRoPSIx
-MDAlIj4NCiAgIDx0cj4NCiAgICA8dGQ+PCFbZW5kaWZdPg0KICAgIDxkaXY+DQogICAgPHAgY2xh
-c3M9TXNvTm9ybWFsIGFsaWduPWNlbnRlciBzdHlsZT0ndGV4dC1hbGlnbjpjZW50ZXInPjxzcGFu
-IGxhbmc9RU4tR0INCiAgICBzdHlsZT0nZm9udC1zaXplOjI0LjBwdDtjb2xvcjojQzQ1OTExO21z
-by1zdHlsZS10ZXh0ZmlsbC1maWxsLWNvbG9yOiNDNDU5MTE7DQogICAgbXNvLXN0eWxlLXRleHRm
-aWxsLWZpbGwtYWxwaGE6NTAuMCUnPkVkaXRlZCBESVMgLSBNVVNUIEJFIFVTRUQgRk9SIEZJTkFM
-DQogICAgRFJBRlQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQogICAgPC9kaXY+DQogICAgPCFbaWYg
-IW1zb10+PC90ZD4NCiAgIDwvdHI+DQogIDwvdGFibGU+DQogIDwhW2VuZGlmXT48L3Y6dGV4dGJv
-eD4NCiA8dzp3cmFwIGFuY2hvcng9InBhZ2UiIGFuY2hvcnk9InBhZ2UiLz4NCjwvdjpzaGFwZT48
-IVtlbmRpZl0tLT48L3NwYW4+PHNwYW4gbGFuZz1FTi1HQj5JU08gMjMyNjM6MjAxOShFKTwvc3Bh
-bj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWVo
-MT4NCjxwIGNsYXNzPU1zb0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxlPSd0ZXh0LWFsaWduOmxlZnQ7
-bGluZS1oZWlnaHQ6MTIuMHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4g
-bGFuZz1FTi1HQj5JU08gMjMyNjM6MjAxOShFKTwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBz
-dHlsZT0nbXNvLWVsZW1lbnQ6aGVhZGVyJyBpZD1oMT4NCg0KPHAgY2xhc3M9TXNvSGVhZGVyIGFs
-aWduPXJpZ2h0IHN0eWxlPSd0ZXh0LWFsaWduOnJpZ2h0O2xpbmUtaGVpZ2h0OjEyLjBwdDsNCm1z
-by1saW5lLWhlaWdodC1ydWxlOmV4YWN0bHknPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J21zby1u
-by1wcm9vZjp5ZXMnPjwhLS1baWYgZ3RlIHZtbCAxXT48djpzaGFwZXR5cGUNCiBpZD0iX3gwMDAw
-X3QyMDIiIGNvb3Jkc2l6ZT0iMjE2MDAsMjE2MDAiIG86c3B0PSIyMDIiIHBhdGg9Im0sbCwyMTYw
-MHIyMTYwMCxsMjE2MDAseGUiPg0KIDx2OnN0cm9rZSBqb2luc3R5bGU9Im1pdGVyIi8+DQogPHY6
-cGF0aCBncmFkaWVudHNoYXBlb2s9InQiIG86Y29ubmVjdHR5cGU9InJlY3QiLz4NCjwvdjpzaGFw
-ZXR5cGU+PHY6c2hhcGUgaWQ9IldvcmRBcnRfeDAwMjBfMTUiIG86c3BpZD0iX3gwMDAwX3MxMDI3
-IiB0eXBlPSIjX3gwMDAwX3QyMDIiDQogc3R5bGU9J3Bvc2l0aW9uOmFic29sdXRlO2xlZnQ6MDt0
-ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLWxlZnQ6MDttYXJnaW4tdG9wOjA7DQogd2lkdGg6NTAwLjA1
-cHQ7aGVpZ2h0OjE2Ljc1cHQ7ei1pbmRleDoyNTE2NTgyNDA7dmlzaWJpbGl0eTp2aXNpYmxlOw0K
-IG1zby13cmFwLXN0eWxlOnNxdWFyZTttc28td2lkdGgtcGVyY2VudDowO21zby1oZWlnaHQtcGVy
-Y2VudDowOw0KIG1zby13cmFwLWRpc3RhbmNlLWxlZnQ6OXB0O21zby13cmFwLWRpc3RhbmNlLXRv
-cDowO21zby13cmFwLWRpc3RhbmNlLXJpZ2h0OjlwdDsNCiBtc28td3JhcC1kaXN0YW5jZS1ib3R0
-b206MDttc28tcG9zaXRpb24taG9yaXpvbnRhbDpjZW50ZXI7DQogbXNvLXBvc2l0aW9uLWhvcml6
-b250YWwtcmVsYXRpdmU6cGFnZTttc28tcG9zaXRpb24tdmVydGljYWw6Ym90dG9tOw0KIG1zby1w
-b3NpdGlvbi12ZXJ0aWNhbC1yZWxhdGl2ZTpwYWdlO21zby13aWR0aC1wZXJjZW50OjA7bXNvLWhl
-aWdodC1wZXJjZW50OjA7DQogbXNvLXdpZHRoLXJlbGF0aXZlOnBhZ2U7bXNvLWhlaWdodC1yZWxh
-dGl2ZTpwYWdlO3YtdGV4dC1hbmNob3I6dG9wJyBvOmdmeGRhdGE9IlVFc0RCQlFBQmdBSUFBQUFJ
-UUMyZ3ppUy9nQUFBT0VCQUFBVEFBQUFXME52Ym5SbGJuUmZWSGx3WlhOZExuaHRiSlNSUVU3RE1C
-QkYNCjkwamN3ZklXSlU2N1FBZ2w2WUswUzBDb0hHQmtUeEtMWkd4NVRHaHZqNU8yRzBTUldOb3ov
-NzhudTl3Y3hrRk1HTmc2cXVRcUw2UkENCjBzNVk2aXI1dnQ5bEQxSndCREl3T01KS0hwSGxwcjY5
-S2ZkSGp5eFNtcmlTZll6K1VTbldQWTdBdWZOSWFkSzZNRUpNeDlBcEQvb0QNCk9sVHJvcmhYMmxG
-RWlsbWNPMlJkTnRqQzV4REY5cEN1VHlZQkI1Ymk2YlE0c3lvSjNnOVdRMHltYWlMemc1S2RDWGxL
-TGp2Y1c4OTMNClNVT3FYd256NURyZ25IdEpUeE9zUWZFS0lUN0RtRFNVQ2F4dzdScW44Nzg3WnNt
-Uk05ZTJWbVBlQk40dXFZdlR0VzdqdmlqZzlOL3kNCkpzWGVjTHEwcStXRDZtOEFBQUQvL3dNQVVF
-c0RCQlFBQmdBSUFBQUFJUUE0L1NILzFnQUFBSlFCQUFBTEFBQUFYM0psYkhNdkxuSmwNCmJIT2tr
-TUZxd3pBTWh1K0R2WVBSZlhHYXd4aWpUaStqMEd2cEhzRFlpbU1hVzBZeTJmcjJNNFBCTW5yYlVi
-L1E5NGwvZi9oTWkxcVINCkpWSTJzT3Q2VUpnZCtaaURnZmZMOGVrRmxGU2J2VjBvbzRFYkNoekd4
-NGY5R1JkYjI1SE1zWWhxbEN3RzVsckxxOWJpWmt4V09pcVkNCjIyWWlUcmEya1lNdTFsMXRRRDMw
-L2JQbTN3d1lOMHgxOGdiNDVBZFFsMXRwNWovc0ZCMlQwRlE3UjBuVE5FVjNqNm85ZmVRenJvMWkN
-Ck9XQTE0Rm0rUThhMWE4K0J2dS9kL2RNYjJKWTV1aVBiaEcva3RuNGNxR1UvZXIzcGN2d0NBQUQv
-L3dNQVVFc0RCQlFBQmdBSUFBQUENCklRQkJyVlFVMlFFQUFKMERBQUFPQUFBQVpISnpMMlV5YjBS
-dll5NTRiV3lzVTExdjB6QVVmVWZpUDFoK3Awa3p1cUdvNlRTWVFFaUQNClRkclFuaDNIYmdLeHIv
-RjFtL1RmYyswbUxXSnZFM213L0hGOWZNNjVKK3ZyMGZSc3J6eDJZQ3UrWE9TY0tTdWg2ZXkyNGor
-ZVByLzcNCndCa0dZUnZSZzFVVlB5amsxNXUzYjlhREsxVUJMZlNOOG94QUxKYURxM2diZ2l1ekRH
-V3JqTUFGT0dYcFVJTTNJdERTYjdQR2k0SFENClRaOFZlWDZaRGVBYjUwRXFSTnE5UFI3eVRjTFhX
-c2x3cnpXcXdQcUtFN2VRUnAvR09vN1paaTNLclJldTdlUkVRN3lDaFJHZHBVZFANClVMY2lDTGJ6
-M1FzbzAwa1BDRG9zSkpnTXRPNmtTaHBJelRML1I4MWpLNXhLV3NnY2RDZWI4UC9CeXUvN1IvZmdX
-Umcvd2tnTlRDTFENCjNZSDhoZVJOTmpnc3A1cm9LWllZcSt2aEd6VFVUYkVMa0c2TTJwc29ud1F4
-Z2lHbkR5ZDMxUmlZcE0yTHkvenEvY1dLTTBsbnhiSzQNCktsYlIva3lVODIzbk1YeFJZRmljVk54
-VDl4SzYyTjloT0piT0pSTzF5T2JJSzR6MVNDV1JZZzNOZ1VnTzFOV0s0KytkOElxei9xc2wNCjIy
-SUU1b21mSi9VOHNUdnpDU2dvUzg2MEIvTk0wYnJ4Uk9Ub1NuejZhWHdXM2szOEFpbDc2T2ZPSjVJ
-cEFnMnp3a1IzbXA4RVpIb0sNCjFGNzBiSlhUTnltZWlrbjdHVFhldFhCRGx1b3VxVDFybWRSU0Jw
-SmZVMTVqeVA1ZXA2cnpYN1g1QXdBQS8vOERBRkJMQXdRVUFBWUENCkNBQUFBQ0VBMm4rVXBOOEFB
-QUFKQVFBQUR3QUFBR1J5Y3k5a2IzZHVjbVYyTG5odGJFeVBRVXZEUUJDRjc0TC9ZUm5CbTkyMEpi
-V2sNCjJSUnBLUjdFUTZ1Q3gybDJ6QWF6dTJGM202Yi8zdEdMdlR3WUh1L04rOHIxYURzeFVJaXRk
-d3Fta3d3RXVkcnIxalVLM3Q5MkQwc1ENCk1hSFQySGxIQ2k0VVlWM2QzcFJZYUg5MmV4b09xUkZj
-NG1LQkNreEtmU0ZsckExWmpCUGZrMlB2eXdlTGljL1FTQjN3ek9XMms3TXMNClcwaUxyZU1QQm52
-YUdLcS9EeWVyNEdQVDcxN0dUNE92UTY2ZnQ3UEgvU1hVbzFMM2QrTjJ4ZkswQXBGb1RQOEorR1hn
-L1ZEeHNLTS8NCk9SMUZwNEJwMHAreWx5K1dVeEJIQmZONURySXE1VFZCOVFNQUFQLy9Bd0JRU3dF
-Q0xRQVVBQVlBQ0FBQUFDRUF0b000a3Y0QUFBRGgNCkFRQUFFd0FBQUFBQUFBQUFBQUFBQUFBQUFB
-QUFXME52Ym5SbGJuUmZWSGx3WlhOZExuaHRiRkJMQVFJdEFCUUFCZ0FJQUFBQUlRQTQNCi9TSC8x
-Z0FBQUpRQkFBQUxBQUFBQUFBQUFBQUFBQUFBQUM4QkFBQmZjbVZzY3k4dWNtVnNjMUJMQVFJdEFC
-UUFCZ0FJQUFBQUlRQkINCnJWUVUyUUVBQUowREFBQU9BQUFBQUFBQUFBQUFBQUFBQUM0Q0FBQmtj
-bk12WlRKdlJHOWpMbmh0YkZCTEFRSXRBQlFBQmdBSUFBQUENCklRRGFmNVNrM3dBQUFBa0JBQUFQ
-QUFBQUFBQUFBQUFBQUFBQUFETUVBQUJrY25NdlpHOTNibkpsZGk1NGJXeFFTd1VHQUFBQUFBUUEN
-CkJBRHpBQUFBUHdVQUFBQUENCiIgZmlsbGVkPSJmIiBzdHJva2VkPSJmIj4NCiA8djpzdHJva2Ug
-am9pbnN0eWxlPSJyb3VuZCIvPg0KIDx2OnBhdGggYXJyb3dvaz0idCIvPg0KIDx2OnRleHRib3gg
-aW5zZXQ9IjAsMCwwLDAiPg0KICA8IVtpZiAhbXNvXT4NCiAgPHRhYmxlIGNlbGxwYWRkaW5nPTAg
-Y2VsbHNwYWNpbmc9MCB3aWR0aD0iMTAwJSI+DQogICA8dHI+DQogICAgPHRkPjwhW2VuZGlmXT4N
-CiAgICA8ZGl2Pg0KICAgIDxwIGNsYXNzPU1zb05vcm1hbCBhbGlnbj1jZW50ZXIgc3R5bGU9J3Rl
-eHQtYWxpZ246Y2VudGVyJz48c3BhbiBsYW5nPUVOLUdCDQogICAgc3R5bGU9J2ZvbnQtc2l6ZToy
-NC4wcHQ7Y29sb3I6I0M0NTkxMTttc28tc3R5bGUtdGV4dGZpbGwtZmlsbC1jb2xvcjojQzQ1OTEx
-Ow0KICAgIG1zby1zdHlsZS10ZXh0ZmlsbC1maWxsLWFscGhhOjUwLjAlJz5FZGl0ZWQgRElTIC0g
-TVVTVCBCRSBVU0VEIEZPUiBGSU5BTA0KICAgIERSQUZUPG86cD48L286cD48L3NwYW4+PC9wPg0K
-ICAgIDwvZGl2Pg0KICAgIDwhW2lmICFtc29dPjwvdGQ+DQogICA8L3RyPg0KICA8L3RhYmxlPg0K
-ICA8IVtlbmRpZl0+PC92OnRleHRib3g+DQogPHc6d3JhcCBhbmNob3J4PSJwYWdlIiBhbmNob3J5
-PSJwYWdlIi8+DQo8L3Y6c2hhcGU+PCFbZW5kaWZdLS0+PC9zcGFuPjxzcGFuIGxhbmc9RU4tR0I+
-SVNPIDIzMjYzOjIwMTkoRSk8L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KDQo8ZGl2IHN0eWxlPSdt
-c28tZWxlbWVudDpmb290ZXInIGlkPWVmMT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSds
-aW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48IS0tW2lm
-IHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0
-Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5
-bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNl
-cnVuOnllcyc+wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxl
-bWVudDpmaWVsZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+PHNwYW4NCmxh
-bmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0eWxlPSdtc28tbm8tcHJv
-b2Y6eWVzJz4yPC9zcGFuPjwvc3Bhbj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxzcGFuDQpsYW5n
-PUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6
-ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwhW2VuZGlmXS0tPjxzcGFuDQpsYW5nPUVOLUdCIHN0
-eWxlPSdmb250LXNpemU6MTAuMHB0Oyc+PHNwYW4NCnN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9z
-cGFuPsKpDQpJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2ZWQ8bzpwPjwv
-bzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290
-ZXInIGlkPWYxPg0KDQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBw
-dDttc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0n
-Zm9udC1zaXplOjEwLjBwdCc+wqkgSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJl
-c2VydmVkPHNwYW4NCnN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+PC9zcGFuPjwhLS1b
-aWYgc3VwcG9ydEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
-cHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPg0KUEFHRTxz
-cGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgIDwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8
-c3Bhbg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48
-IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNw
-YW4gc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjM8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9y
-dEZpZWxkc10+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFu
-IHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PCFbZW5kaWZdLS0+
-PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxvOnA+PC9vOnA+PC9z
-cGFuPjwvcD4NCg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmhlYWRlcicgaWQ9
-ZmgxPg0KDQo8cCBjbGFzcz1Nc29IZWFkZXI+PHNwYW4gbGFuZz1FTi1HQj48bzpwPiZuYnNwOzwv
-bzpwPjwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290
-ZXInIGlkPWZmMT4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyPjxzcGFuIGxhbmc9RU4tR0I+PG86cD4m
-bmJzcDs8L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxl
-bWVudDpoZWFkZXInIGlkPWVoMj4NCjxwIGNsYXNzPU1zb0hlYWRlciBhbGlnbj1sZWZ0IHN0eWxl
-PSdtYXJnaW4tYm90dG9tOjM2LjBwdDt0ZXh0LWFsaWduOmxlZnQ7bGluZS1oZWlnaHQ6MTIuMHB0
-Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQj5JU08gMjMy
-NjM6MjAxOShFKTwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6
-aGVhZGVyJyBpZD1laDJsPg0KPHAgY2xhc3M9TXNvSGVhZGVyTGFuZHNjYXBlIGFsaWduPWxlZnQg
-c3R5bGU9J21hcmdpbi1ib3R0b206MzYuMHB0O3RleHQtYWxpZ246bGVmdDtsaW5lLWhlaWdodDox
-Mi4wcHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3BhbiBsYW5nPUVOLUdCPklT
-TyAyMzI2MzoyMDE5KEUpPC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxl
-bWVudDpoZWFkZXInIGlkPWgyPg0KDQo8cCBjbGFzcz1Nc29IZWFkZXIgYWxpZ249cmlnaHQgc3R5
-bGU9J21hcmdpbi1ib3R0b206MzYuMHB0O3RleHQtYWxpZ246cmlnaHQ7bGluZS1oZWlnaHQ6MTIu
-MHB0Ow0KbXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4gbGFuZz1FTi1HQiBzdHls
-ZT0nbXNvLW5vLXByb29mOnllcyc+PCEtLVtpZiBndGUgdm1sIDFdPjx2OnNoYXBldHlwZQ0KIGlk
-PSJfeDAwMDBfdDIwMiIgY29vcmRzaXplPSIyMTYwMCwyMTYwMCIgbzpzcHQ9IjIwMiIgcGF0aD0i
-bSxsLDIxNjAwcjIxNjAwLGwyMTYwMCx4ZSI+DQogPHY6c3Ryb2tlIGpvaW5zdHlsZT0ibWl0ZXIi
-Lz4NCiA8djpwYXRoIGdyYWRpZW50c2hhcGVvaz0idCIgbzpjb25uZWN0dHlwZT0icmVjdCIvPg0K
-PC92OnNoYXBldHlwZT48djpzaGFwZSBpZD0iV29yZEFydF94MDAyMF8xNSIgbzpzcGlkPSJfeDAw
-MDBfczEwMjciIHR5cGU9IiNfeDAwMDBfdDIwMiINCiBzdHlsZT0ncG9zaXRpb246YWJzb2x1dGU7
-bGVmdDowO3RleHQtYWxpZ246bGVmdDttYXJnaW4tbGVmdDowO21hcmdpbi10b3A6MDsNCiB3aWR0
-aDo1MDAuMDVwdDtoZWlnaHQ6MTYuNzVwdDt6LWluZGV4OjI1MTY1ODI0MDt2aXNpYmlsaXR5OnZp
-c2libGU7DQogbXNvLXdyYXAtc3R5bGU6c3F1YXJlO21zby13aWR0aC1wZXJjZW50OjA7bXNvLWhl
-aWdodC1wZXJjZW50OjA7DQogbXNvLXdyYXAtZGlzdGFuY2UtbGVmdDo5cHQ7bXNvLXdyYXAtZGlz
-dGFuY2UtdG9wOjA7bXNvLXdyYXAtZGlzdGFuY2UtcmlnaHQ6OXB0Ow0KIG1zby13cmFwLWRpc3Rh
-bmNlLWJvdHRvbTowO21zby1wb3NpdGlvbi1ob3Jpem9udGFsOmNlbnRlcjsNCiBtc28tcG9zaXRp
-b24taG9yaXpvbnRhbC1yZWxhdGl2ZTpwYWdlO21zby1wb3NpdGlvbi12ZXJ0aWNhbDpib3R0b207
-DQogbXNvLXBvc2l0aW9uLXZlcnRpY2FsLXJlbGF0aXZlOnBhZ2U7bXNvLXdpZHRoLXBlcmNlbnQ6
-MDttc28taGVpZ2h0LXBlcmNlbnQ6MDsNCiBtc28td2lkdGgtcmVsYXRpdmU6cGFnZTttc28taGVp
-Z2h0LXJlbGF0aXZlOnBhZ2U7di10ZXh0LWFuY2hvcjp0b3AnIG86Z2Z4ZGF0YT0iVUVzREJCUUFC
-Z0FJQUFBQUlRQzJnemlTL2dBQUFPRUJBQUFUQUFBQVcwTnZiblJsYm5SZlZIbHdaWE5kTG5odGJK
-U1JRVTdETUJCRg0KOTBqY3dmSVdKVTY3UUFnbDZZSzBTMENvSEdCa1R4S0xaR3g1VEdodmo1TzJH
-MFNSV05vei83OG51OXdjeGtGTUdOZzZxdVFxTDZSQQ0KMHM1WTZpcjV2dDlsRDFKd0JESXdPTUpL
-SHBIbHByNjlLZmRIanl4U21yaVNmWXorVVNuV1BZN0F1Zk5JYWRLNk1FSk14OUFwRC9vRA0KT2xU
-cm9yaFgybEZFaWxtY08yUmROdGpDNXhERjlwQ3VUeVlCQjViaTZiUTRzeW9KM2c5V1EweW1haUx6
-ZzVLZENYbEtManZjVzg5Mw0KU1VPcVh3bno1RHJnbkh0SlR4T3NRZkVLSVQ3RG1EU1VDYXh3N1Jx
-bjg3ODdac21STTllMlZtUGVCTjR1cVl2VHRXN2p2aWpnOU4veQ0KSnNYZWNMcTBxK1dENm04QUFB
-RC8vd01BVUVzREJCUUFCZ0FJQUFBQUlRQTQvU0gvMWdBQUFKUUJBQUFMQUFBQVgzSmxiSE12TG5K
-bA0KYkhPa2tNRnF3ekFNaHUrRHZZUFJmWEdhd3hpalRpK2owR3ZwSHNEWWltTWFXMFl5MmZyMk00
-UEJNbnJiVWIvUTk0bC9mL2hNaTFxUg0KSlZJMnNPdDZVSmdkK1ppRGdmZkw4ZWtGbEZTYnZWMG9v
-NEViQ2h6R3g0ZjlHUmRiMjVITXNZaHFsQ3dHNWxyTHE5Ymlaa3hXT2lxWQ0KMjJZaVRyYTJrWU11
-MWwxdFFEMzAvYlBtM3d3WU4weDE4Z2I0NUFkUWwxdHA1ai9zRkIyVDBGUTdSMG5UTkVWM2o2bzlm
-ZVF6cm8xaQ0KT1dBMTRGbStROGExYTgrQnZ1L2QvZE1iMkpZNXVpUGJoRy9rdG40Y3FHVS9lcjNw
-Y3Z3Q0FBRC8vd01BVUVzREJCUUFCZ0FJQUFBQQ0KSVFCQnJWUVUyUUVBQUowREFBQU9BQUFBWkhK
-ekwyVXliMFJ2WXk1NGJXeXNVMTF2MHpBVWZVZmlQMWgrcDBrenVxR282VFNZUUVpRA0KVGRyUW5o
-M0hiZ0t4ci9GMW0vVGZjKzBtTFdKdkUzbXcvSEY5Zk02NUordnIwZlJzcnp4MllDdStYT1NjS1N1
-aDZleTI0aitlUHIvNw0Kd0JrR1lSdlJnMVVWUHlqazE1dTNiOWFESzFVQkxmU044b3hBTEphRHEz
-Z2JnaXV6REdXcmpNQUZPR1hwVUlNM0l0RFNiN1BHaTRIUQ0KVFo4VmVYNlpEZUFiNTBFcVJOcTlQ
-Ujd5VGNMWFdzbHdyeldxd1BxS0U3ZVFScC9HT283WlppM0tyUmV1N2VSRVE3eUNoUkdkcFVkUA0K
-VUxjaUNMYnozUXNvMDBrUENEb3NKSmdNdE82a1NocEl6VEwvUjgxaks1eEtXc2djZENlYjhQL0J5
-dS83Ui9mZ1dSZy93a2dOVENMUQ0KM1lIOGhlUk5OamdzcDVyb0taWVlxK3ZoR3pUVVRiRUxrRzZN
-MnBzb253UXhnaUduRHlkMzFSaVlwTTJMeS96cS9jV0tNMGxueGJLNA0KS2xiUi9reVU4MjNuTVh4
-UllGaWNWTnhUOXhLNjJOOWhPSmJPSlJPMXlPYklLNHoxU0NXUllnM05nVWdPMU5XSzQrK2Q4SXF6
-L3FzbA0KMjJJRTVvbWZKL1U4c1R2ekNTZ29TODYwQi9OTTBicnhST1RvU256NmFYd1czazM4QWls
-NzZPZk9KNUlwQWcyendrUjNtcDhFWkhvSw0KMUY3MGJKWFROeW1laWtuN0dUWGV0WEJEbHVvdXFU
-MXJtZFJTQnBKZlUxNWp5UDVlcDZyelg3WDVBd0FBLy84REFGQkxBd1FVQUFZQQ0KQ0FBQUFDRUEy
-bitVcE44QUFBQUpBUUFBRHdBQUFHUnljeTlrYjNkdWNtVjJMbmh0YkV5UFFVdkRRQkNGNzRML1lS
-bkJtOTIwSmJXaw0KMlJScEtSN0VRNnVDeDJsMnpBYXp1MkYzbTZiLzN0R0x2VHdZSHUvTis4cjFh
-RHN4VUlpdGR3cW1rd3dFdWRycjFqVUszdDkyRDBzUQ0KTWFIVDJIbEhDaTRVWVYzZDNwUllhSDky
-ZXhvT3FSRmM0bUtCQ2t4S2ZTRmxyQTFaakJQZmsyUHZ5d2VMaWMvUVNCM3d6T1cyazdNcw0KVzBp
-THJlTVBCbnZhR0txL0R5ZXI0R1BUNzE3R1Q0T3ZRNjZmdDdQSC9TWFVvMUwzZCtOMnhmSzBBcEZv
-VFA4SitHWGcvVkR4c0tNLw0KT1IxRnA0QnAwcCt5bHkrV1V4QkhCZk41RHJJcTVUVkI5UU1BQVAv
-L0F3QlFTd0VDTFFBVUFBWUFDQUFBQUNFQXRvTTRrdjRBQUFEaA0KQVFBQUV3QUFBQUFBQUFBQUFB
-QUFBQUFBQUFBQVcwTnZiblJsYm5SZlZIbHdaWE5kTG5odGJGQkxBUUl0QUJRQUJnQUlBQUFBSVFB
-NA0KL1NILzFnQUFBSlFCQUFBTEFBQUFBQUFBQUFBQUFBQUFBQzhCQUFCZmNtVnNjeTh1Y21Wc2Mx
-QkxBUUl0QUJRQUJnQUlBQUFBSVFCQg0KclZRVTJRRUFBSjBEQUFBT0FBQUFBQUFBQUFBQUFBQUFB
-QzRDQUFCa2NuTXZaVEp2Ukc5akxuaHRiRkJMQVFJdEFCUUFCZ0FJQUFBQQ0KSVFEYWY1U2szd0FB
-QUFrQkFBQVBBQUFBQUFBQUFBQUFBQUFBQURNRUFBQmtjbk12Wkc5M2JuSmxkaTU0Yld4UVN3VUdB
-QUFBQUFRQQ0KQkFEekFBQUFQd1VBQUFBQQ0KIiBmaWxsZWQ9ImYiIHN0cm9rZWQ9ImYiPg0KIDx2
-OnN0cm9rZSBqb2luc3R5bGU9InJvdW5kIi8+DQogPHY6cGF0aCBhcnJvd29rPSJ0Ii8+DQogPHY6
-dGV4dGJveCBpbnNldD0iMCwwLDAsMCI+DQogIDwhW2lmICFtc29dPg0KICA8dGFibGUgY2VsbHBh
-ZGRpbmc9MCBjZWxsc3BhY2luZz0wIHdpZHRoPSIxMDAlIj4NCiAgIDx0cj4NCiAgICA8dGQ+PCFb
-ZW5kaWZdPg0KICAgIDxkaXY+DQogICAgPHAgY2xhc3M9TXNvTm9ybWFsIGFsaWduPWNlbnRlciBz
-dHlsZT0ndGV4dC1hbGlnbjpjZW50ZXInPjxzcGFuIGxhbmc9RU4tR0INCiAgICBzdHlsZT0nZm9u
-dC1zaXplOjI0LjBwdDtjb2xvcjojQzQ1OTExO21zby1zdHlsZS10ZXh0ZmlsbC1maWxsLWNvbG9y
-OiNDNDU5MTE7DQogICAgbXNvLXN0eWxlLXRleHRmaWxsLWZpbGwtYWxwaGE6NTAuMCUnPkVkaXRl
-ZCBESVMgLSBNVVNUIEJFIFVTRUQgRk9SIEZJTkFMDQogICAgRFJBRlQ8bzpwPjwvbzpwPjwvc3Bh
-bj48L3A+DQogICAgPC9kaXY+DQogICAgPCFbaWYgIW1zb10+PC90ZD4NCiAgIDwvdHI+DQogIDwv
-dGFibGU+DQogIDwhW2VuZGlmXT48L3Y6dGV4dGJveD4NCiA8dzp3cmFwIGFuY2hvcng9InBhZ2Ui
-IGFuY2hvcnk9InBhZ2UiLz4NCjwvdjpzaGFwZT48IVtlbmRpZl0tLT48L3NwYW4+PHNwYW4gbGFu
-Zz1FTi1HQj5JU08gMjMyNjM6MjAxOShFKTwvc3Bhbj48L3A+DQoNCjwvZGl2Pg0KDQo8ZGl2IHN0
-eWxlPSdtc28tZWxlbWVudDpoZWFkZXInIGlkPWgybD4NCjxwIGNsYXNzPU1zb0hlYWRlckxhbmRz
-Y2FwZSBhbGlnbj1yaWdodCBzdHlsZT0nbWFyZ2luLWJvdHRvbTozNi4wcHQ7dGV4dC1hbGlnbjpy
-aWdodDtsaW5lLWhlaWdodDoxMi4wcHQ7DQptc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48
-c3BhbiBsYW5nPUVOLUdCPklTTyAyMzI2MzoyMDE5KEUpPC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8
-ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWVmMj4NCjxwIGNsYXNzPU1zb0Zvb3Rl
-ciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4wcHQ7bGluZS1oZWlnaHQ6MTIuMHB0O21zby1saW5lLWhl
-aWdodC1ydWxlOg0KZXhhY3RseSc+PHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9w
-OjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5
-Jz48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiIHN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpu
-b3JtYWwnPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBz
-dHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj48c3Bhbg0Kc3R5bGU9J21zby1z
-cGFjZXJ1bjp5ZXMnPsKgPC9zcGFuPlBBR0U8c3BhbiBzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+
-wqDCoA0KPC9zcGFuPlwqIE1FUkdFRk9STUFUIDxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVs
-ZC1zZXBhcmF0b3InPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxiDQpzdHlsZT0nbXNv
-LWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNp
-emU6MTAuMHB0Jz48c3Bhbg0Kc3R5bGU9J21zby1uby1wcm9vZjp5ZXMnPjI8L3NwYW4+PC9zcGFu
-PjwvYj48IS0tW2lmIHN1cHBvcnRGaWVsZHNdPjxiDQpzdHlsZT0nbXNvLWJpZGktZm9udC13ZWln
-aHQ6bm9ybWFsJz48c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3Bh
-bg0Kc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLWVuZCc+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5k
-aWZdLS0+PHNwYW4gbGFuZz1FTi1HQg0Kc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0
-eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqAgPC9zcGFuPjxzcGFuDQpsYW5nPUVOLUdCIHN0eWxlPSdmb250
-LXNpemU6OS4wcHQnPsKpDQpJU08mbmJzcDsyMDE5Jm5ic3A74oCTIEFsbCByaWdodHMgcmVzZXJ2
-ZWQ8bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1l
-bnQ6Zm9vdGVyJyBpZD1lZjJsPg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdtYXJnaW4tdG9w
-OjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6DQpleGFjdGx5
-Jz48cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10b3A6MTIuMHB0O2xpbmUtaGVpZ2h0
-OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0bHknPjwhLS1baWYgc3VwcG9ydEZp
-ZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4NCmxhbmc9
-RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuIHN0eWxlPSdtc28tZWxlbWVudDpm
-aWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNvLXNwYWNlcnVuOnllcyc+wqA8L3Nw
-YW4+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVS
-R0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFu
-Pjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpu
-b3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpz
-dHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9y
-dEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxh
-bmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1l
-bnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVO
-LUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9J21zby10YWItY291bnQ6
-MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oCA8L3NwYW4+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTo5LjBwdCc+wqkNCklT
-TyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+PC9vOnA+PC9zcGFu
-PjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxlbWVudDpmb290ZXInIGlkPWYyPg0K
-PHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUtaGVp
-Z2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4w
-cHQnPsKpIElTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDwvc3Bhbj48
-c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdDttc28tYmlkaS1mb250LXNp
-emU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3VudDoxJz7CoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+PC9zcGFuPjwhLS1b
-aWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwn
-PjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0n
-bXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFHRTxzcGFuIHN0eWxlPSdtc28tc3Bh
-Y2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1l
-bGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGIN
-CnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5
-bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mzwv
-c3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlk
-aS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTox
-MC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFu
-PjwvYj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBw
-dCc+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVt
-ZW50OmZvb3RlcicgaWQ9ZjJsPg0KPHAgY2xhc3M9TXNvRm9vdGVyIHN0eWxlPSdsaW5lLWhlaWdo
-dDoxMi4wcHQ7bXNvLWxpbmUtaGVpZ2h0LXJ1bGU6ZXhhY3RseSc+PHNwYW4NCmxhbmc9RU4tR0Ig
-c3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPsKpIElTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJp
-Z2h0cyByZXNlcnZlZDwvc3Bhbj48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEw
-LjBwdDttc28tYmlkaS1mb250LXNpemU6MTEuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3Vu
-dDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oCA8L3NwYW4+PC9zcGFuPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlk
-aS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZTox
-MC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtYmVnaW4nPjwvc3Bhbj4gUEFH
-RTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JN
-QVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bh
-bj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwn
-PjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0n
-bXNvLW5vLXByb29mOnllcyc+Mzwvc3Bhbj48L3NwYW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxk
-c10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4t
-R0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6Zmll
-bGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpz
-dHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQoN
-CjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZWYzPg0KPHAgY2xhc3M9TXNvRm9v
-dGVyIHN0eWxlPSdtYXJnaW4tdG9wOjEyLjBwdDtsaW5lLWhlaWdodDoxMi4wcHQ7bXNvLWxpbmUt
-aGVpZ2h0LXJ1bGU6DQpleGFjdGx5Jz48cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10
-b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0
-bHknPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0
-Om5vcm1hbCc+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxzcGFu
-IHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuDQpzdHlsZT0nbXNv
-LXNwYWNlcnVuOnllcyc+wqA8L3NwYW4+UEFHRTxzcGFuIHN0eWxlPSdtc28tc3BhY2VydW46eWVz
-Jz7CoMKgDQo8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50OmZp
-ZWxkLXNlcGFyYXRvcic+PC9zcGFuPjwvc3Bhbj48L2I+PCFbZW5kaWZdLS0+PGINCnN0eWxlPSdt
-c28tYmlkaS1mb250LXdlaWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQt
-c2l6ZToxMC4wcHQnPjxzcGFuDQpzdHlsZT0nbXNvLW5vLXByb29mOnllcyc+Mjwvc3Bhbj48L3Nw
-YW4+PC9iPjwhLS1baWYgc3VwcG9ydEZpZWxkc10+PGINCnN0eWxlPSdtc28tYmlkaS1mb250LXdl
-aWdodDpub3JtYWwnPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQnPjxz
-cGFuDQpzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+PC9zcGFuPjwvYj48IVtl
-bmRpZl0tLT48c3BhbiBsYW5nPUVOLUdCDQpzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4g
-c3R5bGU9J21zby10YWItY291bnQ6MSc+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoCA8L3NwYW4+PHNwYW4NCmxhbmc9RU4tR0Igc3R5bGU9J2Zv
-bnQtc2l6ZTo5LjBwdCc+wqkNCklTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNl
-cnZlZDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KDQo8ZGl2IHN0eWxlPSdtc28tZWxl
-bWVudDpmb290ZXInIGlkPWVmM2w+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J21hcmdpbi10
-b3A6MTIuMHB0O2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZToNCmV4YWN0
-bHknPjxwIGNsYXNzPU1zb0Zvb3RlciBzdHlsZT0nbWFyZ2luLXRvcDoxMi4wcHQ7bGluZS1oZWln
-aHQ6MTIuMHB0O21zby1saW5lLWhlaWdodC1ydWxlOg0KZXhhY3RseSc+PCEtLVtpZiBzdXBwb3J0
-RmllbGRzXT48YiBzdHlsZT0nbXNvLWJpZGktZm9udC13ZWlnaHQ6bm9ybWFsJz48c3Bhbg0KbGFu
-Zz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4gc3R5bGU9J21zby1lbGVtZW50
-OmZpZWxkLWJlZ2luJz48L3NwYW4+PHNwYW4NCnN0eWxlPSdtc28tc3BhY2VydW46eWVzJz7CoDwv
-c3Bhbj5QQUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBN
-RVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3Nw
-YW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0
-Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4N
-CnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4yPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBw
-b3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4g
-bGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxl
-bWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9
-RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48c3BhbiBzdHlsZT0nbXNvLXRhYi1jb3Vu
-dDoxJz7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgIDwvc3Bhbj48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjkuMHB0Jz7CqQ0K
-SVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86cD48L286cD48L3Nw
-YW4+PC9wPg0KPC9kaXY+DQoNCjxkaXYgc3R5bGU9J21zby1lbGVtZW50OmZvb3RlcicgaWQ9ZjM+
-DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVpZ2h0OjEyLjBwdDttc28tbGluZS1o
-ZWlnaHQtcnVsZTpleGFjdGx5Jz48c3Bhbg0KbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEw
-LjBwdCc+wqkgSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPC9zcGFu
-PjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAuMHB0O21zby1iaWRpLWZvbnQt
-c2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNvdW50OjEnPsKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIDwvc3Bhbj48L3NwYW4+PCEt
-LVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1h
-bCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxl
-PSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPiBQQUdFPHNwYW4gc3R5bGU9J21zby1z
-cGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZPUk1BVCA8c3BhbiBzdHlsZT0nbXNv
-LWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9zcGFuPjwvYj48IVtlbmRpZl0tLT48
-Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBz
-dHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4z
-PC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1i
-aWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXpl
-OjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1lbmQnPjwvc3Bhbj48L3Nw
-YW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6MTAu
-MHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4NCg0KPGRpdiBzdHlsZT0nbXNvLWVs
-ZW1lbnQ6Zm9vdGVyJyBpZD1mM2w+DQo8cCBjbGFzcz1Nc29Gb290ZXIgc3R5bGU9J2xpbmUtaGVp
-Z2h0OjEyLjBwdDttc28tbGluZS1oZWlnaHQtcnVsZTpleGFjdGx5Jz48c3Bhbg0KbGFuZz1FTi1H
-QiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+wqkgSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwg
-cmlnaHRzIHJlc2VydmVkPC9zcGFuPjxzcGFuIGxhbmc9RU4tR0INCnN0eWxlPSdmb250LXNpemU6
-MTAuMHB0O21zby1iaWRpLWZvbnQtc2l6ZToxMS4wcHQnPjxzcGFuIHN0eWxlPSdtc28tdGFiLWNv
-dW50OjEnPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKg
-wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDC
-oMKgIDwvc3Bhbj48L3NwYW4+PCEtLVtpZiBzdXBwb3J0RmllbGRzXT48Yg0Kc3R5bGU9J21zby1i
-aWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXpl
-OjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPiBQ
-QUdFPHNwYW4gc3R5bGU9J21zby1zcGFjZXJ1bjp5ZXMnPsKgwqANCjwvc3Bhbj5cKiBNRVJHRUZP
-Uk1BVCA8c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtc2VwYXJhdG9yJz48L3NwYW4+PC9z
-cGFuPjwvYj48IVtlbmRpZl0tLT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1h
-bCc+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxl
-PSdtc28tbm8tcHJvb2Y6eWVzJz4zPC9zcGFuPjwvc3Bhbj48L2I+PCEtLVtpZiBzdXBwb3J0Rmll
-bGRzXT48Yg0Kc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4gbGFuZz1F
-Ti1HQiBzdHlsZT0nZm9udC1zaXplOjEwLjBwdCc+PHNwYW4NCnN0eWxlPSdtc28tZWxlbWVudDpm
-aWVsZC1lbmQnPjwvc3Bhbj48L3NwYW4+PC9iPjwhW2VuZGlmXS0tPjxzcGFuIGxhbmc9RU4tR0IN
-CnN0eWxlPSdmb250LXNpemU6MTAuMHB0Jz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8L2Rpdj4N
-Cg0KPGRpdiBzdHlsZT0nbXNvLWVsZW1lbnQ6Zm9vdGVyJyBpZD1mND4NCiAgDQo8cCBjbGFzcz1N
-c29Gb290ZXI+PGIgc3R5bGU9J21zby1iaWRpLWZvbnQtd2VpZ2h0Om5vcm1hbCc+PHNwYW4+SUNT
-IDc1LjE2MC4yMDxvOnA+PC9vOnA+PC9zcGFuPjwvYj48L3A+DQoNCg0KDQo8cCBjbGFzcz1Nc29G
-b290ZXIgc3R5bGU9J21hcmdpbi10b3A6MGNtJz48c3BhbiBsYW5nPUVOLUFVIHN0eWxlPSdmb250
-LXNpemU6DQoxMC4wcHQ7bXNvLWFuc2ktbGFuZ3VhZ2U6RU4tQVUnPlByaWNlIGJhc2VkIG9uIDxz
-cGFuIHN0eWxlPSdtc28tZWxlbWVudDpmaWVsZC1iZWdpbic+PC9zcGFuPjxzcGFuIHN0eWxlPSdt
-c28tc3BhY2VydW46eWVzJz7CoDwvc3Bhbj5OVU1QQUdFUzxzcGFuIHN0eWxlPSdtc28tc3BhY2Vy
-dW46eWVzJz7CoCA8L3NwYW4+XCogTUVSR0VGT1JNQVQgPHNwYW4gc3R5bGU9J21zby1lbGVtZW50
-OmZpZWxkLXNlcGFyYXRvcic+PC9zcGFuPjxzcGFuIHN0eWxlPSdtc28tbm8tcHJvb2Y6eWVzJz4y
-Njwvc3Bhbj48c3BhbiBzdHlsZT0nbXNvLWVsZW1lbnQ6ZmllbGQtZW5kJz48L3NwYW4+IHBhZ2Vz
-PC9zcGFuPjwvcD4NCg0KPHAgY2xhc3M9TXNvRm9vdGVyPjxzcGFuIGxhbmc9RU4tQVUgc3R5bGU9
-J2ZvbnQtc2l6ZToxMC4wcHQ7Jz7CqQ0KSVNPJm5ic3A7MjAxOSZuYnNwO+KAkyBBbGwgcmlnaHRz
-IHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KDQoNCjwvYm9keT4N
-Cg0KPC9odG1sPg0K
-
-------=_NextPart_aa961551.37a7.452d--
+------=_NextPart_fb76726a.4667.4539--
