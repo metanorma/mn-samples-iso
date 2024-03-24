@@ -15,21 +15,29 @@ metanorma:
       - sources/directives/part1/document.adoc
       - sources/directives/part2/document.adoc
       - sources/guide/document.adoc
-      - sources/international-standard/rice-en.awi.adoc
-      - sources/international-standard/rice-en.cd.adoc
-      - sources/international-standard/rice-en.dis.adoc
-      - sources/international-standard/rice-en.fdis.adoc
-      - sources/international-standard/rice-en.final.adoc
-      - sources/international-standard/rice-en.np.adoc
-      - sources/international-standard/rice-en.prf.adoc
-      - sources/international-standard/rice-en.wd.adoc
-      - sources/international-standard/rice-fr.adoc
-      - sources/international-standard/rice-zh.adoc
+      - sources/international-standard/rice-2023/document-en.adoc
+      - sources/international-standard/rice-2023/document-en.awi.adoc
+      - sources/international-standard/rice-2023/document-en.cd.adoc
+      - sources/international-standard/rice-2023/document-en.dis.adoc
+      - sources/international-standard/rice-2023/document-en.fdis.adoc
+      - sources/international-standard/rice-2023/document-en.np.adoc
+      - sources/international-standard/rice-2023/document-en.prf.adoc
+      - sources/international-standard/rice-2023/document-en.wd.adoc
+      - sources/international-standard/rice-2016/document-en.adoc
+      - sources/international-standard/rice-2016/document-en.awi.adoc
+      - sources/international-standard/rice-2016/document-en.cd.adoc
+      - sources/international-standard/rice-2016/document-en.dis.adoc
+      - sources/international-standard/rice-2016/document-en.fdis.adoc
+      - sources/international-standard/rice-2016/document-en.np.adoc
+      - sources/international-standard/rice-2016/document-en.prf.adoc
+      - sources/international-standard/rice-2016/document-en.wd.adoc
+      - sources/international-standard/rice-2016/document-fr.adoc
+      - sources/international-standard/rice-2016/document-zh.adoc
       - sources/international-workshop-agreement/document.adoc
       - sources/publicly-available-specification/document.adoc
       - sources/technical-report/document.adoc
       - sources/technical-specification/document.adoc
 
   collection:
-    organization: "Metanorma : Standards for standards"
-    name: "ISO sample documents in Metanorma (Metanorma AsciiDoc syntax)"
+    organization: "Metanorma"
+    name: "ISO sample documents in Metanorma"

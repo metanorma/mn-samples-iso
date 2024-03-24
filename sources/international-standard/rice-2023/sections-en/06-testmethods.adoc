@@ -1,0 +1,112 @@
+== Test methods
+
+[[moisture-content]]
+=== Moisture content
+
+Determine the mass fraction of moisture in accordance with the method specified
+in <<ISO712>>.
+
+
+[[waxy-rice-content]]
+=== Waxy rice content
+
+[reviewer=ISO,from=clause5,to=waxy-rice-content]
+****
+* Cross-references to normative references
+** ISO/IEC Directives, Part 2, 2021, Clause 15
+* "shall" or imperative
+* ISO 24333:2009 and ISO 712 are normative and listed in Clause 2
+* ISO 24333 is dated because it refers to a specific clause
+****
+
+Determine the mass fraction of waxy rice. <<AnnexB>> gives an example of a
+suitable method.
+
+=== Nitrogen content and crude protein content
+
+Determine the nitrogen content and crude protein content in accordance with
+either <<ISO16634,clause 10>>, or <<ISO20483>>. For details on the determination
+of protein content using the Kjeldahl method, see Reference <<ref12>> in the
+Bibliography. For details concerning the use of the Dumas method, see References
+<<ref10>> and <<ref16>>.
+
+// can't join two bibliographic localities with "and" currently
+Calculate the crude protein content of the dry product by multiplying the value
+of the nitrogen content by the conversion factor specified in
+<<ISO20483,Annex C>> and <<ISO20483,Table C.1>>, that is adapted to the type of
+cereals or pulses <<ref13,fn>><<ref14,fn>> and to their use.
+
+[reviewer=ISO]
+****
+* Cross-references to bibliographic entries
+** ISO/IEC Directives, Part 2, 2021, 10.3
+****
+
+=== Gelatinization time
+
+Determine the gelatinization time, stem:[t_90], for rice kernels during cooking.
+An example of a typical curve is given in <<figureC-1>>. Three typical stages of
+gelatinization are shown in <<figureC-2>>.
+
+Report the results as specified in <<clause7>>.
+
+=== Husked rice yield
+
+==== Determination
+
+WARNING: Only use paddy or parboiled rice for the determination of husked rice
+yield.
+
+Determine the husked rice yield in accordance with <<ISO6646>>.
+
+[reviewer=ISO]
+****
+* Warnings should be placed next to the relevant content or at the beginning of the clause
+** ISO/IEC Directives, Part 2, 2021, 18.4
+****
+
+==== Precision
+
+===== Interlaboratory test
+
+The results of an interlaboratory test are given in <<AnnexD>> for information.
+
+[reviewer=ISO]
+****
+* Informative cross-reference to Annex D
+****
+
+The results of the repeatability and reproducibility tests (see <<cls-6.5.2.2>>
+and <<cls-6.5.2.3>>) shall be obtained within a short interval of time, using
+the same:
+
+* method;
+* test material;
+* laboratory;
+* operator;
+* equipment.
+
+[[cls-6.5.2.2]]
+===== Repeatability
+
+The absolute difference between two independent single test results shall not
+exceed the arithmetic mean of the values for the repeatability limit, stem:[r],
+obtained from the interlaboratory study for husked rice in more than 5 % of
+cases:
+
+[stem%unnumbered]
+++++
+r = 1 %
+++++
+
+[[cls-6.5.2.3]]
+===== Reproducibility
+
+The absolute difference between two single test results shall not exceed the
+arithmetic mean of the values for the reproducibility limit, stem:[R], obtained
+from the interlaboratory study in more than 5 % of cases:
+
+[stem%unnumbered]
+++++
+R = 3 %
+++++
