@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.1" schema-version="v1.3.0">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.4" schema-version="v1.3.0">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
 
@@ -14,7 +14,7 @@
 <title language="fr" format="text/plain" type="title-intro">Directives ISO/IEC</title>
 
 <title language="fr" format="text/plain" type="title-main">Principes et règles de structure et de rédaction des documents ISO et IEC</title>
-<docidentifier type="ISO">ISO DIR :2018</docidentifier><docidentifier type="iso-reference">ISO DIR :2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir::2018</docidentifier><docidentifier type="iso-undated">ISO DIR </docidentifier><docidentifier type="iso-with-lang">ISO DIR :2018(en)</docidentifier><contributor><role type="author"/><organization>
+<docidentifier type="ISO">ISO DIR:2018</docidentifier><docidentifier type="iso-reference">ISO DIR:2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2018</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2018(en)</docidentifier><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -62,7 +62,7 @@
 
 <clause id="_copyright_protected_document" inline-header="false" obligation="normative">
 <title>COPYRIGHT PROTECTED DOCUMENT</title>
-<p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="std_docNumber">2018</span></p>
+<p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2018</span></p>
 
 <p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation,
 no part of this publication may be
