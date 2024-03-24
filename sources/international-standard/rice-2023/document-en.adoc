@@ -1,0 +1,96 @@
+= Rice model
+:docnumber: 17301
+:partnumber: 1
+:edition: 3
+:revdate: 2023-02-01
+:copyright-year: 2023
+:language: en
+:title-intro-en: Cereals and pulses
+:title-main-en: Specifications and test methods
+:title-part-en: Rice
+:title-intro-fr: Céréales et légumineuses
+:title-main-fr: Spécification et méthodes d'essai
+:title-part-fr: Riz
+:doctype: international-standard
+:docstage: 60
+:docsubstage: 60
+:technical-committee-number: 34
+:secretariat: SAC
+:technical-committee: Food products
+:subcommittee-number: 4
+:subcommittee: Cereals and pulses
+:workgroup-type: WG
+:workgroup-number: 4
+:workgroup: Amylose in rice
+:library-ics: 67.060
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+
+[reviewer=ISO]
+****
+* The cover page includes the title, composed of no more than three elements
+****
+
+[reviewer=ISO]
+****
+* The copyright statement is generated automatically
+****
+
+[reviewer=ISO]
+****
+* The list of contents is generated automatically
+****
+
+include::sections-en/00-foreword.adoc[]
+
+include::sections-en/00-introduction.adoc[]
+
+include::sections-en/01-scope.adoc[]
+
+include::sections-en/02-normref.adoc[]
+
+include::sections-en/03-termdef.adoc[]
+
+include::sections-en/04-specifications.adoc[]
+
+[reviewer=ISO,from=norm-refs,to=norm-refs]
+****
+* Mandatory clause
+* List of references that are indispensable to the application of the document
+** ISO/IEC Directives, Part 2, 2021, Clause 15
+****
+
+include::sections-en/05-sampling.adoc[]
+
+include::sections-en/06-testmethods.adoc[]
+
+include::sections-en/07-testreport.adoc[]
+
+include::sections-en/08-packaging.adoc[]
+
+include::sections-en/09-marking.adoc[]
+
+include::sections-en/aa-annex-a.adoc[]
+
+include::sections-en/ab-annex-b.adoc[]
+
+include::sections-en/ac-annex-c.adoc[]
+
+include::sections-en/ad-annex-d.adoc[]
+
+include::sections-en/ae-annex-e.adoc[]
+
+[reviewer=ISO,from=bib,to=bib]
+****
+* Entries [4], [5] and [6] are cited informatively in 4.2.1 NOTE
+****
+
+[reviewer=ISO,from=bib,to=bib]
+****
+* Documents cited informatively are listed in the Bibliography
+* Only documents cited in the standard should be listed in the Bibliography
+****
+
+include::sections-en/b0-bibliography.adoc[]
+

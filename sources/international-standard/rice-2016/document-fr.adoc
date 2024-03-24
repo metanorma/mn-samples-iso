@@ -1,0 +1,41 @@
+= Rice model
+:docnumber: 17301
+:tc-docnumber: 17301
+:partnumber: 1
+:edition: 2
+:revdate: 2016-05-01
+:copyright-year: 2016
+:language: fr
+:title-intro-en: Cereals and pulses
+:title-main-en: Specifications and test methods (in French)
+:title-part-en: Rice
+:title-intro-fr: Céréales et légumineuses
+:title-main-fr: Spécification et méthodes d'essai (en français)
+:title-part-fr: Riz
+:doctype: international-standard
+:docstage: 30
+:docsubstage: 92
+:draft:
+:technical-committee-number: 34
+:technical-committee: Produits alimentaires
+:subcommittee-number: 4
+:subcommittee: Céréales et légumineuses
+:workgroup-number: 3
+:workgroup: Rice Group
+:local-cache-only:
+:appendix-caption: Annexe
+:appendix-refsig: Annexe
+:caution-caption: Attention
+:equation-refsig: Formule
+:example-caption: Exemple
+:example-refsig: Exemple
+:section-refsig: Article
+:table-caption: Tableau
+:table-refsig: Tableau
+:warning-caption: Avertissement
+:library-ics: 67.060
+:document-scheme: 2013
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+
+include::body/body-fr.adoc[]
