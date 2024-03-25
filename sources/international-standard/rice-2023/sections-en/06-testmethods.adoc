@@ -30,11 +30,10 @@ of protein content using the Kjeldahl method, see Reference <<ref12>> in the
 Bibliography. For details concerning the use of the Dumas method, see References
 <<ref10>> and <<ref16>>.
 
-// can't join two bibliographic localities with "and" currently
 Calculate the crude protein content of the dry product by multiplying the value
 of the nitrogen content by the conversion factor specified in
-<<ISO20483,Annex C>> and <<ISO20483,Table C.1>>, that is adapted to the type of
-cereals or pulses <<ref13,fn>><<ref14,fn>> and to their use.
+<<ISO20483,annex=C;and!table=C.1>>, that is adapted to the type of cereals or
+pulses <<ref13,fn>><<ref14,fn>> and to their use.
 
 [reviewer=ISO]
 ****
