@@ -268,7 +268,7 @@ this document.</semantic__p>
 </semantic__annex><semantic__bibliography><semantic__references id="semantic___normative_references" normative="true" obligation="informative">
 <semantic__title>Normative references</semantic__title><semantic__p id="semantic___21971d30-bb88-56a2-0d5b-aca5e0104f76">There are no normative references in this document.</semantic__p>
 </semantic__references><semantic__references id="semantic___bibliography" normative="false" obligation="informative">
-<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__iso140001" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__iso140001" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Environmental management systems</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Requirements with guidance for use</semantic__title>
@@ -282,7 +282,7 @@ this document.</semantic__p>
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 14001:2004/Cor 1:2009</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 14001:2004/Cor 1:2009</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="updates">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 14001:2015/Amd 1:2024</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 14001:2015/Amd 1:2024</semantic__docidentifier>      <semantic__date type="circulated">        <semantic__on>2021-03-25</semantic__on>      </semantic__date>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="updates">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 14001:2015/CD Amd 2</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 14001:2015/CD Amd 2</semantic__docidentifier>      <semantic__date type="circulated">        <semantic__on>2021-03-25</semantic__on>      </semantic__date>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso14064_1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso14064_1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Greenhouse gases</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</semantic__title>
@@ -294,7 +294,7 @@ this document.</semantic__p>
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 14064-1:2006</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 14064-1:2006</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="updates">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 14064-1:2018/DAmd 1</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAmd 1</semantic__docidentifier>      <semantic__date type="circulated">        <semantic__on>2023-09-03</semantic__on>      </semantic__date>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso31000" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso31000" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Risk management</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Guidelines</semantic__title>
@@ -546,7 +546,7 @@ Website: www.iso.org</p>
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
 </copyright-statement>
-</boilerplate><preface><clause type="toc" id="_9d57073f-b141-4937-b1d0-5aff909c26e0" displayorder="1"><title depth="1">Contents</title></clause>
+</boilerplate><preface><clause type="toc" id="_dbdd2915-f84b-4fa1-98f9-1fbca2a571ce" displayorder="1"><title depth="1">Contents</title></clause>
 <foreword id="_9be6d08d-c459-9ce9-2172-3a62ffffb096" obligation="informative" displayorder="2">
 <title>Foreword</title>
 <p id="_af04a30c-6da7-69ff-6b0b-8b89283f2084">ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>

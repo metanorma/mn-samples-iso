@@ -685,9 +685,9 @@ of protein content using the Kjeldahl method, see Reference <semantic__eref type
 Bibliography. For details concerning the use of the Dumas method, see References
 <semantic__eref type="inline" bibitemid="semantic__ref10" citeas="[15]"/> and <semantic__eref type="inline" bibitemid="semantic__ref16" citeas="[16]"/>.</semantic__p>
 
-<semantic__p id="semantic___24eedcf7-5ca0-751f-9b7e-ba334313a63d">Calculate the crude protein content of the dry product by multiplying the value
+<semantic__p id="semantic___4adc7c5e-6070-be8a-ce07-0df9500a999c">Calculate the crude protein content of the dry product by multiplying the value
 of the nitrogen content by the conversion factor specified in
-<semantic__eref type="inline" bibitemid="semantic__ISO20483" citeas="ISO 20483:2013"><semantic__localityStack><semantic__locality type="annex"><semantic__referenceFrom>C</semantic__referenceFrom></semantic__locality></semantic__localityStack></semantic__eref> and Table C.1, that is adapted to the type of cereals or
+<semantic__eref type="inline" bibitemid="semantic__ISO20483" citeas="ISO 20483:2013"><semantic__localityStack connective="and"><semantic__locality type="annex"><semantic__referenceFrom>C</semantic__referenceFrom></semantic__locality></semantic__localityStack><semantic__localityStack connective="and"><semantic__locality type="table"><semantic__referenceFrom>C.1</semantic__referenceFrom></semantic__locality></semantic__localityStack></semantic__eref>, that is adapted to the type of cereals or
 pulses <semantic__eref type="footnote" bibitemid="semantic__ref13" citeas="[11]"/><semantic__eref type="footnote" bibitemid="semantic__ref14" citeas="[12]"/> and to their use.</semantic__p>
 </semantic__clause>
 
@@ -1491,7 +1491,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 </semantic__appendix>
 </semantic__annex><semantic__bibliography><semantic__references id="semantic___normative_references" normative="true" obligation="informative">
 <semantic__title>Normative references</semantic__title><semantic__p id="semantic___21ac2b92-2fe6-317d-983c-a478441ede9f">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</semantic__p>
-<semantic__bibitem id="semantic__ISO712" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO712" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</semantic__title>
@@ -1505,7 +1505,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 712:1998</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 712:1998</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO/DIS 712-1</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO/DIS 712-1</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</semantic__title>
       
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</semantic__title>
@@ -1521,7 +1521,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       </semantic__relation>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO/DIS 712-1</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO/DIS 712-1</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
   </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem>
-<semantic__bibitem id="semantic__ISO6646" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO6646" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Rice</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</semantic__title>
@@ -1532,7 +1532,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>3</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>2011</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 6646:2000</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 6646:2000</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Rice</semantic__title>
       
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</semantic__title>
@@ -1545,7 +1545,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 6646:2000</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 6646:2000</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
   </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem>
-<semantic__bibitem id="semantic__ISO8351-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO8351-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</semantic__title>
@@ -1558,7 +1558,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>1</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__abstract format="text/plain" language="en" script="Latn">Provides a checklist for the characteristics of paper sacks to be specified when ordering. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of paper sacks as specified in ISO 6590-2.</semantic__abstract>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>1994</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__place>Geneva</semantic__place></semantic__bibitem>
-<semantic__bibitem id="semantic__ISO8351-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO8351-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</semantic__title>
@@ -1570,7 +1570,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>International Organization for Standardization</semantic__name>
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>1</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>1994</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
-      </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+      </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</semantic__title>
       
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</semantic__title>
@@ -1590,7 +1590,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>International Organization for Standardization</semantic__name>
 <semantic__abbreviation>ISO</semantic__abbreviation></semantic__organization></semantic__contributor><semantic__note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</semantic__note>
 </semantic__bibitem>
-<semantic__bibitem id="semantic__ISO20483" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO20483" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Determination of the nitrogen content and calculation of the crude protein content</semantic__title>
@@ -1604,7 +1604,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 20483:2006</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 20483:2006</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem>
-<semantic__bibitem id="semantic__ISO24333" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__bibitem id="semantic__ISO24333" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Sampling</semantic__title>
@@ -1618,7 +1618,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 13690:1999</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 13690:1999</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem>
 </semantic__references><semantic__references id="semantic___bibliography" normative="false" obligation="informative">
-<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__ISO3696" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__ISO3696" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</semantic__title>
@@ -1628,7 +1628,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>International Organization for Standardization</semantic__name>
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>1</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>1987</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
-      </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+      </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</semantic__title>
       
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</semantic__title>
@@ -1639,7 +1639,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
           <semantic__abbreviation>ISO</semantic__abbreviation>          <semantic__uri>www.iso.org</semantic__uri>        </semantic__organization>      </semantic__contributor>      <semantic__edition>1</semantic__edition>      <semantic__language>en</semantic__language>      <semantic__language>fr</semantic__language>      <semantic__script>Latn</semantic__script>      <semantic__abstract format="text/plain" language="en" script="Latn">Specifies the requirements for three grades for the analysis of inorganic chemicals. Not applicable to organic trace analysis, analysis of surface-active agents and biological or medical analysis. The material shall be a clear, colourless liquid as assessed by inspection. Classifies according to the content: free from dissolved or colloidal ionic and organic contaminants, very low inorganic, organic or colloidal contaminants and suitable for laboratory wet chemistry work. Specifies the pH and conductivity measurement, the limit tests for oxidizable matter and for reactive silica, the measurement of absorbance and the determination of residue after evaporation at 110 °C.</semantic__abstract>      <semantic__status>        <semantic__stage>90</semantic__stage>        <semantic__substage>93</semantic__substage>      </semantic__status>      <semantic__copyright>        <semantic__from>1987</semantic__from>        <semantic__owner>          <semantic__organization>            
 <semantic__name>ISO</semantic__name>
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO5725-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO5725-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</semantic__title>
@@ -1651,7 +1651,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 5725-1:1994</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 5725-1:1994</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</semantic__title>
       
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</semantic__title>
@@ -1664,7 +1664,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 5725-1:1994</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 5725-1:1994</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO5725-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO5725-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</semantic__title>
@@ -1676,7 +1676,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 5725-2:1994</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 5725-2:1994</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</semantic__title>
       
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</semantic__title>
@@ -1689,7 +1689,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 5725-2:1994</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 5725-2:1994</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-1" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</semantic__title>
@@ -1700,7 +1700,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>2</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>1996</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 6322-1:1981</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 6322-1:1981</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
       
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</semantic__title>
@@ -1712,7 +1712,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 6322-1:1981</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 6322-1:1981</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-2" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</semantic__title>
@@ -1723,7 +1723,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>2</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>2000</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 6322-2:1981</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 6322-2:1981</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
       
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</semantic__title>
@@ -1735,7 +1735,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 6322-2:1981</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 6322-2:1981</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-3" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO6322-3" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</semantic__title>
@@ -1746,7 +1746,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>2</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>1989</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 6322-3:1981</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 6322-3:1981</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-24</semantic__fetched>      
+  </semantic__relation>  <semantic__relation type="instanceOf">    <semantic__bibitem type="standard">      <semantic__fetched>2024-03-25</semantic__fetched>      
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</semantic__title>
       
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</semantic__title>
@@ -1758,7 +1758,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
           </semantic__organization>        </semantic__owner>      </semantic__copyright>      <semantic__relation type="obsoletes">        <semantic__bibitem type="standard">          <semantic__formattedref format="text/plain">ISO 6322-3:1981</semantic__formattedref>          <semantic__docidentifier type="ISO" primary="true">ISO 6322-3:1981</semantic__docidentifier>        </semantic__bibitem>
       </semantic__relation>      <semantic__place>Geneva</semantic__place>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO7301" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO7301" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Rice</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Specification</semantic__title>
@@ -1770,7 +1770,7 @@ end<semantic__annotation id="semantic___f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><s
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 7301:2002</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 7301:2002</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="updates">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 7301:2021</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 7301:2021</semantic__docidentifier>      <semantic__date type="circulated">        <semantic__on>2021-06-07</semantic__on>      </semantic__date>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO14864" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__ISO14864" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Rice</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Evaluation of gelatinization time of kernels during cooking</semantic__title>
@@ -2073,7 +2073,7 @@ relevant patent rights of which they are aware and to provide supporting
 documentation.</p>
 </clause>
 </license-statement>
-</boilerplate><preface><clause type="toc" id="_27414c5a-14ad-4004-a568-718986cf9a73" displayorder="1"><title depth="1">Contents</title></clause>
+</boilerplate><preface><clause type="toc" id="_10f68562-868f-4444-9678-b49f4d4d038b" displayorder="1"><title depth="1">Contents</title></clause>
 <foreword id="_7839541b-0af7-ff33-c81c-7a59fd97d7b4" obligation="informative" displayorder="2">
 <title>Foreword</title>
 <p id="_1b18b08d-9963-29f5-cc3d-9d31ef210722">ISO (the International Organization for Standardization)
@@ -2552,9 +2552,9 @@ of protein content using the Kjeldahl method, see Reference <xref type="inline" 
 Bibliography. For details concerning the use of the Dumas method, see References
 <xref type="inline" target="ref10">[15]</xref> and <xref type="inline" target="ref16">[16]</xref>.</p>
 
-<p id="_24eedcf7-5ca0-751f-9b7e-ba334313a63d">Calculate the crude protein content of the dry product by multiplying the value
+<p id="_4adc7c5e-6070-be8a-ce07-0df9500a999c">Calculate the crude protein content of the dry product by multiplying the value
 of the nitrogen content by the conversion factor specified in
-<xref type="inline" target="ISO20483"><span class="stdpublisher">ISO </span><span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, <span class="citeapp">Annex C</span></xref> and Table C.1, that is adapted to the type of cereals or
+<xref type="inline" target="ISO20483"><span class="stdpublisher">ISO </span><span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, <span class="citeapp">Annex C</span> and <span class="citetbl">Table C.1</span></xref>, that is adapted to the type of cereals or
 pulses <sup><xref type="footnote" target="ref13">[11]</xref></sup><sup><xref type="footnote" target="ref14">[12]</xref></sup> and to their use.</p>
 </clause>
 
@@ -2665,24 +2665,24 @@ cases:</p>
 <title depth="1">7<tab/>Test report</title>
 <p id="_f74cbbb7-a18c-baa5-2e81-8d5d51abaf72">For each test method, the test report shall specify the following:</p>
 
-<ol id="_0afafadb-4deb-6c53-8c37-714656422473" type="alphabet"><li id="_35faee49-683e-424b-84ec-5ce73e7136d2" label="a"><p id="_d1d2571a-450e-f343-a084-7c83e2e5cac4">all information necessary for the complete identification of the sample;</p>
+<ol id="_0afafadb-4deb-6c53-8c37-714656422473" type="alphabet"><li id="_a55f6492-98ff-4300-9330-68eeca179f85" label="a"><p id="_d1d2571a-450e-f343-a084-7c83e2e5cac4">all information necessary for the complete identification of the sample;</p>
 </li>
-<li id="_e6111caa-0135-4667-a5dd-caa17c71968d" label="b"><p id="_32abafc3-62e4-840d-62cc-eb442ddf726e">a reference to this document (i.e. ISO 17301-1);</p>
+<li id="_5b0d99c7-93cd-43d1-bc66-ffca1382a425" label="b"><p id="_32abafc3-62e4-840d-62cc-eb442ddf726e">a reference to this document (i.e. ISO 17301-1);</p>
 </li>
-<li id="_6343d7b0-8e4d-45ab-9143-ddc0b2e0de1a" label="c"><p id="_f44faef2-fbb8-7e1c-e8f1-5f71567a1895">the sampling method used;</p>
+<li id="_27438e04-723a-4a75-a6bb-bdecbb6140bb" label="c"><p id="_f44faef2-fbb8-7e1c-e8f1-5f71567a1895">the sampling method used;</p>
 </li>
-<li id="_3b08396e-5022-46e9-85bc-5327eb983365" label="d"><p id="_e72f4e3e-f167-9dff-13bd-072a9c06fe8f">the test method used;</p>
+<li id="_bbd61af0-9574-4e0b-93a9-9e82c9b82606" label="d"><p id="_e72f4e3e-f167-9dff-13bd-072a9c06fe8f">the test method used;</p>
 </li>
-<li id="_114c396b-16dc-4bc9-ba8b-6b8754436eb4" label="e"><p id="_9b32e168-1d47-8743-621c-defbe3e1f644">the test result(s) obtained or, if the repeatability has been checked, the
+<li id="_4fa74a3c-b624-4497-ab63-ed67920a59fc" label="e"><p id="_9b32e168-1d47-8743-621c-defbe3e1f644">the test result(s) obtained or, if the repeatability has been checked, the
 final quoted result obtained;</p>
 </li>
-<li id="_16a62b07-3ebc-468b-acd2-84735d2f2765" label="f"><p id="_cfed190a-55a1-29ab-4e6c-27498b374489">all operating details not specified in this document, or regarded as optional,
+<li id="_302b23e3-7c64-403b-a18a-65b1c2e26f4c" label="f"><p id="_cfed190a-55a1-29ab-4e6c-27498b374489">all operating details not specified in this document, or regarded as optional,
 together with details of any incidents which may have influenced the test
 result(s);</p>
 </li>
-<li id="_8967bac8-56e8-4389-8cd5-108b390ef986" label="g"><p id="_08d14069-a48b-19b0-72e1-d521fce004ce">any unusual features (anomalies) observed during the test;</p>
+<li id="_1bcf6f96-f079-4c4f-8482-e459d62f2afe" label="g"><p id="_08d14069-a48b-19b0-72e1-d521fce004ce">any unusual features (anomalies) observed during the test;</p>
 </li>
-<li id="_ab675cfe-5ed1-4335-b318-63fac1397828" label="h"><p id="_522170b2-90f8-5aa8-dd66-65ef44a21a58">the date of the test.</p>
+<li id="_9b7b6300-f62c-48b5-b674-997139153b8f" label="h"><p id="_522170b2-90f8-5aa8-dd66-65ef44a21a58">the date of the test.</p>
 </li>
 </ol>
 </clause>
@@ -2719,7 +2719,7 @@ destination.</p>
 <bibitem id="ISO6646" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em></formattedref><uri type="src">https://www.iso.org/standard/51072.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri><docidentifier type="ISO" primary="true">ISO 6646</docidentifier><docidentifier type="iso-reference">iso-reference ISO 6646(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:6646:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6646</docidentifier><biblio-tag>ISO 6646, </biblio-tag></bibitem>
 <bibitem id="ISO8351-1" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em></formattedref><uri type="src">https://www.iso.org/standard/15496.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:15496:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/01/54/15496.detail.rss</uri><docidentifier type="ISO" primary="true">ISO 8351-1:1994</docidentifier><docidentifier type="iso-reference">iso-reference ISO 8351-1:1994(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:8351:-1:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 8351-1:1994</docidentifier><biblio-tag>ISO 8351-1:1994, </biblio-tag></bibitem>
 <bibitem id="ISO8351-2" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em></formattedref><uri type="src">https://www.iso.org/standard/1818.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri><docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier><docidentifier type="iso-reference">iso-reference ISO 8351-2(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:8351:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 8351-2</docidentifier><biblio-tag>ISO 8351-2, </biblio-tag></bibitem>
-<bibitem id="ISO16634" type="standard"><formattedref><em><span class="stddocTitle">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em></formattedref><docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><biblio-tag>ISO 16634:—<fn reference="f6021235-cc16-4b54-937f-008e568abd9c"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p></fn>, </biblio-tag></bibitem>
+<bibitem id="ISO16634" type="standard"><formattedref><em><span class="stddocTitle">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em></formattedref><docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><biblio-tag>ISO 16634:—<fn reference="2cac6a5d-0855-4c83-bb4e-0290fb34fb8a"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p></fn>, </biblio-tag></bibitem>
 <bibitem id="ISO20483" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em></formattedref><uri type="src">https://www.iso.org/standard/59162.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri><docidentifier type="ISO" primary="true">ISO 20483:2013</docidentifier><docidentifier type="iso-reference">iso-reference ISO 20483:2013(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:20483:stage-90.20</docidentifier><docidentifier scope="biblio-tag">ISO 20483:2013</docidentifier><biblio-tag>ISO 20483:2013, </biblio-tag></bibitem>
 <bibitem id="ISO24333" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em></formattedref><uri type="src">https://www.iso.org/standard/42165.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:42165:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/04/21/42165.detail.rss</uri><docidentifier type="ISO" primary="true">ISO 24333:2009</docidentifier><docidentifier type="iso-reference">iso-reference ISO 24333:2009(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:24333:stage-90.60</docidentifier><docidentifier scope="biblio-tag">ISO 24333:2009</docidentifier><biblio-tag>ISO 24333:2009, </biblio-tag></bibitem>
 </references></sections><annex id="AnnexA" inline-header="false" obligation="normative" displayorder="14">
@@ -3364,7 +3364,7 @@ from rice, nor to waxy rice (glutinous rice).</p>
 </annex><bibliography><references id="_bibliography" normative="false" obligation="informative" displayorder="19">
 <title depth="1">Bibliography</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em></formattedref><uri type="src">https://www.iso.org/standard/9169.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier><docidentifier type="ISO" primary="true">ISO 3696</docidentifier><docidentifier type="iso-reference">iso-reference ISO 3696(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:3696:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3696</docidentifier><biblio-tag>[1]<tab/>ISO 3696, </biblio-tag></bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em></formattedref><uri type="src">https://www.iso.org/standard/69418.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier><docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier><docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:5725:-1:stage-60.60</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier><biblio-tag>[2]<tab/>ISO 5725-1, </biblio-tag></bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</span></em></formattedref><uri type="src">https://www.iso.org/standard/69419.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier><docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier><docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-60.60</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier><biblio-tag>[3]<tab/>ISO 5725-2, </biblio-tag></bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em></formattedref><uri type="src">https://www.iso.org/standard/21396.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri><docidentifier type="metanorma-ordinal">[4]</docidentifier><docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier><docidentifier type="iso-reference">iso-reference ISO 6322-1(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:6322:-1:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-1</docidentifier><biblio-tag>[4]<tab/>ISO 6322-1, </biblio-tag></bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em></formattedref><uri type="src">https://www.iso.org/standard/21395.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri><docidentifier type="metanorma-ordinal">[5]</docidentifier><docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier><docidentifier type="iso-reference">iso-reference ISO 6322-2(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:6322:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-2</docidentifier><biblio-tag>[5]<tab/>ISO 6322-2, </biblio-tag></bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em></formattedref><uri type="src">https://www.iso.org/standard/12614.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri><docidentifier type="metanorma-ordinal">[6]</docidentifier><docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier><docidentifier type="iso-reference">iso-reference ISO 6322-3(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:6322:-3:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-3</docidentifier><biblio-tag>[6]<tab/>ISO 6322-3, </biblio-tag></bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref><uri type="src">https://www.iso.org/standard/50935.html</uri><uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri><docidentifier type="metanorma-ordinal">[7]</docidentifier><docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier><docidentifier type="iso-reference">iso-reference ISO 7301:2011(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:7301:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 7301:2011</docidentifier><note type="Unpublished-Status">
   <p id="_142063a4-06f3-ac7d-f38c-cedccc6b6b9f">Cancelled and replaced by ISO 7301:2021.</p>
-</note><biblio-tag>[7]<tab/>ISO 7301:2011<fn reference="20b0ea6b-569f-4bcf-bb8a-bd21d628b4ac"><p>Cancelled and replaced by ISO 7301:2021.</p></fn>, </biblio-tag></bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref><uri type="src">https://www.iso.org/standard/25793.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri><docidentifier type="metanorma-ordinal">[8]</docidentifier><docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier><docidentifier type="iso-reference">iso-reference ISO 14864:1998(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:14864:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 14864:1998</docidentifier><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag></bibitem><bibitem id="IEC61010-2" type="standard"><formattedref><em><span class="stddocTitle">Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em></formattedref><docidentifier type="metanorma-ordinal">[9]</docidentifier><docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docidentifier scope="biblio-tag">IEC 61010-2:1998</docidentifier><biblio-tag>[9]<tab/>IEC 61010-2:1998, </biblio-tag></bibitem><bibitem id="ref12">
+</note><biblio-tag>[7]<tab/>ISO 7301:2011<fn reference="7a486288-8c63-40f8-9efb-533efe390387"><p>Cancelled and replaced by ISO 7301:2021.</p></fn>, </biblio-tag></bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.8"><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref><uri type="src">https://www.iso.org/standard/25793.html</uri><uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri><uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri><docidentifier type="metanorma-ordinal">[8]</docidentifier><docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier><docidentifier type="iso-reference">iso-reference ISO 14864:1998(E)</docidentifier><docidentifier type="URN">URN urn:iso:std:iso:14864:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 14864:1998</docidentifier><biblio-tag>[8]<tab/>ISO 14864:1998, </biblio-tag></bibitem><bibitem id="IEC61010-2" type="standard"><formattedref><em><span class="stddocTitle">Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em></formattedref><docidentifier type="metanorma-ordinal">[9]</docidentifier><docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docidentifier scope="biblio-tag">IEC 61010-2:1998</docidentifier><biblio-tag>[9]<tab/>IEC 61010-2:1998, </biblio-tag></bibitem><bibitem id="ref12">
   <formattedref format="application/x-isodoc+xml"><smallcap>Berner D.L., &amp; Brown J.</smallcap> Protein nitrogen combustion method collaborative study I. Comparison with Smalley total Kjeldahl nitrogen and combustion results. <em>J. Am. Oil Chem. Soc.</em> 1994, <strong>71</strong> (11) pp 1291-1293</formattedref><docidentifier type="metanorma-ordinal">[10]</docidentifier>
   
 <biblio-tag>[10]<tab/></biblio-tag></bibitem><bibitem id="ref13">

@@ -252,7 +252,7 @@ this document.</semantic__p>
 </semantic__annex><semantic__bibliography><semantic__references id="semantic___normative_references" normative="true" obligation="informative">
 <semantic__title>Normative references</semantic__title><semantic__p id="semantic___21971d30-bb88-56a2-0d5b-aca5e0104f76">There are no normative references in this document.</semantic__p>
 </semantic__references><semantic__references id="semantic___bibliography" normative="false" obligation="informative">
-<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__iso9000" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+<semantic__title>Bibliography</semantic__title><semantic__bibitem id="semantic__iso9000" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Quality management systems</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Fundamentals and vocabulary</semantic__title>
@@ -264,7 +264,7 @@ this document.</semantic__p>
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 9000:2005</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 9000:2005</semantic__docidentifier>    </semantic__bibitem>
   </semantic__relation>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO/AWI 9000</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO/AWI 9000</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso9241_11" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso9241_11" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction</semantic__title>
   
 <semantic__title type="title-part" format="text/plain" language="en" script="Latn">Part 11: Usability: Definitions and concepts</semantic__title>
@@ -275,7 +275,7 @@ this document.</semantic__p>
       <semantic__abbreviation>ISO</semantic__abbreviation>      <semantic__uri>www.iso.org</semantic__uri>    </semantic__organization>  </semantic__contributor>  <semantic__edition>2</semantic__edition>  <semantic__language>en</semantic__language>  <semantic__language>fr</semantic__language>  <semantic__script>Latn</semantic__script>  <semantic__abstract format="text/plain" language="en" script="Latn">ISO 9241-11:2018 provides a framework for understanding the concept of usability and applying it to situations where people use interactive systems, and other types of systems (including built environments), and products (including industrial and consumer products) and services (including technical and personal services). NOTE       In this document, the phrase “object of interest” refers to the system, product or service for which usability is being considered (see 8.1). ISO 9241-11:2018: —      explains that usability is an outcome of use; —      defines key terms and concepts; —      identifies the fundamentals of usability; and —      explains the application of the concept of usability. ISO 9241-11:2018 does not describe specific processes or methods for taking account of usability in design development or evaluation. The intended users of this document include: —      usability/ergonomics/human factors professionals; —      designers and developers of systems, products and services; —      quality assurance personnel; —      public and corporate purchasers; and —      consumer organizations. The most common applications of this document are in design and evaluation.</semantic__abstract>  <semantic__status>    <semantic__stage>90</semantic__stage>    <semantic__substage>93</semantic__substage>  </semantic__status>  <semantic__copyright>    <semantic__from>2018</semantic__from>    <semantic__owner>      <semantic__organization>        
 <semantic__name>ISO</semantic__name>
       </semantic__organization>    </semantic__owner>  </semantic__copyright>  <semantic__relation type="obsoletes">    <semantic__bibitem type="standard">      <semantic__formattedref format="text/plain">ISO 9241-11:1998</semantic__formattedref>      <semantic__docidentifier type="ISO" primary="true">ISO 9241-11:1998</semantic__docidentifier>    </semantic__bibitem>
-  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso17027" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-24</semantic__fetched>  
+  </semantic__relation>  <semantic__place>Geneva</semantic__place></semantic__bibitem><semantic__bibitem id="semantic__iso17027" type="standard" schema-version="v1.2.8">  <semantic__fetched>2024-03-25</semantic__fetched>  
 <semantic__title type="title-intro" format="text/plain" language="en" script="Latn">Conformity assessment</semantic__title>
   
 <semantic__title type="title-main" format="text/plain" language="en" script="Latn">Vocabulary related to competence of persons used for certification of persons</semantic__title>
@@ -528,7 +528,7 @@ Website: www.iso.org</p>
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
 </copyright-statement>
-</boilerplate><preface><clause type="toc" id="_4f14f8ad-6da9-41ae-9aa6-9e184d0e8fc3" displayorder="1"><title depth="1">Contents</title></clause>
+</boilerplate><preface><clause type="toc" id="_6760a605-1492-4dc9-96bd-90859cbfc608" displayorder="1"><title depth="1">Contents</title></clause>
 <foreword id="_e7aa4ee7-8d1b-9002-5a00-e3e58c19a99e" obligation="informative" displayorder="2">
 <title>Foreword</title>
 <p id="_af04a30c-6da7-69ff-6b0b-8b89283f2084">ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
