@@ -1,0 +1,73 @@
+= Rice model
+:docnumber: 17301
+:partnumber: 1
+:edition: 3
+:revdate: 2023-02-01
+:copyright-year: 2023
+:language: fr
+:title-intro-en: Cereals and pulses
+:title-main-en: Specifications and test methods (in French)
+:title-part-en: Rice
+:title-intro-fr: Céréales et légumineuses
+:title-main-fr: Spécification et méthodes d'essai (en français)
+:title-part-fr: Riz
+:doctype: international-standard
+:docstage: 60
+:docsubstage: 60
+:technical-committee-number: 34
+:technical-committee: Produits alimentaires
+:subcommittee-number: 4
+:subcommittee: Céréales et légumineuses
+:workgroup-type: WG
+:workgroup-number: 4
+:workgroup: Amylose dans le riz
+:local-cache-only:
+:appendix-caption: Annexe
+:appendix-refsig: Annexe
+:caution-caption: Attention
+:equation-refsig: Formule
+:example-caption: Exemple
+:example-refsig: Exemple
+:section-refsig: Article
+:table-caption: Tableau
+:table-refsig: Tableau
+:warning-caption: Avertissement
+:library-ics: 67.060
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+
+//include::body/body-fr.adoc[]
+
+include::sections-fr/00-foreword.adoc[]
+
+include::sections-fr/00-introduction.adoc[]
+
+include::sections-fr/01-scope.adoc[]
+
+include::sections-fr/02-normref.adoc[]
+
+include::sections-fr/03-termdef.adoc[]
+
+include::sections-fr/04-specifications.adoc[]
+
+include::sections-fr/05-sampling.adoc[]
+
+include::sections-fr/06-testmethods.adoc[]
+
+include::sections-fr/07-testreport.adoc[]
+
+include::sections-fr/08-packaging.adoc[]
+
+include::sections-fr/09-marking.adoc[]
+
+include::sections-fr/aa-annex-a.adoc[]
+
+include::sections-fr/ab-annex-b.adoc[]
+
+include::sections-fr/ac-annex-c.adoc[]
+
+include::sections-fr/ad-annex-d.adoc[]
+
+include::sections-fr/ae-annex-e.adoc[]
+
+include::sections-fr/b0-bibliography.adoc[]
