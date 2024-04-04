@@ -1,0 +1,26 @@
+[[annexD]]
+[appendix,obligation=informative]
+== Résultats d'un essai interlaboratoires des rendements en riz décortiqué
+
+Un essai interlaboratoires <<ref15, fn>> a été effectué par l'ENR [Centre de recherches
+du riz (Italie)] conformément à l'ISO 5725-1 et à l'ISO 5725-2, avec la participation
+de 15 laboratoires. Chaque laboratoire a effectué trois déterminations sur quatre types
+différents de grains. Les résultats statistiques figurent dans le <<tableD-1>>.
+
+[[tableD-1]]
+[cols="<,^,^,^,^"]
+.Répétabilité et reproductibilité des rendements en riz décortiqué
+
+|===
+.2+^.^h| Description 4+h| Échantillon
+^h| Arborio ^h| Drago footnote:[Riz étuvé.] ^h| Balilla ^h| Thaibonnet
+
+| Nombre de laboratoires retenus après élimination des aberrants | 13 | 11 | 13 | 13
+| Valeur moyenne, g/100 g | 81,2 | 82,0 | 81,8 | 77,7
+| Écart-type de répétabilité, stem:[s_r], g/100 g | 0,41 | 0,15 | 0,31 | 0,53
+| Coefficient de variation de répétabilité, % | 0,5 | 0,2 | 0,4 | 0,7
+| Limite de répétabilité, stem:[r (= 2,83 s_r)] | 1,16 | 0,42 | 0,88 | 1,50
+| Écart-type de reproductibilité, stem:[s_R], g/100 g | 1,02 | 0,20 | 0,80 | 2,14
+| Coefficient de variation de reproductibilité, % | 1,3 | 0,2 | 1,0 | 2,7
+| Limite de reproductibilité, stem:[R (= 2,83 s_R)] | 2,89 | 0,57 | 2,26 | 6,06
+|===
