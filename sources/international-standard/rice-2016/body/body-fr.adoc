@@ -92,7 +92,7 @@ L'ISO et l'IEC tiennent à jour des bases de données terminologiques destinées
 riz muni de sa balle après battage
 
 [.source]
-<<ISO7301>>, 3.1
+<<ISO7301,clause=3.1>>
 
 [[husked_rice]]
 === lang:en[husked rice] lang:fr[riz décortiqué]
@@ -101,14 +101,14 @@ riz muni de sa balle après battage
 _riz paddy_ (<<paddy>>) dont la balle seule a été éliminée
 
 [.source]
-<<ISO7301>>, 3.2, Le terme "riz cargo" est représenté comme rejeté, et la Note 1 à l'article n'est pas incluse ici
+<<ISO7301,clause=3.2>>, Le terme "riz cargo" est représenté comme rejeté, et la Note 1 à l'article n'est pas incluse ici
 
 === lang:en[milled rice] lang:fr[riz usiné]
 
 riz obtenu après une opération d'usinage qui consiste à débarrasser le _riz décortiqué_ (<<husked_rice>>) de tout ou partie de son péricarpe et du germe
 
 [.source]
-<<ISO7301>>, 3.3
+<<ISO7301,clause=3.3>>
 
 === lang:en[parboiled rice] lang:fr[riz étuvé]
 [alt]#riz prétraité#
@@ -151,7 +151,7 @@ grain ou partie de grain, non mûr et/ou mal développé
 quantité de riz décortiqué obtenue à partir de riz paddy
 
 [.source]
-<<ISO6646>>, 3.1
+<<ISO6646,clause=3.1>>
 
 === lang:en[nitrogen content] lang:fr[teneur en azote]
 
@@ -160,7 +160,7 @@ quantité d'azote déterminée après l'application du mode opératoire décrit 
 NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
 
 [.source]
-<<ISO20483>>, 3.1, Dans la définition, «dans l'ISO 20483» a été ajouté
+<<ISO20483,clause=3.1>>, Dans la définition, «dans l'ISO 20483» a été ajouté
 
 === lang:en[crude protein content] lang:fr[protéines brutes]
 
@@ -169,7 +169,7 @@ quantité de protéines brutes obtenue à partir de la teneur en azote telle que
 NOTE: Elle est exprimée en fraction massique de produit sec, en pourcentage.
 
 [.source]
-<<ISO20483>>, 3.2, Dans la définition, «décrite dans l'ISO 20483» a été ajouté
+<<ISO20483,clause=3.2>>, Dans la définition, «décrite dans l'ISO 20483» a été ajouté
 
 [[gelatinization]]
 === lang:en[gelatinization] lang:fr[gélatinisation]
@@ -179,7 +179,7 @@ processus hydrothermique correspondant au phénomène de gonflement irréversibl
 NOTE: Voir <<figureC-1>>.
 
 [.source]
-<<ISO14864>>, 3.1
+<<ISO14864,clause=3.1>>
 
 [[gel_state]]
 === lang:en[gel state] lang:fr[état gélatinisé]
@@ -187,7 +187,7 @@ NOTE: Voir <<figureC-1>>.
 état atteint à la suite de la _gélatinisation_ (<<gelatinization>>), lorsque le grain de riz est entièrement transparent et totalement exempt de granules blanchâtres et opaques après avoir été écrasé entre deux lamelles de verre
 
 [.source]
-<<ISO14864>>, 3.2
+<<ISO14864,clause=3.2>>
 
 === lang:en[gelatinization time] lang:fr[temps de gélatinisation]
 
@@ -196,7 +196,7 @@ stem:[t_90]
 temps nécessaire pour faire passer 90 % des grains de leur état naturel à l' _état gélatinisé_ (<<gel_state>>)
 
 [.source]
-<<ISO14864>>, 3.3
+<<ISO14864,clause=3.3>>
 
 
 == Spécifications
@@ -278,9 +278,9 @@ Déterminer la fraction massique de riz gluant. L'<<annexB>> donne un exemple d'
 
 === Teneur en azote et en protéines brutes
 
-Déterminer la teneur en azote et en protéines brutes conformément soit à l'<<ISO16634>>, Article 9, soit à l'<<ISO20483>>. Pour plus de détails concernant la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir la Référence <<ref12>> dans la Bibliographie. Pour la méthode de Dumas, voir les Références <<ref10>> et <<ref16>>.
+Déterminer la teneur en azote et en protéines brutes conformément soit à l'<<ISO16634,clause=9>>, soit à l'<<ISO20483>>. Pour plus de détails concernant la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir la Référence <<ref12>> dans la Bibliographie. Pour la méthode de Dumas, voir les Références <<ref10>> et <<ref16>>.
 
-Calculer la teneur en protéines brutes du produit sec en multipliant la valeur obtenue lors de la détermination de la teneur en azote par le facteur de conversion spécifié dans l'<<ISO20483>>, Annexe C et Tableau C.1, qui est adapté au type de céréales et de légumineuses <<ref13, fn>><<ref14,fn>> et à leur utilisation.
+Calculer la teneur en protéines brutes du produit sec en multipliant la valeur obtenue lors de la détermination de la teneur en azote par le facteur de conversion spécifié dans l'<<ISO20483,annex=C;and!table=C.1>>, qui est adapté au type de céréales et de légumineuses <<ref13, fn>><<ref14,fn>> et à leur utilisation.
 
 === Temps de gélatinisation
 
@@ -344,7 +344,7 @@ Pour chaque méthode d'essai, le rapport d'essai doit spécifier ce qui suit:
 
 Les emballages ne doivent communiquer ni odeur ni flaveur au produit, et ne doivent pas contenir de substances pouvant endommager le produit ou présenter un risque pour la santé.
 
-Si des sacs sont utilisés, ils doivent être conformes aux exigences de l'<<ISO8351-1>>, Article 9 ou de l'<<ISO8351-2>>, selon le cas.
+Si des sacs sont utilisés, ils doivent être conformes aux exigences de l'<<ISO8351-1,clause=9>> ou de l'<<ISO8351-2>>, selon le cas.
 
 == Marquage
 
