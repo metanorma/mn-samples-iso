@@ -39,7 +39,7 @@ or any white colour container of a suitable size.
 [[AnnexB-2-4]]
 ==== Wire sieve,
 
-with long rounded apertures of stem:[(1 "unitsml(mm)"] stem:[{:(+0.02),(0):}] stem:["unitsml(mm)")] stem:[xx (20 "unitsml(mm)"] stem:[{:(+2),(-1):}] stem:["unitsml(mm)")].
+with long rounded apertures of stem:[(1 "unitsml(mm)" {:(+0.02),(0):} "unitsml(mm)") times (20 "unitsml(mm)" {:(+2),(-1):} "unitsml(mm)")].
 
 [%inline-header]
 [[AnnexB-2-5]]
