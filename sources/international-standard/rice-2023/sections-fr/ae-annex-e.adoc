@@ -1,0 +1,32 @@
+[appendix,obligation=informative]
+== Informations superflues
+
+_Cette annexe ne figure pas dans le document modèle Rice original et est insérée pour
+illustrer des éléments absents de ce document : guillemets, code source et exemples._
+
+[quote, ISO, "ISO7301,clause 1"]
+_____
+La présente Norme internationale donne les spécifications minimales pour le riz (_Oryza
+sativa_ L.) faisant l'objet d'un commerce international. Elle est applicable aux types
+suivants : riz décortiqué et riz blanchi, étuvé ou non, destinés à la consommation
+humaine directe. Elle n'est applicable ni aux autres produits dérivés du riz, ni au riz
+cireux (riz gluant).
+_____
+
+[%appendix]
+=== Exemple de code
+
+[[samplecode]]
+.Exemple de code
+====
+
+[source,ruby]
+--
+puts "Hello, world."
+%w{a b c}.each do |x| <1>
+  puts x
+end
+--
+<1> Ceci est une annotation
+====
+
