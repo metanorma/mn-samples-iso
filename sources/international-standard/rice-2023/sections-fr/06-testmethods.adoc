@@ -1,0 +1,82 @@
+== Méthodes d'essai
+
+=== Teneur en eau
+
+Déterminer la fraction massique d'eau en utilisant la méthode spécifiée dans
+l'<<ISO712>>.
+
+=== Teneur en riz gluant
+
+Déterminer la fraction massique de riz gluant. L'<<annexB>> donne un exemple d'une
+méthode qui convient.
+
+=== Teneur en azote et en protéines brutes
+
+Déterminer la teneur en azote et en protéines brutes conformément soit à
+l'<<ISO16634,clause=10>>, soit à l'<<ISO20483-all>>. Pour plus de détails concernant
+la détermination de la teneur en protéines au moyen de la méthode de Kjeldahl, voir
+la Référence <<ref12>> dans la Bibliographie. Pour la méthode de Dumas, voir les
+Références <<ref10>> et <<ref16>>.
+
+Calculer la teneur en protéines brutes du produit sec en multipliant la valeur
+obtenue lors de la détermination de la teneur en azote par le facteur de conversion
+spécifié dans l'<<ISO20483,annex=C;and!table=C.1>>, qui est adapté au type de
+céréales et de légumineuses <<ref13, fn>><<ref14,fn>> et à leur utilisation.
+
+=== Temps de gélatinisation
+
+Déterminer le temps de gélatinisation, t90, pour les grains de riz durant la cuisson.
+Un exemple de courbe type est donné à la <<figureC-1>>. Trois stades types de
+gélatinisation sont montrés à la <<figureC-2>>.
+
+Noter les résultats comme spécifié dans l'<<clause7>>.
+
+=== Rendement en riz décortiqué
+
+==== Détermination
+
+WARNING: N'utiliser que du paddy ou du riz étuvé pour la détermination du rendement
+en riz décortiqué.
+
+Déterminer le rendement en riz décortiqué conformément à l'<<ISO6646>>.
+
+==== Fidélité
+
+===== Essai interlaboratoires
+
+Les résultats d'un essai interlaboratoires sont donnés dans l'<<annexD>> pour
+information.
+
+Les résultats des essais de répétabilité et de reproductibilité (voir
+<<cls-6.5.2.2;and!cls-6.5.2.3>>) doivent être obtenus dans un court intervalle de
+temps, en utilisant :
+
+* méthode;
+* le matériel d'essai;
+* laboratoire;
+* opérateur;
+* équipement.
+
+[[cls-6.5.2.2]]
+===== Répétabilité
+
+La différence absolue entre deux résultats d'essai individuels indépendants,
+n'excédera que dans 5 % des cas au plus la moyenne arithmétique des valeurs de limite
+de répétabilité, stem:[r] découlant de l'essai interlaboratoires:
+
+[stem%unnumbered]
+++++
+r = 1 %
+++++
+
+[[cls-6.5.2.3]]
+===== Reproductibilité
+
+La différence absolue entre deux résultats d'essai individuels, n'excédera que dans
+5 % des cas au plus la moyenne arithmétique de la valeur de la limite de
+reproductibilité, stem:[R], découlant de l'essai interlaboratoires:
+
+[stem%unnumbered]
+++++
+R = 3 %
+++++

@@ -1,0 +1,38 @@
+[[annexC]]
+[appendix,obligation=informative]
+== Gélatinisation
+
+La <<figureC-1>> donne un exemple d'une courbe de gélatinisation type. La <<figureC-2>>
+montre les trois stades de gélatinisation:
+
+* initiale;
+* intermédiaire;
+* finale.
+
+[[figureC-1]]
+.Courbe de gélatinisation type
+image::images/b1.png[]
+footnote:[Le temps stem:[t_90] a été estimé à 18,2 min dans cet exemple.]
+
+*Key*
+
+stem:[t]:: temps de cuisson, exprimé en minutes
+stem:[w]:: fraction massique de grains gélatinisés, exprimée en pourcentage
+stem:[t_90]:: temps nécessaire pour faire passer 90 % des grains à l'état gélatinisé
+P:: point de la courbe correspondant à un temps de cuisson de stem:[t_90]
+
+NOTE: Ces résultats sont basés sur une étude effectuée sur trois différents types de
+grains.
+
+[[figureC-2]]
+.Phases de gélatinisation
+====
+.Phase initiale: Il n'y a pas de grain complètement gélatinisé (des granules d'amidon non gélatinisés sont visibles à l'intérieur des grains)
+image::images/c2-a.png[]
+
+.Phase intermédiaire: Quelques grains complètement gélatinisés sont visibles
+image::images/c2-b.png[]
+
+.Phase finale: Tous les grains sont entièrement gélatinisés
+image::images/c2-c.png[]
+====

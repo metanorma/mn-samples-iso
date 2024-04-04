@@ -1,0 +1,128 @@
+[[annexB]]
+[appendix,obligation=informative]
+== Détermination de la teneur en riz gluant dans le riz étuvé
+
+=== Principe
+
+Les grains de riz gluant prennent une coloration brun rougeâtre lorsqu'ils sont en
+contact avec une solution iodée, tandis que les grains de riz non gluant prennent une
+coloration bleue.
+
+=== Appareillage
+
+Matériel courant de laboratoire et, en particulier, ce qui suit.
+
+[[annexB-2-1]]
+[%inline-header]
+==== Balance,
+
+capable de peser à 0,01 g près.
+
+[[annexB-2-2]]
+[%inline-header]
+==== Bécher en verre,
+
+d'une capacité de 250 ml.
+
+[[annexB-2-3]]
+[%inline-header]
+==== Petites coupelles blanches,
+
+ou tout autre récipient de couleur blanche et de taille convenable.
+
+[[annexB-2-4]]
+[%inline-header]
+==== Panier en fil métallique,
+avec des ouvertures allongées et arrondies mesurant stem:[(1 "unitsml(mm)" {:(+0.02),(0):} "unitsml(mm)") times (20 "unitsml(mm)" {:(+2),(-1):} "unitsml(mm)")].
+
+[[annexB-2-5]]
+[%inline-header]
+==== Baguette d'agitation.
+
+[[annexB-2-6]]
+[%inline-header]
+==== Brucelles ou pincettes.
+
+[[annexB-2-7]]
+[%inline-header]
+==== Papier absorbant.
+
+=== Réactifs
+
+WARNING: Des précautions doivent être prises lors de la manipulation de l'iode. Le
+contact direct de l'iode avec la peau peut causer des lésions. Les vapeurs d'iode
+sont très irritantes pour les yeux et les muqueuses.
+
+[[annexB-3-1]]
+[%inline-header]
+==== Eau déionisée,
+
+conforme à la qualité 3 telle que définie dans l'<<ISO3696>>.
+
+[[annexB-3-2]]
+[%inline-header]
+==== Solution mère iodée,
+
+contenant une fraction massique de 4,1 % d'iode et de 6,3 % d'iodure de
+potassium dans de l'eau déionisée.
+
+[[annexB-3-3]]
+[%inline-header]
+==== Solution de travail iodée:
+fraîchement préparé quotidiennement, en diluant la solution mère (<<annexB-3-2>>)
+deux fois (en volume) avec de l'eau déionisée (<<annexB-3-1>>).
+
+=== Échantillonnage
+
+L'échantillonnage doit être effectué conformément à l'<<clause5>>.
+
+=== Détermination
+
+==== {blank}
+
+Peser une prise d'essai de 100 g de riz usiné et la placer dans un bécher en verre
+(<<annexB-2-2>>).
+
+==== {blank}
+
+Ajouter suffisamment de solution de travail iodée (<<annexB-3-3>>) pour immerger les
+grains et remuer (<<annexB-2-5>>) jusqu'à ce que les grains soient complètement
+immergés dans la solution. Laisser les grains tremper pendant 30 s.
+
+==== {blank}
+
+Verser le riz et la solution dans un panier en fil métallique (<<annexB-2-4>>) et
+secouer légèrement le panier afin d'égoutter la solution. Placer ensuite le panier
+sur un morceau de papier absorbant (<<annexB-2-7>>) pour absorber l'excès de liquide.
+
+==== {blank}
+
+Verser les grains colorés dans une coupelle (<<annexB-2-3>>). Au moyen des brucelles
+ou des pincettes (<<annexB-2-6>>), séparer les grains brun rougeâtre de riz gluant et
+les grains bleu foncé de riz non gluant.
+
+==== {blank}
+
+Peser la portion de riz gluant (stem:[m_1]) et la portion de riz non gluant
+(stem:[m_2]) à 0,1 g près.
+
+=== Calcul
+
+Calculer la fraction massique, en pourcentage, de riz gluant, stem:[w_(wax)], en
+utilisant la <<formulaB-1>>:
+
+[[formulaB-1,B.1]]
+[stem]
+++++
+w_(wax) = (m_1) / (m_1 + m_2) xx 100
+++++
+
+où
+
+stem:[m_1]:: est la masse, exprimée en grammes, de la portion de riz gluant;
+stem:[m_2]:: est la masse, exprimée en grammes, de la portion de riz non gluant.
+
+=== Rapport d'essai
+
+Consigner les résultats comme spécifié dans l'<<clause7>>, en notant les résultats
+calculés en utilisant la <<formulaB-1>>).

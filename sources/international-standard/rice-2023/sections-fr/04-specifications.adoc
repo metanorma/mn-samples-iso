@@ -1,0 +1,82 @@
+== Spécifications
+
+=== Caractéristiques générales, organoleptiques et sanitaires
+
+Les grains de riz étuvés ou non, décortiqués ou usinés, entiers ou brisés, doivent
+être sains, propres, sans odeurs étrangères qui dénotant une altération.
+
+NOTE: Les réglementations nationales peuvent s'appliquer à des limites maximales de
+niveaux d'additifs, de résidus de pesticides et d'autres contaminants.
+
+La présence d'insectes vivants visibles à l'oeil nu n'est pas tolérée. Il convient
+que cela soit déterminé avant séparation de l'échantillon global en échantillons pour
+essai.
+
+=== Caractéristiques physiques et chimiques
+
+
+==== {blank}
+
+La fraction massique d'eau, déterminée conformément à l'<<ISO712>> (où elle est
+appelée «teneur en eau»), ne doit pas être supérieure à 15 %.
+
+La fraction massique de matières étrangères et de grains défectueux de riz
+décortiqués et usinés, étuvés ou non, déterminée conformément à l'<<annexA>>, ne doit
+pas être supérieure aux valeurs spécifiées dans le <<table1>>.
+
+NOTE: Des fractions massiques d'eau plus faibles peuvent être nécessaires pour
+certaines destinations, en fonction du climat et de la durée du transport et du
+stockage. Pour plus de détails, voir l'<<ISO6322-1>>, l'<<ISO6322-2>> et
+l'<<ISO6322-3>>.
+
+
+==== {blank}
+
+Pour les catégories considérées, les défauts tolérés, déterminés conformément à la
+méthode décrite dans l'<<annexA>>, ne doivent pas dépasser les limites données dans
+le <<table1>>.
+
+[[table1]]
+[cols="<,^,^,^,^",options="header,footer",headerrows=2]
+.Fractions massiques maximales autorisées de grains comportant des défauts
+|===
+.2+^.^| Défaut 4+^| Fractions massiques maximales autorisées de grains comportant des défauts +
+stem:[w_max] +
+%
+^| riz décortiqué | riz usiné (non gluant) | riz étuvé décortiqué | riz étuvé usiné
+
+.3+a| Matières étrangères:
+
+* organiques footnote:[Les matières étrangères organiques comprennent les graines étrangères, les coques, le son et les fragments de paille.]
+* non organiques footnote:[Les matières étrangères organiques comprennent les cailloux, le sable et les poussières.]
+4+|
+^| 1,0 | 0,5 | 1,0 | 0,5
+^| 0,5 | 0,5 | 0,5 | 0,5
+| Paddy | 2,5 | 0,3 | 2,5 | 0,3
+| Riz décortiqué, non étuvé | N/A | 1,0 | 1,0 | 1,0
+| Riz usiné, non étuvé | 1,0 | N/A | 1,0 | 1,0
+| Riz décortiqué, étuvé | 1,0 | 1,0 | N/A | 1,0
+| Riz usiné, étuvé | 1,0 | 1,0 | 1,0 | N/A
+| Fragments | 0,1 | 0,1 | 0,1 | 0,1
+| HDK | 2,0 footnote:defectsmass[La fraction massique totale autorisée de défauts doit être déterminée par rapport à la fraction massique obtenue après mouture.] | 2,0 | 2,0 footnote:defectsmass[] | 2,0
+| Grains endommagés | 4,0 | 3,0 | 4,0 | 3,0
+| Grains immatures | 8,0 | 2,0 | 8,0 | 2,0
+| Grains crayeux | 5,0 footnote:defectsmass[] | 5,0 | N/A | N/A
+| Grains rouges et striés de rouge | 12,0 | 12,0 | 12,0 footnote:defectsmass[] | 12,0
+| Grains partiellement gélatinisés | N/A | N/A | 11,0 footnote:defectsmass[] | 11,0
+| Grains noirs d'étuvage | N/A | N/A | 4,0 | 2,0
+| Riz gluant | 1,0 footnote:defectsmass[] | 1,0 | 1,0 footnote:defectsmass[] | 1,0
+
+5+a| Aucun insecte vivant ne doit être présent. Les insectes morts doivent être englobés dans les matières étrangères.
+|===
+
+[%key]
+N/A:: N'est pas applicable.
+
+NOTE: Ce tableau est basé sur l'<<ISO7301,table=1>>.
+
+NOTE: Certains contrats commerciaux peuvent exiger des complémentaires à celles
+fournies dans le présent tableau.
+
+NOTE: Seul le riz (cargo) rouge entièrement décortiqué est pris en considération dans
+le présent tableau.

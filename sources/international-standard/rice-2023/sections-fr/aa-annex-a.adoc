@@ -1,0 +1,97 @@
+[[annexA]]
+[appendix,obligation=normative]
+== Détermination des défauts
+
+=== Principe
+
+Séparation par triage manuel des matières étrangères, brisures, grains défectueux et
+autres sortes de riz, en catégories en fonction du type de riz envisagé: riz
+décortiqué, riz usiné, riz étuvé décortiqué et riz étuvé usiné. Chaque type est alors
+pesé.
+
+=== Appareillage
+
+Matériel courant de laboratoire et, en particulier, ce qui suit.
+
+[%inline-header]
+[[annexA-2-1]]
+==== Diviseur d'échantillon,
+
+type échantillonneur conique ou échantillonneur à fentes multiples avec système
+distributeur, par exemple du type «bon diviseur» comme représenté à la <<figureA-1>>.
+
+[%inline-header]
+==== Tamis,
+
+à trous ronds de 1,4 mm de diamètre.
+
+[%inline-header]
+==== Brucelles.
+
+[%inline-header]
+==== Scalpel.
+
+[%inline-header]
+==== Pinceau.
+
+[[annexA-2-6]]
+[%inline-header]
+==== Coupelles en acier,
+
+de 100 mm stem:[pm] 5 mm de diamètre; sept pour chaque échantillon pour essai.
+
+[%inline-header]
+==== Balance,
+
+pouvant être lue à 0,01 g près.
+
+=== Échantillonnage
+
+L'échantillonnage doit être effectué conformément à l'<<clause5>>.
+
+=== Mode opératoire
+
+[[annexA-4-1]]
+==== Préparation de l'échantillon pour essai
+
+Mélanger avec soin l'échantillon pour laboratoire pour le rendre aussi homogène que
+possible, puis procéder à la réduction à l'aide du diviseur (<<annexA-2-1>>), jusqu'à
+obtention d'une quantité de 30 g.
+
+Il convient de considérer toutes les parties de grains qui restent coincées dans les
+trous du tamis comme étant retenues par celui-ci.
+
+[[figureA-1]]
+.Diviseur d'échantillon de type «bon diviseur»
+image::images/a1.png[]
+
+==== Détermination
+
+Peser, à 0,1 g près, l'un des échantillons pour essai obtenus conformément à
+<<annexA-4-1>> et séparer, en les plaçant dans les coupelles (<<annexA-2-6>>), les
+différents défauts. Lorsqu'un grain présente plusieurs défauts, le classer dans la
+catégorie où la valeur maximale permise est la plus faible (voir <<table1>>).
+
+Peser, à 0,01 g près, les fractions obtenues ci-dessus.
+
+=== Calcul
+
+Calculer la fraction massique de grains comportant un défaut, en utilisant la
+<<formulaA-1>>):
+
+[[formulaA-1,A.1]]
+[stem]
+++++
+w = (m_D) / (m_s)
+++++
+
+où
+
+stem:[w]:: est la fraction massique de grains comportant un défaut particulier dans
+l'échantillon pour essai;
+stem:[m_D]:: est la masse, en grammes, de grains comportant ce défaut;
+stem:[m_S]:: est la masse, en grammes, de l'échantillon pour essai.
+
+=== Rapport d'essai
+
+Consigner les résultats d'essai comme spécifié dans l'<<clause7>>.
