@@ -49,8 +49,7 @@ Separate keys, notes and footnotes for subfigures are not permitted.
 [%unnumbered]
 image::hidden_fig2.png[]
 
-*Key*
-
+[%key]
 Paragraphs (containing requirements) and notes to the figure
 
 Footnotes to the figure
@@ -88,7 +87,7 @@ The standards listed in <<table_9>> provide information regarding the creation o
 | General | IEC 61082-1 | _Preparation of documents used in electrotechnology -- Part 1: Rules_
 
 | Graphical symbols | IEC 62648 | _Graphical symbols for use on equipment -- Guidelines for the inclusion of graphical symbols in IEC publications_
-	
+
 | | IEC 80416-1 | _Basic principles for graphical symbols for use on equipment -- Part 1: Creation of graphical symbols for registration_
 
 | | ISO/IEC 81714-1 | _Design of graphical symbols for use in the technical documentation of products -- Part 1: Basic rules_
@@ -148,8 +147,7 @@ See <<figure_5>>.
 [%unnumbered]
 image::fig5.png[]
 
-*Key*
-
+[%key]
 1:: mandrel shank
 2:: blind rivet head
 
@@ -176,10 +174,9 @@ In graphs (see <<figure_6>>), labelling of curves, lines, etc. shall be replaced
 [[figure_6a]]
 image::fig6.jpg[]
 
-*Key*
-
+[%key]
 stem:[w]:: mass fraction of gelatinized kernels, expressed in per cent
-	
+
 stem:[t]:: cooking time, expressed in minutes
 
 stem:[t_{90}]:: time required to gelatinize stem:[90 %] of the kernels
@@ -316,8 +313,7 @@ Diagrams, such as circuit diagrams and connection diagrams, for example for test
 [[figure_9a]]
 image::fig9.jpg[]
 
-*Key*
-
+[%key]
 [cols="2",options="unnumbered"]
 |===
 a| *Components*
