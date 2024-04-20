@@ -12,15 +12,15 @@
 :title-intro-fr: Céréales et légumineuses
 :title-main-en: Specification and test methods
 :title-main-fr: Spécification et méthodes d’essai
-:title-part-en: Rice (AWI)
-:title-part-fr: Riz (AWI)
+:title-part-en: Rice (NP)
+:title-part-fr: Riz (NP)
 :partnumber: 1
 :title-amendment-en: Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions
 :title-amendment-fr: Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport
 :doctype: amendment
 :updates-document-type: international-standard
-:docstage: 10
-:docsubstage: 99
+:docstage: 00
+:docsubstage: 00
 :technical-committee-number: 34
 :technical-committee: Food products
 :subcommittee-type: SC
@@ -38,6 +38,6 @@
 :local-cache-only:
 :draft:
 
-include::sections/00-foreword.adoc[]
+include::sections-en/00-foreword.adoc[]
 
-include::sections/01-modifications.adoc[]
+include::sections-en/01-modifications.adoc[]
