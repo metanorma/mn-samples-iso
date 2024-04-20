@@ -12,14 +12,14 @@
 :title-intro-fr: Céréales et légumineuses
 :title-main-en: Specification and test methods
 :title-main-fr: Spécification et méthodes d’essai
-:title-part-en: Rice (FDAmd)
-:title-part-fr: Riz (FDAmd)
+:title-part-en: Rice (DAmd)
+:title-part-fr: Riz (DAmd)
 :partnumber: 1
 :title-amendment-en: Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions
 :title-amendment-fr: Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport
 :doctype: amendment
 :updates-document-type: international-standard
-:docstage: 50
+:docstage: 40
 :docsubstage: 00
 :technical-committee-number: 34
 :technical-committee: Food products
@@ -38,6 +38,6 @@
 :local-cache-only:
 :draft:
 
-include::sections/00-foreword.adoc[]
+include::sections-en/00-foreword.adoc[]
 
-include::sections/01-modifications.adoc[]
+include::sections-en/01-modifications.adoc[]
