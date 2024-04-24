@@ -1,0 +1,142 @@
+
+[change=modify,locality="clause=introduction,paragraph=3"]
+== Introduction, troisième paragraphe
+
+Remplacer «5 %» par «10 %» et «30 %» par «40 %».
+
+[reviewer=ISO]
+****
+* L'élément à modifier par rapport au document original est clairement spécifié (par
+exemple, numéro de clause, paragraphe, figure, tableau, formule), suivi d'une
+indication claire de ce qui est modifié (par exemple en utilisant les verbes
+«remplacer», «supprimer», «ajouter»).
+****
+
+[change=modify,locality="clause=2",path="./bibitem[docidentifier = 'ISO 8351-2']"]
+== Article 2, Références normatives
+
+Remplacer «ISO 8351-2» par «ISO 8351-2:1994».
+
+[reviewer=ISO]
+****
+* Dans ce cas, la référence datée dans la clause Références normatives a été mise à
+jour pour correspondre à la référence mise à jour dans <<cls8-comment,l'Article 8, deuxième>>
+****
+
+[change=modify,locality="clause=4.2.1"]
+== 4.2.1
+
+autonumber:note[2]
+
+Renuméroter la NOTE existante en NOTE 1 et ajouter la nouvelle NOTE 2 suivante:
+
+____
+NOTE: Pour certaines destinations, aucune différentiation n'est faite entre les
+fractions massiques de matières étrangères organiques et non organiques.
+____
+
+[change=modify,locality="clause=4.2.2,table=1"]
+== 4.2.2, Tableau 1
+
+Dans la colonne «riz usiné (non gluant)», remplacer la valeur «0,3» pour «Paddy»
+par la valeur «0,5».
+
+[[cls8-comment]]
+[change=modify,locality="clause=8,paragraph=2"]
+== Article 8, deuxième paragraphe
+
+Remplacer «de l'ISO 8351-1:1994, Article 9, ou de l'ISO 8351-2, selon le cas» par
+«de l'ISO 8351-1:1994, Article 3, ou de l'ISO 8351-2:1994, Article 3, selon le cas».
+
+[change=add,locality="clause=8",path="./*[last()]"]
+== Article 8
+
+Ajouter l'alinéa suivant à la fin de l'article:
+
+[quote]
+L'Annexe E fournit des recommandations relatives aux conditions d'entreposage et de
+transport.
+
+[reviewer=ISO]
+****
+* Lorsqu'une nouvelle annexe est ajoutée à un document, une référence doit être faite
+à cette nouvelle annexe dans le corps du document, comme indiqué dans la
+modification de l'Article 8.
+****
+
+[change=modify,locality="clause=9"]
+== Article 9
+
+Remplacer le texte par le suivant:
+
+[quote]
+Le marquage et l'étiquetage sur l'emballage doivent clairement identifier le type
+de riz.
+
+[change=modify,locality="clause=A.2.1"]
+== A.2.1
+
+Remplacer le texte par le suivant:
+
+[quote]
+*A.2.1 Diviseur d'échantillon*, de type échantillonneur conique ou échantillonneur
+à fentes multiples avec système distributeur, par exemple de type «Bon diviseur»
+comme représenté à la Figure A.1 ou de type diviseur à fentes multiples comme
+représenté à la Figure A.2.
+
+[change=modify,locality="figure=A.1"]
+== Figure A.1
+
+[reviewer=ISO]
+****
+* Les nouveaux chiffres sont référencés au point A.2.1 du présent Amendement.
+****
+
+Remplacer la Figure A.1 par les deux figures suivantes:
+
+autonumber:figure[A.1]
+
+____
+[[fig1]]
+.Diviseur d'échantillon de type «Bon diviseur»
+image::image-01.png[width=200]
+
+[%key]
+1:: entonnoir
+2:: boîtes de collecte
+
+[[fig2]]
+.Diviseur d'échantillon à fentes multiples avec deux boîtes de collecte
+image::image-02.png[width=200]
+
+[%key]
+1:: fentes
+2:: boîtes de collecte
+____
+
+[change=add,locality="clause=D",path="."]
+== Annexe E
+
+Ajouter l'annexe suivante après l'Annexe D, avant la Bibliographie:
+
+[reviewer=ISO]
+****
+* La nouvelle annexe E est référencée à l'Article 8 du présent Amendement.
+****
+
+[quote]
+____
+*Annexe E. Recommandations relatives aux conditions d'entreposage et de transport*
+
+Il convient que les emballages de riz soient manipulés, stockés et transportés de
+manière qu'ils soient protégés de la pluie, du soleil ou d'autres sources de
+chaleur excessive, des odeurs désagréables et de toute contamination (en
+particulier dans les cales des navires).
+
+Il convient que l'entrepôt soit dans un local couvert, sec et exempt d'odeurs
+désagréables, et protégé contre l'entrée d'insectes et autres déprédateurs. Il
+convient que la ventilation soit réglée de manière à assurer une bonne ventilation
+en période sèche et à être entièrement arrêtée en période humide. Il convient que
+des dispositions appropriées soient prises pour permettre la fumigation dans
+l'entrepôt.
+____
