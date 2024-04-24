@@ -1,0 +1,59 @@
+= ISO 17301-1 Amd
+:docnumber: 17301
+:comment: tc-document-number only appears on drafts
+:tc-document-number:
+:edition: 1
+:created-date: 2023-02
+:updated-date: 2023-12
+:updates: ISO 17301-1:2023
+:amendment-number: 1
+:copyright-year: 2023
+:language: en
+:title-intro-en: Cereals and pulses
+:title-intro-fr: Céréales et légumineuses
+:title-main-en: Specification and test methods
+:title-main-fr: Spécification et méthodes d'essai
+:title-part-en: Rice
+:title-part-fr: Riz
+:partnumber: 1
+:title-amendment-en: Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions
+:title-amendment-fr: Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d'échantillon et recommandations relatives aux conditions d'entreposage et de transport
+:doctype: amendment
+:updates-document-type: international-standard
+:docstage: 60
+:docsubstage: 60
+:technical-committee-number: 34
+:technical-committee: Food products
+:subcommittee-type: SC
+:subcommittee-number: 4
+:subcommittee: Cereals and pulses
+:workgroup-type: WG
+:workgroup-number: 4
+:workgroup: Amylose in rice
+:secretariat:
+:language: en
+:imagesdir: images
+:library-ics: 67.060
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
+:local-cache-only:
+:draft:
+
+[reviewer=ISO]
+****
+* Give the Title of the document to which the Amendment applies.
+****
+
+[reviewer=ISO]
+****
+* It can be helpful to specify the focus of the Amendment in the complementary element of the title.
+****
+
+include::sections-en/00-foreword.adoc[]
+
+[reviewer=ISO]
+****
+* An Amendment does not include a list of contents, an Introduction or a Scope clause.
+****
+
+include::sections-en/01-modifications.adoc[]
