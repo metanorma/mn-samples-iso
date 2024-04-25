@@ -1,3 +1,0 @@
-WARNING: font '/config/fonts/Inter-VariableFont_slnt,wght.ttf' from the fontist manifest file is the variable font and doesn't supported by Apache FOP!
-[FATAL] Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 766:36)
-Can't obtain table's widths information: javax.xml.transform.TransformerException: org.apache.fop.fo.ValidationException: null:766:36: Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 766:36)
