@@ -2,6 +2,15 @@
 metanorma:
   source:
     files:
+      - sources/amendment/rice-2023/document-en.awi.adoc
+      - sources/amendment/rice-2023/document-en.cd.adoc
+      - sources/amendment/rice-2023/document-en.damd.adoc
+      - sources/amendment/rice-2023/document-en.fdamd.adoc
+      - sources/amendment/rice-2023/document-en.final.adoc
+      - sources/amendment/rice-2023/document-en.np.adoc
+      - sources/amendment/rice-2023/document-en.prf.adoc
+      - sources/amendment/rice-2023/document-en.wd.adoc
+      - sources/amendment/rice-2023/document-fr.adoc
       - sources/amendment/rice-2017/document-en.awi.adoc
       - sources/amendment/rice-2017/document-en.cd.adoc
       - sources/amendment/rice-2017/document-en.damd.adoc
@@ -11,32 +20,32 @@ metanorma:
       - sources/amendment/rice-2017/document-en.prf.adoc
       - sources/amendment/rice-2017/document-en.wd.adoc
       - sources/amendment/rice-2017/document-fr.adoc
-        #- sources/directives/part1-consolidated-iso/document.adoc
-        #- sources/directives/part1/document.adoc
-        #- sources/directives/part2/document.adoc
-        #- sources/guide/document.adoc
-        #- sources/international-standard/rice-2023/document-en.adoc
-        #- sources/international-standard/rice-2023/document-en.awi.adoc
-        #- sources/international-standard/rice-2023/document-en.cd.adoc
-        #- sources/international-standard/rice-2023/document-en.dis.adoc
-        #- sources/international-standard/rice-2023/document-en.fdis.adoc
-        #- sources/international-standard/rice-2023/document-en.np.adoc
-        #- sources/international-standard/rice-2023/document-en.prf.adoc
-        #- sources/international-standard/rice-2023/document-en.wd.adoc
-        #- sources/international-standard/rice-2016/document-en.adoc
-        #- sources/international-standard/rice-2016/document-en.awi.adoc
-        #- sources/international-standard/rice-2016/document-en.cd.adoc
-        #- sources/international-standard/rice-2016/document-en.dis.adoc
-        #- sources/international-standard/rice-2016/document-en.fdis.adoc
-        #- sources/international-standard/rice-2016/document-en.np.adoc
-        #- sources/international-standard/rice-2016/document-en.prf.adoc
-        #- sources/international-standard/rice-2016/document-en.wd.adoc
-        #- sources/international-standard/rice-2016/document-fr.adoc
-        #- sources/international-standard/rice-2016/document-zh.adoc
-        #- sources/international-workshop-agreement/document.adoc
-        #- sources/publicly-available-specification/document.adoc
-        #- sources/technical-report/document.adoc
-        #- sources/technical-specification/document.adoc
+      - sources/directives/part1-consolidated-iso/document.adoc
+      - sources/directives/part1/document.adoc
+      - sources/directives/part2/document.adoc
+      - sources/guide/document.adoc
+      - sources/international-standard/rice-2023/document-en.adoc
+      - sources/international-standard/rice-2023/document-en.awi.adoc
+      - sources/international-standard/rice-2023/document-en.cd.adoc
+      - sources/international-standard/rice-2023/document-en.dis.adoc
+      - sources/international-standard/rice-2023/document-en.fdis.adoc
+      - sources/international-standard/rice-2023/document-en.np.adoc
+      - sources/international-standard/rice-2023/document-en.prf.adoc
+      - sources/international-standard/rice-2023/document-en.wd.adoc
+      - sources/international-standard/rice-2016/document-en.adoc
+      - sources/international-standard/rice-2016/document-en.awi.adoc
+      - sources/international-standard/rice-2016/document-en.cd.adoc
+      - sources/international-standard/rice-2016/document-en.dis.adoc
+      - sources/international-standard/rice-2016/document-en.fdis.adoc
+      - sources/international-standard/rice-2016/document-en.np.adoc
+      - sources/international-standard/rice-2016/document-en.prf.adoc
+      - sources/international-standard/rice-2016/document-en.wd.adoc
+      - sources/international-standard/rice-2016/document-fr.adoc
+      - sources/international-standard/rice-2016/document-zh.adoc
+      - sources/international-workshop-agreement/document.adoc
+      - sources/publicly-available-specification/document.adoc
+      - sources/technical-report/document.adoc
+      - sources/technical-specification/document.adoc
 
   collection:
     organization: "Metanorma"
