@@ -31,7 +31,7 @@ jobs:
 
       - name: Metanorma generate site
         id: build-and-publish
-        uses: actions-mn/build-and-publish@v1
+        uses: actions-mn/build-and-publish@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           agree-to-terms: true
@@ -42,6 +42,6 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions-mn/deploy-pages@v1
+        uses: actions-mn/deploy-pages@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
