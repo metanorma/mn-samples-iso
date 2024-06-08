@@ -31,7 +31,7 @@ jobs:
 
       - name: Metanorma generate site
         id: build-and-publish
-        uses: actions-mn/build-and-publish@main
+        uses: actions-mn/build-and-publish@test/upload-artifact-downgrade
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           agree-to-terms: true
