@@ -42,6 +42,6 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions-mn/deploy-pages@v4
+        uses: actions/deploy-pages@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
