@@ -29,7 +29,7 @@ jobs:
         uses: actions-mn/setup@main
 
       - name: Metanorma generate site
-        uses: actions-mn/build-and-publish@vmain
+        uses: actions-mn/build-and-publish@main
         with:
           agree-to-terms: true
           destination: artifact
