@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.7" schema-version="v1.3.1">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.9" schema-version="v1.3.2">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specifications and test methods — Rice (DIS)</title>
 
@@ -62,21 +62,6 @@ Website: www.iso.org</p>
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
 </copyright-statement>
-
-<license-statement>
-
-<clause id="_warning_for_wds_and_cds" inline-header="false" obligation="normative">
-<title>Warning for WDs and CDs</title>
-<p id="_749edc8b-1025-c845-3893-e895a645c589">This document is not an ISO International Standard. It is distributed for review and
-comment. It is subject to change without notice and may not be referred to as
-an International Standard.</p>
-
-<p id="_8dc371d2-fa89-5e4f-69d2-5e8555da3afa">Recipients
-of this draft are invited to submit, with their comments, notification of any
-relevant patent rights of which they are aware and to provide supporting
-documentation.</p>
-</clause>
-</license-statement>
 </boilerplate><preface><foreword id="_7839541b-0af7-ff33-c81c-7a59fd97d7b4" obligation="informative">
 <title>Foreword</title>
 <p id="_1b18b08d-9963-29f5-cc3d-9d31ef210722">ISO (the International Organization for Standardization)
@@ -1445,7 +1430,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 </appendix>
 </annex><bibliography><references id="_normative_references" normative="true" obligation="informative">
 <title>Normative references</title><p id="_21ac2b92-2fe6-317d-983c-a478441ede9f">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="ISO712" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO712" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</title>
@@ -1459,7 +1444,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 712:1998</formattedref>      <docidentifier type="ISO" primary="true">ISO 712:1998</docidentifier>    </bibitem>
   </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/FDIS 712-1</formattedref>      <docidentifier type="ISO" primary="true">ISO/FDIS 712-1</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</title>
@@ -1475,7 +1460,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       </relation>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO/FDIS 712-1</formattedref>          <docidentifier type="ISO" primary="true">ISO/FDIS 712-1</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
   </relation>  <place>Geneva</place></bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO6646" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</title>
@@ -1486,7 +1471,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>3</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2011</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 6646:2000</formattedref>      <docidentifier type="ISO" primary="true">ISO 6646:2000</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</title>
@@ -1499,7 +1484,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 6646:2000</formattedref>          <docidentifier type="ISO" primary="true">ISO 6646:2000</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
   </relation>  <place>Geneva</place></bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
@@ -1512,7 +1497,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">Provides a checklist for the characteristics of paper sacks to be specified when ordering. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of paper sacks as specified in ISO 6590-2.</abstract>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1994</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
@@ -1524,7 +1509,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1994</from>    <owner>      <organization>        
 <name>ISO</name>
-      </organization>    </owner>  </copyright>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+      </organization>    </owner>  </copyright>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
@@ -1544,7 +1529,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO20483" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Determination of the nitrogen content and calculation of the crude protein content</title>
@@ -1558,7 +1543,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 20483:2006</formattedref>      <docidentifier type="ISO" primary="true">ISO 20483:2006</docidentifier>    </bibitem>
   </relation>  <place>Geneva</place></bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<bibitem id="ISO24333" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Sampling</title>
@@ -1572,7 +1557,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
   </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 13690:1999</formattedref>      <docidentifier type="ISO" primary="true">ISO 13690:1999</docidentifier>    </bibitem>
   </relation>  <place>Geneva</place></bibitem>
 </references><references id="_bibliography" normative="false" obligation="informative">
-<title>Bibliography</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<title>Bibliography</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</title>
@@ -1582,7 +1567,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1987</from>    <owner>      <organization>        
 <name>ISO</name>
-      </organization>    </owner>  </copyright>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+      </organization>    </owner>  </copyright>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</title>
@@ -1593,7 +1578,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
           <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>1</edition>      <language>en</language>      <language>fr</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">Specifies the requirements for three grades for the analysis of inorganic chemicals. Not applicable to organic trace analysis, analysis of surface-active agents and biological or medical analysis. The material shall be a clear, colourless liquid as assessed by inspection. Classifies according to the content: free from dissolved or colloidal ionic and organic contaminants, very low inorganic, organic or colloidal contaminants and suitable for laboratory wet chemistry work. Specifies the pH and conductivity measurement, the limit tests for oxidizable matter and for reactive silica, the measurement of absorbance and the determination of residue after evaporation at 110 °C.</abstract>      <status>        <stage>90</stage>        <substage>93</substage>      </status>      <copyright>        <from>1987</from>        <owner>          <organization>            
 <name>ISO</name>
           </organization>        </owner>      </copyright>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</title>
@@ -1602,10 +1587,9 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
   <uri type="src">https://www.iso.org/standard/69418.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>  <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-60.60</docidentifier>  <docnumber>5725</docnumber>  <contributor>    <role type="publisher"/>    <organization>      
 <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2023</from>    <owner>      <organization>        
-<name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5725-1:1994</formattedref>      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>    </bibitem>
   </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</formattedref>      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
       
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</title>
@@ -1614,11 +1598,10 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <uri type="src">https://www.iso.org/standard/69418.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>      <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>      <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-60.60</docidentifier>      <docnumber>5725</docnumber>      <date type="published">        <on>2023-07</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          
 <name>International Organization for Standardization</name>
           <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>2</edition>      <language>en</language>      <language>fr</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">This document —     introduces conditions, constraints and resources necessary to evaluate a measurement method or a result; —     defines an organizational scheme for the acquisition of trueness and precision data by study; —     provides the necessary definitions, statistical model and principles for ISO 5725 (all parts). —     is not applicable to proficiency testing or production of the reference item that has their own standards (ISO 13528, respectively and ISO Guide 35). This document is concerned exclusively with measurement methods which yield results on a continuous scale and give a single value as the test result, although this single value may be the outcome of a calculation from a set of observations. It defines values which describe, in quantitative terms, the ability of a measurement method to give a true result (trueness) or to replicate a given result (precision). Thus, there is an implication that exactly the identical item is being measured, in exactly the same way, and that the measurement process is under control. This document may be applied to a very wide range of test items, including gas, liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the test item. This document does not include methods of calculation that are described in the other parts.</abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2023</from>        <owner>          <organization>            
-<name>ISO</name>
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 5725-1:1994</formattedref>          <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>        </bibitem>
       </relation>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</formattedref>          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
@@ -1627,10 +1610,9 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
   <uri type="src">https://www.iso.org/standard/69419.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>  <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-60.60</docidentifier>  <docnumber>5725</docnumber>  <contributor>    <role type="publisher"/>    <organization>      
 <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>60</stage>    <substage>60</substage>  </status>  <copyright>    <from>2019</from>    <owner>      <organization>        
-<name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5725-2:1994</formattedref>      <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>    </bibitem>
   </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</formattedref>      <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
       
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
@@ -1639,11 +1621,10 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <uri type="src">https://www.iso.org/standard/69419.html</uri>      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>      <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>      <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>      <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-60.60</docidentifier>      <docnumber>5725</docnumber>      <date type="published">        <on>2019-12</on>      </date>      <contributor>        <role type="publisher"/>        <organization>          
 <name>International Organization for Standardization</name>
           <abbreviation>ISO</abbreviation>          <uri>www.iso.org</uri>        </organization>      </contributor>      <edition>2</edition>      <language>en</language>      <language>fr</language>      <script>Latn</script>      <abstract format="text/plain" language="en" script="Latn">1.1  This document —     amplifies the general principles for designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment; —     provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods; —     provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. NOTE    Modifications to this basic method for particular purposes are given in other parts of ISO 5725. 1.2  It is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result, although this single value can be the outcome of a calculation from a set of observations. 1.3  It assumes that in the design and performance of the precision experiment, all the principles as laid down in ISO 5725-1 are observed. The basic method uses the same number of test results in each laboratory, with each laboratory analysing the same levels of test sample; i.e. a balanced uniform-level experiment. The basic method applies to procedures that have been standardized and are in regular use in a number of laboratories. 1.4  The statistical model of ISO 5725-1:1994, Clause 5, is accepted as a suitable basis for the interpretation and analysis of the test results, the distribution of which is approximately normal. 1.5  The basic method, as described in this document, (usually) estimates the precision of a measurement method: a)   when it is required to determine the repeatability and reproducibility standard deviations as defined in ISO 5725-1; b)   when the materials to be used are homogeneous, or when the effects of heterogeneity can be included in the precision values; and c)   when the use of a balanced uniform-level layout is acceptable. 1.6  The same approach can be used to make a preliminary estimate of precision for measurement methods which have not reached standardization or are not in routine use.</abstract>      <status>        <stage>60</stage>        <substage>60</substage>      </status>      <copyright>        <from>2019</from>        <owner>          <organization>            
-<name>ISO</name>
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 5725-2:1994</formattedref>          <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>        </bibitem>
       </relation>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</formattedref>          <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</title>
@@ -1654,7 +1635,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1996</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 6322-1:1981</formattedref>      <docidentifier type="ISO" primary="true">ISO 6322-1:1981</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
       
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</title>
@@ -1666,7 +1647,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 6322-1:1981</formattedref>          <docidentifier type="ISO" primary="true">ISO 6322-1:1981</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</title>
@@ -1677,7 +1658,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2000</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 6322-2:1981</formattedref>      <docidentifier type="ISO" primary="true">ISO 6322-2:1981</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
       
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</title>
@@ -1689,7 +1670,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 6322-2:1981</formattedref>          <docidentifier type="ISO" primary="true">ISO 6322-2:1981</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</title>
@@ -1700,7 +1681,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>1989</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 6322-3:1981</formattedref>      <docidentifier type="ISO" primary="true">ISO 6322-3:1981</docidentifier>    </bibitem>
-  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-04-25</fetched>      
+  </relation>  <relation type="instanceOf">    <bibitem type="standard">      <fetched>2024-06-09</fetched>      
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
       
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</title>
@@ -1712,7 +1693,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
           </organization>        </owner>      </copyright>      <relation type="obsoletes">        <bibitem type="standard">          <formattedref format="text/plain">ISO 6322-3:1981</formattedref>          <docidentifier type="ISO" primary="true">ISO 6322-3:1981</docidentifier>        </bibitem>
       </relation>      <place>Geneva</place>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Specification</title>
@@ -1724,7 +1705,7 @@ end<annotation id="_f4eaad01-1f05-7b19-91a0-ae5a8d34312f"><p id="_910b9068-d8a3-
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 7301:2002</formattedref>      <docidentifier type="ISO" primary="true">ISO 7301:2002</docidentifier>    </bibitem>
   </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 7301:2021</formattedref>      <docidentifier type="ISO" primary="true">ISO 7301:2021</docidentifier>      <date type="circulated">        <on>2021-06-07</on>      </date>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Evaluation of gelatinization time of kernels during cooking</title>

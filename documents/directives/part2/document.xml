@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.7" schema-version="v1.3.1">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.9" schema-version="v1.3.2">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
 
@@ -1169,7 +1169,7 @@ The French verb “pouvoir” can indicate both permission and possibility. If t
 <title>General</title>
 <p id="_8b9081b8-8e6d-f1bc-2263-85ee8b4db101">Values and dimensions shall be indicated as being minimum or maximum. Their tolerances (if applicable) shall be specified in an unambiguous manner.</p>
 
-<example id="_3dbd9fdf-c662-8fa2-a889-cc0bd69a3ae9"><p id="_a31508b5-c73e-962d-ca3e-f3e9c37fe0f3"><stem type="MathML" block="false"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<example id="_5a24e48e-984b-f7a4-3d3d-5a4ff7014333"><p id="_42fceff3-e326-03b7-832d-c3983805cb08"><stem type="MathML" block="false"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mn>80</mn>
     <mo rspace="thickmathspace">⁢</mo>
@@ -1179,16 +1179,16 @@ The French verb “pouvoir” can indicate both permission and possibility. If t
       </mstyle>
     </mrow>
     <mo>×</mo>
-    <mn>25</mn>
     <mo rspace="thickmathspace">⁢</mo>
+    <mn>25</mn>
     <mrow>
       <mstyle mathvariant="normal">
         <mi>mm</mi>
       </mstyle>
     </mrow>
+    <mo rspace="thickmathspace">⁢</mo>
     <mo>×</mo>
     <mn>50</mn>
-    <mo rspace="thickmathspace">⁢</mo>
     <mrow>
       <mstyle mathvariant="normal">
         <mi>mm</mi>
@@ -1214,7 +1214,7 @@ The French verb “pouvoir” can indicate both permission and possibility. If t
 <asciimath>80 xx 25 xx 50 "unitsml(mm)"</asciimath></stem>)</p>
 </example>
 
-<example id="_9ab7034c-193b-050c-614e-e00b3e180e73"><p id="_2d42ccc3-f2d6-d3de-9ca1-c520540c42ca"><stem type="MathML" block="false"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<example id="_4aa38892-3ced-5d46-6fe0-d59d4a9ce59b"><p id="_a74bf6d9-aca8-37d8-afb1-e3d417501043"><stem type="MathML" block="false"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mn>80</mn>
     <mo rspace="thickmathspace">⁢</mo>
@@ -1224,8 +1224,8 @@ The French verb “pouvoir” can indicate both permission and possibility. If t
       </mstyle>
     </mrow>
     <mo>±</mo>
-    <mn>2</mn>
     <mo rspace="thickmathspace">⁢</mo>
+    <mn>2</mn>
     <mrow>
       <mstyle mathvariant="normal">
         <mi>µF</mi>
@@ -4122,9 +4122,9 @@ EXAMPLE       A company could apply the model to receiving operations managem
 <td valign="top" align="left"><stem type="MathML" block="false"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mi>x</mi>
-    <mo>, </mo>
+    <mo>,</mo>
     <mi>y</mi>
-    <mo>, </mo>
+    <mo>,</mo>
     <mi>z</mi>
   </mstyle>
 </math>

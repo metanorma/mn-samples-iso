@@ -1,2 +1,3 @@
-[FATAL] Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 748:36)
-Can't obtain table's widths information: javax.xml.transform.TransformerException: org.apache.fop.fo.ValidationException: null:748:36: Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 748:36)
+[FATAL] Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 499:36)
+Can't obtain table's widths information: javax.xml.transform.TransformerException: org.apache.fop.fo.ValidationException: null:499:36: Property ID "bib" (found on "fo:block") previously used; ID values must be unique within a document! (See position 499:36)
+Can't add annotation.

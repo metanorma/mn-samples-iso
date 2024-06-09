@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.7" schema-version="v1.3.1">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.9" schema-version="v1.3.2">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main"> — Competence of standards professionals — In companies</title>
 
@@ -201,7 +201,7 @@ this document.</p>
 </annex><bibliography><references id="_normative_references" normative="true" obligation="informative">
 <title>Normative references</title><p id="_21971d30-bb88-56a2-0d5b-aca5e0104f76">There are no normative references in this document.</p>
 </references><references id="_bibliography" normative="false" obligation="informative">
-<title>Bibliography</title><bibitem id="iso9000" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+<title>Bibliography</title><bibitem id="iso9000" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Quality management systems</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Fundamentals and vocabulary</title>
@@ -212,8 +212,8 @@ this document.</p>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>4</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">  ISO 9000:2015 describes the fundamental concepts and principles of quality management which are universally applicable to the following: — organizations seeking sustained success through the implementation of a quality management system; — customers seeking confidence in an organization’s ability to consistently provide products and services conforming to their requirements; — organizations seeking confidence in their supply chain that their product and service requirements will be met; — organizations and interested parties seeking to improve communication through a common understanding of the vocabulary used in quality management; — organizations performing conformity assessments against the requirements of ISO 9001; — providers of training, assessment or advice in quality management; — developers of related standards. ISO 9000:2015 specifies the terms and definitions that apply to all quality management and quality management system standards developed by ISO/TC 176.</abstract>  <status>    <stage>90</stage>    <substage>92</substage>  </status>  <copyright>    <from>2015</from>    <owner>      <organization>        
 <name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 9000:2005</formattedref>      <docidentifier type="ISO" primary="true">ISO 9000:2005</docidentifier>    </bibitem>
-  </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/AWI 9000</formattedref>      <docidentifier type="ISO" primary="true">ISO/AWI 9000</docidentifier>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/CD 9000</formattedref>      <docidentifier type="ISO" primary="true">ISO/CD 9000</docidentifier>    </bibitem>
+  </relation>  <place>Geneva</place></bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction</title>
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 11: Usability: Definitions and concepts</title>
@@ -222,9 +222,8 @@ this document.</p>
   <uri type="src">https://www.iso.org/standard/63500.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63500:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/35/63500.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 9241-11:2018</docidentifier>  <docidentifier type="iso-reference">ISO 9241-11:2018(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:9241:-11:stage-90.93</docidentifier>  <docnumber>9241</docnumber>  <date type="published">    <on>2018-03</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
 <name>International Organization for Standardization</name>
       <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">ISO 9241-11:2018 provides a framework for understanding the concept of usability and applying it to situations where people use interactive systems, and other types of systems (including built environments), and products (including industrial and consumer products) and services (including technical and personal services). NOTE       In this document, the phrase “object of interest” refers to the system, product or service for which usability is being considered (see 8.1). ISO 9241-11:2018: —      explains that usability is an outcome of use; —      defines key terms and concepts; —      identifies the fundamentals of usability; and —      explains the application of the concept of usability. ISO 9241-11:2018 does not describe specific processes or methods for taking account of usability in design development or evaluation. The intended users of this document include: —      usability/ergonomics/human factors professionals; —      designers and developers of systems, products and services; —      quality assurance personnel; —      public and corporate purchasers; and —      consumer organizations. The most common applications of this document are in design and evaluation.</abstract>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2018</from>    <owner>      <organization>        
-<name>ISO</name>
       </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 9241-11:1998</formattedref>      <docidentifier type="ISO" primary="true">ISO 9241-11:1998</docidentifier>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso17027" type="standard" schema-version="v1.2.8">  <fetched>2024-04-25</fetched>  
+  </relation>  <place>Geneva</place></bibitem><bibitem id="iso17027" type="standard" schema-version="v1.2.8">  <fetched>2024-06-09</fetched>  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Conformity assessment</title>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Vocabulary related to competence of persons used for certification of persons</title>
