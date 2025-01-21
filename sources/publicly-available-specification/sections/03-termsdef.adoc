@@ -27,7 +27,8 @@ temperature at which a cloud of wax crystals first appears in a transparent liqu
 <<iso_3015,clause "3.1">>, In the definition, liquid has been specified to be "transparent".
 
 
-[.nonterm]
+//[.nonterm]
+// unnecessary and wrong: this makes its children non-terms. In docs that are not vocabulary docs, clauses containing terms are not themselves terms
 === Total sediment-aged
 
 ==== potential total sediment
