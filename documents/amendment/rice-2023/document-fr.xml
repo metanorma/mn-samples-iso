@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.10" schema-version="v1.3.2">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
 
@@ -26,112 +26,80 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Produits alimentaires</subdivision><identifier>TC 34</identifier></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Produits alimentaires</name>
+<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Céréales et légumineuses</subdivision><identifier>SC 4</identifier></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<subdivision>
+<name>Céréales et légumineuses</name>
+<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Amylose in rice</subdivision><identifier>WG 4</identifier></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision>
+<name>Amylose in rice</name>
+<identifier>WG 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Produits alimentaires</subdivision><identifier>TC 34</identifier></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Produits alimentaires</name>
+<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Céréales et légumineuses</subdivision><identifier>SC 4</identifier></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<subdivision>
+<name>Céréales et légumineuses</name>
+<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Amylose in rice</subdivision><identifier>WG 4</identifier></organization></contributor><edition>1</edition><version/><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage></status><copyright><from>2023</from><owner><organization>
+<subdivision>
+<name>Amylose in rice</name>
+<identifier>WG 4</identifier></subdivision></organization></contributor><edition>1</edition><version/><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage></status><copyright><from>2023</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2023-02">17301</project-number></structuredidentifier><stagename abbreviation="AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2024</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2023-02">17301</project-number></structuredidentifier><stagename abbreviation="AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2024</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_copyright_protected_document" inline-header="false" obligation="normative">
+<clause id="boilerplate-copyright-default" inline-header="false" obligation="normative">
 <title>COPYRIGHT PROTECTED DOCUMENT</title>
 <p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2023</span></p>
 
-<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation,
-no part of this publication may be
-reproduced or utilized otherwise in any form or by any means, electronic or
-mechanical, including photocopying, or posting on the internet or an intranet,
-without prior written permission. Permission can be requested from either ISO
-at the address below or ISO’s member body in the country of the requester.</p>
+<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
-<p id="boilerplate-address" align="left">ISO copyright office<br/>
-CP 401 • Ch. de Blandonnet 8<br/>
-CH-1214 Vernier, Geneva<br/>
-Phone: +41 22 749 01 11<br/>
-Email: <link target="mailto:copyright@iso.org"/><br/>
-Website: <link target="https://www.iso.org/">www.iso.org</link></p>
+<p id="boilerplate-address" align="left">ISO copyright office<br/> CP 401 • Ch. de Blandonnet 8 <br/> CH-1214 Vernier, Geneva <br/> Phone: +41 22 749 01 11 <br/> Email:  <link target="mailto:copyright@iso.org"/><br/> Website:  <link target="https://www.iso.org/">www.iso.org</link></p>
 
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
 </copyright-statement>
-</boilerplate><preface><foreword id="_45ee3354-7700-4d56-d6c3-2962222e62b9" obligation="informative">
+</boilerplate><preface><foreword id="_092b0e22-4fff-759f-9e14-419cf26dd28d" obligation="informative">
 <title>Foreword</title>
-<review id="_d53efc63-e7da-3152-3a92-71c1b8e54c21" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_b92bb08c-3476-c675-2219-0a2af53f3e5c"><li><p id="_703b0faa-4d60-bdb3-2c4d-4a93e7ccf3d3">Donnez le titre du document auquel la modification s’applique.</p>
+<review id="_d53efc63-e7da-3152-3a92-71c1b8e54c21" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_b92bb08c-3476-c675-2219-0a2af53f3e5c"><li><p id="_703b0faa-4d60-bdb3-2c4d-4a93e7ccf3d3">Donnez le titre du document auquel la modification s’applique.</p>
 </li>
 </ul>
 </review>
-<review id="_14facedb-4bbb-c4e7-46b7-63a7ec09e39b" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_2201b8d5-9fe1-38c4-0b0c-8ca3f9bebe9f"><li><p id="_44c337ad-accb-71d1-10b7-cebde3335abf">Il peut être utile de préciser l’objet de l’amendement dans l’élément complémentaire du titre.</p>
+<review id="_14facedb-4bbb-c4e7-46b7-63a7ec09e39b" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_2201b8d5-9fe1-38c4-0b0c-8ca3f9bebe9f"><li><p id="_44c337ad-accb-71d1-10b7-cebde3335abf">Il peut être utile de préciser l’objet de l’amendement dans l’élément complémentaire du titre.</p>
 </li>
 </ul>
 </review>
-<p id="_adf40c75-5d66-37fd-657b-ae062da933b3">L’ISO (Organisation internationale de normalisation) est une fédération mondiale
-d’organismes nationaux de normalisation (comités membres de l’ISO). L’élaboration des
-Normes internationales est en général confiée aux comités techniques de l’ISO. Chaque
-comité membre intéressé par une étude a le droit de faire partie du comité technique
-créé à cet effet. Les organisations internationales, gouvernementales et non
-gouvernementales, en liaison avec l’ISO participent également aux travaux. L’ISO
-collabore étroitement avec la Commission électrotechnique internationale (IEC) en ce
-qui concerne la normalisation électrotechnique.</p>
+<p id="_f2b13285-ff78-f3a5-42fd-893ff82c82fd">L’ISO (Organisation internationale de normalisation) est une fédération mondiale d’organismes nationaux de normalisation (comités membres de l’ISO). L’élaboration des Normes internationales est en général confiée aux comités techniques de l’ISO. Chaque comité membre intéressé par une étude a le droit de faire partie du comité technique créé à cet effet. Les organisations internationales, gouvernementales et non gouvernementales, en liaison avec l’ISO participent également aux travaux. L’ISO collabore étroitement avec la Commission électrotechnique internationale (IEC) en ce qui concerne la normalisation électrotechnique.</p>
 
-<p id="_0e29d503-78d5-2ef6-efcc-86dacdc1df82">Les procédures utilisées pour élaborer le présent document et celles destinées à sa
-mise à jour sont décrites dans les Directives ISO/IEC, Partie 1. Il convient, en
-particulier de prendre note des différents critères d’approbation requis pour les
-différents types de documents ISO. Le présent document a été rédigé conformément aux
-règles de rédaction données dans les Directives ISO/IEC, Partie 2 (voir
-<link target="https://www.iso.org/directives">www.iso.org/directives</link>).</p>
+<p id="_3069e96c-abe4-1766-d0ff-8e2dab8e7401">Les procédures utilisées pour élaborer le présent document et celles destinées à sa mise à jour sont décrites dans les Directives ISO/IEC, Partie 1. Il convient, en particulier de prendre note des différents critères d’approbation requis pour les différents types de documents ISO. Le présent document a été rédigé conformément aux règles de rédaction données dans les Directives ISO/IEC, Partie 2 (voir <link target="https://www.iso.org/directives">www.iso.org/directives</link>).</p>
 
-<p id="_e931244f-8c15-c68d-bdf3-b2701e4efa93">L’ISO attire l’attention sur la possibilité que la mise en œuvre du présent document
-puisse impliquer l’utilisation d’un (des) brevet(s). L’ISO ne prend aucune position
-concernant la preuve, la validité ou l’applicabilité des droits de brevet revendiqués
-à cet égard. À la date de publication de ce document, l’ISO n’avait pas reçu de
-notification de (un) brevet(s) qui pourraient être requis pour mettre en œuvre ce
-document. Toutefois, les responsables de la mise en œuvre sont avertis que ces
-informations peuvent ne pas représenter les informations les plus récentes, qui
-peuvent être obtenues à partir de la base de données sur les brevets disponible sur
-<link target="https://www.iso.org/brevets">www.iso.org/brevets</link>. L’ISO ne peut être tenue
-responsable de l’identification de tout ou partie de ces droits de brevet.</p>
+<p id="_b01b09e9-f1d2-559d-bdad-efb9c1cac297">L’ISO attire l’attention sur la possibilité que la mise en œuvre du présent document puisse impliquer l’utilisation d’un (des) brevet(s). L’ISO ne prend aucune position concernant la preuve, la validité ou l’applicabilité des droits de brevet revendiqués à cet égard. À la date de publication de ce document, l’ISO n’avait pas reçu de notification de (un) brevet(s) qui pourraient être requis pour mettre en œuvre ce document. Toutefois, les responsables de la mise en œuvre sont avertis que ces informations peuvent ne pas représenter les informations les plus récentes, qui peuvent être obtenues à partir de la base de données sur les brevets disponible sur <link target="https://www.iso.org/brevets">www.iso.org/brevets</link>. L’ISO ne peut être tenue responsable de l’identification de tout ou partie de ces droits de brevet.</p>
 
-<p id="_e2de5e4d-b03f-60aa-4767-95ca6e51eca5">Les appellations commerciales éventuellement mentionnées dans le présent document
-sont données pour information, par souci de commodité, à l’intention des utilisateurs
-et ne sauraient constituer un engagement.</p>
+<p id="_49fc7709-6d64-a95d-c834-c8d5b886c4af">Les appellations commerciales éventuellement mentionnées dans le présent document sont données pour information, par souci de commodité, à l’intention des utilisateurs et ne sauraient constituer un engagement.</p>
 
-<p id="_f439fb0f-2cb7-ab1e-2dbf-6c57cbc09bb6">Pour une explication de la nature volontaire des normes, de la signification des
-termes et expressions spécifiques de l’ISO liés à l’évaluation de la conformité, ou
-pour toute information au sujet de l’adhésion de l’ISO aux principes de
-l’Organisation mondiale du commerce (OMC) concernant les obstacles techniques au
-commerce (OTC), voir le lien suivant:
-<link target="https://www.iso.org/avant-propos">www.iso.org/avant-propos</link>.</p>
+<p id="_70905697-29fb-ef47-8785-a4351d7ee075">Pour une explication de la nature volontaire des normes, de la signification des termes et expressions spécifiques de l’ISO liés à l’évaluation de la conformité, ou pour toute information au sujet de l’adhésion de l’ISO aux principes de l’Organisation mondiale du commerce (OMC) concernant les obstacles techniques au commerce (OTC), voir le lien suivant: <link target="https://www.iso.org/avant-propos">www.iso.org/avant-propos</link>.</p>
 
-<review id="_ae2da702-1f25-48d3-768d-dd350e65bf98" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"/>
-<p id="_50731a12-4252-6ea2-6b72-c425064aeb5f">Le présent document a été élaboré par le comité technique ISO/TC
-34, <em>Produits alimentaires</em>, souscomité SC
-4, <em>Céréales et légumineuses</em>.</p>
+<review id="_ae2da702-1f25-48d3-768d-dd350e65bf98" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"/>
+<p id="_7e3598db-4579-1071-9937-a5584c56534e">Le présent document a été élaboré par le comité technique ISO/TC 34,  <em>Produits alimentaires</em>, souscomité SC 4,  <em>Céréales et légumineuses</em>.</p>
 
-<p id="_344c5252-73de-ac30-eecb-33511047bec1">Une liste de toutes les parties de la série ISO 17301 se trouve sur
-<link target="https://www.iso.org">le site Web de l’ISO</link>.</p>
+<p id="_5e09554e-fc17-ea96-a8a1-9805ca0d2520">Une liste de toutes les parties de la série ISO 17301 se trouve sur <link target="https://www.iso.org">le site Web de l’ISO</link>.</p>
 
-<p id="_2d1a837f-8255-d7d6-79ef-a994a128b776">Tout commentaire ou question sur ce document doit être adressé à l’organisme de
-normalisation national de l’utilisateur. Une liste complète de ces organismes est
-disponible sur <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
+<p id="_3cc98c85-d76b-fbdb-40ae-d1a5dd4fca4a">Tout commentaire ou question sur ce document doit être adressé à l’organisme de normalisation national de l’utilisateur. Une liste complète de ces organismes est disponible sur  <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
 
-<review id="_4d860882-d852-af15-ae81-d286c523ad28" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_6fb9cdf4-1f34-8198-0f97-b77d7f50e4f4"><li><p id="_9a3299fe-529f-850e-4521-b819eed018c7">Les informations concernant l’édition et les modifications ne sont pas incluses
-ici. Il est inclus dans la Norme internationale.</p>
+<review id="_6947125d-9a81-8e9f-2a94-6655d7b3a77f" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_7ebe9be1-0628-92e2-d7de-5d3286132bb4"><li><p id="_c04ba540-592e-7a3c-8510-392d44084151">Les informations concernant l’édition et les modifications ne sont pas incluses ici. Il est inclus dans la Norme internationale.</p>
 </li>
 </ul>
 </review>
-<review id="_cb8d2528-a00b-9d38-834a-bbdf28685549" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_37807e66-ce0c-85d2-a802-608f63b827bf"><li><p id="_bad05c8a-9727-3033-cf11-9ddcff553a7b">Un Amendement ne comprend pas de liste de contenu, d’Introduction ou de clause de Portée.</p>
+<review id="_cb8d2528-a00b-9d38-834a-bbdf28685549" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_37807e66-ce0c-85d2-a802-608f63b827bf"><li><p id="_bad05c8a-9727-3033-cf11-9ddcff553a7b">Un Amendement ne comprend pas de liste de contenu, d’Introduction ou de clause de Portée.</p>
 </li>
 </ul>
 </review></foreword></preface><sections>
@@ -139,10 +107,7 @@ ici. Il est inclus dans la Norme internationale.</p>
 <title>Introduction, troisième paragraphe</title>
 
 
-<amend id="_51f6ff17-ae30-6e7c-5eba-9eda8437f33c" change="modify"><description><p id="_9c941d13-176d-2661-cc5d-9df5be148cc8">Remplacer «5 %» par «10 %» et «30 %» par «40 %».</p><review id="_cc8f925b-79a4-b686-7a2a-fa79f11f3207" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_5ed60a5c-4e55-3d33-e099-1de1cd900670"><li><p id="_4f25c0b4-834f-2c74-13c6-a223a7d6704c">L’élément à modifier par rapport au document original est clairement spécifié (par
-exemple, numéro de clause, paragraphe, figure, tableau, formule), suivi d’une
-indication claire de ce qui est modifié (par exemple en utilisant les verbes
-«remplacer», «supprimer», «ajouter»).</p>
+<amend id="_e164920d-1080-c8c4-fa0a-3bc755c10876" change="modify"><description><p id="_9c941d13-176d-2661-cc5d-9df5be148cc8">Remplacer «5 %» par «10 %» et «30 %» par «40 %».</p><review id="_be7ec368-39ab-63ba-f4c1-77e78e890821" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_03eca22e-dd6c-31ae-c98a-7da33c06ac22"><li><p id="_a4f78d32-1fc2-6774-41f7-8b513adeab28">L’élément à modifier par rapport au document original est clairement spécifié (par exemple, numéro de clause, paragraphe, figure, tableau, formule), suivi d’une indication claire de ce qui est modifié (par exemple en utilisant les verbes «remplacer», «supprimer», «ajouter»).</p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -151,8 +116,7 @@ indication claire de ce qui est modifié (par exemple en utilisant les verbes
 <title>Article 2, Références normatives</title>
 
 
-<amend id="_0f6932f7-2937-d364-f19c-96831a6c6992" change="modify" path="./bibitem[docidentifier = 'ISO 8351-2']"><description><p id="_a15ce2d4-e007-9e4f-141d-e6e528a21a29">Remplacer «ISO 8351-2» par «ISO 8351-2:1994».</p><review id="_a21e035b-7436-9aff-f8f3-57ae1d7b97c6" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_10cb7413-96a3-4a00-97d2-8bd53a4d95fe"><li><p id="_7bb5cdf8-2146-0ace-df96-2fb20a834b07">Dans ce cas, la référence datée dans la clause Références normatives a été mise à
-jour pour correspondre à la référence mise à jour dans <xref target="cls8-comment">l’Article 8, deuxième</xref></p>
+<amend id="_58d22ea8-2aea-f9ff-b56b-0f633385d3a5" change="modify" path="./bibitem[docidentifier = 'ISO 8351-2']"><description><p id="_a15ce2d4-e007-9e4f-141d-e6e528a21a29">Remplacer «ISO 8351-2» par «ISO 8351-2:1994».</p><review id="_b314c1e6-8e0e-bd04-aa5b-5733ae5e8f4f" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_dbdcb07f-d0a9-68de-2286-95f3afe75adb"><li><p id="_a93746f5-5826-46fd-0379-a4377faf7e0a">Dans ce cas, la référence datée dans la clause Références normatives a été mise à jour pour correspondre à la référence mise à jour dans  <xref target="cls8-comment">l’Article 8, deuxième</xref></p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -164,22 +128,19 @@ jour pour correspondre à la référence mise à jour dans <xref target="cls8-co
 
 
 
-<amend id="_ee4931c9-d624-e412-abec-dc80ab38970d" change="modify"><description><p id="_4e5a2cd2-ffce-93ac-75c5-5ba0d22e8ec4">Renuméroter la NOTE existante en NOTE 1 et ajouter la nouvelle NOTE 2 suivante:</p></description><newcontent id="_09b4e1df-66d0-ec3b-1dbc-92bccc90c1ad"><note id="_2a7a265f-5065-c8a9-4498-0817a8ac75e6"><p id="_a79bf1e2-da46-52a2-9189-51414d39759c">Pour certaines destinations, aucune différentiation n’est faite entre les
-fractions massiques de matières étrangères organiques et non organiques.</p>
+<amend id="_d0f4591c-cf75-4132-a233-dbafc6c1f229" change="modify"><description><p id="_4e5a2cd2-ffce-93ac-75c5-5ba0d22e8ec4">Renuméroter la NOTE existante en NOTE 1 et ajouter la nouvelle NOTE 2 suivante:</p></description><newcontent id="_a39c8572-c80f-4fea-4d3a-31d52945be28"><note id="_e78e1fbd-e472-a83f-d1a1-4fec157cf9e5"><p id="_e240fea4-d041-67b5-60f6-a4056eba97eb">Pour certaines destinations, aucune différentiation n’est faite entre les fractions massiques de matières étrangères organiques et non organiques.</p>
 </note>
 </newcontent><autonumber type="note">2</autonumber></amend></clause>
 
 <clause id="_4_2_2_tableau_1" obligation="normative">
 <title>4.2.2, Tableau 1</title>
 
-<amend id="_979da7dc-527f-1d10-bf52-17c45d853938" change="modify"><description><p id="_e937a76e-2c3d-37e3-2f70-b18701e8d3e1">Dans la colonne «riz usiné (non gluant)», remplacer la valeur «0,3» pour «Paddy»
-par la valeur «0,5».</p></description></amend></clause>
+<amend id="_c93ee5a0-f3cc-953e-a105-c118d2337048" change="modify"><description><p id="_afb0eb8a-9ea3-31e9-e515-ea65f88fa2dc">Dans la colonne «riz usiné (non gluant)», remplacer la valeur «0,3» pour «Paddy» par la valeur «0,5».</p></description></amend></clause>
 
 <clause id="cls8-comment" obligation="normative">
 <title>Article 8, deuxième paragraphe</title>
 
-<amend id="_65b66e2f-dcf1-633d-0f73-d49baae7566f" change="modify"><description><p id="_cf28933e-363c-1034-6163-c8613fdca51a">Remplacer «de l’ISO 8351-1:1994, Article 9, ou de l’ISO 8351-2, selon le cas» par
-«de l’ISO 8351-1:1994, Article 3, ou de l’ISO 8351-2:1994, Article 3, selon le cas».</p></description></amend></clause>
+<amend id="_e6a4ccef-3373-c388-33dc-3f90146494fe" change="modify"><description><p id="_933ae3b6-b62a-1356-89ac-5d0ad6cdebde">Remplacer «de l’ISO 8351-1:1994, Article 9, ou de l’ISO 8351-2, selon le cas» par «de l’ISO 8351-1:1994, Article 3, ou de l’ISO 8351-2:1994, Article 3, selon le cas».</p></description></amend></clause>
 
 <clause id="_article_8" obligation="normative">
 <title>Article 8</title>
@@ -187,11 +148,8 @@ par la valeur «0,5».</p></description></amend></clause>
 
 
 
-<amend id="_351642f6-7b0a-736c-79a6-ac6a70bd2445" change="add" path="./*[last()]"><description><p id="_cf05d2d2-7ebc-c697-97ae-49e302a29294">Ajouter l’alinéa suivant à la fin de l’article:</p></description><newcontent id="_c2308976-ff7e-2de3-7d7e-4dac5cb60ee6"><p id="_0c41b8a3-6e30-eee5-015a-19208621ba97">L’Annexe E fournit des recommandations relatives aux conditions d’entreposage et de
-transport.</p>
-</newcontent><description><review id="_660bf63b-f18d-df4e-fbcc-f39c06015d4d" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_72bc70e8-51f3-d524-729f-0f514f98243b"><li><p id="_8712e923-24e8-5b99-3ec9-c99cbf966818">Lorsqu’une nouvelle annexe est ajoutée à un document, une référence doit être faite
-à cette nouvelle annexe dans le corps du document, comme indiqué dans la
-modification de l’Article 8.</p>
+<amend id="_0a932faa-4c0c-3618-6aa7-95bac876215d" change="add" path="./*[last()]"><description><p id="_cf05d2d2-7ebc-c697-97ae-49e302a29294">Ajouter l’alinéa suivant à la fin de l’article:</p></description><newcontent id="_78d87a11-077c-8a6b-9fde-27b33234d55d"><p id="_21d40903-1c28-8e37-107a-30ec9c310327">L’Annexe E fournit des recommandations relatives aux conditions d’entreposage et de transport.</p>
+</newcontent><description><review id="_6685bdb6-6374-9f8c-9be8-b0bbfb205f83" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_4f767720-e1f8-57b8-70af-18b252fd97c9"><li><p id="_4b860734-636a-2594-f9bf-bd3323d3109a">Lorsqu’une nouvelle annexe est ajoutée à un document, une référence doit être faite à cette nouvelle annexe dans le corps du document, comme indiqué dans la modification de l’Article 8.</p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -201,8 +159,7 @@ modification de l’Article 8.</p>
 
 
 
-<amend id="_06313ecd-b171-d4bf-fb83-e6065dca1c80" change="modify"><description><p id="_7077d999-a61a-c1bc-82ac-66a4eeef1312">Remplacer le texte par le suivant:</p></description><newcontent id="_413d2b94-aba7-3be5-ca48-d12c5176087d"><p id="_2c7457ab-07fa-4b87-b7a0-34281ddebfb6">Le marquage et l’étiquetage sur l’emballage doivent clairement identifier le type
-de riz.</p>
+<amend id="_2acc808b-62a3-2a0d-a7f8-a8434670d516" change="modify"><description><p id="_7077d999-a61a-c1bc-82ac-66a4eeef1312">Remplacer le texte par le suivant:</p></description><newcontent id="_770d278f-2699-c75f-44ce-650a6bc0c2fd"><p id="_3a2c818d-5064-83dd-cb3a-7ebd14168fd5">Le marquage et l’étiquetage sur l’emballage doivent clairement identifier le type de riz.</p>
 </newcontent></amend></clause>
 
 <clause id="_a_2_1" obligation="normative">
@@ -210,10 +167,7 @@ de riz.</p>
 
 
 
-<amend id="_2a20545b-8821-145e-d499-fc161f0749af" change="modify"><description><p id="_5971e556-2a88-56ab-2541-a8e522a9aa87">Remplacer le texte par le suivant:</p></description><newcontent id="_d9dd2a4c-e168-e628-52fe-d468106ae331"><p id="_f43c14a9-0dc9-bcd4-cb76-c81ba5cf5e7d"><strong>A.2.1 Diviseur d’échantillon</strong>, de type échantillonneur conique ou échantillonneur
-à fentes multiples avec système distributeur, par exemple de type «Bon diviseur»
-comme représenté à la Figure A.1 ou de type diviseur à fentes multiples comme
-représenté à la Figure A.2.</p>
+<amend id="_83c41ac0-864a-ff7a-b00a-b8cb57aef1ed" change="modify"><description><p id="_5971e556-2a88-56ab-2541-a8e522a9aa87">Remplacer le texte par le suivant:</p></description><newcontent id="_cb5aff2a-2eca-274c-d972-67dca8a014fb"><p id="_3d48b941-bedc-e193-23d6-d0005773d404"><strong>A.2.1 Diviseur d’échantillon</strong>, de type échantillonneur conique ou échantillonneur à fentes multiples avec système distributeur, par exemple de type «Bon diviseur» comme représenté à la Figure A.1 ou de type diviseur à fentes multiples comme représenté à la Figure A.2.</p>
 </newcontent></amend></clause>
 
 <clause id="_figure_a_1" obligation="normative">
@@ -224,7 +178,7 @@ représenté à la Figure A.2.</p>
 
 
 
-<amend id="_8874291b-fccf-c617-3240-f908f67b5a29" change="modify"><description><review id="_e90b52be-c992-3964-52ac-7a0d6a43b1a4" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_6b0dfde6-1617-2a90-8e18-afda09f78571"><li><p id="_b89ffe8e-312c-4dee-1c84-6441da97f679">Les nouveaux chiffres sont référencés au point A.2.1 du présent Amendement.</p>
+<amend id="_8874291b-fccf-c617-3240-f908f67b5a29" change="modify"><description><review id="_e90b52be-c992-3964-52ac-7a0d6a43b1a4" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_6b0dfde6-1617-2a90-8e18-afda09f78571"><li><p id="_b89ffe8e-312c-4dee-1c84-6441da97f679">Les nouveaux chiffres sont référencés au point A.2.1 du présent Amendement.</p>
 </li>
 </ul>
 </review><p id="_f87fcf1f-a37e-1302-ccb6-b4fbdd8d280d">Remplacer la Figure A.1 par les deux figures suivantes:</p></description><newcontent id="_15275887-592a-a5b0-deb5-34a263e89e05"><figure id="fig1" width="200">
@@ -258,22 +212,14 @@ représenté à la Figure A.2.</p>
 
 
 
-<amend id="_66a560f1-d8c7-f847-d99f-4f06ecc46fc3" change="add" path="."><description><p id="_ee48a9f8-a00f-4cb4-a9d4-1380d4f2bfc2">Ajouter l’annexe suivante après l’Annexe D, avant la Bibliographie:</p><review id="_57de1a5c-02b8-152b-05fa-5f678713de91" reviewer="ISO" date="2024-06-19T00:00:00Z" type="todo"><ul id="_9b8a4e36-17e3-8886-7e56-23cd5e51ed74"><li><p id="_1cfdac0f-88ca-b690-3015-89619b547b4e">La nouvelle annexe E est référencée à l’Article 8 du présent Amendement.</p>
+<amend id="_3991d755-6414-8697-1a57-c47f281bf680" change="add" path="."><description><p id="_ee48a9f8-a00f-4cb4-a9d4-1380d4f2bfc2">Ajouter l’annexe suivante après l’Annexe D, avant la Bibliographie:</p><review id="_57de1a5c-02b8-152b-05fa-5f678713de91" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_9b8a4e36-17e3-8886-7e56-23cd5e51ed74"><li><p id="_1cfdac0f-88ca-b690-3015-89619b547b4e">La nouvelle annexe E est référencée à l’Article 8 du présent Amendement.</p>
 </li>
 </ul>
-</review></description><newcontent id="_33fd79a0-fe38-d0fb-02d0-449934732639"><p id="_bc2b5746-a168-89e1-5f9d-0ce59a81723f"><strong>Annexe E. Recommandations relatives aux conditions d’entreposage et de transport</strong></p>
+</review></description><newcontent id="_e022738b-21b0-3a61-137e-f4c5057682f9"><p id="_bc2b5746-a168-89e1-5f9d-0ce59a81723f"><strong>Annexe E. Recommandations relatives aux conditions d’entreposage et de transport</strong></p>
 
-<p id="_e977c2e4-4282-74b5-7d00-5ea3819850d6">Il convient que les emballages de riz soient manipulés, stockés et transportés de
-manière qu’ils soient protégés de la pluie, du soleil ou d’autres sources de
-chaleur excessive, des odeurs désagréables et de toute contamination (en
-particulier dans les cales des navires).</p>
+<p id="_6d3a06bd-0142-6581-269c-c617169169c7">Il convient que les emballages de riz soient manipulés, stockés et transportés de manière qu’ils soient protégés de la pluie, du soleil ou d’autres sources de chaleur excessive, des odeurs désagréables et de toute contamination (en particulier dans les cales des navires).</p>
 
-<p id="_ca825d37-cdf0-ddd9-717b-462b6e784167">Il convient que l’entrepôt soit dans un local couvert, sec et exempt d’odeurs
-désagréables, et protégé contre l’entrée d’insectes et autres déprédateurs. Il
-convient que la ventilation soit réglée de manière à assurer une bonne ventilation
-en période sèche et à être entièrement arrêtée en période humide. Il convient que
-des dispositions appropriées soient prises pour permettre la fumigation dans
-l’entrepôt.</p>
+<p id="_33ce47fc-96ec-d7aa-6147-a52817fcb06c">Il convient que l’entrepôt soit dans un local couvert, sec et exempt d’odeurs désagréables, et protégé contre l’entrée d’insectes et autres déprédateurs. Il convient que la ventilation soit réglée de manière à assurer une bonne ventilation en période sèche et à être entièrement arrêtée en période humide. Il convient que des dispositions appropriées soient prises pour permettre la fumigation dans l’entrepôt.</p>
 </newcontent></amend></clause>
 </sections>
 </iso-standard>

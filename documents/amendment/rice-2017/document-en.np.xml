@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.10" schema-version="v1.3.2">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specification and test methods — Rice (NP) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
 
@@ -26,41 +26,43 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Food products</subdivision><identifier>TC 34</identifier></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Food products</name>
+<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Cereals and pulses</subdivision><identifier>SC 4</identifier></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<subdivision>
+<name>Cereals and pulses</name>
+<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Amylose in rice</subdivision><identifier>WG 4</identifier></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision>
+<name>Amylose in rice</name>
+<identifier>WG 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Food products</subdivision><identifier>TC 34</identifier></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Food products</name>
+<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Cereals and pulses</subdivision><identifier>SC 4</identifier></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<subdivision>
+<name>Cereals and pulses</name>
+<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Amylose in rice</subdivision><identifier>WG 4</identifier></organization></contributor><edition>2</edition><version/><language>en</language><script>Latn</script><status><stage abbreviation="PWI">00</stage><substage>00</substage></status><copyright><from>2017</from><owner><organization>
+<subdivision>
+<name>Amylose in rice</name>
+<identifier>WG 4</identifier></subdivision></organization></contributor><edition>2</edition><version/><language>en</language><script>Latn</script><status><stage abbreviation="PWI">00</stage><substage>00</substage></status><copyright><from>2017</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2016-05-01">17301</project-number></structuredidentifier><stagename abbreviation="PWI AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2016-05-01">17301</project-number></structuredidentifier><stagename abbreviation="PWI AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_f746ab4b-66d7-b5dd-2b0c-1f749f1c2a8b" inline-header="false" obligation="normative">
+<clause id="boilerplate-copyright-default" inline-header="false" obligation="normative">
 <p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2017</span></p>
 
-<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation,
-no part of this publication may be
-reproduced or utilized otherwise in any form or by any means, electronic or
-mechanical, including photocopying, or posting on the internet or an intranet,
-without prior written permission. Permission can be requested from either ISO
-at the address below or ISO’s member body in the country of the requester.</p>
+<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
-<p id="boilerplate-address" align="left">ISO copyright office<br/>
-CP 401 • Ch. de Blandonnet 8<br/>
-CH-1214 Vernier, Geneva<br/>
-Phone: +41 22 749 01 11<br/>
-Email: <link target="mailto:copyright@iso.org"/><br/>
-Website: www.iso.org</p>
+<p id="boilerplate-address" align="left">ISO copyright office<br/> CP 401 • Ch. de Blandonnet 8 <br/> CH-1214 Vernier, Geneva <br/> Phone: +41 22 749 01 11 <br/> Email:  <link target="mailto:copyright@iso.org"/><br/> Website: www.iso.org</p>
 
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.10" schema-version="v1.3.2">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main"> — Competence of standards professionals — In companies</title>
 
@@ -18,42 +18,42 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Technical Management Board - groups</subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Technical Management Board - groups</name>
+</subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<subdivision>
+</subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Date and time</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision>
+<name>Date and time</name>
+</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Technical Management Board - groups</subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Technical Management Board - groups</name>
+</subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<subdivision>
+</subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Date and time</subdivision></organization></contributor><edition>1</edition><version><revision-date>2019-10-15</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2019</from><owner><organization>
+<subdivision>
+<name>Date and time</name>
+</subdivision></organization></contributor><edition>1</edition><version><revision-date>2019-10-15</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-workshop-agreement</doctype><editorialgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>03.100.30</code><text>Management of human resources</text></ics><structuredidentifier><project-number part="1">ISO IWA 30</project-number></structuredidentifier><stagename>International Standard</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-workshop-agreement</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>03.100.30</code><text>Management of human resources</text></ics><structuredidentifier><project-number part="1">ISO IWA 30</project-number></structuredidentifier><stagename>International Standard</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_copyright_protected_document" inline-header="false" obligation="normative">
+<clause id="boilerplate-copyright-default" inline-header="false" obligation="normative">
 <title>COPYRIGHT PROTECTED DOCUMENT</title>
 <p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2019</span></p>
 
-<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation,
-no part of this publication may be
-reproduced or utilized otherwise in any form or by any means, electronic or
-mechanical, including photocopying, or posting on the internet or an intranet,
-without prior written permission. Permission can be requested from either ISO
-at the address below or ISO’s member body in the country of the requester.</p>
+<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
-<p id="boilerplate-address" align="left">ISO copyright office<br/>
-CP 401 • Ch. de Blandonnet 8<br/>
-CH-1214 Vernier, Geneva<br/>
-Phone: +41 22 749 01 11<br/>
-Email: <link target="mailto:copyright@iso.org"/><br/>
-Website: www.iso.org</p>
+<p id="boilerplate-address" align="left">ISO copyright office<br/> CP 401 • Ch. de Blandonnet 8 <br/> CH-1214 Vernier, Geneva <br/> Phone: +41 22 749 01 11 <br/> Email:  <link target="mailto:copyright@iso.org"/><br/> Website: www.iso.org</p>
 
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
@@ -90,16 +90,13 @@ Website: www.iso.org</p>
 
 
 <terms id="terms" obligation="normative">
-<title>Terms and definitions</title><p id="_fcf8a560-80b7-050c-5b7c-a0fa533bb966">For the purposes of this document, 
-    the following terms and definitions apply.</p>
-<p id="_ad8b7c56-0577-cbbd-8b29-1a9a010ee6c9">ISO and IEC maintain terminology databases for use in
-standardization at the following addresses:</p>
+<title>Terms and definitions</title><p id="_0da6ca68-ecc9-b4a3-26a2-cdb6aef1b772">For the purposes of this document, the following terms and definitions apply.</p>
+<p id="_13af5450-a71d-e945-782d-afffb0a645ab">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
 
-<ul id="_5c30f860-dfd7-0b61-ce12-f1f3bfd48683">
-<li><p id="_9f56356a-3a58-64c4-e59e-a23ca3da7e88">ISO Online browsing platform: available at
-  <link target="https://www.iso.org/obp"/></p></li>
-<li><p id="_e32e7234-859e-9fdd-bd49-6e9d7b1a65ff">IEC Electropedia: available at
-<link target="https://www.electropedia.org"/></p></li>
+<ul id="_3fb63b94-5696-f10f-fa14-8fb905c53d98"><li><p id="_9bcbd305-1125-3ee7-507a-f9b9cd78c680">ISO Online browsing platform: available at <link target="https://www.iso.org/obp"/></p>
+</li>
+<li><p id="_16dd7b4f-969c-d0e1-c933-d9185c774137">IEC Electropedia: available at <link target="https://www.electropedia.org"/></p>
+</li>
 </ul>
 
 <term id="term-attribute"><preferred><expression>
@@ -112,7 +109,7 @@ standardization at the following addresses:</p>
 
 
  <termexample id="_84cc9d41-5231-d4b4-ca37-6aaf9ab32bcb"><p id="_dc287b7d-a218-cbe3-0505-11035ae623c2">Visual acuity; sensitivity to others; openness.</p>
-</termexample><termsource status="identical" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.10</referenceFrom></locality></localityStack></origin>
+</termexample><termsource status="identical" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.10</referenceFrom></locality></localityStack></origin>
 </termsource></term>
 
 <term id="term-competence"><preferred><expression>
@@ -125,7 +122,7 @@ standardization at the following addresses:</p>
 
 
  <termnote id="_3798bdb7-c13d-3356-619a-8edc367effe4"><p id="_fa74daf8-d6c4-c549-aba6-9b378d279c8f">“Competence” can also be referred to as “competency”.</p>
-</termnote><termsource status="modified" type="authoritative"><origin bibitemid="iso9000" type="inline" citeas="ISO&amp;#xa0;9000:2015"/><modification><p id="_ae6b54fe-7d6f-f900-2851-d86a564a62c3">“attributes” and Note 1 to entry have been added.</p>
+</termnote><termsource status="modified" type="authoritative"><origin bibitemid="iso9000" type="inline" citeas="ISO 9000:2015"/><modification><p id="_ae6b54fe-7d6f-f900-2851-d86a564a62c3">“attributes” and Note 1 to entry have been added.</p>
 </modification>
 </termsource></term>
 
@@ -136,7 +133,7 @@ standardization at the following addresses:</p>
 <definition><verbal-definition><p id="_e7627526-7876-b8e2-23e0-8d2580f8e4a3">facts, information, truths, principles or understanding acquired through experience or education</p></verbal-definition></definition>
 
 
- <termsource status="identical" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.56</referenceFrom></locality></localityStack></origin>
+ <termsource status="identical" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.56</referenceFrom></locality></localityStack></origin>
 </termsource></term>
 
 <term id="term-skill"><preferred><expression>
@@ -146,7 +143,7 @@ standardization at the following addresses:</p>
 <definition><verbal-definition><p id="_67927448-b814-0e49-91db-f5d746b395b0">ability acquired through education, training, experience or other means to perform a <concept><refterm>task</refterm><renderterm>task</renderterm><xref target="term-task"/></concept> or an activity with a specific intended outcome</p></verbal-definition></definition>
 
 
- <termsource status="modified" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.74</referenceFrom></locality></localityStack></origin>
+ <termsource status="modified" type="authoritative"><origin bibitemid="iso17027" type="inline" citeas="ISO/IEC TS 17027:2014"><localityStack><locality type="clause"><referenceFrom>2.74</referenceFrom></locality></localityStack></origin>
 <modification><p id="_6091a3c6-836a-2ddf-7213-f87ea245d0c3">The wording in the definition has been reordered.</p>
 </modification>
 </termsource></term>
@@ -164,7 +161,7 @@ standardization at the following addresses:</p>
 
  <termnote id="_25413869-94de-889a-09a6-58438dc7803e"><p id="_d2dbcf5d-9d5a-c9d9-f59c-ca0e938533b9">These activities can be physical, perceptual and/or cognitive.</p>
 </termnote><termnote id="_6f9210ce-4af0-1024-6200-27b632658c8e"><p id="_fbf9eab1-7dc5-4391-352c-207df9180126">While goals are independent of the means used to achieve them, tasks describe particular means of achieving goals.</p>
-</termnote><termsource status="identical" type="authoritative"><origin bibitemid="iso9241_11" type="inline" citeas="ISO&amp;#xa0;9241-11:2018"><localityStack><locality type="clause"><referenceFrom>3.1.11</referenceFrom></locality></localityStack></origin>
+</termnote><termsource status="identical" type="authoritative"><origin bibitemid="iso9241_11" type="inline" citeas="ISO 9241-11:2018"><localityStack><locality type="clause"><referenceFrom>3.1.11</referenceFrom></locality></localityStack></origin>
 </termsource></term>
 </terms>
 
@@ -177,8 +174,7 @@ standardization at the following addresses:</p>
 
 <clause id="_data_models" inline-header="false" obligation="normative">
 <title>Data models</title>
-<p id="_7f45002c-cfd6-9c29-560c-392acb45679e">The following data models are used by other data models specified in
-this document.</p>
+<p id="_8cb000a7-5195-0fec-e1e8-385b660fbac7">The following data models are used by other data models specified in this document.</p>
 
 <clause id="_basic_data_types" inline-header="false" obligation="normative">
 <title>Basic data types</title>
@@ -200,40 +196,219 @@ this document.</p>
 <p id="_9283492d-f5ad-1011-3704-ecf1dbb0e814">This is an informative annex.</p>
 </annex><bibliography><references id="_normative_references" normative="true" obligation="informative">
 <title>Normative references</title><p id="_21971d30-bb88-56a2-0d5b-aca5e0104f76">There are no normative references in this document.</p>
+
 </references><references id="_bibliography" normative="false" obligation="informative">
-<title>Bibliography</title><bibitem id="iso9000" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+<title>Bibliography</title><bibitem id="iso9000" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Quality management systems</title>
+
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Fundamentals and vocabulary</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Quality management systems — Fundamentals and vocabulary</title>
-  <uri type="src">https://www.iso.org/standard/45481.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:45481:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/04/54/45481.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 9000:2015</docidentifier>  <docidentifier type="iso-reference">ISO 9000:2015(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:9000:stage-90.92</docidentifier>  <docnumber>9000</docnumber>  <date type="published">    <on>2015-09</on>  </date>  <date type="corrected">    <on>2015-09</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/45481.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:45481:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/04/54/45481.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 9000:2015</docidentifier>
+  <docidentifier type="iso-reference">ISO 9000:2015(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:9000:stage-90.92</docidentifier>
+  <docnumber>9000</docnumber>
+  <date type="published">
+    <on>2015-09</on>
+  </date>
+  <date type="corrected">
+    <on>2015-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>4</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">  ISO 9000:2015 describes the fundamental concepts and principles of quality management which are universally applicable to the following: — organizations seeking sustained success through the implementation of a quality management system; — customers seeking confidence in an organization’s ability to consistently provide products and services conforming to their requirements; — organizations seeking confidence in their supply chain that their product and service requirements will be met; — organizations and interested parties seeking to improve communication through a common understanding of the vocabulary used in quality management; — organizations performing conformity assessments against the requirements of ISO 9001; — providers of training, assessment or advice in quality management; — developers of related standards. ISO 9000:2015 specifies the terms and definitions that apply to all quality management and quality management system standards developed by ISO/TC 176.</abstract>  <status>    <stage>90</stage>    <substage>92</substage>  </status>  <copyright>    <from>2015</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 9000:2005</formattedref>      <docidentifier type="ISO" primary="true">ISO 9000:2005</docidentifier>    </bibitem>
-  </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO/CD 9000</formattedref>      <docidentifier type="ISO" primary="true">ISO/CD 9000</docidentifier>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>4</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn"> 
+ISO 9000:2015 describes the fundamental concepts and principles of quality management which are universally applicable to the following:
+- organizations seeking sustained success through the implementation of a quality management system;
+- customers seeking confidence in an organization’s ability to consistently provide products and services conforming to their requirements;
+- organizations seeking confidence in their supply chain that their product and service requirements will be met;
+- organizations and interested parties seeking to improve communication through a common understanding of the vocabulary used in quality management;
+- organizations performing conformity assessments against the requirements of ISO 9001;
+- providers of training, assessment or advice in quality management;
+- developers of related standards.
+ISO 9000:2015 specifies the terms and definitions that apply to all quality management and quality management system standards developed by ISO/TC 176.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>92</substage>
+  </status>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        
+<name>ISO</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 9000:2005</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 9000:2005</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO/CD 9000</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/CD 9000</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>Geneva</place>
+</bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction</title>
+
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 11: Usability: Definitions and concepts</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts</title>
-  <uri type="src">https://www.iso.org/standard/63500.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63500:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/35/63500.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 9241-11:2018</docidentifier>  <docidentifier type="iso-reference">ISO 9241-11:2018(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:9241:-11:stage-90.93</docidentifier>  <docnumber>9241</docnumber>  <date type="published">    <on>2018-03</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/63500.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63500:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/06/35/63500.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 9241-11:2018</docidentifier>
+  <docidentifier type="iso-reference">ISO 9241-11:2018(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:9241:-11:stage-90.93</docidentifier>
+  <docnumber>9241</docnumber>
+  <date type="published">
+    <on>2018-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">ISO 9241-11:2018 provides a framework for understanding the concept of usability and applying it to situations where people use interactive systems, and other types of systems (including built environments), and products (including industrial and consumer products) and services (including technical and personal services). NOTE       In this document, the phrase “object of interest” refers to the system, product or service for which usability is being considered (see 8.1). ISO 9241-11:2018: —      explains that usability is an outcome of use; —      defines key terms and concepts; —      identifies the fundamentals of usability; and —      explains the application of the concept of usability. ISO 9241-11:2018 does not describe specific processes or methods for taking account of usability in design development or evaluation. The intended users of this document include: —      usability/ergonomics/human factors professionals; —      designers and developers of systems, products and services; —      quality assurance personnel; —      public and corporate purchasers; and —      consumer organizations. The most common applications of this document are in design and evaluation.</abstract>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2018</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 9241-11:1998</formattedref>      <docidentifier type="ISO" primary="true">ISO 9241-11:1998</docidentifier>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso17027" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO 9241-11:2018 provides a framework for understanding the concept of usability and applying it to situations where people use interactive systems, and other types of systems (including built environments), and products (including industrial and consumer products) and services (including technical and personal services).
+NOTE       In this document, the phrase “object of interest” refers to the system, product or service for which usability is being considered (see 8.1).
+ISO 9241-11:2018:
+-      explains that usability is an outcome of use;
+-      defines key terms and concepts;
+-      identifies the fundamentals of usability; and
+-      explains the application of the concept of usability.
+ISO 9241-11:2018 does not describe specific processes or methods for taking account of usability in design development or evaluation.
+The intended users of this document include:
+-      usability/ergonomics/human factors professionals;
+-      designers and developers of systems, products and services;
+-      quality assurance personnel;
+-      public and corporate purchasers; and
+-      consumer organizations.
+The most common applications of this document are in design and evaluation.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        
+<name>ISO</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 9241-11:1998</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 9241-11:1998</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>Geneva</place>
+</bibitem><bibitem id="iso17027" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Conformity assessment</title>
+
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Vocabulary related to competence of persons used for certification of persons</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Conformity assessment — Vocabulary related to competence of persons used for certification of persons</title>
-  <uri type="src">https://www.iso.org/standard/62024.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:62024:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/20/62024.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO/IEC TS 17027:2014</docidentifier>  <docidentifier type="iso-reference">ISO/IEC TS 17027:2014(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso-iec:ts:17027:stage-90.93</docidentifier>  <docnumber>17027</docnumber>  <date type="published">    <on>2014-03</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/62024.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:62024:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/06/20/62024.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO/IEC TS 17027:2014</docidentifier>
+  <docidentifier type="iso-reference">ISO/IEC TS 17027:2014(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-iec:ts:17027:stage-90.93</docidentifier>
+  <docnumber>17027</docnumber>
+  <date type="published">
+    <on>2014-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <contributor>    <role type="publisher"/>    <organization>      
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Electrotechnical Commission</name>
-      <abbreviation>IEC</abbreviation>      <uri>www.iec.ch</uri>    </organization>  </contributor>  <edition>1</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">ISO/IEC TS 17027:2014 specifies terms and definitions related to the competence of persons used in the field of certification of persons, in order to establish a common vocabulary. These terms and definitions can also be used as applicable in other documents specifying competence of persons, such as regulations, standards, certification schemes, research, training, licensing and registration.</abstract>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2014</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <place>Geneva</place></bibitem>
+
+      <abbreviation>IEC</abbreviation>
+      <uri>www.iec.ch</uri>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC TS 17027:2014 specifies terms and definitions related to the competence of persons used in the field of certification of persons, in order to establish a common vocabulary. These terms and definitions can also be used as applicable in other documents specifying competence of persons, such as regulations, standards, certification schemes, research, training, licensing and registration.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        
+<name>ISO/IEC</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <place>Geneva</place>
+</bibitem>
 
 
 

@@ -1,4 +1,4 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO sample documents in Metanorma</title><contributor><role type='author'/><organization><name>Metanorma</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>ISO sample documents in Metanorma</title><contributor><role type='author'/><organization><name>Metanorma</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en"> — Competence of standards professionals — In companies</title>
   <title type="title-main" format="text/plain" language="en">Competence of standards professionals</title>
   <title type="title-part" format="text/plain" language="en">In companies</title>
@@ -34,7 +34,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Technical Management Board - groups</subdivision>
+      <subdivision>
+Technical Management Board - groups
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -43,7 +45,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -52,7 +55,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Date and time</subdivision>
+      <subdivision>
+Date and time
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -77,7 +82,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Technical Management Board - groups</subdivision>
+      <subdivision>
+Technical Management Board - groups
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -86,7 +93,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -95,7 +103,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Date and time</subdivision>
+      <subdivision>
+Date and time
+</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -118,7 +128,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-workshop-agreement</doctype>
     <editorialgroup>
       <technical-committee number="0" type="">Technical Management Board - groups</technical-committee>
@@ -140,7 +150,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (AWI) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -176,8 +186,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -186,8 +197,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -196,8 +208,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -222,8 +235,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -232,8 +246,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -242,8 +257,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -263,7 +279,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -280,7 +296,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (CD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -316,8 +332,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -326,8 +343,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -336,8 +354,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -362,8 +381,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -372,8 +392,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -382,8 +403,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -403,7 +425,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -420,7 +442,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (DAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -462,8 +484,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -472,8 +495,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -482,8 +506,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -508,8 +533,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -518,8 +544,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -528,8 +555,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -549,7 +577,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -566,7 +594,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (FDAmd) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -608,8 +636,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -618,8 +647,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -628,8 +658,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -654,8 +685,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -664,8 +696,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -674,8 +707,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -695,7 +729,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -712,7 +746,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (final) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -751,8 +785,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -761,8 +796,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -771,8 +807,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -797,8 +834,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -807,8 +845,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -817,8 +856,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -838,7 +878,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -855,7 +895,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (NP) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -891,8 +931,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -901,8 +942,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -911,8 +953,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -937,8 +980,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -947,8 +991,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -957,8 +1002,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -978,7 +1024,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -995,7 +1041,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (PRF) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1034,8 +1080,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1044,8 +1091,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1054,8 +1102,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1080,8 +1129,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1090,8 +1140,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1100,8 +1151,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1121,7 +1173,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -1138,7 +1190,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice (WD) — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1174,8 +1226,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1184,8 +1237,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1194,8 +1248,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1220,8 +1275,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1230,8 +1286,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1240,8 +1297,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1261,7 +1319,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -1278,7 +1336,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1314,8 +1372,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1324,8 +1383,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1334,8 +1394,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1360,8 +1421,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1370,8 +1432,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1380,8 +1443,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -1401,7 +1465,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Produits alimentaires</technical-committee>
@@ -1418,7 +1482,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1457,8 +1521,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1467,8 +1532,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1477,8 +1543,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1503,8 +1570,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1513,8 +1581,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1523,8 +1592,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1544,7 +1614,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -1561,7 +1631,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1600,8 +1670,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1610,8 +1681,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1620,8 +1692,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1646,8 +1719,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1656,8 +1730,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1666,8 +1741,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1687,7 +1763,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -1704,7 +1780,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1749,8 +1825,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1759,8 +1836,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1769,8 +1847,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1795,8 +1874,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1805,8 +1885,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1815,8 +1896,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1836,7 +1918,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -1853,7 +1935,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -1898,8 +1980,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1908,8 +1991,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1918,8 +2002,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1944,8 +2029,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1954,8 +2040,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -1964,8 +2051,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1985,7 +2073,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2002,7 +2090,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -2041,8 +2129,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2051,8 +2140,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2061,8 +2151,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2087,8 +2178,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2097,8 +2189,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2107,8 +2200,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -2128,7 +2222,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2145,7 +2239,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -2184,8 +2278,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2194,8 +2289,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2204,8 +2300,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2230,8 +2327,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2240,8 +2338,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2250,8 +2349,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -2271,7 +2371,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2288,7 +2388,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -2327,8 +2427,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2337,8 +2438,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2347,8 +2449,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2373,8 +2476,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2383,8 +2487,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2393,8 +2498,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -2414,7 +2520,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2431,7 +2537,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -2470,8 +2576,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2480,8 +2587,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2490,8 +2598,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2516,8 +2625,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2526,8 +2636,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2536,8 +2647,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -2557,7 +2669,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2574,7 +2686,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specification and test methods</title>
@@ -2613,8 +2725,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2623,8 +2736,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2633,8 +2747,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2659,8 +2774,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2669,8 +2785,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2679,8 +2796,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -2700,7 +2818,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>amendment</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Produits alimentaires</technical-committee>
@@ -2717,7 +2835,7 @@
     <stagename/>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (AWI)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -2751,8 +2869,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2761,8 +2880,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2771,8 +2891,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2797,8 +2918,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2807,8 +2929,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2817,8 +2940,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2840,7 +2964,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2858,7 +2982,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (CD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -2892,8 +3016,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2902,8 +3027,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2912,8 +3038,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2938,8 +3065,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2948,8 +3076,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -2958,8 +3087,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2981,7 +3111,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -2999,7 +3129,7 @@
     <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (DIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3039,8 +3169,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3049,8 +3180,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3059,8 +3191,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3085,8 +3218,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3095,8 +3229,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3105,8 +3240,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3128,7 +3264,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3146,7 +3282,7 @@
     <stagename>Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (FDIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3186,8 +3322,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3196,8 +3333,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3206,8 +3344,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3232,8 +3371,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3242,8 +3382,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3252,8 +3393,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3275,7 +3417,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3293,7 +3435,7 @@
     <stagename>Final Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (NP)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3327,8 +3469,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3337,8 +3480,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3347,8 +3491,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3373,8 +3518,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3383,8 +3529,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3393,8 +3540,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3416,7 +3564,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3434,7 +3582,7 @@
     <stagename>Preliminary Work Item International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (PRF)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3467,8 +3615,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3477,8 +3626,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3487,8 +3637,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3513,8 +3664,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3523,8 +3675,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3533,8 +3686,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3556,7 +3710,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3574,7 +3728,7 @@
     <stagename>Proof of a new International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3607,8 +3761,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3617,8 +3772,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3627,8 +3783,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3653,8 +3810,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3663,8 +3821,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3673,8 +3832,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3696,7 +3856,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3714,7 +3874,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (WD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -3748,8 +3908,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3758,8 +3919,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3768,8 +3930,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3794,8 +3957,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3804,8 +3968,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3814,8 +3979,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3837,7 +4003,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -3855,7 +4021,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods (in French) — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods (in French)</title>
@@ -3889,8 +4055,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3899,8 +4066,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3909,8 +4077,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3935,8 +4104,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Produits alimentaires</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Produits alimentaires
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3945,8 +4115,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Céréales et légumineuses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Céréales et légumineuses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -3955,8 +4126,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -3978,7 +4150,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Produits alimentaires</technical-committee>
@@ -3995,7 +4167,7 @@
     <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4029,8 +4201,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4039,8 +4212,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4049,8 +4223,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4075,8 +4250,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4085,8 +4261,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4095,8 +4272,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Rice Group</subdivision>
-      <identifier type="">WG 3</identifier>
+      <subdivision>
+Rice Group
+WG 3</subdivision>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -4118,7 +4296,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4135,7 +4313,7 @@
     <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (AWI)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4169,8 +4347,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4179,8 +4358,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4189,8 +4369,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4215,8 +4396,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4225,8 +4407,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4235,8 +4418,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4258,7 +4442,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4276,7 +4460,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (CD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4310,8 +4494,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4320,8 +4505,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4330,8 +4516,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4356,8 +4543,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4366,8 +4554,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4376,8 +4565,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4399,7 +4589,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4417,7 +4607,7 @@
     <stagename>Committee Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (DIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4457,8 +4647,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4467,8 +4658,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4477,8 +4669,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4503,8 +4696,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4513,8 +4707,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4523,8 +4718,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4546,7 +4742,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4564,7 +4760,7 @@
     <stagename>Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (FDIS)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4604,8 +4800,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4614,8 +4811,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4624,8 +4822,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4650,8 +4849,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4660,8 +4860,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4670,8 +4871,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4693,7 +4895,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4711,7 +4913,7 @@
     <stagename>Final Draft International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (NP)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4745,8 +4947,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4755,8 +4958,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4765,8 +4969,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4791,8 +4996,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4801,8 +5007,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4811,8 +5018,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4834,7 +5042,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4852,7 +5060,7 @@
     <stagename>Preliminary Work Item International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (PRF)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -4885,8 +5093,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4895,8 +5104,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4905,8 +5115,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4931,8 +5142,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4941,8 +5153,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -4951,8 +5164,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -4974,7 +5188,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -4992,7 +5206,7 @@
     <stagename>Proof of a new International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -5025,8 +5239,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5035,8 +5250,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5045,8 +5261,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5071,8 +5288,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5081,8 +5299,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5091,8 +5310,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -5114,7 +5334,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -5132,7 +5352,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Cereals and pulses — Specifications and test methods — Rice (WD)</title>
   <title type="title-intro" format="text/plain" language="en">Cereals and pulses</title>
   <title type="title-main" format="text/plain" language="en">Specifications and test methods</title>
@@ -5166,8 +5386,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5176,8 +5397,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5186,8 +5408,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5212,8 +5435,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Food products</subdivision>
-      <identifier type="">TC 34</identifier>
+      <subdivision>
+Food products
+TC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5222,8 +5446,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Cereals and pulses</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Cereals and pulses
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5232,8 +5457,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Amylose in rice</subdivision>
-      <identifier type="">WG 4</identifier>
+      <subdivision>
+Amylose in rice
+WG 4</subdivision>
     </organization>
   </contributor>
   <edition>3</edition>
@@ -5255,7 +5481,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>international-standard</doctype>
     <editorialgroup>
       <technical-committee number="34" type="TC">Food products</technical-committee>
@@ -5273,7 +5499,7 @@
     <stagename>International Standard</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Fire safety — Statistical data collection — Vocabulary</title>
   <title type="title-intro" format="text/plain" language="en">Fire safety</title>
   <title type="title-main" format="text/plain" language="en">Statistical data collection</title>
@@ -5312,8 +5538,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Fire safety</subdivision>
-      <identifier type="">TC 92</identifier>
+      <subdivision>
+Fire safety
+TC 92</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5322,7 +5549,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5331,8 +5559,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5357,8 +5585,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Fire safety</subdivision>
-      <identifier type="">TC 92</identifier>
+      <subdivision>
+Fire safety
+TC 92</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5367,7 +5596,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5376,8 +5606,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -5399,7 +5629,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>technical-specification</doctype>
     <editorialgroup>
       <technical-committee number="92" type="TC">Fire safety</technical-committee>
@@ -5421,7 +5651,7 @@
     <stagename>Technical Specification</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020 — </title>
   <title type="title-intro" format="text/plain" language="en">Petroleum products — Fuels (class F)</title>
   <title type="title-main" format="text/plain" language="en">Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
@@ -5457,8 +5687,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Petroleum and related products, fuels and lubricants from natural or synthetic sources</subdivision>
-      <identifier type="">TC 28</identifier>
+      <subdivision>
+Petroleum and related products, fuels and lubricants from natural or synthetic sources
+TC 28</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5467,8 +5698,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Classifications and specifications</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Classifications and specifications
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5477,7 +5709,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5502,8 +5735,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Petroleum and related products, fuels and lubricants from natural or synthetic sources</subdivision>
-      <identifier type="">TC 28</identifier>
+      <subdivision>
+Petroleum and related products, fuels and lubricants from natural or synthetic sources
+TC 28</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5512,8 +5746,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Classifications and specifications</subdivision>
-      <identifier type="">SC 4</identifier>
+      <subdivision>
+Classifications and specifications
+SC 4</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5522,7 +5757,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -5544,7 +5780,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>publicly-available-specification</doctype>
     <editorialgroup>
       <technical-committee number="28" type="TC">Petroleum and related products, fuels and lubricants from natural or synthetic sources</technical-committee>
@@ -5562,7 +5798,7 @@
     <stagename>Publicly Available Specification</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
   <title type="title-intro" format="text/plain" language="en">Information technology</title>
   <title type="title-main" format="text/plain" language="en">Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
@@ -5597,8 +5833,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Information technology</subdivision>
-      <identifier type="">JTC 1</identifier>
+      <subdivision>
+Information technology
+JTC 1</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5607,8 +5844,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Document description and processing languages</subdivision>
-      <identifier type="">SC 34</identifier>
+      <subdivision>
+Document description and processing languages
+SC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5617,7 +5855,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5642,8 +5881,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Information technology</subdivision>
-      <identifier type="">JTC 1</identifier>
+      <subdivision>
+Information technology
+JTC 1</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5652,8 +5892,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Document description and processing languages</subdivision>
-      <identifier type="">SC 34</identifier>
+      <subdivision>
+Document description and processing languages
+SC 34</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5662,7 +5903,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -5684,7 +5926,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>technical-report</doctype>
     <editorialgroup>
       <technical-committee number="1" type="JTC">Information technology</technical-committee>
@@ -5702,7 +5944,7 @@
     <stagename>Technical Report</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en"> — Guidelines for addressing climate change in standards — </title>
   <title type="title-main" format="text/plain" language="en">Guidelines for addressing climate change in standards</title>
   <title type="main" format="text/plain" language="fr"> —  — </title>
@@ -5737,8 +5979,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Technical Management Board - groups</subdivision>
-      <identifier type="">TC</identifier>
+      <subdivision>
+Technical Management Board - groups
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5747,7 +5990,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5756,7 +6000,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5781,8 +6026,9 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision>Technical Management Board - groups</subdivision>
-      <identifier type="">TC</identifier>
+      <subdivision>
+Technical Management Board - groups
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5791,7 +6037,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5800,7 +6047,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
+      <subdivision>
+</subdivision>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -5823,7 +6071,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>guide</doctype>
     <editorialgroup>
       <technical-committee number="0" type="TC">Technical Management Board - groups</technical-committee>
@@ -5845,7 +6093,7 @@
     <stagename>Guide</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en"> — ISO/IEC Directives — Procedures for the technical work</title>
   <title type="title-main" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-part" format="text/plain" language="en">Procedures for the technical work</title>
@@ -5875,8 +6123,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5885,8 +6133,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5895,8 +6143,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5921,8 +6169,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5931,8 +6179,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -5941,8 +6189,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <edition>16</edition>
@@ -5964,7 +6212,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>directive</doctype>
     <editorialgroup>
       <technical-committee number="0" type="TC"></technical-committee>
@@ -5978,7 +6226,7 @@
     <stagename>Directives</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">ISO/IEC Directives — Consolidated ISO Supplement — Procedures specific to ISO</title>
   <title type="title-intro" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-main" format="text/plain" language="en">Consolidated ISO Supplement</title>
@@ -6010,8 +6258,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6020,8 +6268,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6030,8 +6278,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6056,8 +6304,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6066,8 +6314,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6076,8 +6324,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <edition>11</edition>
@@ -6099,7 +6347,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>directive</doctype>
     <editorialgroup>
       <technical-committee number="0" type="TC"></technical-committee>
@@ -6113,7 +6361,7 @@
     <stagename>Directives</stagename>
   </ext>
 </bibdata></relation>
-<relation type='partOf'><bibdata type="standard" schema-version="v1.2.8">
+<relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
   <title type="main" format="text/plain" language="en">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
   <title type="title-intro" format="text/plain" language="en">ISO/IEC Directives</title>
   <title type="title-main" format="text/plain" language="en">Principles and rules for the structure and drafting of ISO and IEC documents</title>
@@ -6143,8 +6391,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6153,8 +6401,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6163,8 +6411,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6189,8 +6437,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">TC</identifier>
+      <subdivision>
+TC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6199,8 +6447,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">SC</identifier>
+      <subdivision>
+SC</subdivision>
     </organization>
   </contributor>
   <contributor>
@@ -6209,8 +6457,8 @@
     </role>
     <organization>
       <name>International Organization for Standardization</name>
-      <subdivision/>
-      <identifier type="">WG</identifier>
+      <subdivision>
+WG</subdivision>
     </organization>
   </contributor>
   <edition>8</edition>
@@ -6232,7 +6480,7 @@
       </organization>
     </owner>
   </copyright>
-  <ext schema-version="v1.0.0">
+  <ext schema-version="v1.0.3">
     <doctype>directive</doctype>
     <editorialgroup>
       <technical-committee number="0" type="TC"></technical-committee>

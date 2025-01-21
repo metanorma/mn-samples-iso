@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_90db916e.5805.4bfc"
+Content-Type: multipart/related; boundary="----=_NextPart_e31c0fd8.255c.4925"
 
-------=_NextPart_90db916e.5805.4bfc
+------=_NextPart_e31c0fd8.255c.4925
 Content-ID: <document.htm>
 Content-Disposition: inline; filename="document.htm"
 Content-Type: text/html; charset="utf-8"
@@ -7105,7 +7105,7 @@ div.Note table.dl {
   font-size: 10.0pt;
   margin-left: 1.0cm; }
 
-td.example_label, td.note_label {
+td.example_label, td.note_label, td.termnote_label {
   font-size: 10.0pt;
   font-family: "Cambria",serif; }
 
@@ -7131,6 +7131,8 @@ td.example_label, td.note_label {
 <p class="MsoBodyText" align="right" style="text-align:right">
   <span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">ISO/TR 29166 </span>
 </p>
+
+
 
 
 
@@ -7169,11 +7171,13 @@ td.example_label, td.note_label {
 
 
 
+
 <br/>
 <p class="MsoBodyText" align="left" style="text-align:left;line-height:18.0pt;margin-bottom:0.0pt;font-size:16.0pt">
 <span class="title"></span><span class="subtitle"></span>
   
 </p>
+
 
 
 
@@ -7214,115 +7218,112 @@ td.example_label, td.note_label {
     </p>
     <div class="WordSection2">
 
-<div><a name="boilerplate-copyright-destination" id="boilerplate-copyright-destination"></a><div class="boilerplate-copyright">
-
-<div><a name="_fa30af17-2e66-ae42-82c9-50cd5f696f5d" id="_fa30af17-2e66-ae42-82c9-50cd5f696f5d"></a>
+<div><a name="boilerplate-copyright-destination" id="boilerplate-copyright-destination"></a>
+<div><a name="boilerplate-copyright-default-destination" id="boilerplate-copyright-default-destination"></a><div><a name="boilerplate-copyright-default" id="boilerplate-copyright-default"></a>
 <p class="zzCopyright"><a name="boilerplate-year" id="boilerplate-year"></a>&#xA9; <span class="std_publisher">ISO&#xA0;</span><span class="date">2011</span></p>
 
-<p class="zzCopyright"><a name="boilerplate-message" id="boilerplate-message"></a>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced
-or utilized in any form or by any means, electronic or mechanical, including photocopying and
-microfilm, without permission in writing from the publisher.</p>
+<p class="zzCopyright"><a name="boilerplate-message" id="boilerplate-message"></a>All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying and microfilm, without permission in writing from the publisher.</p>
 
 <p style="text-indent:20.15pt;" align="left" class="zzCopyright"><a name="boilerplate-address" id="boilerplate-address"></a>International Organization for Standardization</p>
-<p class="zzCopyright" style="text-indent:20.15pt;">
-Case postale 56 &#x2022; CH-1211 Gen&#xE8;ve 20 &#x2022; Switzerland</p>
-<p class="zzCopyright" style="text-indent:20.15pt;">
-Internet&#xA0;&#xA0;&#xA0;<a href="mailto:central@iso.ch">central@iso.ch</a></p>
-<p class="zzCopyright" style="text-indent:20.15pt;">
-X.400&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;c=ch; a=400net; p=iso; o=isocs; s=central</p>
+<p class="zzCopyright" style="text-indent:20.15pt;"> Case postale 56 &#x2022; CH-1211 Gen&#xE8;ve 20 &#x2022; Switzerland </p>
+<p class="zzCopyright" style="text-indent:20.15pt;"> Internet&#xA0;&#xA0;&#xA0; <a href="mailto:central@iso.ch">central@iso.ch</a></p>
+<p class="zzCopyright" style="text-indent:20.15pt;"> X.400&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;c=ch; a=400net; p=iso; o=isocs; s=central</p>
 
 <p class="zzCopyright"><a name="boilerplate-place" id="boilerplate-place"></a>Printed in Switzerland</p>
-</div>
 </div></div>
+<div><a name="boilerplate-copyright-append-destination" id="boilerplate-copyright-append-destination"></a><div class="boilerplate-copyright">
 
+
+</div></div>
+</div>
 
 
 <div class="authority">
-</div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div class="TOC"><a name="_5ae7c962-129d-4bb0-89e8-41ef8777278e" id="_5ae7c962-129d-4bb0-89e8-41ef8777278e"></a><p class="zzContents">Contents</p><p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC \o "2-3" \h \z \t
+</div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div class="TOC"><a name="_98884a92-82be-4a2d-818a-e2575b216d71" id="_98884a92-82be-4a2d-818a-e2575b216d71"></a><p class="zzContents">Contents</p><p class="MsoToc1"><span lang="EN-GB" xml:lang="EN-GB"><span style="mso-element:field-begin"></span><span style="mso-spacerun:yes">&#xA0;</span>TOC \o "2-3" \h \z \t
 "Heading 1,1,ANNEX,1,Biblio Title,1,Foreword Title,1,Intro Title,1,ANNEXN,1,ANNEXZ,1,na2,1,na3,1,na4,1,na5,1,na6,1,Title,1,Base_Heading,1,Box-title,1,Front Head,1,Index Head,1,AMEND Terms Heading,1,AMEND Heading 1 Unnumbered,1"
  <span style="mso-element:field-separator"></span></span>
 <span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc993142815">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc965505395">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc993142815 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc965505395 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc011839699">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc354403250">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc011839699 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc354403250 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc517437185">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc994597974">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc517437185 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc994597974 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc752546181">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc106453010">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc752546181 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc106453010 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc857868134">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc092946887">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc857868134 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc092946887 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc478492445">3.4 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc632648757">3.4 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc478492445 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc632648757 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc434856626">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc172809412">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc434856626 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc172809412 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc798484338">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc583136352">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc798484338 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc583136352 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc932228223">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc561550374">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc932228223 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc561550374 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc3"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc026241035">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc413436995">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc026241035 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc413436995 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc006058173">
+<a href="#_Toc346643044">
    
   <span style="font-weight:normal;">(normative)</span>
    
@@ -7331,12 +7332,12 @@ X.400&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;c=ch; a=400net; p=iso; o=isocs; s=central</p>
 <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc006058173 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc346643044 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc990552531">
+<a href="#_Toc466003822">
    
   <span style="font-weight:normal;">(informative)</span>
    
@@ -7345,15 +7346,15 @@ X.400&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;c=ch; a=400net; p=iso; o=isocs; s=central</p>
 <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc990552531 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc466003822 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc032170549">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc964571568">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc032170549 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc964571568 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
@@ -7391,49 +7392,37 @@ X.400&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;c=ch; a=400net; p=iso; o=isocs; s=central</p>
       </div>
       <div><h1>2<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
 <p class="MsoBodyText"><a name="_21ac2b92-2fe6-317d-983c-a478441ede9f" id="_21ac2b92-2fe6-317d-983c-a478441ede9f"></a>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<p class="RefNorm"><a name="iso-iec_26300" id="iso-iec_26300"></a>ISO/IEC&#xA0;26300:2006, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Document Format for Office Applications (OpenDocument) v1.0</span></i></p>
-<p class="RefNorm"><a name="iso-iec_29500-1" id="iso-iec_29500-1"></a>ISO/IEC 29500-1:2008<span style="mso-bookmark:_Ref718515656"><a class="FootnoteRef" href="#_ftn1" epub:type="footnote" style="mso-footnote-id:ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 1: Fundamentals and Markup Language Reference</span></i></p>
-<p class="RefNorm"><a name="iso-iec_29500-2" id="iso-iec_29500-2"></a>ISO/IEC 29500-2:2008<span style="mso-bookmark:_Ref808116467"><a class="FootnoteRef" href="#_ftn2" epub:type="footnote" style="mso-footnote-id:ftn2" name="_ftnref2" title="" id="_ftnref2"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 2: Open Packaging Conventions</span></i></p>
-<p class="RefNorm"><a name="iso-iec_29500-3" id="iso-iec_29500-3"></a>ISO/IEC 29500-3:2008<span style="mso-bookmark:_Ref266758364"><a class="FootnoteRef" href="#_ftn3" epub:type="footnote" style="mso-footnote-id:ftn3" name="_ftnref3" title="" id="_ftnref3"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 3: Markup Compatibility and Extensibility</span></i></p>
-<p class="RefNorm"><a name="iso-iec_29500-4" id="iso-iec_29500-4"></a>ISO/IEC 29500-4:2008<span style="mso-bookmark:_Ref772583393"><a class="FootnoteRef" href="#_ftn4" epub:type="footnote" style="mso-footnote-id:ftn4" name="_ftnref4" title="" id="_ftnref4"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 4: Transitional Migration Features</span></i></p>
 
-<p class="RefNorm"><a name="ISO5127" id="ISO5127"></a>ISO&#xA0;5127, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Foundation and vocabulary</span></i></p>
-<p class="RefNorm"><a name="ISO15924" id="ISO15924"></a>ISO&#xA0;15924, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Codes for the representation of names of scripts</span></i></p>
+<p class="RefNorm"><a name="iso-iec_26300" id="iso-iec_26300"></a><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">26300</span>:<span class="stdyear" style="mso-pattern:none;">2006</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Document Format for Office Applications (OpenDocument) v1.0</span></i></p>
+<p class="RefNorm"><a name="iso-iec_29500-1" id="iso-iec_29500-1"></a><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">29500</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2008</span><span style="mso-bookmark:_Ref114173976"><a class="FootnoteRef" href="#_ftn1" epub:type="footnote" style="mso-footnote-id:ftn1" name="_ftnref1" title="" id="_ftnref1"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 1: Fundamentals and Markup Language Reference</span></i></p>
+<p class="RefNorm"><a name="iso-iec_29500-2" id="iso-iec_29500-2"></a><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">29500</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2008</span><span style="mso-bookmark:_Ref042772253"><a class="FootnoteRef" href="#_ftn2" epub:type="footnote" style="mso-footnote-id:ftn2" name="_ftnref2" title="" id="_ftnref2"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 2: Open Packaging Conventions</span></i></p>
+<p class="RefNorm"><a name="iso-iec_29500-3" id="iso-iec_29500-3"></a><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">29500</span>-<span class="stddocPartNumber" style="mso-pattern:none;">3</span>:<span class="stdyear" style="mso-pattern:none;">2008</span><span style="mso-bookmark:_Ref891725081"><a class="FootnoteRef" href="#_ftn3" epub:type="footnote" style="mso-footnote-id:ftn3" name="_ftnref3" title="" id="_ftnref3"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 3: Markup Compatibility and Extensibility</span></i></p>
+<p class="RefNorm"><a name="iso-iec_29500-4" id="iso-iec_29500-4"></a><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">29500</span>-<span class="stddocPartNumber" style="mso-pattern:none;">4</span>:<span class="stdyear" style="mso-pattern:none;">2008</span><span style="mso-bookmark:_Ref965543072"><a class="FootnoteRef" href="#_ftn4" epub:type="footnote" style="mso-footnote-id:ftn4" name="_ftnref4" title="" id="_ftnref4"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Document description and processing languages&#x2009;&#x2014;&#x2009;Office Open XML File Formats&#x2009;&#x2014;&#x2009;Part 4: Transitional Migration Features</span></i></p>
+
+<p class="RefNorm"><a name="ISO5127" id="ISO5127"></a><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">5127</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Foundation and vocabulary</span></i></p>
+<p class="RefNorm"><a name="ISO15924" id="ISO15924"></a><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15924</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Codes for the representation of names of scripts</span></i></p>
 </div>
-      <div><a name="terms" id="terms"></a><h1>3<span style="mso-tab-count:1">&#xA0; </span>Terms and definitions</h1><p class="MsoBodyText"><a name="_fcf8a560-80b7-050c-5b7c-a0fa533bb966" id="_fcf8a560-80b7-050c-5b7c-a0fa533bb966"></a>For the purposes of this document,
-    the following terms and definitions apply.</p><p class="MsoBodyText"><a name="_ad8b7c56-0577-cbbd-8b29-1a9a010ee6c9" id="_ad8b7c56-0577-cbbd-8b29-1a9a010ee6c9"></a>ISO and IEC maintain terminology databases for use in
-standardization at the following addresses:</p><div class="ul_wrap">
-<p class="ListContinue1"><a name="_9f56356a-3a58-64c4-e59e-a23ca3da7e88" id="_9f56356a-3a58-64c4-e59e-a23ca3da7e88"></a>&#x2014;<span style="mso-tab-count:1">&#xA0;</span>ISO Online browsing platform: available at
-  <a href="https://www.iso.org/obp">https://www.iso.org/obp</a></p>
-<p class="ListContinue1"><a name="_e32e7234-859e-9fdd-bd49-6e9d7b1a65ff" id="_e32e7234-859e-9fdd-bd49-6e9d7b1a65ff"></a>&#x2014;<span style="mso-tab-count:1">&#xA0;</span>IEC Electropedia: available at
-<a href="https://www.electropedia.org">https://www.electropedia.org</a></p>
+      <div><a name="terms" id="terms"></a><h1>3<span style="mso-tab-count:1">&#xA0; </span>Terms and definitions</h1><p class="MsoBodyText"><a name="_0da6ca68-ecc9-b4a3-26a2-cdb6aef1b772" id="_0da6ca68-ecc9-b4a3-26a2-cdb6aef1b772"></a>For the purposes of this document, the following terms and definitions apply.</p><p class="MsoBodyText"><a name="_13af5450-a71d-e945-782d-afffb0a645ab" id="_13af5450-a71d-e945-782d-afffb0a645ab"></a>ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p><div class="ul_wrap"><p class="ListContinue1"><a name="_9bcbd305-1125-3ee7-507a-f9b9cd78c680" id="_9bcbd305-1125-3ee7-507a-f9b9cd78c680"></a>&#x2014;<span style="mso-tab-count:1">&#xA0;</span>ISO Online browsing platform: available at <a href="https://www.iso.org/obp">https://www.iso.org/obp</a></p>
+
+<p class="ListContinue1"><a name="_16dd7b4f-969c-d0e1-c933-d9185c774137" id="_16dd7b4f-969c-d0e1-c933-d9185c774137"></a>&#x2014;<span style="mso-tab-count:1">&#xA0;</span>IEC Electropedia: available at <a href="https://www.electropedia.org">https://www.electropedia.org</a></p>
+
 </div><p class="TermNum"><a name="term-translation-type" id="term-translation-type"></a>3.1</p><p class="Terms" style="text-align:left;"><b>translation type</b></p>
 <p class="Definition"><a name="_5d0ebb91-47ad-edbc-97f7-3f77ea11bc96" id="_5d0ebb91-47ad-edbc-97f7-3f77ea11bc96"></a>methods used when translating between ODF and OOXML documents</p>
 
 
- <div><a name="_e3c1b3a1-3ce4-f9de-d012-86ff38cd7e47" id="_e3c1b3a1-3ce4-f9de-d012-86ff38cd7e47"></a><p class="Note">Note 1 to entry: This Technical Report distinguishes four translation types:
-* one way ODF to OOXML translation;
-* one way OOXML to ODF translation;
-* round trip ODF to OOXML to ODF translation;
-* round trip OOXML to ODF to OOXML translation.</p></div><p class="TermNum"><a name="term-translation-fidelity" id="term-translation-fidelity"></a>3.2</p><p class="Terms" style="text-align:left;"><b>translation fidelity</b></p>
+ <div><a name="_903c15fd-fb70-2dc7-c556-097a66b39567" id="_903c15fd-fb70-2dc7-c556-097a66b39567"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>This Technical Report distinguishes four translation types: * one way ODF to OOXML translation; * one way OOXML to ODF translation; * round trip ODF to OOXML to ODF translation; * round trip OOXML to ODF to OOXML translation.</p></div><p class="TermNum"><a name="term-translation-fidelity" id="term-translation-fidelity"></a>3.2</p><p class="Terms" style="text-align:left;"><b>translation fidelity</b></p>
 <p class="Definition"><a name="_f04b94e0-20d6-7f53-468b-7a9eba9c54c6" id="_f04b94e0-20d6-7f53-468b-7a9eba9c54c6"></a>quality of a translation process between the ODF and OOXML document formats</p>
 
 
 
 
- <div><a name="_cf8bee2d-092f-2dfd-92c6-dc358a8f4210" id="_cf8bee2d-092f-2dfd-92c6-dc358a8f4210"></a><p class="Note">Note 1 to entry: Translation fidelity depends on document properties.</p></div><div><a name="_d12986a8-4d78-df34-4602-5376a32c27eb" id="_d12986a8-4d78-df34-4602-5376a32c27eb"></a><p class="Note">Note 2 to entry: Translation fidelity cannot be measured in an absolute manner; it depends on the intentions of the document&#x2019;s authors.</p></div><p class="TermNum"><a name="term-document-property" id="term-document-property"></a>3.3</p><p class="Terms" style="text-align:left;"><b>document property</b></p>
+ <div><a name="_cf8bee2d-092f-2dfd-92c6-dc358a8f4210" id="_cf8bee2d-092f-2dfd-92c6-dc358a8f4210"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>Translation fidelity depends on document properties.</p></div><div><a name="_d12986a8-4d78-df34-4602-5376a32c27eb" id="_d12986a8-4d78-df34-4602-5376a32c27eb"></a><p class="Note"><span class="termnote_label">Note 2 to entry: </span>Translation fidelity cannot be measured in an absolute manner; it depends on the intentions of the document&#x2019;s authors.</p></div><p class="TermNum"><a name="term-document-property" id="term-document-property"></a>3.3</p><p class="Terms" style="text-align:left;"><b>document property</b></p>
 <p class="Definition"><a name="_7d24e96a-3fb9-0083-c7ce-f92291a9b031" id="_7d24e96a-3fb9-0083-c7ce-f92291a9b031"></a>description of different yet independent dimensions within the specification of a document</p>
 
 
 
 
- <div><a name="_9b7b0dd6-dc3d-4a88-a3fd-f6d3eab44812" id="_9b7b0dd6-dc3d-4a88-a3fd-f6d3eab44812"></a><p class="Note">Note 1 to entry: As defined in 4.2 this Technical Report distinguishes the following document properties:
-* presentation instructions;
-* content;
-* dynamic content;
-* meta data;
-* annotations and security;
-* document parts.</p></div><div><a name="_2cfb63fb-7be8-a054-0474-afcdd68b113c" id="_2cfb63fb-7be8-a054-0474-afcdd68b113c"></a><p class="Note">Note 2 to entry: Document properties are implemented using document features.</p></div><div><a name="_general" id="_general"></a><h2>3.4<span style="mso-tab-count:1">&#xA0; </span>General</h2>
+ <div><a name="_1c47b7d2-0050-5e0d-aa21-85b0daab3cb3" id="_1c47b7d2-0050-5e0d-aa21-85b0daab3cb3"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>As defined in 4.2 this Technical Report distinguishes the following document properties: * presentation instructions; * content; * dynamic content; * meta data; * annotations and security; * document parts.</p></div><div><a name="_2cfb63fb-7be8-a054-0474-afcdd68b113c" id="_2cfb63fb-7be8-a054-0474-afcdd68b113c"></a><p class="Note"><span class="termnote_label">Note 2 to entry: </span>Document properties are implemented using document features.</p></div><div><a name="_general" id="_general"></a><h2>3.4<span style="mso-tab-count:1">&#xA0; </span>General</h2>
 
 <p class="TermNum"><a name="term-access" id="term-access"></a>3.4.1</p><p class="Terms" style="text-align:left;"><b>access</b></p>
 <p class="Definition"><a name="_6b3611db-49b1-e900-a60a-0306db0d3203" id="_6b3611db-49b1-e900-a60a-0306db0d3203"></a>right, opportunity, means of finding, using or retrieving information</p>
@@ -7447,7 +7436,7 @@ standardization at the following addresses:</p><div class="ul_wrap">
 
 
 
- <div><a name="_99b0a33b-6e85-2a6d-5fea-ec63cbea9a00" id="_99b0a33b-6e85-2a6d-5fea-ec63cbea9a00"></a><p class="Note">Note 1 to entry: There can be many types of assets, including:<div class="ol_wrap"><p class="ListNumber2-"><a name="_051f3f76-eccd-f2e4-5b1a-572c5d3e9935" id="_051f3f76-eccd-f2e4-5b1a-572c5d3e9935"></a>a)<span style="mso-tab-count:1">&#xA0;</span>information (such as documents and databases);</p>
+ <div><a name="_99b0a33b-6e85-2a6d-5fea-ec63cbea9a00" id="_99b0a33b-6e85-2a6d-5fea-ec63cbea9a00"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>There can be many types of assets, including:</p><div class="ol_wrap"><p class="ListNumber2-"><a name="_051f3f76-eccd-f2e4-5b1a-572c5d3e9935" id="_051f3f76-eccd-f2e4-5b1a-572c5d3e9935"></a>a)<span style="mso-tab-count:1">&#xA0;</span>information (such as documents and databases);</p>
 
 <p class="ListNumber2-"><a name="_009acce4-6126-f655-471b-e8abac479841" id="_009acce4-6126-f655-471b-e8abac479841"></a>b)<span style="mso-tab-count:1">&#xA0;</span>software, such as a computer program;</p>
 
@@ -7459,7 +7448,7 @@ standardization at the following addresses:</p><div class="ul_wrap">
 
 <p class="ListNumber2-"><a name="_aa8042ed-5777-50ca-4c53-f3bf17b9c869" id="_aa8042ed-5777-50ca-4c53-f3bf17b9c869"></a>f)<span style="mso-tab-count:1">&#xA0;</span>intangibles, such as reputation and image.</p>
 
-</div></p></div><p class="Source">[SOURCE: <a href="#iso27000"><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">27000</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <span class="citesec" style="mso-pattern:none;">2.3</span></a>]</p>
+</div></div><p class="Source">[SOURCE: <a href="#iso27000"><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">27000</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <span class="citesec" style="mso-pattern:none;">2.3</span></a>]</p>
 
 <p class="TermNum"><a name="term-record_s_" id="term-record_s_"></a>3.4.3</p><p class="Terms" style="text-align:left;"><b>record(s)</b></p>
 <p class="Definition"><a name="_8ba89ca3-0743-bb86-ef8b-62955e5a6f73" id="_8ba89ca3-0743-bb86-ef8b-62955e5a6f73"></a>information created, received and maintained as evidence and as an <i>asset</i> (<a href="#term-asset"><span class="citesec" style="mso-pattern:none;">3.4.2</span></a>) by an organization or person, in pursuit of legal obligations or in the transaction of business</p>
@@ -7467,7 +7456,7 @@ standardization at the following addresses:</p><div class="ul_wrap">
 
 
 
- <div><a name="_6e979712-ab99-ec06-992f-085551402a46" id="_6e979712-ab99-ec06-992f-085551402a46"></a><p class="Note">Note 1 to entry: The viewpoint defined in this document is intended to be useful in any enterprise architecture scenario, and intended to prevent conflicting meanings in multiple viewpoints. The term used in the ArchiMate modelling of this viewpoint is &#x201C;business record&#x201D;. In this document the term &#x201C;business record&#x201D; has the same definition as the established definition for &#x201C;record&#x201D; in the records management domain.</p></div><p class="Source">[SOURCE: <a href="#iso15489_1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15489</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p>
+ <div><a name="_6e979712-ab99-ec06-992f-085551402a46" id="_6e979712-ab99-ec06-992f-085551402a46"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>The viewpoint defined in this document is intended to be useful in any enterprise architecture scenario, and intended to prevent conflicting meanings in multiple viewpoints. The term used in the ArchiMate modelling of this viewpoint is &#x201C;business record&#x201D;. In this document the term &#x201C;business record&#x201D; has the same definition as the established definition for &#x201C;record&#x201D; in the records management domain.</p></div><p class="Source">[SOURCE: <a href="#iso15489_1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15489</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p>
 
 <p class="TermNum"><a name="term-records-system" id="term-records-system"></a>3.4.4</p><p class="Terms" style="text-align:left;"><b>records system</b></p>
 <p class="Definition"><a name="_e316905c-72f7-f2b4-e2e0-63ea2687467a" id="_e316905c-72f7-f2b4-e2e0-63ea2687467a"></a>information system which captures, manages and provides <i>access</i> (<a href="#term-access"><span class="citesec" style="mso-pattern:none;">3.4.1</span></a>) to <b>term <span class="ISOCodebold">records</span>, display <span class="ISOCodebold">record(s)</span> not resolved via ID <span class="ISOCodebold">records</span></b> through time</p>
@@ -7475,7 +7464,7 @@ standardization at the following addresses:</p><div class="ul_wrap">
 
 
 
- <div><a name="_94a18ea8-688e-7a3f-e13f-522da194605a" id="_94a18ea8-688e-7a3f-e13f-522da194605a"></a><p class="Note">Note 1 to entry: In the context of records management, &#x201C;system&#x201D; means a business system that is responsible for automating business activities and transactions.</p></div><p class="Source">[SOURCE: <a href="#iso15489_1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15489</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <span class="citesec" style="mso-pattern:none;">3.16</span></a>, modified
+ <div><a name="_94a18ea8-688e-7a3f-e13f-522da194605a" id="_94a18ea8-688e-7a3f-e13f-522da194605a"></a><p class="Note"><span class="termnote_label">Note 1 to entry: </span>In the context of records management, &#x201C;system&#x201D; means a business system that is responsible for automating business activities and transactions.</p></div><p class="Source">[SOURCE: <a href="#iso15489_1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15489</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <span class="citesec" style="mso-pattern:none;">3.16</span></a>, modified
  &#x2014; In the definition, the word &#x201C;over&#x201D; has been replaced by &#x201C;through&#x201D; and Note 1 to entry has been replaced.]</p>
 </div></div>
       <div>
@@ -7487,12 +7476,11 @@ standardization at the following addresses:</p><div class="ul_wrap">
 </div>
         <div><a name="_data_models" id="_data_models"></a><h2>4.2<span style="mso-tab-count:1">&#xA0; </span>Data models</h2>
 
-<p class="MsoBodyText"><a name="_7f45002c-cfd6-9c29-560c-392acb45679e" id="_7f45002c-cfd6-9c29-560c-392acb45679e"></a>The following data models are used by other data models specified in
-this document.</p>
+<p class="MsoBodyText"><a name="_8cb000a7-5195-0fec-e1e8-385b660fbac7" id="_8cb000a7-5195-0fec-e1e8-385b660fbac7"></a>The following data models are used by other data models specified in this document.</p>
 
 <div><a name="_basic_data_types" id="_basic_data_types"></a><h3>4.2.1<span style="mso-tab-count:1">&#xA0; </span>Basic data types</h3>
 
-<div class="figure"><a name="_93712cfc-6301-e9bf-6c5c-15a20ec09b12" id="_93712cfc-6301-e9bf-6c5c-15a20ec09b12"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:889931af-6e03-4e89-a81d-ab786c1e2607.png" height="290" width="448"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
+<div class="figure"><a name="_93712cfc-6301-e9bf-6c5c-15a20ec09b12" id="_93712cfc-6301-e9bf-6c5c-15a20ec09b12"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:dc73558a-5a6b-4e9c-afc6-2606626b7dd6.png" height="290" width="448"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
 </div>
 </div>
       </div>
@@ -7528,7 +7516,7 @@ this document.</p>
         <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
       </p>
       <div><p class="BiblioTitle">Bibliography</p>
-<p class="BiblioEntry"><a name="iso-iec_10746-1" id="iso-iec_10746-1"></a>[1]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC 10746-1:1998, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Distributed Processing&#x2009;&#x2014;&#x2009;Reference model: Overview&#x2009;&#x2014;&#x2009;Part 1:</span></i></p><p class="BiblioEntry"><a name="iso-iec_10746-3" id="iso-iec_10746-3"></a>[2]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC 10746-3:1996<span style="mso-bookmark:_Ref927195124"><a class="FootnoteRef" href="#_ftn5" epub:type="footnote" style="mso-footnote-id:ftn5" name="_ftnref5" title="" id="_ftnref5"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Distributed Processing&#x2009;&#x2014;&#x2009;Reference Model: Architecture</span></i></p><p class="BiblioEntry"><a name="iso15489_1" id="iso15489_1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span>ISO&#xA0;15489-1:2016, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Records management&#x2009;&#x2014;&#x2009;Part 1: Concepts and principles</span></i></p><p class="BiblioEntry"><a name="iso27000" id="iso27000"></a>[4]<span style="mso-tab-count:1">&#xA0; </span>ISO/IEC&#xA0;27000:2009<span style="mso-bookmark:_Ref441787804"><a class="FootnoteRef" href="#_ftn6" epub:type="footnote" style="mso-footnote-id:ftn6" name="_ftnref6" title="" id="_ftnref6"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Security techniques&#x2009;&#x2014;&#x2009;Information security management systems&#x2009;&#x2014;&#x2009;Overview and vocabulary</span></i></p>
+<p class="BiblioEntry"><a name="iso-iec_10746-1" id="iso-iec_10746-1"></a>[1]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10746</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">1998</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Distributed Processing&#x2009;&#x2014;&#x2009;Reference model: Overview&#x2009;&#x2014;&#x2009;Part 1:</span></i></p><p class="BiblioEntry"><a name="iso-iec_10746-3" id="iso-iec_10746-3"></a>[2]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10746</span>-<span class="stddocPartNumber" style="mso-pattern:none;">3</span>:<span class="stdyear" style="mso-pattern:none;">1996</span><span style="mso-bookmark:_Ref587405077"><a class="FootnoteRef" href="#_ftn5" epub:type="footnote" style="mso-footnote-id:ftn5" name="_ftnref5" title="" id="_ftnref5"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Open Distributed Processing&#x2009;&#x2014;&#x2009;Reference Model: Architecture</span></i></p><p class="BiblioEntry"><a name="iso15489_1" id="iso15489_1"></a>[4]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">15489</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information and documentation&#x2009;&#x2014;&#x2009;Records management&#x2009;&#x2014;&#x2009;Part 1: Concepts and principles</span></i></p><p class="BiblioEntry"><a name="iso27000" id="iso27000"></a>[6]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO/IEC&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">27000</span>:<span class="stdyear" style="mso-pattern:none;">2009</span><span style="mso-bookmark:_Ref691451366"><a class="FootnoteRef" href="#_ftn6" epub:type="footnote" style="mso-footnote-id:ftn6" name="_ftnref6" title="" id="_ftnref6"><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"></span></span><span class="MsoFootnoteReference">)</span></a></span>, <i><span class="stddocTitle" style="mso-pattern:none;">Information technology&#x2009;&#x2014;&#x2009;Security techniques&#x2009;&#x2014;&#x2009;Information security management systems&#x2009;&#x2014;&#x2009;Overview and vocabulary</span></i></p>
 
 
 
@@ -7555,7 +7543,7 @@ this document.</p>
 </html>
 
 
-------=_NextPart_90db916e.5805.4bfc
+------=_NextPart_e31c0fd8.255c.4925
 Content-ID: <filelist.xml>
 Content-Disposition: inline; filename="filelist.xml"
 Content-Transfer-Encoding: base64
@@ -7564,13 +7552,13 @@ Content-Type: application/xml
 PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
 ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1pc28vbW4tc2FtcGxl
 cy1pc28vX3NpdGUvZG9jdW1lbnRzL3RlY2huaWNhbC1yZXBvcnQvZG9jdW1lbnQuaHRtIi8+ICA8
-bzpGaWxlIEhSZWY9Ijg4OTkzMWFmLTZlMDMtNGU4OS1hODFkLWFiNzg2YzFlMjYwNy5wbmciLz4K
+bzpGaWxlIEhSZWY9ImRjNzM1NThhLTVhNmItNGU5Yy1hZmM2LTI2MDY2MjZiN2RkNi5wbmciLz4K
 ICA8bzpGaWxlIEhSZWY9ImZpbGVsaXN0LnhtbCIvPgogIDxvOkZpbGUgSFJlZj0iaGVhZGVyLmh0
 bWwiLz4KPC94bWw+Cg==
 
-------=_NextPart_90db916e.5805.4bfc
-Content-ID: <889931af-6e03-4e89-a81d-ab786c1e2607.png>
-Content-Disposition: inline; filename="889931af-6e03-4e89-a81d-ab786c1e2607.png"
+------=_NextPart_e31c0fd8.255c.4925
+Content-ID: <dc73558a-5a6b-4e9c-afc6-2606626b7dd6.png>
+Content-Disposition: inline; filename="dc73558a-5a6b-4e9c-afc6-2606626b7dd6.png"
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -7973,7 +7961,7 @@ VBpwagWUjRFgnFjKWrt2LZL8naKcGCwEO8FasBksB/uh9z506JDXsHyA2rYSTioNOLUCivSy/d69
 eykoKSmJEncqyonBQrATrAWbwXKwH4zvyJEjXsPyAWrbSjipNODUCqiiKIriQQVUURQlSlRAFUVR
 okQFVFEUJUpUQBVFUaLk/wGevHFrulmTpQAAAABJRU5ErkJggg==
 
-------=_NextPart_90db916e.5805.4bfc
+------=_NextPart_e31c0fd8.255c.4925
 Content-ID: <header.html>
 Content-Disposition: inline; filename="header.html"
 Content-Transfer-Encoding: base64
@@ -8495,4 +8483,4 @@ bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7Jz7CqQ0KSVNPJm5ic3A7MjAxMSZuYnNwO+KAkyBBbGwgcmln
 aHRzIHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9wPg0KDQo8L2Rpdj4NCg0KDQoNCjwvYm9k
 eT4NCg0KPC9odG1sPg0K
 
-------=_NextPart_90db916e.5805.4bfc--
+------=_NextPart_e31c0fd8.255c.4925--

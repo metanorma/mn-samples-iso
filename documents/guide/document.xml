@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.7.10" schema-version="v1.3.2">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main"> — Guidelines for addressing climate change in standards — </title>
 
@@ -17,42 +17,40 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Technical Management Board - groups</subdivision><identifier>TC</identifier></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Technical Management Board - groups</name>
+<identifier>TC</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<subdivision>
+</subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision>
+</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>Technical Management Board - groups</subdivision><identifier>TC</identifier></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+<subdivision>
+<name>Technical Management Board - groups</name>
+<identifier>TC</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<subdivision>
+</subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision/></organization></contributor><edition>1</edition><version><revision-date>2020-07-10</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
+<subdivision>
+</subdivision></organization></contributor><edition>1</edition><version><revision-date>2020-07-10</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><editorialgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="GUIDE">Guide</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="GUIDE">Guide</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_copyright_protected_document" inline-header="false" obligation="normative">
+<clause id="boilerplate-copyright-default" inline-header="false" obligation="normative">
 <title>COPYRIGHT PROTECTED DOCUMENT</title>
 <p id="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2020</span></p>
 
-<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation,
-no part of this publication may be
-reproduced or utilized otherwise in any form or by any means, electronic or
-mechanical, including photocopying, or posting on the internet or an intranet,
-without prior written permission. Permission can be requested from either ISO
-at the address below or ISO’s member body in the country of the requester.</p>
+<p id="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
-<p id="boilerplate-address" align="left">ISO copyright office<br/>
-CP 401 • Ch. de Blandonnet 8<br/>
-CH-1214 Vernier, Geneva<br/>
-Phone: +41 22 749 01 11<br/>
-Email: <link target="mailto:copyright@iso.org"/><br/>
-Website: www.iso.org</p>
+<p id="boilerplate-address" align="left">ISO copyright office<br/> CP 401 • Ch. de Blandonnet 8 <br/> CH-1214 Vernier, Geneva <br/> Phone: +41 22 749 01 11 <br/> Email:  <link target="mailto:copyright@iso.org"/><br/> Website: www.iso.org</p>
 
 <p id="boilerplate-place">Published in Switzerland</p>
 </clause>
@@ -94,19 +92,16 @@ Website: www.iso.org</p>
 
 
 
-<clause id="_terms_definitions_and_abbreviated_terms" obligation="normative">
+<clause id="_terms_definitions_and_abbreviated_terms" obligation="normative" type="terms">
 <title>Terms, definitions and abbreviated terms</title>
 <terms id="_terms_and_definitions" obligation="normative">
-<title>Terms and definitions</title><p id="_fd62ccfd-6cf1-f948-d3ab-6932f1469a70">For the purposes of this document, 
-    the following terms and definitions apply.</p>
-<p id="_ee05ad85-2825-0de5-9af6-9c572745d6ed">ISO and IEC maintain terminology databases for use in
-standardization at the following addresses:</p>
+<title>Terms and definitions</title><p id="_a6a7fc80-cfee-9d0e-3462-71916c9b19ac">For the purposes of this document, the following terms and definitions apply.</p>
+<p id="_e573c074-0603-421e-8112-fe418286aeee">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
 
-<ul id="_adc299fe-e3c6-349d-5c7c-5b99b4880d68">
-<li><p id="_cf4d0e14-36bd-33e2-1550-06ca6a7e471b">ISO Online browsing platform: available at
-  <link target="https://www.iso.org/obp"/></p></li>
-<li><p id="_50a1fff2-2f9c-c37f-faf3-f7a923f6ad0e">IEC Electropedia: available at
-<link target="https://www.electropedia.org"/></p></li>
+<ul id="_0aa5d59b-1143-4a9a-4a06-fef9f2f3d349"><li><p id="_9dc9a250-014b-1f32-ac4d-231d07bffdbd">ISO Online browsing platform: available at <link target="https://www.iso.org/obp"/></p>
+</li>
+<li><p id="_36a52d41-d14b-2f3a-a09b-e9f5ec0d5a0a">IEC Electropedia: available at <link target="https://www.electropedia.org"/></p>
+</li>
 </ul>
 
 <term id="term-greenhouse-gas"><preferred><expression>
@@ -122,7 +117,7 @@ standardization at the following addresses:</p>
 <definition><verbal-definition><p id="_4fa3f841-5705-3619-5939-606c0d25cc0b">gaseous constituent of the atmosphere, both natural and <concept><refterm>anthropogenic</refterm><renderterm>anthropogenic</renderterm><xref target="term-anthropogenic"/></concept>, that absorbs and emits radiation at specific wavelengths within the spectrum of infrared radiation emitted by the Earth’s surface, the atmosphere, and clouds</p></verbal-definition></definition>
 
 
- <termsource status="modified" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO&amp;#xa0;14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin>
+ <termsource status="modified" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin>
 <modification><p id="_d0c203dd-dabf-2b52-1482-70bb3af3c4e8">The Notes to entry have been removed.</p>
 </modification>
 </termsource></term>
@@ -140,7 +135,7 @@ standardization at the following addresses:</p>
 <definition><verbal-definition><p id="_76e476e1-01b7-6e59-78c5-b92408dab71b">release of a <concept><refterm>greenhouse gas</refterm><renderterm>GHG</renderterm><xref target="term-greenhouse-gas"/></concept> into the atmosphere</p></verbal-definition></definition>
 
 
- <termsource status="identical" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO&amp;#xa0;14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
+ <termsource status="identical" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
 </termsource></term>
 
 <term id="term-greenhouse-gas-removal"><preferred><expression>
@@ -156,7 +151,7 @@ standardization at the following addresses:</p>
 <definition><verbal-definition><p id="_3877254a-7461-acf6-3f34-434b83863673">withdrawal of a <concept><refterm>greenhouse gas</refterm><renderterm>GHG</renderterm><xref target="term-greenhouse-gas"/></concept> from the atmosphere</p></verbal-definition></definition>
 
 
- <termsource status="modified" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO&amp;#xa0;14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin>
+ <termsource status="modified" type="authoritative"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin>
 <modification><p id="_fad0599c-0321-be39-8f2c-16957fd92728">The words “by GHG sinks” have been removed from the definition.</p>
 </modification>
 </termsource></term>
@@ -194,8 +189,7 @@ standardization at the following addresses:</p>
 
 <clause id="_data_models" inline-header="false" obligation="normative">
 <title>Data models</title>
-<p id="_a07b0756-e637-7dd5-e5fd-732d76df1478">The following data models are used by other data models specified in
-this document.</p>
+<p id="_8facbd67-8d0c-d6cd-da91-64dfe6ccaa5d">The following data models are used by other data models specified in this document.</p>
 
 <clause id="_basic_data_types" inline-header="false" obligation="normative">
 <title>Basic data types</title>
@@ -217,42 +211,233 @@ this document.</p>
 <p id="_9283492d-f5ad-1011-3704-ecf1dbb0e814">This is an informative annex.</p>
 </annex><bibliography><references id="_normative_references" normative="true" obligation="informative">
 <title>Normative references</title><p id="_21971d30-bb88-56a2-0d5b-aca5e0104f76">There are no normative references in this document.</p>
+
 </references><references id="_bibliography" normative="false" obligation="informative">
-<title>Bibliography</title><bibitem id="iso140001" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+<title>Bibliography</title><bibitem id="iso140001" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Environmental management systems</title>
+
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Requirements with guidance for use</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Environmental management systems — Requirements with guidance for use</title>
-  <uri type="src">https://www.iso.org/standard/60857.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60857:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/08/60857.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 14001:2015</docidentifier>  <docidentifier type="iso-reference">ISO 14001:2015(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:14001:stage-90.93</docidentifier>  <docnumber>14001</docnumber>  <date type="published">    <on>2015-09</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/60857.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60857:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/06/08/60857.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 14001:2015</docidentifier>
+  <docidentifier type="iso-reference">ISO 14001:2015(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:14001:stage-90.93</docidentifier>
+  <docnumber>14001</docnumber>
+  <date type="published">
+    <on>2015-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>3</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2015</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14001:2004</formattedref>      <docidentifier type="ISO" primary="true">ISO 14001:2004</docidentifier>    </bibitem>
-  </relation>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14001:2004/Cor 1:2009</formattedref>      <docidentifier type="ISO" primary="true">ISO 14001:2004/Cor 1:2009</docidentifier>    </bibitem>
-  </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14001:2015/Amd 1:2024</formattedref>      <docidentifier type="ISO" primary="true">ISO 14001:2015/Amd 1:2024</docidentifier>      <date type="circulated">        <on>2021-03-25</on>      </date>    </bibitem>
-  </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14001:2015/CD Amd 2</formattedref>      <docidentifier type="ISO" primary="true">ISO 14001:2015/CD Amd 2</docidentifier>      <date type="circulated">        <on>2021-03-25</on>      </date>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>3</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        
+<name>ISO</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14001:2004</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2004</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14001:2004/Cor 1:2009</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2004/Cor 1:2009</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updates">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14001:2015/Amd 1:2024</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2015/Amd 1:2024</docidentifier>
+      <date type="circulated">
+        <on>2021-03-25</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <relation type="updates">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14001:2015/DAmd 2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2015/DAmd 2</docidentifier>
+      <date type="circulated">
+        <on>2021-03-25</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <place>Geneva</place>
+</bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-main" format="text/plain" language="en" script="Latn">Greenhouse gases</title>
+
   
 <title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
-  <uri type="src">https://www.iso.org/standard/66453.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:66453:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/64/66453.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 14064-1:2018</docidentifier>  <docidentifier type="iso-reference">ISO 14064-1:2018(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:14064:-1:stage-90.60</docidentifier>  <docnumber>14064</docnumber>  <date type="published">    <on>2018-12</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/66453.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:66453:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/06/64/66453.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 14064-1:2018</docidentifier>
+  <docidentifier type="iso-reference">ISO 14064-1:2018(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:14064:-1:stage-90.92</docidentifier>
+  <docnumber>14064</docnumber>
+  <date type="published">
+    <on>2018-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <abstract format="text/plain" language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory. The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>  <status>    <stage>90</stage>    <substage>60</substage>  </status>  <copyright>    <from>2018</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14064-1:2006</formattedref>      <docidentifier type="ISO" primary="true">ISO 14064-1:2006</docidentifier>    </bibitem>
-  </relation>  <relation type="updates">    <bibitem type="standard">      <formattedref format="text/plain">ISO 14064-1:2018/DAmd 1</formattedref>      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAmd 1</docidentifier>      <date type="circulated">        <on>2023-09-03</on>      </date>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem><bibitem id="iso31000" type="standard" schema-version="v1.2.8">  <fetched>2024-06-19</fetched>  
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory.
+The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>92</substage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        
+<name>ISO</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14064-1:2006</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14064-1:2006</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO/AWI 14064-1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/AWI 14064-1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updates">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 14064-1:2018/DAmd 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAmd 1</docidentifier>
+      <date type="circulated">
+        <on>2024-10-14</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <place>Geneva</place>
+</bibitem><bibitem id="iso31000" type="standard" schema-version="v1.2.9">
+  <fetched>2025-01-21</fetched>
+  
 <title type="title-intro" format="text/plain" language="en" script="Latn">Risk management</title>
+
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Guidelines</title>
+
   
 <title type="main" format="text/plain" language="en" script="Latn">Risk management — Guidelines</title>
-  <uri type="src">https://www.iso.org/standard/65694.html</uri>  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:65694:en</uri>  <uri type="rss">https://www.iso.org/contents/data/standard/06/56/65694.detail.rss</uri>  <docidentifier type="ISO" primary="true">ISO 31000:2018</docidentifier>  <docidentifier type="iso-reference">ISO 31000:2018(E)</docidentifier>  <docidentifier type="URN">urn:iso:std:iso:31000:stage-90.93</docidentifier>  <docnumber>31000</docnumber>  <date type="published">    <on>2018-02</on>  </date>  <contributor>    <role type="publisher"/>    <organization>      
+
+  <uri type="src">https://www.iso.org/standard/65694.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:65694:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/06/56/65694.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO 31000:2018</docidentifier>
+  <docidentifier type="iso-reference">ISO 31000:2018(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:31000:stage-90.92</docidentifier>
+  <docnumber>31000</docnumber>
+  <date type="published">
+    <on>2018-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
 <name>International Organization for Standardization</name>
-      <abbreviation>ISO</abbreviation>      <uri>www.iso.org</uri>    </organization>  </contributor>  <edition>2</edition>  <language>en</language>  <language>fr</language>  <script>Latn</script>  <status>    <stage>90</stage>    <substage>93</substage>  </status>  <copyright>    <from>2018</from>    <owner>      <organization>        
-      </organization>    </owner>  </copyright>  <relation type="obsoletes">    <bibitem type="standard">      <formattedref format="text/plain">ISO 31000:2009</formattedref>      <docidentifier type="ISO" primary="true">ISO 31000:2009</docidentifier>    </bibitem>
-  </relation>  <place>Geneva</place></bibitem>
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <status>
+    <stage>90</stage>
+    <substage>92</substage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        
+<name>ISO</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO 31000:2009</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 31000:2009</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletes">
+    <bibitem type="standard">
+      <formattedref format="text/plain">ISO/WD 31000</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 31000</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>Geneva</place>
+</bibitem>
 
 
 
