@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.5" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (non-glutinous), sample dividers and recommendations relating to storage and transport conditions</title>
 
@@ -70,11 +70,11 @@
 </copyright-statement>
 </boilerplate><preface><foreword id="_092b0e22-4fff-759f-9e14-419cf26dd28d" obligation="informative">
 <title>Foreword</title>
-<review id="_d53efc63-e7da-3152-3a92-71c1b8e54c21" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_b92bb08c-3476-c675-2219-0a2af53f3e5c"><li><p id="_703b0faa-4d60-bdb3-2c4d-4a93e7ccf3d3">Donnez le titre du document auquel la modification s’applique.</p>
+<review id="_d53efc63-e7da-3152-3a92-71c1b8e54c21" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_b92bb08c-3476-c675-2219-0a2af53f3e5c"><li><p id="_703b0faa-4d60-bdb3-2c4d-4a93e7ccf3d3">Donnez le titre du document auquel la modification s’applique.</p>
 </li>
 </ul>
 </review>
-<review id="_14facedb-4bbb-c4e7-46b7-63a7ec09e39b" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_2201b8d5-9fe1-38c4-0b0c-8ca3f9bebe9f"><li><p id="_44c337ad-accb-71d1-10b7-cebde3335abf">Il peut être utile de préciser l’objet de l’amendement dans l’élément complémentaire du titre.</p>
+<review id="_14facedb-4bbb-c4e7-46b7-63a7ec09e39b" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_2201b8d5-9fe1-38c4-0b0c-8ca3f9bebe9f"><li><p id="_44c337ad-accb-71d1-10b7-cebde3335abf">Il peut être utile de préciser l’objet de l’amendement dans l’élément complémentaire du titre.</p>
 </li>
 </ul>
 </review>
@@ -88,18 +88,18 @@
 
 <p id="_70905697-29fb-ef47-8785-a4351d7ee075">Pour une explication de la nature volontaire des normes, de la signification des termes et expressions spécifiques de l’ISO liés à l’évaluation de la conformité, ou pour toute information au sujet de l’adhésion de l’ISO aux principes de l’Organisation mondiale du commerce (OMC) concernant les obstacles techniques au commerce (OTC), voir le lien suivant: <link target="https://www.iso.org/avant-propos">www.iso.org/avant-propos</link>.</p>
 
-<review id="_ae2da702-1f25-48d3-768d-dd350e65bf98" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"/>
+<review id="_ae2da702-1f25-48d3-768d-dd350e65bf98" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"/>
 <p id="_7e3598db-4579-1071-9937-a5584c56534e">Le présent document a été élaboré par le comité technique ISO/TC 34,  <em>Produits alimentaires</em>, souscomité SC 4,  <em>Céréales et légumineuses</em>.</p>
 
 <p id="_5e09554e-fc17-ea96-a8a1-9805ca0d2520">Une liste de toutes les parties de la série ISO 17301 se trouve sur <link target="https://www.iso.org">le site Web de l’ISO</link>.</p>
 
 <p id="_3cc98c85-d76b-fbdb-40ae-d1a5dd4fca4a">Tout commentaire ou question sur ce document doit être adressé à l’organisme de normalisation national de l’utilisateur. Une liste complète de ces organismes est disponible sur  <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
 
-<review id="_6947125d-9a81-8e9f-2a94-6655d7b3a77f" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_7ebe9be1-0628-92e2-d7de-5d3286132bb4"><li><p id="_c04ba540-592e-7a3c-8510-392d44084151">Les informations concernant l’édition et les modifications ne sont pas incluses ici. Il est inclus dans la Norme internationale.</p>
+<review id="_6947125d-9a81-8e9f-2a94-6655d7b3a77f" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_7ebe9be1-0628-92e2-d7de-5d3286132bb4"><li><p id="_c04ba540-592e-7a3c-8510-392d44084151">Les informations concernant l’édition et les modifications ne sont pas incluses ici. Il est inclus dans la Norme internationale.</p>
 </li>
 </ul>
 </review>
-<review id="_cb8d2528-a00b-9d38-834a-bbdf28685549" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_37807e66-ce0c-85d2-a802-608f63b827bf"><li><p id="_bad05c8a-9727-3033-cf11-9ddcff553a7b">Un Amendement ne comprend pas de liste de contenu, d’Introduction ou de clause de Portée.</p>
+<review id="_cb8d2528-a00b-9d38-834a-bbdf28685549" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_37807e66-ce0c-85d2-a802-608f63b827bf"><li><p id="_bad05c8a-9727-3033-cf11-9ddcff553a7b">Un Amendement ne comprend pas de liste de contenu, d’Introduction ou de clause de Portée.</p>
 </li>
 </ul>
 </review></foreword></preface><sections>
@@ -107,7 +107,7 @@
 <title>Introduction, troisième paragraphe</title>
 
 
-<amend id="_e164920d-1080-c8c4-fa0a-3bc755c10876" change="modify"><description><p id="_9c941d13-176d-2661-cc5d-9df5be148cc8">Remplacer «5 %» par «10 %» et «30 %» par «40 %».</p><review id="_be7ec368-39ab-63ba-f4c1-77e78e890821" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_03eca22e-dd6c-31ae-c98a-7da33c06ac22"><li><p id="_a4f78d32-1fc2-6774-41f7-8b513adeab28">L’élément à modifier par rapport au document original est clairement spécifié (par exemple, numéro de clause, paragraphe, figure, tableau, formule), suivi d’une indication claire de ce qui est modifié (par exemple en utilisant les verbes «remplacer», «supprimer», «ajouter»).</p>
+<amend id="_e164920d-1080-c8c4-fa0a-3bc755c10876" change="modify"><description><p id="_9c941d13-176d-2661-cc5d-9df5be148cc8">Remplacer «5 %» par «10 %» et «30 %» par «40 %».</p><review id="_be7ec368-39ab-63ba-f4c1-77e78e890821" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_03eca22e-dd6c-31ae-c98a-7da33c06ac22"><li><p id="_a4f78d32-1fc2-6774-41f7-8b513adeab28">L’élément à modifier par rapport au document original est clairement spécifié (par exemple, numéro de clause, paragraphe, figure, tableau, formule), suivi d’une indication claire de ce qui est modifié (par exemple en utilisant les verbes «remplacer», «supprimer», «ajouter»).</p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -116,7 +116,7 @@
 <title>Article 2, Références normatives</title>
 
 
-<amend id="_58d22ea8-2aea-f9ff-b56b-0f633385d3a5" change="modify" path="./bibitem[docidentifier = 'ISO 8351-2']"><description><p id="_a15ce2d4-e007-9e4f-141d-e6e528a21a29">Remplacer «ISO 8351-2» par «ISO 8351-2:1994».</p><review id="_b314c1e6-8e0e-bd04-aa5b-5733ae5e8f4f" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_dbdcb07f-d0a9-68de-2286-95f3afe75adb"><li><p id="_a93746f5-5826-46fd-0379-a4377faf7e0a">Dans ce cas, la référence datée dans la clause Références normatives a été mise à jour pour correspondre à la référence mise à jour dans  <xref target="cls8-comment">l’Article 8, deuxième</xref></p>
+<amend id="_58d22ea8-2aea-f9ff-b56b-0f633385d3a5" change="modify" path="./bibitem[docidentifier = 'ISO 8351-2']"><description><p id="_a15ce2d4-e007-9e4f-141d-e6e528a21a29">Remplacer «ISO 8351-2» par «ISO 8351-2:1994».</p><review id="_b314c1e6-8e0e-bd04-aa5b-5733ae5e8f4f" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_dbdcb07f-d0a9-68de-2286-95f3afe75adb"><li><p id="_a93746f5-5826-46fd-0379-a4377faf7e0a">Dans ce cas, la référence datée dans la clause Références normatives a été mise à jour pour correspondre à la référence mise à jour dans  <xref target="cls8-comment">l’Article 8, deuxième</xref></p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -149,7 +149,7 @@
 
 
 <amend id="_0a932faa-4c0c-3618-6aa7-95bac876215d" change="add" path="./*[last()]"><description><p id="_cf05d2d2-7ebc-c697-97ae-49e302a29294">Ajouter l’alinéa suivant à la fin de l’article:</p></description><newcontent id="_78d87a11-077c-8a6b-9fde-27b33234d55d"><p id="_21d40903-1c28-8e37-107a-30ec9c310327">L’Annexe E fournit des recommandations relatives aux conditions d’entreposage et de transport.</p>
-</newcontent><description><review id="_6685bdb6-6374-9f8c-9be8-b0bbfb205f83" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_4f767720-e1f8-57b8-70af-18b252fd97c9"><li><p id="_4b860734-636a-2594-f9bf-bd3323d3109a">Lorsqu’une nouvelle annexe est ajoutée à un document, une référence doit être faite à cette nouvelle annexe dans le corps du document, comme indiqué dans la modification de l’Article 8.</p>
+</newcontent><description><review id="_6685bdb6-6374-9f8c-9be8-b0bbfb205f83" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_4f767720-e1f8-57b8-70af-18b252fd97c9"><li><p id="_4b860734-636a-2594-f9bf-bd3323d3109a">Lorsqu’une nouvelle annexe est ajoutée à un document, une référence doit être faite à cette nouvelle annexe dans le corps du document, comme indiqué dans la modification de l’Article 8.</p>
 </li>
 </ul>
 </review></description></amend></clause>
@@ -178,7 +178,7 @@
 
 
 
-<amend id="_8874291b-fccf-c617-3240-f908f67b5a29" change="modify"><description><review id="_e90b52be-c992-3964-52ac-7a0d6a43b1a4" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_6b0dfde6-1617-2a90-8e18-afda09f78571"><li><p id="_b89ffe8e-312c-4dee-1c84-6441da97f679">Les nouveaux chiffres sont référencés au point A.2.1 du présent Amendement.</p>
+<amend id="_8874291b-fccf-c617-3240-f908f67b5a29" change="modify"><description><review id="_e90b52be-c992-3964-52ac-7a0d6a43b1a4" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_6b0dfde6-1617-2a90-8e18-afda09f78571"><li><p id="_b89ffe8e-312c-4dee-1c84-6441da97f679">Les nouveaux chiffres sont référencés au point A.2.1 du présent Amendement.</p>
 </li>
 </ul>
 </review><p id="_f87fcf1f-a37e-1302-ccb6-b4fbdd8d280d">Remplacer la Figure A.1 par les deux figures suivantes:</p></description><newcontent id="_15275887-592a-a5b0-deb5-34a263e89e05"><figure id="fig1" width="200">
@@ -212,7 +212,7 @@
 
 
 
-<amend id="_3991d755-6414-8697-1a57-c47f281bf680" change="add" path="."><description><p id="_ee48a9f8-a00f-4cb4-a9d4-1380d4f2bfc2">Ajouter l’annexe suivante après l’Annexe D, avant la Bibliographie:</p><review id="_57de1a5c-02b8-152b-05fa-5f678713de91" reviewer="ISO" date="2025-01-21T00:00:00Z" type="todo"><ul id="_9b8a4e36-17e3-8886-7e56-23cd5e51ed74"><li><p id="_1cfdac0f-88ca-b690-3015-89619b547b4e">La nouvelle annexe E est référencée à l’Article 8 du présent Amendement.</p>
+<amend id="_3991d755-6414-8697-1a57-c47f281bf680" change="add" path="."><description><p id="_ee48a9f8-a00f-4cb4-a9d4-1380d4f2bfc2">Ajouter l’annexe suivante après l’Annexe D, avant la Bibliographie:</p><review id="_57de1a5c-02b8-152b-05fa-5f678713de91" reviewer="ISO" date="2025-02-21T00:00:00Z" type="todo"><ul id="_9b8a4e36-17e3-8886-7e56-23cd5e51ed74"><li><p id="_1cfdac0f-88ca-b690-3015-89619b547b4e">La nouvelle annexe E est référencée à l’Article 8 du présent Amendement.</p>
 </li>
 </ul>
 </review></description><newcontent id="_e022738b-21b0-3a61-137e-f4c5057682f9"><p id="_bc2b5746-a168-89e1-5f9d-0ce59a81723f"><strong>Annexe E. Recommandations relatives aux conditions d’entreposage et de transport</strong></p>

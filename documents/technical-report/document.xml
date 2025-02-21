@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.4" schema-version="v1.4.1">
+<iso-standard xmlns="https://www.metanorma.org/ns/iso" type="semantic" version="2.9.5" schema-version="v1.4.1">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
 
@@ -258,7 +258,7 @@
 <title>Normative references</title><p id="_21ac2b92-2fe6-317d-983c-a478441ede9f">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
 <bibitem id="iso-iec_26300" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -271,7 +271,6 @@
   <uri type="src">https://www.iso.org/standard/43485.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:43485:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/34/43485.detail.rss</uri>
-  <uri type="pub">https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 26300:2006(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:26300:stage-90.93</docidentifier>
@@ -394,7 +393,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 <bibitem id="iso-iec_29500-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -488,7 +487,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 <bibitem id="iso-iec_29500-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -572,7 +571,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 <bibitem id="iso-iec_29500-3" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -656,7 +655,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 <bibitem id="iso-iec_29500-4" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -751,7 +750,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
 </bibitem>
 
 <bibitem id="ISO5127" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -812,7 +811,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-01-21</fetched>
+      <fetched>2025-02-21</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -882,7 +881,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO15924" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -946,7 +945,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-01-21</fetched>
+      <fetched>2025-02-21</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -1020,7 +1019,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
 </bibitem>
 </references><references id="_bibliography" normative="false" obligation="informative">
 <title>Bibliography</title><bibitem id="iso-iec_10746-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -1100,7 +1099,7 @@ specifications, and provide some examples of applying the ODP concepts in the sp
   </copyright>
   <place>Geneva</place>
 </bibitem><bibitem id="iso-iec_10746-3" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -1173,7 +1172,7 @@ specifications, and provide some examples of applying the ODP concepts in the sp
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="iso15489_1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -1240,7 +1239,7 @@ ISO 15489-1:2016 applies to the creation, capture and management of records rega
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="iso27000" type="standard" schema-version="v1.2.9">
-  <fetched>2025-01-21</fetched>
+  <fetched>2025-02-21</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
