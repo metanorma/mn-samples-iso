@@ -1,6 +1,11 @@
-Content overflows the viewport of an fo:block-container in block-progression direction by 46067 millipoints. (See position 17:3987)
+Content overflows the viewport of an fo:block-container in block-progression direction by 46067 millipoints. (See position 17:3988)
+Can't highlight the text ''.
+Can't highlight the text ''.
+Can't highlight the text ''.
+Can't highlight the text ''.
+Can't highlight the text ''.
 PDF isn't valid PDF/UA-1:
-ValidationResult [flavour=ua1, totalAssertions=30499, assertions=[
+ValidationResult [flavour=ua1, totalAssertions=30613, assertions=[
 TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.18.1, testNumber=2], status=failed,
 message=An annotation (except Widget annotations or hidden annotations, or those having rectangle outside the crop-box) shall have either Contents key or an Alt entry in the enclosing structure element,
 location=Location [level=CosDocument, context=root/document[0]/pages[2](56 0 obj PDPage)/annots[8](332 0 obj PDMarkupAnnot)], locationContext=null, errorMessage=null]], isCompliant=false]
