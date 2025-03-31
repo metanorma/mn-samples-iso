@@ -93,7 +93,7 @@
 <p id="_caa60da8-29b4-196d-65a8-ea6de917140e">Recipients of this draft are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.</p>
 </clause>
 </license-statement>
-</boilerplate><preface><foreword id="_f2abfaa5-0cbe-628a-4e24-272c9b3d9ce6" obligation="informative">
+</boilerplate><preface><foreword id="foreword" obligation="informative">
 <title>Foreword</title>
 <p id="_fb666896-6223-7e03-ac2f-512f1314cc92">ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
 
@@ -1026,7 +1026,7 @@ end</body><annotation id="_94d674d1-859b-9a67-62c8-7b2952f020e8"><p id="_c772a71
 <title>Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
 <bibitem id="ISO712" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1092,7 +1092,7 @@ end</body><annotation id="_94d674d1-859b-9a67-62c8-7b2952f020e8"><p id="_c772a71
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1169,7 +1169,7 @@ The method is not applicable to maize and pulses.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO6646" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1223,7 +1223,7 @@ The method is not applicable to maize and pulses.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1287,7 +1287,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1342,7 +1342,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1392,7 +1392,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1457,7 +1457,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note>
 </bibitem>
 <bibitem id="ISO20483" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
 
@@ -1519,7 +1519,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO24333" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1597,7 +1597,7 @@ It is not applicable to seed grain.</abstract>
 </bibitem>
 </references><references id="_bibliography" normative="false" obligation="informative">
 <title>Bibliography</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1644,7 +1644,7 @@ It is not applicable to seed grain.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1699,7 +1699,7 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1760,7 +1760,7 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1837,7 +1837,7 @@ This document does not include methods of calculation that are described in the 
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1905,7 +1905,7 @@ This document does not include methods of calculation that are described in the 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1993,7 +1993,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2047,7 +2047,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2109,7 +2109,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2163,7 +2163,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2225,7 +2225,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2279,7 +2279,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-28</fetched>
+      <fetched>2025-03-31</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2341,7 +2341,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2411,7 +2411,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-28</fetched>
+  <fetched>2025-03-31</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 

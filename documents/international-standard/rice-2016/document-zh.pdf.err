@@ -1,5 +1,8 @@
 PDF isn't valid PDF/UA-1:
-ValidationResult [flavour=ua1, totalAssertions=107951, assertions=[
+ValidationResult [flavour=ua1, totalAssertions=107956, assertions=[
 TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.18.5, testNumber=1], status=failed,
 message=Links shall be tagged according to ISO 32000-1:2008, 14.8.4.4.2, Link Element,
-location=Location [level=CosDocument, context=root/document[0]/pages[6](190 0 obj PDPage)/annots[0](188 0 obj PDLinkAnnot)], locationContext=null, errorMessage=null]], isCompliant=false]
+location=Location [level=CosDocument, context=root/document[0]/pages[3](137 0 obj PDPage)/annots[0](136 0 obj PDLinkAnnot)], locationContext=null, errorMessage=null], 
+TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.18.5, testNumber=1], status=failed,
+message=Links shall be tagged according to ISO 32000-1:2008, 14.8.4.4.2, Link Element,
+location=Location [level=CosDocument, context=root/document[0]/pages[6](189 0 obj PDPage)/annots[0](187 0 obj PDLinkAnnot)], locationContext=null, errorMessage=null]], isCompliant=false]
