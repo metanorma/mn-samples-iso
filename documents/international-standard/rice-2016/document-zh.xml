@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.2" schema-version="v2.0.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.3" schema-version="v2.0.2" flavor="iso">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
@@ -99,10 +99,7 @@
 
 <p id="_7bf66a9d-a77e-a40e-a8bd-c99b22510351">可以在ISO网站上找到ISO 17301 系列中所有部件的列表。</p>
 
-<review id="_6246175a-46a9-3b27-3e40-9d984d0dc47e" reviewer="ISO" date="2017-01-01T00:00:00Z" type="todo" from="foreword" to="foreword"><p id="_c34adb65-a68e-6b70-0fae-3727d7c51609">每个文件中都应有前言部分。 通用文本在这里显示，不包含要求，建议或权限。</p>
-
-<p id="_112a1bef-3830-a9bd-5caf-f603a33859ea">有关前言的更多信息，请参阅 <strong>ISO / IEC指令，2016年第2部分，第12章</strong>。</p>
-</review></foreword><introduction id="___x5f15___x8a00_" obligation="informative">
+</foreword><introduction id="___x5f15___x8a00_" obligation="informative">
 <title>引言</title>
 <p id="_249a7152-c94b-f39f-b040-f24bad442e66">本文件是为满足世界范围内对大米最低规格要求而开发的，因为大多数未经过筛选或吸入的商品大块含有一定比例的其他谷物，杂草种子，谷壳，稻草，石头，沙子，植物材料可具有不同于主要成分的物理和生物学特性，因此可影响储存行为。</p>
 
@@ -978,7 +975,7 @@
 
 
 <bibitem id="ISO712" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1056,7 +1053,7 @@
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1148,7 +1145,7 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO6646" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1211,7 +1208,7 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1286,7 +1283,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1354,7 +1351,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1416,7 +1413,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1494,7 +1491,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note>
 </bibitem>
 <bibitem id="ISO20483" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
 
@@ -1569,7 +1566,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO24333" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1661,7 +1658,7 @@ Elle n’est pas applicable aux semences.</abstract>
 </bibitem>
 </references><references id="___x53c2___x8003___x6587___x732e_" normative="false" obligation="informative">
 <title>参考文献</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1717,7 +1714,7 @@ Elle n’est pas applicable aux semences.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1783,7 +1780,7 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1853,7 +1850,7 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -1948,7 +1945,7 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2025,7 +2022,7 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2135,7 +2132,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2198,7 +2195,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2270,7 +2267,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2333,7 +2330,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2404,7 +2401,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2467,7 +2464,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2539,7 +2536,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2619,7 +2616,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2721,4 +2718,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
 
 </references></bibliography>
-</metanorma>
+<review-container><review id="_ca04f597-601e-aa19-346d-784e98a2fd70" reviewer="ISO" date="2017-01-01T00:00:00Z" type="todo" from="foreword" to="foreword"><p id="_a4950e0d-4897-ac84-981e-75a1cc7a8509">每个文件中都应有前言部分。 通用文本在这里显示，不包含要求，建议或权限。</p>
+
+<p id="_75f4b586-14ce-4520-0a27-40548bbf2499">有关前言的更多信息，请参阅 <strong>ISO / IEC指令，2016年第2部分，第12章</strong>。</p>
+</review></review-container></metanorma>

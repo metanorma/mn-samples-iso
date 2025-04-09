@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.2" schema-version="v2.0.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.3" schema-version="v2.0.2" flavor="iso">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main">Cereals and pulses — Specifications and test methods — Rice (CD)</title>
 
@@ -93,7 +93,7 @@
 <p id="_caa60da8-29b4-196d-65a8-ea6de917140e">Recipients of this draft are invited to submit, with their comments, notification of any relevant patent rights of which they are aware and to provide supporting documentation.</p>
 </clause>
 </license-statement>
-</boilerplate><preface><foreword id="_ef4d930e-d7c9-b705-e53d-8d65c9017e3e" obligation="informative">
+</boilerplate><preface><foreword id="_386a52fc-94c0-d49b-8fba-c2571e90c91f" obligation="informative">
 <title>Foreword</title>
 <p id="_fb666896-6223-7e03-ac2f-512f1314cc92">ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p>
 
@@ -105,10 +105,7 @@
 
 <p id="_f647e957-e4b5-fd15-1368-4b45c5b05038">For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see <link target="https://www.iso.org/iso/foreword.html">www.iso.org/iso/foreword.html</link>.</p>
 
-<review id="_4622b107-76f9-4877-358e-ed788949ec1f" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_e2b2dee4-359f-676d-6715-efc00c0c9940"><li><p id="_ba000620-9815-b7d8-58af-fdbdf5b6bae2">Template text for all committees</p>
-</li>
-</ul>
-</review>
+<bookmark id="_dda23915-8574-ef1e-29a1-822d465a5b97"/>
 <p id="_06ea1c21-8cfd-751d-a8c0-9d0f7ec5be7d">This document was prepared by Technical Committee ISO/TC 34,  <em>Food products</em>, Subcommittee SC 4,  <em>Cereals and pulses</em>.</p>
 
 <p id="_0eb3baae-44f9-9cf2-7b96-27a0609d832a">This third edition cancels and replaces the second edition (ISO 17301-1:2016), which has been technically revised.</p>
@@ -125,13 +122,7 @@
 
 <p id="_25266336-b935-3444-f4f9-44fcf3be17ad">Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
 
-<review id="_81280054-0a42-3e43-adb6-f9b7372bd6f0" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_5ba1738a-6bf9-6be6-8e74-e801ec482b04"><li><p id="_ab6c9da9-1007-fe53-c04e-c58d75e4d41e">Committee-specific text</p>
-<ul id="_022bfb22-daaf-7475-59ac-c8b36ebd4773"><li><p id="_e4e2ea02-d2e2-0452-22f3-1f25a8eb5bc7">ISO/IEC Directives, Part 2, 2021, Clause 12</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></foreword><introduction id="intro" obligation="informative">
+<bookmark id="_8ad398f7-2028-cf75-2698-04a63a5ab385"/></foreword><introduction id="intro" obligation="informative">
 <title>Introduction</title>
 <p id="_84ebd13b-631a-aec4-3a34-0b26ce574389">This document was developed in response to worldwide demand for minimum specifications for rice traded internationally, since most commercial bulks of grain, which have not been screened or aspirated, contain a proportion of other grains, weed seeds, chaff, straw, stones, sand, etc. The vegetable materials can have physical and biological properties which differ from those of the main constituent and can therefore affect the storage behaviour.</p>
 
@@ -139,15 +130,7 @@
 
 <p id="_695f03cc-61c1-b2e2-bdef-b611ebab02e5">Storage losses have been estimated as being an average of 5 %, and as much as 30 %, especially in regions with climates favourable to the rapid development of agents of deterioration, such as tropical climates. The magnitude of these figures highlights the need to promote a rapid improvement in techniques of conservation worldwide.</p>
 
-<review id="_ac63e6e8-40b3-eec4-6ec2-2f3142924e22" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="intro" to="intro"><ul id="_3504a80c-6c00-59bb-11bb-023af49c4d87"><li><p id="_34887ec3-3cbc-3ff1-6a06-9e298162398b">Optional element</p>
-</li>
-<li><p id="_35d9dd1c-03ff-8158-f952-d71023dc827e">Provides background information about the technical content</p>
-<ul id="_c4d45d88-af15-d86e-094b-548ffdc00d2d"><li><p id="_f7260498-f58f-7e4e-24ce-ed1f9bb443e7">ISO/IEC Directives, Part 2, 2021, Clause 13</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></introduction></preface><sections>
+</introduction></preface><sections>
 
 <clause id="scope" type="scope" inline-header="false" obligation="normative">
 <title>Scope</title>
@@ -157,17 +140,7 @@
 
 <p id="_00b96019-1d2b-95b6-4703-2dc837355630">It is not applicable to cooked rice products.</p>
 
-<review id="_8fb45506-f2b8-24b0-fca9-b69ea4e48591" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="scope" to="scope"><ul id="_b48392d8-1dfd-e936-3b07-85f4bcf29ec2"><li><p id="_2c7924df-f9f0-8ff4-7221-f9131f67dae3">Mandatory clause</p>
-</li>
-<li><p id="_d5dad444-874e-7aad-0e76-d222bf46fc5f">Defines the subject of the document</p>
-</li>
-<li><p id="_25cfdefb-7160-297f-ce43-67c4b190635b">Used as a summary for the abstract</p>
-<ul id="_0b65e1e2-49ca-59cc-beee-90d429374604"><li><p id="_3603cfa2-6db5-e3cb-0acb-7d7c8d5afa0d">ISO/IEC Directives, Part 2, 2021, Clause 14</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+</clause>
 
 
 
@@ -181,15 +154,7 @@
 </li>
 </ul>
 
-<review id="_754445b5-3c1c-3240-fc71-7a19244c152c" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="terms" to="terms"><ul id="_9fcd3aab-37b5-1ccc-1b98-0849290354d7"><li><p id="_41cc3154-5f38-eb7a-c077-37cb87e5b79b">Mandatory clause</p>
-</li>
-<li><p id="_5ed35626-d8bc-7a60-6fa5-bb7925b3cc35">Definitions of terms used that are necessary for understanding the document</p>
-<ul id="_4f1b1ff1-6b0e-a69f-c1f7-f6621e668aef"><li><p id="_d7091496-c478-25fe-639d-b976b73bb8fc">ISO/IEC Directives, Part 2, 2021, Clause 16</p>
-</li>
-</ul>
-</li>
-</ul>
-</review>
+
 <term id="term-paddy"><preferred><expression>
 <name>paddy</name>
 </expression>
@@ -248,16 +213,7 @@
 
 
 
-<review id="_d0a42338-5aa7-8dbf-a03f-3b5da5b4b5e0" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_78088698-ac2e-ea16-eb14-c2c327a60890"><li><p id="_3a11210b-da18-056e-5e05-ebeca9eeb816">Preferred term “milled rice” in bold type</p>
-</li>
-<li><p id="_6f7946b0-8a4b-8a77-5eae-fbd82b3329cb">Admitted term “white rice” in regular type</p>
-</li>
-<li><p id="_2821a2d5-4a4b-3716-18b2-b8050e10a502">Hyperlink to another defined term (3.2)</p>
-</li>
-<li><p id="_5229ed16-9f5b-6afd-918a-cb5e101fce9d">Source document is informative and listed in the Bibliography</p>
-</li>
-</ul>
-</review> <termsource status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2021"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+<bookmark id="_c3a6c668-f87d-518c-b747-790ae6633134"/> <termsource status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2021"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
 </termsource></term>
 
 <term id="term-parboiled-rice"><preferred><expression>
@@ -293,12 +249,7 @@
 
 
 
-<review id="_b57411a8-ab52-c8da-ac49-0a194a2c4810" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_ed782898-6eaf-1f88-7a67-9296dfab769a"><li><p id="_5fe15d02-7e47-f8a4-1178-98a9ed3d2468">Abbreviated term “EM” given under the term</p>
-</li>
-<li><p id="_8c2fe65a-161c-71b9-1b51-5b6e6ae7967e">EXAMPLE given under the definition</p>
-</li>
-</ul>
-</review> <termexample id="_4bf3f8eb-baa6-7a4f-5be8-7b8ad85cbe5e"><p id="_89629d7e-d5f2-1159-4a93-752202a0019d">Foreign seeds, husks, bran, sand, dust.</p>
+<bookmark id="_6eb18cb1-5251-577b-55f4-847278e45121"/> <termexample id="_4bf3f8eb-baa6-7a4f-5be8-7b8ad85cbe5e"><p id="_89629d7e-d5f2-1159-4a93-752202a0019d">Foreign seeds, husks, bran, sand, dust.</p>
 </termexample></term>
 
 <term id="term-HDK"><preferred><expression>
@@ -383,10 +334,7 @@
 
 
 
-<review id="_d80551b7-ea7a-40e8-c549-28ba6228bc21" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_840ecff2-5ac4-548d-5e57-fbdae1269946"><li><p id="_6669d085-d5a9-2129-d628-b15ddd15956b">Note to terminological entry provides additional information</p>
-</li>
-</ul>
-</review> <termnote id="_544064a7-010d-3f90-c725-6573a30eb744"><p id="_73218fe8-1bae-c6bc-dc50-2d96849c78d2">See <xref target="figureC-1"/>.</p>
+<bookmark id="_a33abe6c-4af4-a7b7-9dfe-83ba9da5544a"/> <termnote id="_544064a7-010d-3f90-c725-6573a30eb744"><p id="_73218fe8-1bae-c6bc-dc50-2d96849c78d2">See <xref target="figureC-1"/>.</p>
 </termnote><termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
 <modification><p id="_3e14271a-7531-bfbd-764e-a3c8f3f3a277">Note 1 to entry added.</p>
 </modification>
@@ -412,10 +360,7 @@
 
 
 
-<review id="_02ae2fc0-21f9-4fba-10ea-1ee3e7cd8a3e" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_70f38fef-22d4-149d-9328-f595746e2827"><li><p id="_0a290157-0270-4938-37ca-ee1eb8024951">Symbol appears below the term</p>
-</li>
-</ul>
-</review> <termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+<bookmark id="_6d7da8d8-a676-5ed8-f13c-e96d0f26f3dc"/> <termsource status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
 <modification><p id="_de66ee5b-83c4-daec-3c83-a05bbd19551a">admitted term, <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">    <mstyle displaystyle="false">      <msub>        <mi>t</mi>        <mn>90</mn>      </msub>    </mstyle> </math><asciimath>t_90</asciimath></stem>, added to the term entry.</p>
 </modification>
 </termsource></term>
@@ -452,10 +397,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <clause id="_2" inline-header="false" obligation="normative">
 <p id="_ddda74eb-bce2-7d8f-a079-898735214c1c">The defect tolerance for the categories considered, and determined in accordance with the method given in  <xref target="AnnexA"/>, shall not exceed the limits given in <xref target="table1"/>.</p>
 
-<review id="_103a6d41-e648-e333-f76e-a1069456f32e" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_dfe4f023-c4db-fd4c-27e9-69049ee5be95"><li><p id="_6b0b17ba-df96-1bd4-91ab-5494b3afe7e1">Cross-reference to Annex A and Table 1</p>
-</li>
-</ul>
-</review>
+<bookmark id="_bca834c7-f39e-7a6a-f730-4ee38a41ce3c"/>
 <table id="table1">
 <name>Maximum permissible mass fraction of defects</name>
 <thead><tr><th valign="middle" rowspan="2" align="center">Defect</th>
@@ -580,13 +522,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 
 
 
-<review id="_a3e07464-e851-99c5-61f5-af5528ba3d40" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_63bf2557-fc31-9906-2c61-269f6e3199b5"><li><p id="_5a8a15c0-567b-3f67-e9d6-04f5c4747c91">Table footer can contain requirements, notes and footnotes</p>
-<ul id="_9123fe83-1a69-220f-3ee8-fcd63bd9959d"><li><p id="_ac492e17-a75c-9648-dc58-5c690e8e2765">ISO/IEC Directives, Part 2, 2021, Clause 29</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+<bookmark id="_ee03b96b-6550-f3e7-a967-ddae2b65d6ac"/></clause>
 </clause>
 </clause>
 
@@ -604,19 +540,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 
 <clause id="waxy-rice-content" inline-header="false" obligation="normative">
 <title>Waxy rice content</title>
-<review id="_ac82b864-6ff9-69a4-e1df-b2202986f4fe" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="clause5" to="waxy-rice-content"><ul id="_e14c13fc-81d4-57a9-c396-097d4a16073c"><li><p id="_c06cfb28-e8d9-736f-c529-259cca131e5e">Cross-references to normative references</p>
-<ul id="_6be55132-c2d6-bb6f-0c93-2b391690406d"><li><p id="_80aa0ab3-e1a9-2780-3ec9-9ba8e097eaef">ISO/IEC Directives, Part 2, 2021, Clause 15</p>
-</li>
-</ul>
-</li>
-<li><p id="_c20b2387-039f-7990-afee-11ebb2d334ef">“shall” or imperative</p>
-</li>
-<li><p id="_688f7992-eb14-53a5-0911-ef36279f6b9a">ISO 24333:2009 and ISO 712 are normative and listed in Clause 2</p>
-</li>
-<li><p id="_195b1474-9d14-e666-aee5-4eea237e5408">ISO 24333 is dated because it refers to a specific clause</p>
-</li>
-</ul>
-</review>
+
 <p id="_06d91d33-3173-4879-648e-a7f723958b87">Determine the mass fraction of waxy rice. <xref target="AnnexB"/> gives an example of a suitable method.</p>
 </clause>
 
@@ -626,13 +550,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 
 <p id="_bdffec7e-3449-bb4e-5c49-c7a7adb6a1ab">Calculate the crude protein content of the dry product by multiplying the value of the nitrogen content by the conversion factor specified in <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"><localityStack connective="and"><locality type="annex"><referenceFrom>C</referenceFrom></locality></localityStack><localityStack connective="and"><locality type="table"><referenceFrom>C.1</referenceFrom></locality></localityStack></eref>, that is adapted to the type of cereals or pulses  <eref type="footnote" bibitemid="ref13" citeas="[10]"/><eref type="footnote" bibitemid="ref14" citeas="[11]"/> and to their use.</p>
 
-<review id="_91958f59-54dc-a786-bc22-a6a0324777a2" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_446a501a-0c4c-5f28-50ff-074ce00f9fb6"><li><p id="_ad5b1ca5-feec-17c8-3f5c-ca9a0ba63876">Cross-references to bibliographic entries</p>
-<ul id="_c32e443e-05ac-3729-64c7-592ec838c39f"><li><p id="_c0149220-068f-240a-f279-4e69001f6baa">ISO/IEC Directives, Part 2, 2021, 10.3</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+<bookmark id="_ad097cd9-bebb-d7bf-c9c0-e8aad1bf5fc9"/></clause>
 
 <clause id="_gelatinization_time_2" inline-header="false" obligation="normative">
 <title>Gelatinization time</title>
@@ -649,13 +567,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 </admonition>
 <p id="_20dd0870-2ac3-cf23-fca7-96786831041b">Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
 
-<review id="_79a15bd8-1e05-0842-0052-5878f07f72c7" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_03c83bb1-47e6-16d9-f203-4f1cfb74438a"><li><p id="_4f2277e6-d215-f5eb-75ed-75844e30d5c3">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
-<ul id="_9ea8e547-234a-de62-b2a4-4f0fe8a6e6d9"><li><p id="_c1e3476a-638a-85d6-5bac-f3cb981730d4">ISO/IEC Directives, Part 2, 2021, 18.4</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+<bookmark id="_f879a1c9-a850-e413-7eac-e68dd2d5e106"/></clause>
 
 <clause id="_precision" inline-header="false" obligation="normative">
 <title>Precision</title>
@@ -663,10 +575,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title>Interlaboratory test</title>
 <p id="_6146bf27-9b9c-23ef-47bc-228881606cbf">The results of an interlaboratory test are given in <xref target="AnnexD"/> for information.</p>
 
-<review id="_74d03a8b-8fe3-1774-a6dd-bf0b46790df5" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_bd677ec3-40c0-dd45-5ec7-39b0efff7258"><li><p id="_b76fa675-229e-182e-f25f-7e83ad87b69f">Informative cross-reference to Annex D</p>
-</li>
-</ul>
-</review>
+<bookmark id="_3f79777f-ee4b-0743-540a-565e03a5e625"/>
 <p id="_975f8fe8-9e6b-d075-23c8-04852983e2bc">The results of the repeatability and reproducibility tests (see <xref target="cls-6.5.2.2"/> and  <xref target="cls-6.5.2.3"/>) shall be obtained within a short interval of time, using the same:</p>
 
 <ul id="_cee9d61d-e6cd-784d-79e0-ab2c4cf0bf0d"><li><p id="_f89fcae1-0464-5376-bbf7-ee33b9aa4565">method;</p>
@@ -737,10 +646,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 </li>
 </ol>
 
-<review id="_1af6044a-f0fd-e742-4359-f8fc29bcf516" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="clause7" to="clause7"><ul id="_9faccce4-8759-c7e7-9e93-d6bb2402380b"><li><p id="_951a9959-2f45-e745-1f34-25a1d4dd93ea">ISO/IEC Directives, Part 2, 2021, 18.5.8</p>
-</li>
-</ul>
-</review></clause>
+</clause>
 
 <clause id="cls-8" inline-header="false" obligation="normative">
 <title>Packaging</title>
@@ -757,10 +663,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 
 
-<review id="_ae276d29-c2c8-ae3f-2064-a945e2735ff6" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="cls-8" to="cls-9"><ul id="_c26104d9-7c26-6b09-d721-11a48e516597"><li><p id="_3bfb66a1-e0c6-02c1-051e-5538c1031fd3">ISO/IEC Directives, Part 2, 2021, Clause 19</p>
-</li>
-</ul>
-</review></clause>
+</clause>
 
 
 
@@ -775,19 +678,8 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 </sections><annex id="AnnexA" inline-header="false" obligation="normative">
 <title>Determination of defects</title>
-<review id="_668a4056-0ace-6c2c-abfa-f8bf70668b3d" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_d6fe461e-9ce8-f474-21eb-d5f06efd302d"><li><p id="_1765e874-118b-7655-d91a-c1ce257c8e2e">Annexes provide additional information to the main body of the document</p>
-</li>
-<li><p id="_b86d690b-c018-e6fd-495d-56e9015bcf09">They can be normative or informative</p>
-</li>
-</ul>
-</review>
-<review id="_d3a311df-b39d-c852-0636-9526a2bc5b8e" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_5af885d8-89e3-cfda-df66-e3b4bc9dc6fc"><li><p id="_e969b392-4969-c37e-d02b-53ce0e88e16d">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
-<ul id="_a0b6ea71-7d4f-8013-cc3d-d9e4183ce044"><li><p id="_baf1b454-bcd4-324d-2653-4956b100f731">ISO/IEC Directives, Part 2, 2021, Clause 20</p>
-</li>
-</ul>
-</li>
-</ul>
-</review>
+<bookmark id="_0107be7e-1b17-6d01-7dd8-ac0976235cd7"/>
+<bookmark id="_5418fc7a-5f64-5200-e79b-1c7ff59039c7"/>
 <clause id="_principle" inline-header="false" obligation="normative">
 <title>Principle</title>
 <p id="_da7555e1-fd25-a182-8fcf-23fccb27ad87">Extraneous matter, broken kernels, damaged kernels and other kinds of rice are separated manually according to the following types: husked rice, milled rice, husked parboiled rice and milled parboiled rice. Each type is then weighed.</p>
@@ -890,15 +782,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 
 
-<review id="_151c8a0d-aea6-9f6b-6355-e56980860a22" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_a8898c25-e019-5fce-aec8-ba04aba91052"><li><p id="_146b7cd9-775e-80ce-ae48-5b5e5fe33fe9">Mathematical formulae</p>
-</li>
-<li><p id="_26feb2f9-9983-c012-86c6-e02da94f7ea4">Symbols are defined below formulae</p>
-<ul id="_d80f3524-6003-e0cc-71b5-08b7590b5500"><li><p id="_518d107e-803c-0ef9-5501-2c29762f4252">ISO/IEC Directives, Part 2, 2021, Clause 27</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+<bookmark id="_571c6649-5531-a8a0-9f28-03f677c7a211"/></clause>
 
 <clause id="cls-A6" inline-header="false" obligation="normative">
 <title>Test report</title>
@@ -906,10 +790,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 </clause>
 </annex><annex id="AnnexB" inline-header="false" obligation="informative">
 <title>Determination of the waxy rice content of parboiled rice</title>
-<review id="_da9934b2-f2c3-a40e-795e-eb5fc3b63c64" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_a9ef1ce2-22ff-a4a4-7498-cda6ba6b5e24"><li><p id="_de4b8874-3e67-d633-5084-f89e6d684c0d">Annex B is cited informatively in 6.2</p>
-</li>
-</ul>
-</review>
+<bookmark id="_37ac91f0-c10d-9cff-f42e-d0abfa9540c7"/>
 <clause id="_principle_2" inline-header="false" obligation="informative">
 <title>Principle</title>
 <p id="_5210df9e-cb37-c5ef-d6d1-34f74f3903bd">Waxy rice kernels have a reddish-brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.</p>
@@ -949,13 +830,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 <clause id="AnnexB-2-7" inline-header="true" obligation="informative">
 <title>Tissue paper.</title>
-<review id="_b7f9a416-056d-a1ef-ef22-86853c663f6c" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="cls-B2" to="cls-B3"><ul id="_2e615f30-36b1-1ab8-2911-9131cdfdfba8"><li><p id="_d2028cc3-656a-d837-d996-e882de5b3486">The apparatus clause has a specific presentation style</p>
-<ul id="_8e7eac61-2718-a4f5-4499-ea1f5539be57"><li><p id="_e4379609-9382-1e56-411a-6a4bf95ad8b1">ISO/IEC Directives, Part 2, 2021, 18.5.4</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+</clause>
 </clause>
 
 <clause id="cls-B3" inline-header="false" obligation="informative">
@@ -976,13 +851,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <title>Iodine working solution,</title>
 <p id="_9e255c14-1633-4e6f-e323-9193c7d92c5f">freshly prepared daily, by diluting the stock solution (<xref target="AnnexB-3-2"/>) two times (by volume) with deionized water ( <xref target="AnnexB-3-1"/>).</p>
 
-<review id="_31855cc0-b1a3-9ee3-8e99-6df93d41dd3a" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo" from="cls-B3" to="cls-B4"><ul id="_46999297-486b-d02d-777c-2f9950195ab4"><li><p id="_5b2c2d6f-80e4-a344-5c0a-98dbb0fd847a">The reagent clause has a specific presentation style</p>
-<ul id="_1ba863c9-0674-b886-cc8d-25286d96dc51"><li><p id="_40b74e3a-a89d-1ac2-a5b3-ee009de8ff35">ISO/IEC Directives, Part 2, 2021, 18.5.3</p>
-</li>
-</ul>
-</li>
-</ul>
-</review></clause>
+</clause>
 </clause>
 
 <clause id="cls-B4" inline-header="false" obligation="informative">
@@ -1077,13 +946,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 </li>
 </ul>
 
-<review id="_b839861c-c62b-3e15-c89c-718d17d4d9ee" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_19e637db-c21e-245c-f6dc-71663b1c7be7"><li><p id="_576a60fc-4e41-50bb-d99c-14fa6a822692">Cross-references to the figures</p>
-<ul id="_ceea9ee4-8ea6-77d2-7d7d-957a436b1987"><li><p id="_0ad1073f-2a05-68f0-4d18-1f203177df8d">ISO/IEC Directives, Part 2, 2021, Clause 28</p>
-</li>
-</ul>
-</li>
-</ul>
-</review>
+<bookmark id="_70c5910e-db7e-e5bc-737e-d661278fa732"/>
 <figure id="figureC-1">
 <name>Typical gelatinization curve</name>
 <image src="data:image/png;base64,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" mimetype="image/png" id="_6288c058-fd55-6628-a4b6-9cc1e314bb63" height="auto" width="auto"/><fn reference="a"><p id="_a15fcd7f-abb1-1385-41ad-f4eb05fefa10">The time <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">    <mstyle displaystyle="false">      <msub>        <mi>t</mi>        <mn>90</mn>      </msub>    </mstyle> </math><asciimath>t_90</asciimath></stem> was estimated to be 18,2 min for this example.</p>
@@ -1108,12 +971,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 
 
-<review id="_087f6abb-09ae-8347-f1d6-527874c2c1be" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_5ba6395b-fcec-5716-b27c-f236f120db4f"><li><p id="_869fbb7c-face-392a-dfa1-901338870cca">Figures are language neutral</p>
-</li>
-<li><p id="_5ce331f5-dac4-7bd2-efad-b4eef1c4b1f7">Text is placed in a figure key</p>
-</li>
-</ul>
-</review>
+<bookmark id="_37b8c113-4e42-d46d-bfd0-bdfa18766045"/>
 <figure id="figureC-2">
 <name>Stages of gelatinization</name>
 <figure id="_85f711f6-478d-a680-b5b9-3bc85332dfd1">
@@ -1129,10 +987,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <image src="data:image/png;base64,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" mimetype="image/png" id="_b560a716-db1a-628e-0fa3-2edd2822363d" height="auto" width="auto"/></figure>
 </figure>
 
-<review id="_dd035233-3796-d404-e437-caf3dbbeefea" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_fd070499-f191-7bb4-ff51-7307b838d076"><li><p id="_2e7d8dfe-be1d-4eae-ba92-4f70c7aa6a81">Figures contain a figure number and title</p>
-</li>
-</ul>
-</review></annex><annex id="AnnexD" inline-header="false" obligation="informative">
+<bookmark id="_6258c213-022a-753a-f164-a2bb6b26213f"/></annex><annex id="AnnexD" inline-header="false" obligation="informative">
 <title>Results of interlaboratory test for husked rice yields</title>
 <p id="_6a8552fd-e6c1-dbb2-84ec-7c89c4a598d4">An interlaboratory test <eref type="inline" bibitemid="ref15" citeas="[13]"/> was carried out by the ENR [Rice Research Centre (Italy)] in accordance with  <eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1"/> and <eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2"/>, with the participation of 15 laboratories. Each laboratory carried out three determinations on four different types of kernel. The statistical results are shown in  <xref target="tableD-1"/>.</p>
 
@@ -1188,10 +1043,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 </tr></tbody>
 </table>
 
-<review id="_240acb49-c57d-2efc-c0c8-09b7939eb50b" reviewer="ISO" date="2025-03-31T00:00:00Z" type="todo"><ul id="_6edc480c-0256-b7b9-d5e6-b5b9d7e2726f"><li><p id="_affb60b5-44cf-d5d5-feea-b88ea868aa74">Annex D is cited informatively in 6.5.2.1</p>
-</li>
-</ul>
-</review></annex><annex id="_extraneous_information" inline-header="false" obligation="informative">
+<bookmark id="_3cadcf4e-4da1-ce1e-3eb4-6a16e9a6ef85"/></annex><annex id="_extraneous_information" inline-header="false" obligation="informative">
 <title>Extraneous information</title>
 <p id="_9f091971-c783-642c-68da-c826d1928e44"><em>This appendix is not in the original Rice model document, and is inserted to illustrate elements absent from that document: block quotes, source code, and examples.</em></p>
 
@@ -1215,7 +1067,7 @@ end</body><annotation id="_94d674d1-859b-9a67-62c8-7b2952f020e8"><p id="_c772a71
 <title>Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
 <bibitem id="ISO712" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1281,7 +1133,7 @@ end</body><annotation id="_94d674d1-859b-9a67-62c8-7b2952f020e8"><p id="_c772a71
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1358,7 +1210,7 @@ The method is not applicable to maize and pulses.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO6646" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1412,7 +1264,7 @@ The method is not applicable to maize and pulses.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1476,7 +1328,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1531,7 +1383,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO8351-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1581,7 +1433,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1640,7 +1492,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO16634" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Food products</title>
 
@@ -1710,7 +1562,7 @@ This method, like the Kjeldahl method (see References [1] and [6]), does not dis
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO20483" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
 
@@ -1772,7 +1624,7 @@ This method, like the Kjeldahl method (see References [1] and [6]), does not dis
   <place>Geneva</place>
 </bibitem>
 <bibitem id="ISO24333" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1850,7 +1702,7 @@ It is not applicable to seed grain.</abstract>
 </bibitem>
 </references><references id="bib" normative="false" obligation="informative">
 <title>Bibliography</title><bibitem id="ISO3696" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1897,7 +1749,7 @@ It is not applicable to seed grain.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1952,7 +1804,7 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2013,7 +1865,7 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2090,7 +1942,7 @@ This document does not include methods of calculation that are described in the 
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2158,7 +2010,7 @@ This document does not include methods of calculation that are described in the 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2246,7 +2098,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2300,7 +2152,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2362,7 +2214,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2416,7 +2268,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2478,7 +2330,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2532,7 +2384,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-03-31</fetched>
+      <fetched>2025-04-09</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2594,7 +2446,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2665,7 +2517,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2753,4 +2605,152 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
 
 </references></bibliography>
-</metanorma>
+<review-container><review id="_bd84ef60-d658-d0b3-fefd-c71b5f8c185e" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_dda23915-8574-ef1e-29a1-822d465a5b97" to="_dda23915-8574-ef1e-29a1-822d465a5b97"><ul id="_a22f73e5-170d-0b7b-9e2b-b663d6805a1d"><li><p id="_2ac0eb43-7d59-3b05-407b-3d13c0a20f19">Template text for all committees</p>
+</li>
+</ul>
+</review><review id="_59e6c155-7935-0d90-b6bd-0d130c775118" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_8ad398f7-2028-cf75-2698-04a63a5ab385" to="_8ad398f7-2028-cf75-2698-04a63a5ab385"><ul id="_32a51adc-2e0f-ec89-4350-fd21b8e10b6a"><li><p id="_1ce586fd-f2c3-3357-78ee-5f95d717a167">Committee-specific text</p>
+<ul id="_fa5a14d9-42ca-6bd6-dabe-88861e92db5b"><li><p id="_d85c2980-a77b-91ec-7c62-acbee3292753">ISO/IEC Directives, Part 2, 2021, Clause 12</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_5aa2a9b4-9d17-7c8c-eb87-f1eca59c0c32" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="intro" to="intro"><ul id="_5b7067c8-27fd-aae3-5264-def33870f618"><li><p id="_0b1a07c5-6c4e-1cbf-3d0b-12731e938c5a">Optional element</p>
+</li>
+<li><p id="_422f63c5-5409-91f0-5990-e5d1495c6da4">Provides background information about the technical content</p>
+<ul id="_b1262328-7a99-012c-c77a-ec854ac21b71"><li><p id="_077110ca-9b91-c3cd-b6aa-65601859a3b5">ISO/IEC Directives, Part 2, 2021, Clause 13</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_02206b12-4ecd-8e60-83ef-f911f2b64523" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="scope" to="scope"><ul id="_5b7d231a-9e99-ea3f-21a1-d602da27fd6f"><li><p id="_792f5def-2c41-762a-0b95-ac4383731de7">Mandatory clause</p>
+</li>
+<li><p id="_e35e98a0-28ee-552c-f559-01cc6005bab9">Defines the subject of the document</p>
+</li>
+<li><p id="_a8ef9c5f-f64c-c749-0ee6-d6f5147a16d8">Used as a summary for the abstract</p>
+<ul id="_40ebb889-8ed7-c825-09e0-34fd50009f2f"><li><p id="_27810d1a-a4f2-b932-e87d-d5383070db1c">ISO/IEC Directives, Part 2, 2021, Clause 14</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_72415b3d-7abf-bdbe-9b5e-f66b59aa04e2" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="terms" to="terms"><ul id="_b590a949-32d0-a036-5efe-96f9c4200221"><li><p id="_08aca8f0-3f9a-c052-f6ea-d83747d2a730">Mandatory clause</p>
+</li>
+<li><p id="_d5e7106c-bf17-9ffd-9bb7-7212705cbb47">Definitions of terms used that are necessary for understanding the document</p>
+<ul id="_5b92a77c-31c1-cdb1-845e-02da660d6d4e"><li><p id="_f6654d4b-2154-76be-7aa8-2926401f8dc0">ISO/IEC Directives, Part 2, 2021, Clause 16</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_15266845-f96d-be2e-001b-0740881f5adf" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_c3a6c668-f87d-518c-b747-790ae6633134" to="_c3a6c668-f87d-518c-b747-790ae6633134"><ul id="_13730540-5695-2c3b-b43e-26d7ec570650"><li><p id="_dd6380e7-6769-4333-58c1-2156cf02dc12">Preferred term “milled rice” in bold type</p>
+</li>
+<li><p id="_56ad2879-a06d-bb02-0ea4-8f753a3b5c1c">Admitted term “white rice” in regular type</p>
+</li>
+<li><p id="_1389080f-9cff-b3ba-f261-06e724abc209">Hyperlink to another defined term (3.2)</p>
+</li>
+<li><p id="_5bfde42a-0004-d044-761f-495779598c37">Source document is informative and listed in the Bibliography</p>
+</li>
+</ul>
+</review><review id="_87db8c9b-9798-f81a-5312-ca4935e8b96d" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_6eb18cb1-5251-577b-55f4-847278e45121" to="_6eb18cb1-5251-577b-55f4-847278e45121"><ul id="_e2e2a300-f134-a1a6-21e1-8707d8d36820"><li><p id="_a1537820-2830-754e-d78f-cc48f2722c3b">Abbreviated term “EM” given under the term</p>
+</li>
+<li><p id="_ae9fd8f6-3350-9cf1-c370-e3296fc1f83a">EXAMPLE given under the definition</p>
+</li>
+</ul>
+</review><review id="_7c280c56-8e33-09ae-2225-2f622add70c6" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_a33abe6c-4af4-a7b7-9dfe-83ba9da5544a" to="_a33abe6c-4af4-a7b7-9dfe-83ba9da5544a"><ul id="_4bebe324-ae3d-fb26-ae7d-9b3237d6b16e"><li><p id="_0afe7d8f-f029-d42f-6dee-09d94248fba8">Note to terminological entry provides additional information</p>
+</li>
+</ul>
+</review><review id="_0b812152-68a5-ed36-343e-9d0d558e05d7" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_6d7da8d8-a676-5ed8-f13c-e96d0f26f3dc" to="_6d7da8d8-a676-5ed8-f13c-e96d0f26f3dc"><ul id="_8c8ee4df-b841-aba1-ed6b-091b14a4cf29"><li><p id="_68e44053-239d-53df-0d80-7a9f44f15dae">Symbol appears below the term</p>
+</li>
+</ul>
+</review><review id="_7d65c024-578d-d664-44ba-1f04b3f0a232" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_bca834c7-f39e-7a6a-f730-4ee38a41ce3c" to="_bca834c7-f39e-7a6a-f730-4ee38a41ce3c"><ul id="_d28e9bb6-b2d3-5d27-740b-c0543448762a"><li><p id="_8eb02648-f0a8-8cb9-8abb-5bb50019f6c7">Cross-reference to Annex A and Table 1</p>
+</li>
+</ul>
+</review><review id="_024b145e-881f-6b59-fb61-72be5c7243ec" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_ee03b96b-6550-f3e7-a967-ddae2b65d6ac" to="_ee03b96b-6550-f3e7-a967-ddae2b65d6ac"><ul id="_aced73de-d181-a7b8-95a1-4bb8f72ef688"><li><p id="_b2e7c418-769d-d12b-ff89-a42629c74938">Table footer can contain requirements, notes and footnotes</p>
+<ul id="_109bbb9a-7c93-eafc-fa91-d92015704a76"><li><p id="_740c0623-aa0d-20b3-d6fb-b15220d76116">ISO/IEC Directives, Part 2, 2021, Clause 29</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_bbd88fd1-c5d1-68a8-7ac3-4ec9a1e0358d" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="clause5" to="waxy-rice-content"><ul id="_7777ba34-aaf0-d666-621a-ea1e1cbd1bb8"><li><p id="_d7b533d5-aad6-4275-b45d-664c7bccdd55">Cross-references to normative references</p>
+<ul id="_c5b5d7d9-09d9-bb73-264a-71efd9a4b280"><li><p id="_00776983-dfe3-a766-f925-1f2ca3395420">ISO/IEC Directives, Part 2, 2021, Clause 15</p>
+</li>
+</ul>
+</li>
+<li><p id="_657a4eae-573c-15c0-4969-f36bd521e42c">“shall” or imperative</p>
+</li>
+<li><p id="_ef2789cc-f863-7ef3-fa98-7b7df3bcd2eb">ISO 24333:2009 and ISO 712 are normative and listed in Clause 2</p>
+</li>
+<li><p id="_f50bfd5c-799b-1e18-c035-80a234d6f5df">ISO 24333 is dated because it refers to a specific clause</p>
+</li>
+</ul>
+</review><review id="_e9534e9e-0365-6284-4b12-3879e8263394" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_ad097cd9-bebb-d7bf-c9c0-e8aad1bf5fc9" to="_ad097cd9-bebb-d7bf-c9c0-e8aad1bf5fc9"><ul id="_4fbec51d-c396-24f0-3573-d76fbfcf4c9c"><li><p id="_9a02bd32-d4a1-4064-e5fd-a2d187b5093f">Cross-references to bibliographic entries</p>
+<ul id="_b75ab23c-7317-add4-cfce-3828b210fec4"><li><p id="_59e1bbfb-434c-7bff-44c1-0dd2ce760655">ISO/IEC Directives, Part 2, 2021, 10.3</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_b9f6c969-634f-0901-4db3-be2e59304884" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_f879a1c9-a850-e413-7eac-e68dd2d5e106" to="_f879a1c9-a850-e413-7eac-e68dd2d5e106"><ul id="_43a86397-1434-9911-ad12-1cfa275319a1"><li><p id="_5ec8419b-b527-a933-c188-1694c0875b9c">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
+<ul id="_80545e2a-2f28-c314-c992-962e1a251485"><li><p id="_7b11a79b-97af-f5f3-5285-d16cf87401ca">ISO/IEC Directives, Part 2, 2021, 18.4</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_c20e75d7-a64b-67ab-2f32-98e79a9c7f56" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_3f79777f-ee4b-0743-540a-565e03a5e625" to="_3f79777f-ee4b-0743-540a-565e03a5e625"><ul id="_66594516-6f06-cfa2-9dfa-e4744c759e54"><li><p id="_982b83be-b9b3-8dd6-ba18-c23ae202422b">Informative cross-reference to Annex D</p>
+</li>
+</ul>
+</review><review id="_ed8d5f2d-46eb-7017-98ad-b42a9f40f891" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="clause7" to="clause7"><ul id="_82aeb895-05bf-6c4b-6a0c-7c8a6c94a651"><li><p id="_d9873068-f468-1ce2-bf32-0e16ea87dec2">ISO/IEC Directives, Part 2, 2021, 18.5.8</p>
+</li>
+</ul>
+</review><review id="_10004b4d-ed52-87dc-3322-0d5e7b941885" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="cls-8" to="cls-9"><ul id="_a2475424-9249-1eef-0f58-17876a2177c3"><li><p id="_c2e44ea7-c7a4-0c41-30fe-dc1c7ab07bf5">ISO/IEC Directives, Part 2, 2021, Clause 19</p>
+</li>
+</ul>
+</review><review id="_4241d7a3-cfe3-a954-d4cf-df0631408b4a" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_0107be7e-1b17-6d01-7dd8-ac0976235cd7" to="_0107be7e-1b17-6d01-7dd8-ac0976235cd7"><ul id="_05908118-251d-266c-3358-2dfe0ef205ff"><li><p id="_48694194-0f78-57fb-aebe-ae06ad8a0b37">Annexes provide additional information to the main body of the document</p>
+</li>
+<li><p id="_44cb8b01-c620-481f-5780-d6887d1d8c99">They can be normative or informative</p>
+</li>
+</ul>
+</review><review id="_73471379-52c8-8166-4b3a-5f18d6652446" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_5418fc7a-5f64-5200-e79b-1c7ff59039c7" to="_5418fc7a-5f64-5200-e79b-1c7ff59039c7"><ul id="_f69a6857-af59-e134-297d-6c525bd0556b"><li><p id="_5670a031-dd86-f9ff-12dc-00383dd7696a">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
+<ul id="_5052aa91-0146-c305-19db-ee359f8edb14"><li><p id="_9429eaae-23b3-e525-31b5-9b5296bdccd3">ISO/IEC Directives, Part 2, 2021, Clause 20</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_9c46f9b0-90fd-4b22-2f3c-f236d5a4b38f" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_571c6649-5531-a8a0-9f28-03f677c7a211" to="_571c6649-5531-a8a0-9f28-03f677c7a211"><ul id="_2cf047ec-4ad1-ac3a-a1d6-552f866068f5"><li><p id="_364fb837-ff4f-298f-03eb-50509d0cc98e">Mathematical formulae</p>
+</li>
+<li><p id="_f0fdcc93-73f1-a2b5-bc86-ca8a44088ce4">Symbols are defined below formulae</p>
+<ul id="_f2f7c575-cd5b-597a-7bca-bb6e95a97c17"><li><p id="_57b41e6d-a12e-1d6f-6f7c-1b5fce8edc77">ISO/IEC Directives, Part 2, 2021, Clause 27</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_69d6e0e7-1cbe-76e8-1707-f3c1440a4a75" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_37ac91f0-c10d-9cff-f42e-d0abfa9540c7" to="_37ac91f0-c10d-9cff-f42e-d0abfa9540c7"><ul id="_3cc9227f-da2a-84a1-4cbe-1c7e8a9481ed"><li><p id="_b8e604ee-9956-db56-155e-4180b5fbb79d">Annex B is cited informatively in 6.2</p>
+</li>
+</ul>
+</review><review id="_1e46aa57-c4fd-acc3-177d-ffd49f527c33" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="cls-B2" to="cls-B3"><ul id="_b34da8e1-eaaf-ee02-dc5e-9c9b1e51dc3f"><li><p id="_fd675f6e-58f8-9001-10dc-04b3c92b1956">The apparatus clause has a specific presentation style</p>
+<ul id="_a69ea179-e5b8-3838-86af-c382466b2041"><li><p id="_92fc936e-abe9-3baa-3a3f-4b863651624c">ISO/IEC Directives, Part 2, 2021, 18.5.4</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_237e2c59-1a98-01a5-b89a-17ddb4b44800" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="cls-B3" to="cls-B4"><ul id="_49db79a7-d2cf-40df-5e2a-6d5309a59904"><li><p id="_8631b1c3-3d8b-5a1d-6e5f-6974c190b0f2">The reagent clause has a specific presentation style</p>
+<ul id="_f84b0239-393e-68e7-849a-0c9bc6faba75"><li><p id="_51d6ab82-8394-37c9-a6ec-56cf2b7c6e35">ISO/IEC Directives, Part 2, 2021, 18.5.3</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_1071cd5e-2568-4c5f-1bae-9de48ae75e42" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_70c5910e-db7e-e5bc-737e-d661278fa732" to="_70c5910e-db7e-e5bc-737e-d661278fa732"><ul id="_72c44b07-5121-7ef7-f354-9d601f42a49a"><li><p id="_e1ab07fb-df22-32a3-89dd-af775936e0ce">Cross-references to the figures</p>
+<ul id="_2158d6b5-fd79-7bcd-fbae-aaa41bb3f5ee"><li><p id="_fb85d11d-22a8-73ac-2aa4-bbc78fa4ed77">ISO/IEC Directives, Part 2, 2021, Clause 28</p>
+</li>
+</ul>
+</li>
+</ul>
+</review><review id="_101f1da7-61c5-2245-cede-d122014b8094" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_37b8c113-4e42-d46d-bfd0-bdfa18766045" to="_37b8c113-4e42-d46d-bfd0-bdfa18766045"><ul id="_f9e04028-9346-7de0-d11c-75e7cd0705e3"><li><p id="_3312a0e5-aafe-7b36-676c-90be0660d07e">Figures are language neutral</p>
+</li>
+<li><p id="_b6311811-f2bd-c7cb-c035-3f7aabf6cfc6">Text is placed in a figure key</p>
+</li>
+</ul>
+</review><review id="_a0e70384-9479-0eb4-2694-8f2575534fa0" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_6258c213-022a-753a-f164-a2bb6b26213f" to="_6258c213-022a-753a-f164-a2bb6b26213f"><ul id="_b0beda62-9179-b165-9312-087ccc6c150a"><li><p id="_eef92be2-2796-11b8-9090-1c3303a0474c">Figures contain a figure number and title</p>
+</li>
+</ul>
+</review><review id="_c17fa449-528a-fcf4-4273-a03e4a64f593" reviewer="ISO" date="2025-04-09T00:00:00Z" type="todo" from="_3cadcf4e-4da1-ce1e-3eb4-6a16e9a6ef85" to="_3cadcf4e-4da1-ce1e-3eb4-6a16e9a6ef85"><ul id="_cc8fbf9e-208d-eca5-1d1f-3bf51915730b"><li><p id="_7a28da57-2577-ab66-5c37-60fe02b5e304">Annex D is cited informatively in 6.5.2.1</p>
+</li>
+</ul>
+</review></review-container></metanorma>

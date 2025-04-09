@@ -3,11 +3,6 @@ WARNING: Font file '/github/home/.metanorma/fonts/arialbd.ttf' (font name 'Arial
 WARNING: Font file '/github/home/.metanorma/fonts/arialbi.ttf' (font name 'Arial', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.
 WARNING: Font file '/github/home/.metanorma/fonts/ariali.ttf' (font name 'Arial', font style 'italic', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Italic.ttf'.
 
-PDF isn't valid PDF/UA-1:
-ValidationResult [flavour=ua1, totalAssertions=54798, assertions=[
-TestAssertion [ruleId=RuleId [specification=ISO 14289-1:2014, clause=7.18.5, testNumber=1], status=failed,
-message=Links shall be tagged according to ISO 32000-1:2008, 14.8.4.4.2, Link Element,
-location=Location [level=CosDocument, context=root/document[0]/pages[1](73 0 obj PDPage)/annots[13](54 0 obj PDLinkAnnot)], locationContext=null, errorMessage=null]], isCompliant=false]
 WARNING: Font file '/github/home/.metanorma/fonts/arial.ttf' (font name 'Arial', font style 'normal', font weight 'normal') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Regular.ttf'.
 WARNING: Font file '/github/home/.metanorma/fonts/arialbd.ttf' (font name 'Arial', font style 'normal', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-Bold.ttf'.
 WARNING: Font file '/github/home/.metanorma/fonts/arialbi.ttf' (font name 'Arial', font style 'italic', font weight 'bold') doesn't exist. Replaced by '/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf'.

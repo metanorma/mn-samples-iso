@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.2" schema-version="v2.0.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.0.3" schema-version="v2.0.2" flavor="iso">
 <bibdata type="standard">
 <title language="en" format="text/plain" type="main"> — Competence of standards professionals — In companies</title>
 
@@ -199,7 +199,7 @@
 
 </references><references id="_bibliography" normative="false" obligation="informative">
 <title>Bibliography</title><bibitem id="iso9000" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Quality management systems</title>
 
@@ -276,7 +276,7 @@ ISO 9000:2015 specifies the terms and definitions that apply to all quality mana
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction</title>
 
@@ -348,7 +348,7 @@ The most common applications of this document are in design and evaluation.</abs
   </relation>
   <place>Geneva</place>
 </bibitem><bibitem id="iso17027" type="standard" schema-version="v1.2.9">
-  <fetched>2025-03-31</fetched>
+  <fetched>2025-04-09</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Conformity assessment</title>
 
