@@ -26,6 +26,7 @@
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
+:presentation-metadata-render-document-annotations: true
 
 [reviewer=ISO]
 ****
