@@ -1,3 +1,12 @@
 source "https://rubygems.org"
 
-gem "metanorma-cli"
+gem "metanorma-cli", git: "https://github.com/metanorma/metanorma-cli", branch: "main"
+gem "debug"
+gem "sassc-embedded"
+gem "metanorma-standoc", git: "https://github.com/metanorma/metanorma-standoc", branch: "main"
+gem "metanorma-iso", git: "https://github.com/metanorma/metanorma-iso", branch: "main"
+gem "isodoc", git: "https://github.com/metanorma/isodoc", branch: "main"
+gem "metanorma", git: "https://github.com/metanorma/metanorma", branch: "main"
+gem "metanorma-taste", git: "https://github.com/metanorma/metanorma-taste", branch: "main"
+gem "metanorma-utils", git: "https://github.com/metanorma/metanorma-utils", branch: "main"
+
