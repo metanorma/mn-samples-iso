@@ -1,48 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
+<title language="en" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
 
-<title language="en" format="text/plain" type="title-intro">Information technology</title>
+<title language="en" type="title-intro">Information technology</title>
 
-<title language="en" format="text/plain" type="title-main">Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
-
-
-<docidentifier type="ISO" primary="true">ISO/TR 29166:2011</docidentifier><docidentifier type="iso-reference">ISO/TR 29166:2011(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:tr:29166:stage-60.60:en</docidentifier><docidentifier type="iso-undated">ISO/TR 29166</docidentifier><docidentifier type="iso-with-lang">ISO/TR 29166:2011(en)</docidentifier><docidentifier type="iso-tc">29166</docidentifier><docnumber>29166</docnumber><date type="published"><on>2011-12</on></date><date type="circulated"><on>2018-10-04</on></date><contributor><role type="author"/><organization>
+<title language="en" type="title-main">Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
+<docidentifier type="ISO" primary="true">ISO/FDTR 29166:2011</docidentifier><docidentifier type="iso-reference">ISO/FDTR 29166:2011(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:tr:29166:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTR 29166</docidentifier><docidentifier type="iso-with-lang">ISO/FDTR 29166:2011(en)</docidentifier><docidentifier type="iso-tc">29166</docidentifier><docnumber>29166</docnumber><date type="published"><on>2011-12</on></date><date type="circulated"><on>2018-10-04</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="JTC">
 <name>Information technology</name>
-<identifier>JTC 1</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>JTC 1</identifier><identifier type="full">JTC 1/SC 34</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Document description and processing languages</name>
-<identifier>SC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<identifier>SC 34</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="JTC">
 <name>Information technology</name>
-<identifier>JTC 1</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>JTC 1</identifier><identifier type="full">JTC 1/SC 34</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Document description and processing languages</name>
-<identifier>SC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<identifier>SC 34</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2011-12</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDTR">50</stage><substage>60</substage></status><copyright><from>2011</from><owner><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><edition>1</edition><version><revision-date>2011-12</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration/></status><copyright><from>2011</from><owner><organization>
-<name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-report</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="1" type="JTC">Information technology</technical-committee><subcommittee number="34" type="SC">Document description and processing languages</subcommittee><workgroup number="" type=""/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="1" type="JTC">Information technology</technical-committee><subcommittee number="34" type="SC">Document description and processing languages</subcommittee><workgroup number="" type=""/></approvalgroup><ics><code>35.060</code><text>Languages used in information technology</text></ics><structuredidentifier><project-number>ISO 29166</project-number></structuredidentifier><stagename abbreviation="TR">Technical Report</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>1989</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-report</doctype><flavor>iso</flavor><ics><code>35.060</code><text>Languages used in information technology</text></ics><structuredidentifier><project-number>ISO 29166</project-number></structuredidentifier><stagename abbreviation="FDTR">Final Draft Technical Report</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>1989</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_5cd23486-3787-caf6-db04-0694d0f0804b" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
-<p id="_bd68d22e-f082-3fc3-5fb4-7d4cd7473f6a" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2011</span></p>
+<clause id="_1ac749d8-50de-9e5a-be08-8e0bb1eef33f" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_bd68d22e-f082-3fc3-5fb4-7d4cd7473f6a" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2011</span></p>
 
 <p id="_aaacf7fa-c892-814c-07f7-828c740b8fd7" anchor="boilerplate-message">All rights reserved. Unless otherwise specified, no part of this publication may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying and microfilm, without permission in writing from the publisher.</p>
 
@@ -252,11 +244,11 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_7bb820c8-b82c-c1f3-cf98-6af4b7ca5a7c" normative="true" obligation="informative">
+</annex><bibliography><references id="_cd166925-8264-0da9-33b3-7a27c042ec21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
-<bibitem id="_bc70da1d-f0ae-bdf5-1b53-8ca54b6962e2" type="standard" schema-version="v1.2.9" anchor="iso-iec_26300">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_320a430c-0a31-75de-4f23-ddd669807461" type="standard" schema-version="v1.2.9" anchor="iso-iec_26300">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -390,8 +382,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_ed403c20-06e2-1d51-7c40-f8d5a7c8014a" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-1">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_96b1bda8-ce53-eaa5-27a7-2588d3ef9eb3" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -484,8 +476,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_97ea291c-3889-93f1-e63f-6b4e21730b50" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-2">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_23cb1974-dd81-ca4f-111f-cf2ea42337fe" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -568,8 +560,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_3aecf717-413e-e0f8-eee9-79a0fb762da9" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-3">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_4c82d91d-bd4c-0a2d-5af3-da227ab8aeed" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-3">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -652,8 +644,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_9be8b4ef-d673-3ac9-2552-23288ef63de5" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-4">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_26a0a472-798d-b5ea-ab1c-3a9aacd6d2ec" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-4">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -747,8 +739,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   <place>Geneva</place>
 </bibitem>
 
-<bibitem id="_bd4553db-4859-01ba-ff66-d80b1490486a" type="standard" schema-version="v1.2.9" anchor="ISO5127">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_a0acfb7e-94c6-8c2d-0083-54ec8fd5efbb" type="standard" schema-version="v1.2.9" anchor="ISO5127">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -816,7 +808,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -892,8 +884,8 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_9a0483d1-e0e5-f604-bae3-113567834d0a" type="standard" schema-version="v1.2.9" anchor="ISO15924">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_5ef8a511-0ee7-61fe-9412-f5578c1d2b62" type="standard" schema-version="v1.2.9" anchor="ISO15924">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -957,7 +949,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -1029,9 +1021,9 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
   </relation>
   <place>Geneva</place>
 </bibitem>
-</references><references id="_b71412c1-a044-e8f0-d26b-096f6b062676" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_7920c7df-ef0a-f292-9266-70287f0f0075" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-1">
-  <fetched>2025-07-21</fetched>
+</references><references id="_b7ee86bf-0d6a-c356-f22d-8dc83dc3e939" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_abaf1d7e-b86b-7f7c-0ee7-51df4a137475" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -1110,8 +1102,8 @@ specifications, and provide some examples of applying the ODP concepts in the sp
     </owner>
   </copyright>
   <place>Geneva</place>
-</bibitem><bibitem id="_1915e3a8-dc99-37fb-5fcc-cfe1e2dfdb31" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-3">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_716bf28e-70ed-75be-5c87-7cbd65f3c6d0" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-3">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 
@@ -1183,8 +1175,8 @@ specifications, and provide some examples of applying the ODP concepts in the sp
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_61cec739-1b4f-a246-4f23-326c2dc41ceb" type="standard" schema-version="v1.2.9" anchor="iso15489_1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_0abec420-767f-0745-8f34-c05f43f5b6d3" type="standard" schema-version="v1.2.9" anchor="iso15489_1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
 
@@ -1250,8 +1242,8 @@ ISO 15489-1:2016 applies to the creation, capture and management of records rega
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_a837f72b-139a-fbaa-01a3-103a229d01d6" type="standard" schema-version="v1.2.9" anchor="iso27000">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_d0cc5cbb-1d5a-0b4f-499e-317e9ed1b262" type="standard" schema-version="v1.2.9" anchor="iso27000">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
 

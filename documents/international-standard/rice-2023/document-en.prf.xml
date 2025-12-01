@@ -1,56 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Cereals and pulses — Specifications and test methods — Rice (PRF)</title>
+<title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (PRF)</title>
 
-<title language="en" format="text/plain" type="title-intro">Cereals and pulses</title>
+<title language="en" type="title-intro">Cereals and pulses</title>
 
-<title language="en" format="text/plain" type="title-main">Specifications and test methods</title>
+<title language="en" type="title-main">Specifications and test methods</title>
 
-<title language="en" format="text/plain" type="title-part">Rice (PRF)</title>
+<title language="en" type="title-part">Rice (PRF)</title>
 
+<title language="fr" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (PRF)</title>
 
-<title language="fr" format="text/plain" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (PRF)</title>
+<title language="fr" type="title-intro">Céréales et légumineuses</title>
 
-<title language="fr" format="text/plain" type="title-intro">Céréales et légumineuses</title>
+<title language="fr" type="title-main">Spécification et méthodes d’essai</title>
 
-<title language="fr" format="text/plain" type="title-main">Spécification et méthodes d’essai</title>
-
-<title language="fr" format="text/plain" type="title-part">Riz (PRF)</title>
+<title language="fr" type="title-part">Riz (PRF)</title>
 <docidentifier type="ISO" primary="true">ISO/PRF 17301-1:2023</docidentifier><docidentifier type="iso-reference">ISO/PRF 17301-1:2023(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-draft:en</docidentifier><docidentifier type="iso-undated">ISO/PRF 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/PRF 17301-1:2023(en)</docidentifier><docnumber>17301</docnumber><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Food products</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Cereals and pulses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Amylose in rice</name>
-<identifier>WG 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<identifier>WG 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
+<name>International Organization for Standardization</name>
+<subdivision type="Technical committee" subtype="TC">
 <name>Food products</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Cereals and pulses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Amylose in rice</name>
-<identifier>WG 4</identifier></subdivision></organization></contributor><edition>3</edition><version><revision-date>2023-02-01</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="PRF">60</stage><substage>00</substage></status><copyright><from>2023</from><owner><organization>
+<identifier>WG 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>3</edition><version><revision-date>2023-02-01</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="PRF">60</stage><substage>00</substage></status><copyright><from>2023</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="PRF">Proof of a new International Standard</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><UnitsML xmlns="https://schema.unitsml.org/unitsml/1.0"><UnitSet><Unit dimensionURL="#NISTd1" id="U_mm">
-            <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="PRF">Proof of a new International Standard</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>true</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><UnitsML xmlns="https://schema.unitsml.org/unitsml/1.0"><UnitSet><Unit dimensionURL="#NISTd1" id="U_mm">
+            <UnitSystem name="SI" type="SI_base" lang="en-US"/>
             <UnitName lang="en">mm</UnitName>
             <UnitSymbol type="HTML">mm</UnitSymbol>
             <UnitSymbol type="MathMl">
@@ -59,7 +55,7 @@
               </math>
             </UnitSymbol>
             <RootUnits>
-              <EnumeratedRootUnit unit="meter" prefix="m"/>
+              <EnumeratedRootUnit unit="metre" prefix="m"/>
             </RootUnits>
           </Unit></UnitSet><DimensionSet><Dimension id="NISTd1">
             <Length symbol="L" powerNumerator="1"/>
@@ -93,7 +89,7 @@
 
 <p id="_53c3d577-039b-c4b5-9501-d397ca719bff">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
 
-<p id="_f647e957-e4b5-fd15-1368-4b45c5b05038"><bookmark id="_e64e75b9-7cf6-6209-a843-d9d2632c86ab" anchor="_d65cbd6f-97d9-4564-97fe-0deaf3888913"/>For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see <link target="https://www.iso.org/iso/foreword.html">www.iso.org/iso/foreword.html</link>.</p>
+<p id="_f647e957-e4b5-fd15-1368-4b45c5b05038"><bookmark id="_e64e75b9-7cf6-6209-a843-d9d2632c86ab" anchor="_a1f690b2-e645-4b81-92f4-d2cca4dd43c6"/>For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see <link target="https://www.iso.org/iso/foreword.html">www.iso.org/iso/foreword.html</link>.</p>
 
 
 <p id="_06ea1c21-8cfd-751d-a8c0-9d0f7ec5be7d">This document was prepared by Technical Committee ISO/TC 34,  <em>Food products</em>, Subcommittee SC 4,  <em>Cereals and pulses</em>.</p>
@@ -110,7 +106,7 @@
 
 <p id="_faa2c804-54e3-a95b-a31c-70787832cbef">A list of all parts in the ISO 17301 series can be found on the ISO website.</p>
 
-<p id="_25266336-b935-3444-f4f9-44fcf3be17ad"><bookmark id="_f0359a42-44a0-91dc-3bfd-999b10b1efe9" anchor="_988e3c00-4cf7-4dee-be41-e195e8b4e5e8"/>Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
+<p id="_25266336-b935-3444-f4f9-44fcf3be17ad"><bookmark id="_f0359a42-44a0-91dc-3bfd-999b10b1efe9" anchor="_4f0468c5-1d7a-466d-a614-b796b7951393"/>Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
 
 </foreword><introduction id="_395f4cf6-2264-3542-0c23-cf4fb8fa6858" anchor="intro" obligation="informative">
 <title id="_2b2e98d1-114a-3da4-8556-01ae0a724280">Introduction</title>
@@ -203,7 +199,7 @@
 
 
 
-<p id="_6e3bdae6-66ef-651b-bee0-57e7fddff72c"><bookmark id="_87fe7aaa-fe92-2176-a7f8-9ac413d474bf" anchor="_5bc77e4a-320c-4b3b-9ded-0f26d75acca7"/> </p> <source status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2021"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+<p id="_6e3bdae6-66ef-651b-bee0-57e7fddff72c"><bookmark id="_87fe7aaa-fe92-2176-a7f8-9ac413d474bf" anchor="_847904fd-2e07-42f2-8756-e8e882b180a9"/> </p> <source status="identical" type="authoritative"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2021"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
 </source></term>
 
 <term id="_58b6e42c-e879-8b63-4721-ed01fbee093e" anchor="term-parboiled-rice"><preferred><expression>
@@ -239,7 +235,7 @@
 
 
 
-<p id="_d0e89dc8-00f2-3013-eafb-909ca50e07bc"><bookmark id="_70ff38ab-15e7-e92c-3315-688ce900a0f4" anchor="_82222864-f622-4a01-a560-32cf1de0c1bc"/> </p> <termexample id="_4bf3f8eb-baa6-7a4f-5be8-7b8ad85cbe5e"><p id="_89629d7e-d5f2-1159-4a93-752202a0019d">Foreign seeds, husks, bran, sand, dust.</p>
+<p id="_d0e89dc8-00f2-3013-eafb-909ca50e07bc"><bookmark id="_70ff38ab-15e7-e92c-3315-688ce900a0f4" anchor="_476a6e0b-5636-4fd5-9b92-ecbd6ae7d7a5"/> </p> <termexample id="_4bf3f8eb-baa6-7a4f-5be8-7b8ad85cbe5e"><p id="_89629d7e-d5f2-1159-4a93-752202a0019d">Foreign seeds, husks, bran, sand, dust.</p>
 </termexample></term>
 
 <term id="_7c53bcdb-979f-2931-117d-10e56f70d563" anchor="term-HDK"><preferred><expression>
@@ -324,7 +320,7 @@
 
 
 
-<p id="_5126fae6-c13f-d412-558a-9938ca15696a"><bookmark id="_804af6e0-c51e-16cf-2568-6c4c0011fa50" anchor="_e60d5f6f-7892-415e-a0fa-669ee4c0678f"/> </p> <termnote id="_544064a7-010d-3f90-c725-6573a30eb744"><p id="_73218fe8-1bae-c6bc-dc50-2d96849c78d2">See <xref target="figureC-1"/>.</p>
+<p id="_5126fae6-c13f-d412-558a-9938ca15696a"><bookmark id="_804af6e0-c51e-16cf-2568-6c4c0011fa50" anchor="_a67be14e-84c3-41b2-8a7a-44349adf63f7"/> </p> <termnote id="_544064a7-010d-3f90-c725-6573a30eb744"><p id="_73218fe8-1bae-c6bc-dc50-2d96849c78d2">See <xref target="figureC-1"/>.</p>
 </termnote><source status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.1</referenceFrom></locality></localityStack></origin>
 <modification><p id="_aac1cf14-bf10-c41c-17eb-2d43b1d98182">Note 1 to entry added.</p>
 </modification>
@@ -361,7 +357,7 @@
 
 
 
-<p id="_448d713a-a108-0f1e-6735-e5af22d963cf"><bookmark id="_2bc7f9f9-0314-0666-bad2-06acaf3324b4" anchor="_15eedf19-58d4-483a-bb18-3f7e31224764"/> </p> <source status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
+<p id="_448d713a-a108-0f1e-6735-e5af22d963cf"><bookmark id="_2bc7f9f9-0314-0666-bad2-06acaf3324b4" anchor="_15ca0c37-9764-45a3-960a-8afca74dc2f9"/> </p> <source status="modified" type="authoritative"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
 <modification><p id="_4570978d-b7c3-e5c6-f992-8074b628d821">admitted term, <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <msub>
@@ -374,7 +370,7 @@
 </source></term>
 </terms>
 
-<clause id="_3735bea5-259d-619c-80af-a1dbf778e90c" inline-header="false" obligation="normative">
+<clause id="_5d777702-a287-90ae-7d71-556264810a6b" inline-header="false" obligation="normative">
 <title id="_e70e64f9-99b7-afd3-d18d-b29cc4a37ef8">Specifications</title>
 <clause id="_62b95cd7-326b-f42a-7212-5357e3f0faa5" inline-header="false" obligation="normative">
 <title id="_08ea72f4-9b5e-0fa8-8281-78a0f136ff0e">General, organoleptic and health characteristics</title>
@@ -388,10 +384,9 @@ deterioration.<note id="_7fdf9bbf-d442-b12e-24d5-6cc37f61dfad"><p id="_8cfab614-
 <p id="_55952c06-873e-403e-59fc-f97f8166401d">The presence of living insects which are visible to the naked eye is not permitted. This should be determined before separating the bulk sample into test samples.</p>
 </clause>
 
-<clause id="_04e85851-a727-a4e8-182a-c9ce3b42d18f" inline-header="false" obligation="normative">
+<clause id="_d19d1ff5-152d-bbf6-d1df-7037e645d0d7" inline-header="false" obligation="normative">
 <title id="_3d1009bb-ec28-58ca-0d2b-faf4c0be2fde">Physical and chemical characteristics</title>
-<clause id="_d5112c58-4556-d971-c575-bb4d6dce4c8d" inline-header="false" obligation="normative">
-<p id="_5c5074bd-511e-2968-8c3b-4cdcc99f58c0">The mass fraction of moisture, determined in accordance with <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_fcc3c548-ef2e-c1ec-f61f-58e462d08ef5" reference="1"><p id="_9a07eb6a-d85e-0e4c-fbbe-0bdc50b65f7a">Cancelled and replaced by ISO 712-1:2024.</p></fn>, shall
+<clause id="_886704a8-c92a-47be-bc1f-555e60a90a0f" inline-header="false" obligation="normative"><p id="_5c5074bd-511e-2968-8c3b-4cdcc99f58c0">The mass fraction of moisture, determined in accordance with <eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_fcc3c548-ef2e-c1ec-f61f-58e462d08ef5" reference="1"><p id="_9a07eb6a-d85e-0e4c-fbbe-0bdc50b65f7a">Cancelled and replaced by ISO 712-1:2024.</p></fn>, shall
 not be greater than 15 %.</p>
 
 <p id="_991cce82-3cb4-fe85-959a-50bad3ecc60f">The mass fraction of extraneous matter and defective kernels in husked and
@@ -402,13 +397,12 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 
 </clause>
 
-<clause id="_24896e65-767e-0b31-326f-61805bfc96c3" inline-header="false" obligation="normative">
-<p id="_ddda74eb-bce2-7d8f-a079-898735214c1c"><bookmark id="_f9da0dae-e71a-3f9a-b17b-fd23f80c0643" anchor="_ef8680f6-a369-4a68-b9d2-6aa31b9fc699"/>The defect tolerance for the categories considered, and determined in accordance with the method given in  <xref target="AnnexA"/>, shall not exceed the limits given in <xref target="table1"/>.</p>
+<clause id="_b01852af-fb62-7cb3-cb54-b8b929a70c0e" inline-header="false" obligation="normative"><p id="_ddda74eb-bce2-7d8f-a079-898735214c1c"><bookmark id="_f9da0dae-e71a-3f9a-b17b-fd23f80c0643" anchor="_eabfdebe-b2a6-4e60-8eee-e783cfd15862"/>The defect tolerance for the categories considered, and determined in accordance with the method given in  <xref target="AnnexA"/>, shall not exceed the limits given in <xref target="table1"/>.</p>
 
 
 <table id="_7e9ddf0e-240e-5410-1399-2dbd04e33f0c" anchor="table1">
 <name id="_cc1d92e3-eb31-bf5e-f7e2-73d97cd004ea">Maximum permissible mass fraction of defects</name>
-<thead><tr id="_00ac3281-d551-41fd-d1b4-a8a55615f3f1"><th id="_339fcb80-85e1-65c1-a08a-571beb4f8cbb" valign="middle" rowspan="2" align="center"><bookmark id="_e042f405-54b8-9249-63c9-025c9a45a999" anchor="_551df861-611a-48f1-a34e-867bb9f34b92"/>Defect</th>
+<thead><tr id="_00ac3281-d551-41fd-d1b4-a8a55615f3f1"><th id="_339fcb80-85e1-65c1-a08a-571beb4f8cbb" valign="middle" rowspan="2" align="center"><bookmark id="_e042f405-54b8-9249-63c9-025c9a45a999" anchor="_68b2c429-c17a-4c7e-bd01-d19add2391bb"/>Defect</th>
 <th id="_00f85639-6943-710c-c5af-a36908e8f381" colspan="4" valign="top" align="center">Maximum permissible mass fraction of defects<br/>
 <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
@@ -567,7 +561,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_5c4b43d8-48aa-8b1b-bb26-0489fad2bc89">Nitrogen content and crude protein content</title>
 <p id="_75f29e5d-8429-9081-7d6e-59e61f63c419">Determine the nitrogen content and crude protein content in accordance with either  <eref type="inline" bibitemid="ISO16634" citeas="ISO 16634-2:2016"><localityStack><locality type="clause"><referenceFrom>10</referenceFrom></locality></localityStack></eref>, or <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. For details on the determination of protein content using the Kjeldahl method, see Reference  <eref type="inline" bibitemid="ref12" citeas="[9]"/> in the Bibliography. For details concerning the use of the Dumas method, see References <eref type="inline" bibitemid="ref10" citeas="[14]"/> and <eref type="inline" bibitemid="ref16" citeas="[15]"/>.</p>
 
-<p id="_bdffec7e-3449-bb4e-5c49-c7a7adb6a1ab"><bookmark id="_332b1987-f63b-c3ae-a8b3-31e4cc9b6f00" anchor="_e703452c-3539-41af-9841-7993de70aaac"/>Calculate the crude protein content of the dry product by multiplying the value of the nitrogen content by the conversion factor specified in <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"><localityStack connective="and"><locality type="annex"><referenceFrom>C</referenceFrom></locality></localityStack><localityStack connective="and"><locality type="table"><referenceFrom>C.1</referenceFrom></locality></localityStack></eref>, that is adapted to the type of cereals or pulses  <eref type="footnote" bibitemid="ref13" citeas="[10]"/><eref type="footnote" bibitemid="ref14" citeas="[11]"/> and to their use.</p>
+<p id="_bdffec7e-3449-bb4e-5c49-c7a7adb6a1ab"><bookmark id="_332b1987-f63b-c3ae-a8b3-31e4cc9b6f00" anchor="_99826111-ca70-46f3-ad8b-d84a2fa57604"/>Calculate the crude protein content of the dry product by multiplying the value of the nitrogen content by the conversion factor specified in <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"><localityStack connective="and"><locality type="annex"><referenceFrom>C</referenceFrom></locality></localityStack><localityStack connective="and"><locality type="table"><referenceFrom>C.1</referenceFrom></locality></localityStack></eref>, that is adapted to the type of cereals or pulses  <eref type="footnote" bibitemid="ref13" citeas="[10]"/><eref type="footnote" bibitemid="ref14" citeas="[11]"/> and to their use.</p>
 
 </clause>
 
@@ -591,7 +585,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_1bb46a56-7ce6-00a2-bcf0-295d89760690">Determination</title>
 <admonition id="_5b6aca8f-a783-8577-9a0f-202552b4c8f3" type="warning"><p id="_8d79b732-f261-f21c-77cd-8eb78889b594">Only use paddy or parboiled rice for the determination of husked rice yield.</p>
 </admonition>
-<p id="_20dd0870-2ac3-cf23-fca7-96786831041b"><bookmark id="_d7f00c5b-806a-52ea-2d31-21a08baae7e7" anchor="_21764f29-44dc-4bcf-b18e-1a34ab88e43d"/>Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
+<p id="_20dd0870-2ac3-cf23-fca7-96786831041b"><bookmark id="_d7f00c5b-806a-52ea-2d31-21a08baae7e7" anchor="_8dd085cd-0cd9-465e-a835-1c07de6204e2"/>Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
 
 </clause>
 
@@ -599,7 +593,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_e0f90c43-6764-900d-4efc-65e920e74c01">Precision</title>
 <clause id="_7b11e313-6530-797f-ea56-4bd20d381d70" inline-header="false" obligation="normative">
 <title id="_ce365734-3edb-2dff-5345-dc3cad4bc5cd">Interlaboratory test</title>
-<p id="_6146bf27-9b9c-23ef-47bc-228881606cbf"><bookmark id="_3df10cd5-21b3-f769-bc30-1e509f4e975e" anchor="_fda23b7d-b110-4510-bbab-a4634926fe0c"/>The results of an interlaboratory test are given in <xref target="AnnexD"/> for information.</p>
+<p id="_6146bf27-9b9c-23ef-47bc-228881606cbf"><bookmark id="_3df10cd5-21b3-f769-bc30-1e509f4e975e" anchor="_229fc019-0be1-4ec7-887b-6bf3ae823758"/>The results of an interlaboratory test are given in <xref target="AnnexD"/> for information.</p>
 
 
 <p id="_975f8fe8-9e6b-d075-23c8-04852983e2bc">The results of the repeatability and reproducibility tests (see <xref target="cls-6.5.2.2"/> and  <xref target="cls-6.5.2.3"/>) shall be obtained within a short interval of time, using the same:</p>
@@ -713,7 +707,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 
 </sections><annex id="_c05174f4-4f1e-9a7a-3132-aeb4c298f944" anchor="AnnexA" inline-header="false" obligation="normative">
-<title id="_2c09028e-80ad-a5c9-ab50-7509965e8e32"><bookmark id="_e5185863-940c-eece-1d56-61897f07b4d4" anchor="_5b407d08-a68f-426f-8502-e89ba23584e6"/><bookmark id="_de9b66ef-c70d-0569-1394-7b9a17339582" anchor="_e48495c5-69ef-4857-b24b-bfa854d8e52d"/>Determination of defects</title>
+<title id="_2c09028e-80ad-a5c9-ab50-7509965e8e32"><bookmark id="_e5185863-940c-eece-1d56-61897f07b4d4" anchor="_4b4147a6-2cfb-42b4-8734-e524ae145a75"/><bookmark id="_de9b66ef-c70d-0569-1394-7b9a17339582" anchor="_91058c93-d9a9-46c4-a2f9-3bb96c46ae5f"/>Determination of defects</title>
 
 
 <clause id="_b9220d43-a57f-880b-6602-2f93ad0a41d2" inline-header="false" obligation="normative">
@@ -790,7 +784,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 <clause id="_845d29d5-8485-fba0-bb53-39509b616286" anchor="cls-A5" inline-header="false" obligation="normative">
 <title id="_0d6ffaef-e9af-225e-6fb9-7a1cf318b552">Calculation</title>
-<p id="_9556446c-4e01-2cf5-c119-aacc8816d2a9"><bookmark id="_7b30af06-2546-7cbe-8021-06471d656f15" anchor="_11e68655-c8fb-4d48-87d9-1fb52b365268"/>Express the mass fraction of each defect using <xref target="formulaA-1"/>:</p>
+<p id="_9556446c-4e01-2cf5-c119-aacc8816d2a9"><bookmark id="_7b30af06-2546-7cbe-8021-06471d656f15" anchor="_beebafea-b988-4f79-b69c-2f64dc2a33b6"/>Express the mass fraction of each defect using <xref target="formulaA-1"/>:</p>
 
 <formula id="_1d546708-20d4-cd0e-244d-51dd8ad575b9" anchor="formulaA-1"><stem block="true" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="true">
@@ -846,8 +840,8 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <title id="_6907294f-0e77-0bb1-eb93-bdaf102b113d">Test report</title>
 <p id="_1096d6de-c5bf-b067-44b7-f422bcf2efe6">Report the results as specified in <xref target="clause7"/>.</p>
 </clause>
-</annex><annex id="_b93e730c-c5be-86fc-f832-aa65eafacbd9" anchor="AnnexB" inline-header="false" obligation="informative">
-<title id="_4b026aca-d90f-1e40-2282-cca353b039c8"><bookmark id="_c9d85509-fb5f-f516-e5bf-c38f6d1a98f3" anchor="_8f1b5bdd-60ac-4057-b9b0-0866186481fd"/>Determination of the waxy rice content of parboiled rice</title>
+</annex><annex id="_685555cb-e96a-5223-6fbe-97f045089042" anchor="AnnexB" inline-header="false" obligation="informative">
+<title id="_4b026aca-d90f-1e40-2282-cca353b039c8"><bookmark id="_c9d85509-fb5f-f516-e5bf-c38f6d1a98f3" anchor="_8fb9ebc1-aa82-4a1e-a165-c1c693e0a0ba"/>Determination of the waxy rice content of parboiled rice</title>
 
 <clause id="_09ce4ff9-9578-cc6c-78a5-26cc7fbd5a8c" inline-header="false" obligation="informative">
 <title id="_191c6dff-fb5e-d20b-f0fe-f17d3b495a76">Principle</title>
@@ -1006,26 +1000,21 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <p id="_060f4663-ea13-c561-e713-3a3c80154b2d">Sampling shall be carried out in accordance with <xref target="clause5"/>.</p>
 </clause>
 
-<clause id="_9c509d8e-e4d3-afe7-b2e2-de9e043b5a9c" inline-header="false" obligation="informative">
+<clause id="_e1db674f-f0ee-18b9-2759-d658aee7bb1d" inline-header="false" obligation="informative">
 <title id="_46fa5ad0-74ed-bd5c-b301-f88411243a4a">Determination</title>
-<clause id="_d4598eda-5a03-8ab3-2859-5a7908fb5c85" inline-header="false" obligation="informative">
-<p id="_969d933f-a885-3463-704e-91744b672951">Weigh a portion of about 100 g of milled rice and put it into a glass beaker (<xref target="AnnexB-2-2"/>).</p>
+<clause id="_45def8a1-f00e-2103-e430-954d98d7bf2a" inline-header="false" obligation="informative"><p id="_969d933f-a885-3463-704e-91744b672951">Weigh a portion of about 100 g of milled rice and put it into a glass beaker (<xref target="AnnexB-2-2"/>).</p>
 </clause>
 
-<clause id="_1a09b78e-446f-c0fe-be92-4d8fe81a7a6b" inline-header="false" obligation="informative">
-<p id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1">Add enough iodine working solution (<xref target="AnnexB-3-3"/>) to soak the kernels, and stir (<xref target="AnnexB-2-5"/>) until all the kernels are submerged under the solution. Let the kernels soak in the solution for 30 s.</p>
+<clause id="_ec61512e-0bc5-6680-4559-608c2db07e75" inline-header="false" obligation="informative"><p id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1">Add enough iodine working solution (<xref target="AnnexB-3-3"/>) to soak the kernels, and stir (<xref target="AnnexB-2-5"/>) until all the kernels are submerged under the solution. Let the kernels soak in the solution for 30 s.</p>
 </clause>
 
-<clause id="_51bc64ba-6bb3-1cc7-29e6-f285b74eadb1" inline-header="false" obligation="informative">
-<p id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9">Pour the rice and solution into a wire sieve (<xref target="AnnexB-2-4"/>), and shake the basket slightly in order to drain out the solution. Then place the wire sieve on a piece of tissue paper (<xref target="AnnexB-2-7"/>) to absorb the excess liquid.</p>
+<clause id="_c6560d92-a347-9b3f-204b-513c085b1037" inline-header="false" obligation="informative"><p id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9">Pour the rice and solution into a wire sieve (<xref target="AnnexB-2-4"/>), and shake the basket slightly in order to drain out the solution. Then place the wire sieve on a piece of tissue paper (<xref target="AnnexB-2-7"/>) to absorb the excess liquid.</p>
 </clause>
 
-<clause id="_b879ee09-563c-d7d1-7526-0de614958726" inline-header="false" obligation="informative">
-<p id="_3a4febd4-988c-1f71-e6b6-ae0996fb5e03">Pour the stained kernels into a bowl (<xref target="AnnexB-2-3"/>). Using tweezers or forceps (<xref target="AnnexB-2-6"/>), separate the reddish-brown kernels of waxy rice from the dark blue kernels of non-waxy rice.</p>
+<clause id="_a3135fe5-6699-1d9c-ed7a-b4c07b161a87" inline-header="false" obligation="informative"><p id="_3a4febd4-988c-1f71-e6b6-ae0996fb5e03">Pour the stained kernels into a bowl (<xref target="AnnexB-2-3"/>). Using tweezers or forceps (<xref target="AnnexB-2-6"/>), separate the reddish-brown kernels of waxy rice from the dark blue kernels of non-waxy rice.</p>
 </clause>
 
-<clause id="_5dbad80e-5155-3b99-443c-8e38371db52a" inline-header="false" obligation="informative">
-<p id="_0bde940e-b809-0b73-4b79-0b6ccafd34c0">Weigh the waxy rice portion (<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<clause id="_965d88bb-6320-a5f1-0c10-1c0895678ecc" inline-header="false" obligation="informative"><p id="_0bde940e-b809-0b73-4b79-0b6ccafd34c0">Weigh the waxy rice portion (<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <msub>
       <mi>m</mi>
@@ -1126,7 +1115,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <title id="_96a0b060-ac4e-0872-0337-c81c4661b2df">Gelatinization</title>
 <p id="_bdc79c6a-a59a-76c5-6f58-42552fbe2436"><xref target="figureC-1"/> gives an example of a typical gelatinization curve. <xref target="figureC-2"/> shows the three stages of gelatinization:</p>
 
-<ul id="_be68c5c2-450f-a77e-2143-ff972883189b"><li><p id="_4ea12bca-a8c0-4b62-2e51-5ea070140afd"><bookmark id="_dc72d2a7-269f-48b0-740b-a4695c1f888c" anchor="_14c582de-2d30-45b9-8ba0-83edc0c49b88"/><bookmark id="_6b925732-bf93-cefb-08df-c4b4d54bc564" anchor="_16dc4cc1-e829-4cf9-a040-75b9bc258f1b"/><bookmark id="_e2743147-e5ce-3514-d11e-60419f693c2e" anchor="_96250963-8f05-40df-9317-f1329821cf1b"/>initial;</p>
+<ul id="_be68c5c2-450f-a77e-2143-ff972883189b"><li><p id="_4ea12bca-a8c0-4b62-2e51-5ea070140afd"><bookmark id="_dc72d2a7-269f-48b0-740b-a4695c1f888c" anchor="_0a73dbac-7cbc-452e-b000-e4e04794af42"/><bookmark id="_6b925732-bf93-cefb-08df-c4b4d54bc564" anchor="_e098846e-f382-4a9e-b491-021b9204875a"/><bookmark id="_e2743147-e5ce-3514-d11e-60419f693c2e" anchor="_3f047dae-1107-4fba-b7e1-6af450525846"/>initial;</p>
 </li>
 <li><p id="_bcc8fe04-cd0d-0a68-905b-6d3d48f95339">intermediate;</p>
 </li>
@@ -1209,7 +1198,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <p id="_6a8552fd-e6c1-dbb2-84ec-7c89c4a598d4">An interlaboratory test <eref type="inline" bibitemid="ref15" citeas="[13]"/> was carried out by the ENR [Rice Research Centre (Italy)] in accordance with  <eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1"/> and <eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2"/>, with the participation of 15 laboratories. Each laboratory carried out three determinations on four different types of kernel. The statistical results are shown in  <xref target="tableD-1"/>.</p>
 
 <table id="_4da73ae1-20c4-4133-bb39-42377fb7e230" anchor="tableD-1">
-<name id="_a6a77bb7-f1e7-a3ab-af9a-0760940b51ad">Repeatability and reproducibility of husked rice yield</name><thead><tr id="_515383ae-3457-ff39-3c00-a8aa17a8f2de"><th id="_669406d9-35e1-32e0-e789-e28399de6e8d" valign="top" rowspan="2" align="center"><bookmark id="_e7705f3f-3a59-485c-0d88-350aa40e36e8" anchor="_1758c920-6e42-495e-bc6f-5c28a32679ec"/>Description</th>
+<name id="_a6a77bb7-f1e7-a3ab-af9a-0760940b51ad">Repeatability and reproducibility of husked rice yield</name><thead><tr id="_515383ae-3457-ff39-3c00-a8aa17a8f2de"><th id="_669406d9-35e1-32e0-e789-e28399de6e8d" valign="top" rowspan="2" align="center"><bookmark id="_e7705f3f-3a59-485c-0d88-350aa40e36e8" anchor="_50550127-5258-452b-9ff5-234694227be4"/>Description</th>
 <th id="_7ce531a5-b902-4c60-22d4-48376fd27bba" colspan="4" valign="top" align="center">Rice sample</th>
 </tr><tr id="_73695b30-0c38-d75f-1f87-7de341df6b50"><th id="_061a4a17-dadc-91d4-c453-e4077557c02b" valign="top" align="left">Arborio</th>
 <th id="_d5a8860e-7659-2ff8-7939-da97386a55e0" valign="top" align="center">Drago<fn id="_937d26ae-cf5e-4f82-97e6-e11c99c07555" reference="a"><p id="_00706c75-858e-0841-a7e9-4b257416b59f">Parboiled rice.</p>
@@ -1309,19 +1298,19 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_dbc19511-1b14-4e86-9d12-edd804fe322e">1</callout>
+%w{a b c}.each do |x| <callout target="_00a93df9-21af-499f-9e62-fafc030a1fe5">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_dbc19511-1b14-4e86-9d12-edd804fe322e"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_00a93df9-21af-499f-9e62-fafc030a1fe5"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
 </example>
 </appendix>
-</annex><bibliography><references id="_bcfded09-381d-38e1-6a19-9dc63fb61f08" anchor="norm-refs" normative="true" obligation="informative">
+</annex><bibliography><references id="_37801b90-133f-88af-3b4a-cca9ab03cfd7" anchor="norm-refs" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
-<bibitem id="_22398b60-829a-b087-6535-e68b14001717" type="standard" schema-version="v1.2.9" anchor="ISO712">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_31f7e88d-f335-62ac-56a0-14a6e2896180" type="standard" schema-version="v1.2.9" anchor="ISO712">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1387,7 +1376,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1463,8 +1452,8 @@ The method is not applicable to maize and pulses.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_d0a3f309-b823-fef7-d3df-b3dfc9bec025" type="standard" schema-version="v1.2.9" anchor="ISO6646">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_a1822be3-b25c-edd6-e8a3-e037a944ac9c" type="standard" schema-version="v1.2.9" anchor="ISO6646">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1518,7 +1507,7 @@ The method is not applicable to maize and pulses.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1581,8 +1570,8 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_2c40a66a-facb-12ed-47c7-7d3726dd350c" type="standard" schema-version="v1.2.9" anchor="ISO8351-1">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_76ab98d0-08d0-8be6-e1e5-ac416be9d631" type="standard" schema-version="v1.2.9" anchor="ISO8351-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1636,8 +1625,8 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </copyright>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_9c544dd2-07a1-d637-72c3-999f494012c6" type="standard" schema-version="v1.2.9" anchor="ISO8351-2">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_4b65e086-dfec-4970-174d-bbe87404b638" type="standard" schema-version="v1.2.9" anchor="ISO8351-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1687,7 +1676,7 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1745,8 +1734,8 @@ ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_15ba5195-5b61-6408-8234-acbd6422981c" type="standard" schema-version="v1.2.9" anchor="ISO16634">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_49e30572-f972-7dfa-7b78-58c4cf12d8f9" type="standard" schema-version="v1.2.9" anchor="ISO16634">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Food products</title>
 
@@ -1815,8 +1804,8 @@ This method, like the Kjeldahl method (see References [1] and [6]), does not dis
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_dc7e5449-5b82-2f49-100c-1b373af95740" type="standard" schema-version="v1.2.9" anchor="ISO20483">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_86c7d2c6-597b-ca1c-09f1-5bc16d219138" type="standard" schema-version="v1.2.9" anchor="ISO20483">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
 
@@ -1877,8 +1866,8 @@ This method, like the Kjeldahl method (see References [1] and [6]), does not dis
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_bde2f0bc-747a-6473-c6d0-ace3a9c5c31e" type="standard" schema-version="v1.2.9" anchor="ISO24333">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_256c82ca-9217-9502-f858-6c0ba9273cb9" type="standard" schema-version="v1.2.9" anchor="ISO24333">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1954,9 +1943,9 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-</references><references id="_7d0eabe0-bda9-2ab0-33a7-0c72cebb5394" anchor="bib" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_9f0f4cc9-e478-26a0-61ca-3a3fe33ab5b7" type="standard" schema-version="v1.2.9" anchor="ISO3696">
-  <fetched>2025-07-21</fetched>
+</references><references id="_d7266a5e-8078-8f15-6692-afdbfedc969a" anchor="bib" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_fc7f3c37-3cc5-db47-c29e-17f95ab0da3a" type="standard" schema-version="v1.2.9" anchor="ISO3696">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -2003,7 +1992,7 @@ It is not applicable to seed grain.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -2057,8 +2046,8 @@ It is not applicable to seed grain.</abstract>
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_364a47d0-9128-556d-990f-c2707ee4259d" type="standard" schema-version="v1.2.9" anchor="ISO5725-1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_68a8964b-338a-cf2f-d182-c7fda0cf1fa7" type="standard" schema-version="v1.2.9" anchor="ISO5725-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2119,7 +2108,7 @@ It is not applicable to seed grain.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2195,8 +2184,8 @@ This document does not include methods of calculation that are described in the 
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_f4609228-b628-f51e-dc76-58a801a7b42f" type="standard" schema-version="v1.2.9" anchor="ISO5725-2">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_fb867a2d-9479-2819-65fc-e0a226e0c7c6" type="standard" schema-version="v1.2.9" anchor="ISO5725-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2264,7 +2253,7 @@ This document does not include methods of calculation that are described in the 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2351,8 +2340,8 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_b346b96c-32c5-b1f7-c9b5-b5a49505f5c0" type="standard" schema-version="v1.2.9" anchor="ISO6322-1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_f4280287-a26a-a4ba-187e-ee87a88668af" type="standard" schema-version="v1.2.9" anchor="ISO6322-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2413,7 +2402,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2481,8 +2470,8 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_da67d2f8-0aff-e557-d26f-fa8f0aaa2eee" type="standard" schema-version="v1.2.9" anchor="ISO6322-2">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_d0a4b9f6-a467-ae95-56df-df433ad01272" type="standard" schema-version="v1.2.9" anchor="ISO6322-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2536,7 +2525,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2597,8 +2586,8 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_00522a3a-2071-e066-3fb0-107586dbeda8" type="standard" schema-version="v1.2.9" anchor="ISO6322-3">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_1accd57b-cc6a-7391-3ce9-76293bce68e3" type="standard" schema-version="v1.2.9" anchor="ISO6322-3">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2652,7 +2641,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2713,8 +2702,8 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_8430e7f1-e1cb-c84b-4868-be7d822c2003" type="standard" schema-version="v1.2.9" anchor="ISO7301">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_5d8c1b06-e517-8c0b-59b6-84dd169e2528" type="standard" schema-version="v1.2.9" anchor="ISO7301">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2784,8 +2773,8 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_ef808a9d-efae-a6cf-103c-54eaabd4b883" type="standard" schema-version="v1.2.9" anchor="ISO14864">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_1f5db62c-b22c-fdf9-2d5a-06b602e4a826" type="standard" schema-version="v1.2.9" anchor="ISO14864">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2835,27 +2824,41 @@ c)   when the use of a balanced uniform-level layout is acceptable.
     </owner>
   </copyright>
   <place>Geneva</place>
-</bibitem><bibitem anchor="ref12" id="_101d2a07-ebbb-037d-b501-eb7ebc3ee547">
+</bibitem><bibitem anchor="ref12" id="_be6b3210-ef1a-bc0f-6262-79cea091a8ec">
   <formattedref format="application/x-isodoc+xml"><smallcap>Berner D.L., Brown J.</smallcap>, Protein nitrogen combustion method collaborative study I. Comparison with Smalley total Kjeldahl nitrogen and combustion results. J. Am. Oil Chem. Soc. 1994, <strong>71</strong> (11) pp. 1291-1293</formattedref>
   <docidentifier type="metanorma">[9]</docidentifier>
-</bibitem><bibitem anchor="ref13" id="_85fca822-643b-01b2-5b6d-d4988ccea45f">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref13" id="_d4ddd5a6-7dc8-3180-b3c8-b83363bd5118">
   <formattedref format="application/x-isodoc+xml"><smallcap>Buckee G.K.</smallcap>, Determination of total nitrogen in barley, malt and beer by Kjeldahl procedures and the Dumas combustion method — Collaborative trial. J. Inst. Brew. 1994, <strong>100</strong> (2) pp. 57-64</formattedref>
   <docidentifier type="metanorma">[10]</docidentifier>
-</bibitem><bibitem anchor="ref14" id="_de4ebcbd-eaaa-62b1-4679-3743cafdfc42">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref14" id="_12daedb0-b16f-def9-8482-6e0c4d4ac0f9">
   <formattedref format="application/x-isodoc+xml"><smallcap>Frister H.</smallcap> et al. <em>Direct determination of nitrogen content by Dumas analysis; Interlaboratory study on precision characteristics</em>. AOAC International, Europe Section 4th International Symposium, Nyon, Switzerland, 1994, 33 pp</formattedref>
   <docidentifier type="metanorma">[11]</docidentifier>
-</bibitem><bibitem anchor="ref11" id="_0caca0e3-55fa-ad76-21de-53f385b04079">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref11" id="_3e72c60f-55a2-c956-0681-0d34263b3a1c">
   <formattedref format="application/x-isodoc+xml">Nitrogen-ammonia-protein modified Kjeldahl method — Titanium oxide and copper sulfate catalyst. <em>Official Methods and Recommended Practices of the AOCS</em> (ed. Firestone, D.E.), AOCS Official Method Ba Ai 4-91, 1997, AOCS Press, Champaign, IL</formattedref>
   <docidentifier type="metanorma">[12]</docidentifier>
-</bibitem><bibitem anchor="ref15" id="_67524dfb-453d-928f-21b8-ee4a4d60a145">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref15" id="_d6dcd3b7-d89c-c887-1ee2-3092cdcf5f91">
   <formattedref format="application/x-isodoc+xml"><smallcap>Ranghino F.</smallcap>, Evaluation of rice resistance to cooking, based on the gelatinization time of kernels. Il Riso. 1966, <strong>XV</strong> pp. 117-127</formattedref>
   <docidentifier type="metanorma">[13]</docidentifier>
-</bibitem><bibitem anchor="ref10" id="_149fb458-12a7-d6f9-0eda-dcce7f6f63f8">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref10" id="_2f3c0adc-1f22-a34b-fdca-660b4902b01b">
   <formattedref format="application/x-isodoc+xml"><smallcap>Standard No I.C.C 167</smallcap>. <em>Determination of the protein content in cereal and cereal products for food and animal feeding stuffs according to the Dumas combustion method</em> (see <link target="http://www.icc.or.at"/>)</formattedref>
   <docidentifier type="metanorma">[14]</docidentifier>
-</bibitem><bibitem anchor="ref16" id="_7344d885-aba2-26b2-4ee5-9552c94f851f">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="ref16" id="_fae3ee5d-1127-d99f-a7d9-aa6c6cdbdfa2">
   <formattedref format="application/x-isodoc+xml"><smallcap>Tkachuk R.</smallcap>, Nitrogen-to-protein conversion factors for cereals and oilseed meals. Cereal Chem. 1969, <strong>46</strong> (4) pp. 419-423</formattedref>
   <docidentifier type="metanorma">[15]</docidentifier>
+  <language>en</language>
+  <script>Latn</script>
 </bibitem>
 
 
@@ -2873,16 +2876,16 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 
 
 </references></bibliography>
-<annotation-container><annotation id="_6cac3d19-0f1f-79d0-06a2-334d5ca35f7b" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_d65cbd6f-97d9-4564-97fe-0deaf3888913" to="_d65cbd6f-97d9-4564-97fe-0deaf3888913"><ul id="_00be37fa-3f0a-48b2-a7ca-1a228791d11d"><li><p id="_fa189ab5-109e-5242-ec89-62097b2a5344">Template text for all committees</p>
+<annotation-container><annotation id="_6cac3d19-0f1f-79d0-06a2-334d5ca35f7b" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_a1f690b2-e645-4b81-92f4-d2cca4dd43c6" to="_a1f690b2-e645-4b81-92f4-d2cca4dd43c6"><ul id="_00be37fa-3f0a-48b2-a7ca-1a228791d11d"><li><p id="_fa189ab5-109e-5242-ec89-62097b2a5344">Template text for all committees</p>
 </li>
 </ul>
-</annotation><annotation id="_d612f5c0-7486-8667-682e-bceed6bcdf95" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_988e3c00-4cf7-4dee-be41-e195e8b4e5e8" to="_988e3c00-4cf7-4dee-be41-e195e8b4e5e8"><ul id="_5f9c0d74-17d1-635a-0634-a090f0017962"><li><p id="_a5785976-2d92-1bd0-de0c-e4b386452cba">Committee-specific text</p>
+</annotation><annotation id="_d612f5c0-7486-8667-682e-bceed6bcdf95" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_4f0468c5-1d7a-466d-a614-b796b7951393" to="_4f0468c5-1d7a-466d-a614-b796b7951393"><ul id="_5f9c0d74-17d1-635a-0634-a090f0017962"><li><p id="_a5785976-2d92-1bd0-de0c-e4b386452cba">Committee-specific text</p>
 <ul id="_4edee1fd-5a67-f984-9c70-2c8116b0d124"><li><p id="_c419ff71-e87e-4856-b5d2-2713d5f8b995">ISO/IEC Directives, Part 2, 2021, Clause 12</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_0d70fdbf-db66-8b63-724d-230a9b779f93" reviewer="ISO" from="intro" to="intro" type="review" date="2025-07-21T00:00:00Z"><ul id="_991d5c48-d7ec-f5a1-e621-03e5bc9e99af"><li><p id="_9c346dfd-cedc-bb05-37ef-2e6a2e095de1">Optional element</p>
+</annotation><annotation id="_0d70fdbf-db66-8b63-724d-230a9b779f93" reviewer="ISO" from="intro" to="intro" type="review" date="2025-12-01T00:00:00Z"><ul id="_991d5c48-d7ec-f5a1-e621-03e5bc9e99af"><li><p id="_9c346dfd-cedc-bb05-37ef-2e6a2e095de1">Optional element</p>
 </li>
 <li><p id="_f2007f30-616b-fc84-35b0-e0e5c2258cfd">Provides background information about the technical content</p>
 <ul id="_43633f92-1594-c42b-d0ee-a24098843ee9"><li><p id="_8dd6e063-5b8b-87e9-dc0c-9dc84a7937d1">ISO/IEC Directives, Part 2, 2021, Clause 13</p>
@@ -2890,7 +2893,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_93ef0b67-2c9f-0932-0fce-7837e76041c6" reviewer="ISO" from="scope" to="scope" type="review" date="2025-07-21T00:00:00Z"><ul id="_490cf440-45f9-cf09-0c98-c1226819b666"><li><p id="_7a908742-e7ec-42cd-f489-713330e1d03c">Mandatory clause</p>
+</annotation><annotation id="_93ef0b67-2c9f-0932-0fce-7837e76041c6" reviewer="ISO" from="scope" to="scope" type="review" date="2025-12-01T00:00:00Z"><ul id="_490cf440-45f9-cf09-0c98-c1226819b666"><li><p id="_7a908742-e7ec-42cd-f489-713330e1d03c">Mandatory clause</p>
 </li>
 <li><p id="_63178650-b5d5-084e-84e0-cd370ebf9cd0">Defines the subject of the document</p>
 </li>
@@ -2900,7 +2903,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_34dfa04f-f707-31d5-2f50-5f962619b598" reviewer="ISO" from="terms" to="terms" type="review" date="2025-07-21T00:00:00Z"><ul id="_63b0da41-0f04-dc39-0da3-ca6bb4642bb6"><li><p id="_8b74c800-a946-ab53-c308-9108d20d89b4">Mandatory clause</p>
+</annotation><annotation id="_34dfa04f-f707-31d5-2f50-5f962619b598" reviewer="ISO" from="terms" to="terms" type="review" date="2025-12-01T00:00:00Z"><ul id="_63b0da41-0f04-dc39-0da3-ca6bb4642bb6"><li><p id="_8b74c800-a946-ab53-c308-9108d20d89b4">Mandatory clause</p>
 </li>
 <li><p id="_92fcf1b0-2f7e-ec9e-f331-457e50e30341">Definitions of terms used that are necessary for understanding the document</p>
 <ul id="_55a4e278-0a60-7b77-c1ba-31d80808ad64"><li><p id="_5f244760-e4cc-d3ff-84e9-d0906680b5f8">ISO/IEC Directives, Part 2, 2021, Clause 16</p>
@@ -2908,7 +2911,7 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_21c378a9-eba8-5b5a-8c5f-b098f82b9bfa" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_5bc77e4a-320c-4b3b-9ded-0f26d75acca7" to="_5bc77e4a-320c-4b3b-9ded-0f26d75acca7"><ul id="_9786f6b7-9b27-206f-d003-b6a0f47d41e7"><li><p id="_3b854a79-66ec-e266-70b2-3b54b711f512">Preferred term “milled rice” in bold type</p>
+</annotation><annotation id="_21c378a9-eba8-5b5a-8c5f-b098f82b9bfa" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_847904fd-2e07-42f2-8756-e8e882b180a9" to="_847904fd-2e07-42f2-8756-e8e882b180a9"><ul id="_9786f6b7-9b27-206f-d003-b6a0f47d41e7"><li><p id="_3b854a79-66ec-e266-70b2-3b54b711f512">Preferred term “milled rice” in bold type</p>
 </li>
 <li><p id="_e3440954-8071-1f19-0b95-4cef59bdd27c">Admitted term “white rice” in regular type</p>
 </li>
@@ -2917,27 +2920,27 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 <li><p id="_7bd6782d-c8a8-82be-e038-a207c929d447">Source document is informative and listed in the Bibliography</p>
 </li>
 </ul>
-</annotation><annotation id="_6fc5d029-4a85-9ed1-89e6-665071a4a690" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_82222864-f622-4a01-a560-32cf1de0c1bc" to="_82222864-f622-4a01-a560-32cf1de0c1bc"><ul id="_ea397e40-1443-df11-626e-61cbffe5098d"><li><p id="_3035606b-9e71-b338-8875-2956791089e3">Abbreviated term “EM” given under the term</p>
+</annotation><annotation id="_6fc5d029-4a85-9ed1-89e6-665071a4a690" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_476a6e0b-5636-4fd5-9b92-ecbd6ae7d7a5" to="_476a6e0b-5636-4fd5-9b92-ecbd6ae7d7a5"><ul id="_ea397e40-1443-df11-626e-61cbffe5098d"><li><p id="_3035606b-9e71-b338-8875-2956791089e3">Abbreviated term “EM” given under the term</p>
 </li>
 <li><p id="_5979188c-115e-c5e0-19f2-9db4f5a3db22">EXAMPLE given under the definition</p>
 </li>
 </ul>
-</annotation><annotation id="_cfa252ed-e5a4-53d0-9a23-eeb2dd03542a" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_e60d5f6f-7892-415e-a0fa-669ee4c0678f" to="_e60d5f6f-7892-415e-a0fa-669ee4c0678f"><ul id="_71fcf9f8-c364-1e48-fbe2-3629d9b688dd"><li><p id="_8922172a-ac9a-ea23-e382-10a4eeb1cbfe">Note to terminological entry provides additional information</p>
+</annotation><annotation id="_cfa252ed-e5a4-53d0-9a23-eeb2dd03542a" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_a67be14e-84c3-41b2-8a7a-44349adf63f7" to="_a67be14e-84c3-41b2-8a7a-44349adf63f7"><ul id="_71fcf9f8-c364-1e48-fbe2-3629d9b688dd"><li><p id="_8922172a-ac9a-ea23-e382-10a4eeb1cbfe">Note to terminological entry provides additional information</p>
 </li>
 </ul>
-</annotation><annotation id="_2a83f4d8-2832-0933-c862-3597dbeb1c9b" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_15eedf19-58d4-483a-bb18-3f7e31224764" to="_15eedf19-58d4-483a-bb18-3f7e31224764"><ul id="_b6ef53be-52ba-b9a8-32bb-e7761c3e9a29"><li><p id="_e67002f9-af59-005d-35bb-aca59b14fcab">Symbol appears below the term</p>
+</annotation><annotation id="_2a83f4d8-2832-0933-c862-3597dbeb1c9b" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_15ca0c37-9764-45a3-960a-8afca74dc2f9" to="_15ca0c37-9764-45a3-960a-8afca74dc2f9"><ul id="_b6ef53be-52ba-b9a8-32bb-e7761c3e9a29"><li><p id="_e67002f9-af59-005d-35bb-aca59b14fcab">Symbol appears below the term</p>
 </li>
 </ul>
-</annotation><annotation id="_a2b8725f-11a6-4d26-d53e-06d27a9495dc" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_ef8680f6-a369-4a68-b9d2-6aa31b9fc699" to="_ef8680f6-a369-4a68-b9d2-6aa31b9fc699"><ul id="_e6ed30d4-aeb5-d943-75fc-a1a6dfe739d3"><li><p id="_f515b668-4994-904d-88b2-b11ddb3b0929">Cross-reference to Annex A and Table 1</p>
+</annotation><annotation id="_a2b8725f-11a6-4d26-d53e-06d27a9495dc" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_eabfdebe-b2a6-4e60-8eee-e783cfd15862" to="_eabfdebe-b2a6-4e60-8eee-e783cfd15862"><ul id="_e6ed30d4-aeb5-d943-75fc-a1a6dfe739d3"><li><p id="_f515b668-4994-904d-88b2-b11ddb3b0929">Cross-reference to Annex A and Table 1</p>
 </li>
 </ul>
-</annotation><annotation id="_c225148e-c942-5546-8390-006f46a97eb8" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_551df861-611a-48f1-a34e-867bb9f34b92" to="_551df861-611a-48f1-a34e-867bb9f34b92"><ul id="_fd545923-d969-3cf0-adbf-7756cbbee334"><li><p id="_49f56424-49c7-dc9e-19e5-5c3e7df52bb0">Table footer can contain requirements, notes and footnotes</p>
+</annotation><annotation id="_c225148e-c942-5546-8390-006f46a97eb8" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_68b2c429-c17a-4c7e-bd01-d19add2391bb" to="_68b2c429-c17a-4c7e-bd01-d19add2391bb"><ul id="_fd545923-d969-3cf0-adbf-7756cbbee334"><li><p id="_49f56424-49c7-dc9e-19e5-5c3e7df52bb0">Table footer can contain requirements, notes and footnotes</p>
 <ul id="_b7105884-4898-5712-b2b3-62a84e35e4ec"><li><p id="_c3fff183-1125-cac4-0b80-e398e4e6e8a6">ISO/IEC Directives, Part 2, 2021, Clause 29</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_b54c3110-a9f6-9a8c-5a16-38d9254cf572" reviewer="ISO" from="clause5" to="waxy-rice-content" type="review" date="2025-07-21T00:00:00Z"><ul id="_8b4b92fb-045f-5953-1e24-c6f9040e3485"><li><p id="_a1c13fff-e389-7266-9591-da5881a07e9a">Cross-references to normative references</p>
+</annotation><annotation id="_b54c3110-a9f6-9a8c-5a16-38d9254cf572" reviewer="ISO" from="clause5" to="waxy-rice-content" type="review" date="2025-12-01T00:00:00Z"><ul id="_8b4b92fb-045f-5953-1e24-c6f9040e3485"><li><p id="_a1c13fff-e389-7266-9591-da5881a07e9a">Cross-references to normative references</p>
 <ul id="_879db237-c40f-f5b4-d58e-fb746344e86c"><li><p id="_e7e31f4f-1640-e316-1041-ecc40ce469f8">ISO/IEC Directives, Part 2, 2021, Clause 15</p>
 </li>
 </ul>
@@ -2949,39 +2952,39 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 <li><p id="_c46dc1d0-39fd-83cb-f7b6-e2654c66fec2">ISO 24333 is dated because it refers to a specific clause</p>
 </li>
 </ul>
-</annotation><annotation id="_61cf674c-81d8-2111-c5af-2908df4c0c02" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_e703452c-3539-41af-9841-7993de70aaac" to="_e703452c-3539-41af-9841-7993de70aaac"><ul id="_d3fe547d-cf42-2644-84d0-8d3a7d0479e9"><li><p id="_c9560927-823a-2780-b9ba-32b297f2395e">Cross-references to bibliographic entries</p>
+</annotation><annotation id="_61cf674c-81d8-2111-c5af-2908df4c0c02" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_99826111-ca70-46f3-ad8b-d84a2fa57604" to="_99826111-ca70-46f3-ad8b-d84a2fa57604"><ul id="_d3fe547d-cf42-2644-84d0-8d3a7d0479e9"><li><p id="_c9560927-823a-2780-b9ba-32b297f2395e">Cross-references to bibliographic entries</p>
 <ul id="_e6b4a79a-a78c-c5bb-8ab4-a47a76d414f1"><li><p id="_9f11b62e-192e-0a7f-f302-a1ac6301a4a2">ISO/IEC Directives, Part 2, 2021, 10.3</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_762f3671-e6eb-a6f3-9aa1-9f0c22740e7e" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_21764f29-44dc-4bcf-b18e-1a34ab88e43d" to="_21764f29-44dc-4bcf-b18e-1a34ab88e43d"><ul id="_157944ed-184d-40d2-3785-41e4e9066881"><li><p id="_f98c3963-41f9-0e12-929a-bba6a1dc53b6">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
+</annotation><annotation id="_762f3671-e6eb-a6f3-9aa1-9f0c22740e7e" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_8dd085cd-0cd9-465e-a835-1c07de6204e2" to="_8dd085cd-0cd9-465e-a835-1c07de6204e2"><ul id="_157944ed-184d-40d2-3785-41e4e9066881"><li><p id="_f98c3963-41f9-0e12-929a-bba6a1dc53b6">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
 <ul id="_6b22bb4d-d640-ea20-b47c-d57f14c8a76c"><li><p id="_a219c429-54fe-6078-0364-9a01e216e862">ISO/IEC Directives, Part 2, 2021, 18.4</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_72516e85-a6b6-7433-d035-a4b42992d8aa" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_fda23b7d-b110-4510-bbab-a4634926fe0c" to="_fda23b7d-b110-4510-bbab-a4634926fe0c"><ul id="_5dc1a4bc-8fec-f539-b25f-b37748c9c97d"><li><p id="_acfe819e-ca0f-b3ee-1868-e1103c68e87b">Informative cross-reference to Annex D</p>
+</annotation><annotation id="_72516e85-a6b6-7433-d035-a4b42992d8aa" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_229fc019-0be1-4ec7-887b-6bf3ae823758" to="_229fc019-0be1-4ec7-887b-6bf3ae823758"><ul id="_5dc1a4bc-8fec-f539-b25f-b37748c9c97d"><li><p id="_acfe819e-ca0f-b3ee-1868-e1103c68e87b">Informative cross-reference to Annex D</p>
 </li>
 </ul>
-</annotation><annotation id="_b6e9ec16-9632-5663-f689-568a006c5d58" reviewer="ISO" from="clause7" to="clause7" type="review" date="2025-07-21T00:00:00Z"><ul id="_dad9708c-54f7-e185-772d-6de8c7f7b40e"><li><p id="_19663c1c-93b4-2663-87bf-2f8582662999">ISO/IEC Directives, Part 2, 2021, 18.5.8</p>
+</annotation><annotation id="_b6e9ec16-9632-5663-f689-568a006c5d58" reviewer="ISO" from="clause7" to="clause7" type="review" date="2025-12-01T00:00:00Z"><ul id="_dad9708c-54f7-e185-772d-6de8c7f7b40e"><li><p id="_19663c1c-93b4-2663-87bf-2f8582662999">ISO/IEC Directives, Part 2, 2021, 18.5.8</p>
 </li>
 </ul>
-</annotation><annotation id="_c4de7a1b-bc74-882e-2ee9-dcd5157a6166" reviewer="ISO" from="cls-8" to="cls-9" type="review" date="2025-07-21T00:00:00Z"><ul id="_ed4dd42f-6bfd-8931-3cc9-2cb6d3cbe81a"><li><p id="_aaf8c877-2fe1-477d-5101-9fd94b7b71fc">ISO/IEC Directives, Part 2, 2021, Clause 19</p>
+</annotation><annotation id="_c4de7a1b-bc74-882e-2ee9-dcd5157a6166" reviewer="ISO" from="cls-8" to="cls-9" type="review" date="2025-12-01T00:00:00Z"><ul id="_ed4dd42f-6bfd-8931-3cc9-2cb6d3cbe81a"><li><p id="_aaf8c877-2fe1-477d-5101-9fd94b7b71fc">ISO/IEC Directives, Part 2, 2021, Clause 19</p>
 </li>
 </ul>
-</annotation><annotation id="_4a40eecf-5ec2-814a-02c2-5ab6aef259ea" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_5b407d08-a68f-426f-8502-e89ba23584e6" to="_5b407d08-a68f-426f-8502-e89ba23584e6"><ul id="_ac57e15b-f76f-7e29-f93a-50b81bd36994"><li><p id="_dd6c6e64-c068-273c-f003-1cf4312c36cb">Annexes provide additional information to the main body of the document</p>
+</annotation><annotation id="_4a40eecf-5ec2-814a-02c2-5ab6aef259ea" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_4b4147a6-2cfb-42b4-8734-e524ae145a75" to="_4b4147a6-2cfb-42b4-8734-e524ae145a75"><ul id="_ac57e15b-f76f-7e29-f93a-50b81bd36994"><li><p id="_dd6c6e64-c068-273c-f003-1cf4312c36cb">Annexes provide additional information to the main body of the document</p>
 </li>
 <li><p id="_7c9e47e9-bad6-7c4f-78f1-0c03c589aaba">They can be normative or informative</p>
 </li>
 </ul>
-</annotation><annotation id="_7b6964b4-5fe1-9258-5984-15be00b99001" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_e48495c5-69ef-4857-b24b-bfa854d8e52d" to="_e48495c5-69ef-4857-b24b-bfa854d8e52d"><ul id="_37ee03d0-fa0f-804d-3a3a-ac9a4d18ebe3"><li><p id="_b102a6a7-39ba-d3bf-8e6c-8d428474a591">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
+</annotation><annotation id="_7b6964b4-5fe1-9258-5984-15be00b99001" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_91058c93-d9a9-46c4-a2f9-3bb96c46ae5f" to="_91058c93-d9a9-46c4-a2f9-3bb96c46ae5f"><ul id="_37ee03d0-fa0f-804d-3a3a-ac9a4d18ebe3"><li><p id="_b102a6a7-39ba-d3bf-8e6c-8d428474a591">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
 <ul id="_8690a24d-9df5-158f-59b5-51a3a523b91f"><li><p id="_bb59cff9-d38d-0dce-fc91-c27e3cf3af5a">ISO/IEC Directives, Part 2, 2021, Clause 20</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_6ec24472-449c-0f12-4b16-cbe234cdc249" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_11e68655-c8fb-4d48-87d9-1fb52b365268" to="_11e68655-c8fb-4d48-87d9-1fb52b365268"><ul id="_90c75fc5-b5c9-14d1-8cc9-9f083252446a"><li><p id="_567c7f07-6a28-7b2a-c145-b55cfde43996">Mathematical formulae</p>
+</annotation><annotation id="_6ec24472-449c-0f12-4b16-cbe234cdc249" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_beebafea-b988-4f79-b69c-2f64dc2a33b6" to="_beebafea-b988-4f79-b69c-2f64dc2a33b6"><ul id="_90c75fc5-b5c9-14d1-8cc9-9f083252446a"><li><p id="_567c7f07-6a28-7b2a-c145-b55cfde43996">Mathematical formulae</p>
 </li>
 <li><p id="_f32f4077-a666-2e7c-7fe4-3310adeb273b">Symbols are defined below formulae</p>
 <ul id="_9282d526-de83-2711-2255-14197b7601c3"><li><p id="_585337b3-6619-1d46-ab49-33107efa2cc0">ISO/IEC Directives, Part 2, 2021, Clause 27</p>
@@ -2989,36 +2992,36 @@ c)   when the use of a balanced uniform-level layout is acceptable.
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_fa14d894-cfbc-ec0a-3e67-662f0dab7e22" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_8f1b5bdd-60ac-4057-b9b0-0866186481fd" to="_8f1b5bdd-60ac-4057-b9b0-0866186481fd"><ul id="_c5f6cdaf-d515-9796-a40f-52cad17e9001"><li><p id="_e7323dff-e3fc-c1c3-eb9f-42281adf41d1">Annex B is cited informatively in 6.2</p>
+</annotation><annotation id="_fa14d894-cfbc-ec0a-3e67-662f0dab7e22" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_8fb9ebc1-aa82-4a1e-a165-c1c693e0a0ba" to="_8fb9ebc1-aa82-4a1e-a165-c1c693e0a0ba"><ul id="_c5f6cdaf-d515-9796-a40f-52cad17e9001"><li><p id="_e7323dff-e3fc-c1c3-eb9f-42281adf41d1">Annex B is cited informatively in 6.2</p>
 </li>
 </ul>
-</annotation><annotation id="_0e9e0247-3831-4454-2d53-037a20118d6c" reviewer="ISO" from="cls-B2" to="cls-B3" type="review" date="2025-07-21T00:00:00Z"><ul id="_88dcf5bb-4bf5-f43f-a393-f2e59e78cbc0"><li><p id="_5eab0e62-cb75-975d-90ab-1a83602679cf">The apparatus clause has a specific presentation style</p>
+</annotation><annotation id="_0e9e0247-3831-4454-2d53-037a20118d6c" reviewer="ISO" from="cls-B2" to="cls-B3" type="review" date="2025-12-01T00:00:00Z"><ul id="_88dcf5bb-4bf5-f43f-a393-f2e59e78cbc0"><li><p id="_5eab0e62-cb75-975d-90ab-1a83602679cf">The apparatus clause has a specific presentation style</p>
 <ul id="_b7289c41-1dc8-1d26-7f6d-532374ecaef4"><li><p id="_b05f82c8-378c-69f4-659f-b94488d94ac4">ISO/IEC Directives, Part 2, 2021, 18.5.4</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_cc123284-da92-4549-03dc-59fb7e157d39" reviewer="ISO" from="cls-B3" to="cls-B4" type="review" date="2025-07-21T00:00:00Z"><ul id="_de3d4883-3262-a87f-31fe-f75d3a526b54"><li><p id="_4bc5ec47-e358-5d00-fc89-b0229906bd4c">The reagent clause has a specific presentation style</p>
+</annotation><annotation id="_cc123284-da92-4549-03dc-59fb7e157d39" reviewer="ISO" from="cls-B3" to="cls-B4" type="review" date="2025-12-01T00:00:00Z"><ul id="_de3d4883-3262-a87f-31fe-f75d3a526b54"><li><p id="_4bc5ec47-e358-5d00-fc89-b0229906bd4c">The reagent clause has a specific presentation style</p>
 <ul id="_438db138-eae4-5a55-a28f-5e37c37f6cdd"><li><p id="_2022b286-2980-cd64-01cc-7e2b53249cde">ISO/IEC Directives, Part 2, 2021, 18.5.3</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_a29919e7-8d1d-18d6-1657-237feb767d76" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_14c582de-2d30-45b9-8ba0-83edc0c49b88" to="_14c582de-2d30-45b9-8ba0-83edc0c49b88"><ul id="_f0387a1d-8e3f-1465-5899-1ffdc8dbacd2"><li><p id="_d27565c0-b284-ed76-327c-8b347b4efea0">Cross-references to the figures</p>
+</annotation><annotation id="_a29919e7-8d1d-18d6-1657-237feb767d76" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_0a73dbac-7cbc-452e-b000-e4e04794af42" to="_0a73dbac-7cbc-452e-b000-e4e04794af42"><ul id="_f0387a1d-8e3f-1465-5899-1ffdc8dbacd2"><li><p id="_d27565c0-b284-ed76-327c-8b347b4efea0">Cross-references to the figures</p>
 <ul id="_cb3adc54-5d13-4aa1-3589-3747ce607163"><li><p id="_959bc80d-7d56-33e5-e8fe-4068808e897f">ISO/IEC Directives, Part 2, 2021, Clause 28</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_6211b37c-38ec-4e6b-72dc-fadc85c56c53" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_16dc4cc1-e829-4cf9-a040-75b9bc258f1b" to="_16dc4cc1-e829-4cf9-a040-75b9bc258f1b"><ul id="_de69aad8-0b9f-d009-ff71-20432a37078d"><li><p id="_bb1bb3f1-9a78-cc7b-e3e1-ea1bbf7c7bce">Figures are language neutral</p>
+</annotation><annotation id="_6211b37c-38ec-4e6b-72dc-fadc85c56c53" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_e098846e-f382-4a9e-b491-021b9204875a" to="_e098846e-f382-4a9e-b491-021b9204875a"><ul id="_de69aad8-0b9f-d009-ff71-20432a37078d"><li><p id="_bb1bb3f1-9a78-cc7b-e3e1-ea1bbf7c7bce">Figures are language neutral</p>
 </li>
 <li><p id="_1fb0e0a9-0ea1-7b5e-6391-a56853b8fcc0">Text is placed in a figure key</p>
 </li>
 </ul>
-</annotation><annotation id="_a924d26d-f353-82bd-8409-c267736bff38" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_96250963-8f05-40df-9317-f1329821cf1b" to="_96250963-8f05-40df-9317-f1329821cf1b"><ul id="_23063887-7ef0-ff9f-e5ea-770c7d899be4"><li><p id="_10a4ed37-ba48-8ad6-bab1-bf750a9c41b3">Figures contain a figure number and title</p>
+</annotation><annotation id="_a924d26d-f353-82bd-8409-c267736bff38" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_3f047dae-1107-4fba-b7e1-6af450525846" to="_3f047dae-1107-4fba-b7e1-6af450525846"><ul id="_23063887-7ef0-ff9f-e5ea-770c7d899be4"><li><p id="_10a4ed37-ba48-8ad6-bab1-bf750a9c41b3">Figures contain a figure number and title</p>
 </li>
 </ul>
-</annotation><annotation id="_17b97f46-371c-8788-0498-697e065bd61a" reviewer="ISO" type="review" date="2025-07-21T00:00:00Z" from="_1758c920-6e42-495e-bc6f-5c28a32679ec" to="_1758c920-6e42-495e-bc6f-5c28a32679ec"><ul id="_249eef71-a18a-bf63-5b08-2d346a038192"><li><p id="_2c236041-661e-8df2-555a-7140282fd817">Annex D is cited informatively in 6.5.2.1</p>
+</annotation><annotation id="_17b97f46-371c-8788-0498-697e065bd61a" reviewer="ISO" type="review" date="2025-12-01T00:00:00Z" from="_50550127-5258-452b-9ff5-234694227be4" to="_50550127-5258-452b-9ff5-234694227be4"><ul id="_249eef71-a18a-bf63-5b08-2d346a038192"><li><p id="_2c236041-661e-8df2-555a-7140282fd817">Annex D is cited informatively in 6.5.2.1</p>
 </li>
 </ul>
 </annotation></annotation-container></metanorma>

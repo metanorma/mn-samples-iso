@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Fire safety — Statistical data collection — Vocabulary</title>
+<title language="en" type="main">Fire safety — Statistical data collection — Vocabulary</title>
 
-<title language="en" format="text/plain" type="title-intro">Fire safety</title>
+<title language="en" type="title-intro">Fire safety</title>
 
-<title language="en" format="text/plain" type="title-main">Statistical data collection</title>
+<title language="en" type="title-main">Statistical data collection</title>
 
-<title language="en" format="text/plain" type="title-part">Vocabulary</title>
+<title language="en" type="title-part">Vocabulary</title>
 
+<title language="fr" type="main">Sécurité incendie — Collecte des données statistiques — Vocabulaire</title>
 
-<title language="fr" format="text/plain" type="main">Sécurité incendie — Collecte des données statistiques — Vocabulaire</title>
+<title language="fr" type="title-intro">Sécurité incendie</title>
 
-<title language="fr" format="text/plain" type="title-intro">Sécurité incendie</title>
+<title language="fr" type="title-main">Collecte des données statistiques</title>
 
-<title language="fr" format="text/plain" type="title-main">Collecte des données statistiques</title>
-
-<title language="fr" format="text/plain" type="title-part">Vocabulaire</title>
-<docidentifier type="ISO" primary="true">ISO/TS 17755-2-2:2020</docidentifier><docidentifier type="iso-reference">ISO/TS 17755-2-2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:ts:17755-2:-2:stage-60.60:en</docidentifier><docidentifier type="iso-undated">ISO/TS 17755-2-2</docidentifier><docidentifier type="iso-with-lang">ISO/TS 17755-2-2:2020(en)</docidentifier><docnumber>17755-2</docnumber><date type="published"><on>2020-08-06</on></date><date type="circulated"><on>2020-07-16</on></date><contributor><role type="author"/><organization>
+<title language="fr" type="title-part">Vocabulaire</title>
+<docidentifier type="ISO" primary="true">ISO/FDTS 17755-2-2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDTS 17755-2-2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:ts:17755-2:-2:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTS 17755-2-2</docidentifier><docidentifier type="iso-with-lang">ISO/FDTS 17755-2-2:2020(en)</docidentifier><docnumber>17755-2</docnumber><date type="published"><on>2020-08-06</on></date><date type="circulated"><on>2020-07-16</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Fire safety</name>
-<identifier>TC 92</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+<identifier>TC 92</identifier><identifier type="full">TC 92</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-<identifier>WG</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Fire safety</name>
-<identifier>TC 92</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+<identifier>TC 92</identifier><identifier type="full">TC 92</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2020-08-06</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDTS">50</stage><substage>60</substage></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
-<identifier>WG</identifier></subdivision></organization></contributor><edition>1</edition><version><revision-date>2020-08-06</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration/></status><copyright><from>2020</from><owner><organization>
-<name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-specification</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="92" type="TC">Fire safety</technical-committee><subcommittee number="" type=""/><workgroup number="" type="WG"/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="92" type="TC">Fire safety</technical-committee><subcommittee number="" type=""/><workgroup number="" type="WG"/></approvalgroup><ics><code>01.040.13</code><text>Environment. Health protection. Safety (Vocabularies)</text></ics><ics><code>13.220.20</code><text>Fire protection</text></ics><structuredidentifier><project-number part="2">ISO 17755-2</project-number></structuredidentifier><stagename abbreviation="TS">Technical Specification</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-specification</doctype><flavor>iso</flavor><ics><code>01.040.13</code><text>Environment. Health protection. Safety (Vocabularies)</text></ics><ics><code>13.220.20</code><text>Fire protection</text></ics><structuredidentifier><project-number part="2">ISO 17755-2</project-number></structuredidentifier><stagename abbreviation="FDTS">Final Draft Technical Specification</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -246,9 +238,9 @@
 </annex><bibliography><references id="_af2014d3-8cdd-1f63-a03e-e4e37ae9de62" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
 
-</references><references id="_f45b8d6a-9c4a-7651-e4c3-845fb72e1de3" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_659461d6-aab3-7b55-a12a-58acf0ee543c" type="standard" schema-version="v1.2.9" anchor="ISO7301">
-  <fetched>2025-07-21</fetched>
+</references><references id="_b5e321df-7926-d950-1db2-743758597a8d" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_e2652138-62f9-260e-8e1f-93d7006e5054" type="standard" schema-version="v1.2.9" anchor="ISO7301">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -317,8 +309,8 @@
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_cd98b2da-2fbc-31e5-09bc-375367dbc0a1" type="standard" schema-version="v1.2.9" anchor="iso13943">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_108aeb75-51b3-ecae-2368-6212f713a728" type="standard" schema-version="v1.2.9" anchor="iso13943">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Fire safety</title>
 
@@ -384,8 +376,8 @@
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_f3663804-71d8-b318-5810-5b2c94977a91" type="standard" schema-version="v1.2.9" anchor="ISO14864">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_b642d674-b4fd-8098-5da7-2f5e66852c2e" type="standard" schema-version="v1.2.9" anchor="ISO14864">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -435,8 +427,8 @@
     </owner>
   </copyright>
   <place>Geneva</place>
-</bibitem><bibitem id="_0b7ed81f-5c6e-9a25-134a-15e7ada51f72" type="standard" schema-version="v1.2.9" anchor="isotr17755">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_adfb0f24-f83a-2064-7950-f0b07e08598a" type="standard" schema-version="v1.2.9" anchor="isotr17755">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Fire safety</title>
 
@@ -493,8 +485,8 @@
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_1f4a436c-f358-7983-05cf-89153a78da3a" type="standard" schema-version="v1.2.9" anchor="isots19677">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_116795fd-722a-aefd-2a3b-ab89a7740e77" type="standard" schema-version="v1.2.9" anchor="isots19677">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 
@@ -545,7 +537,7 @@
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 

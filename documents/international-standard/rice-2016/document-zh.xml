@@ -1,59 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
+<title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
-<title language="en" format="text/plain" type="title-intro">Cereals and pulses</title>
+<title language="en" type="title-intro">Cereals and pulses</title>
 
-<title language="en" format="text/plain" type="title-main">Specifications and test methods</title>
+<title language="en" type="title-main">Specifications and test methods</title>
 
-<title language="en" format="text/plain" type="title-part">Rice (in Chinese)</title>
+<title language="en" type="title-part">Rice (in Chinese)</title>
 
+<title language="fr" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (en chinois)</title>
 
-<title language="fr" format="text/plain" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (en chinois)</title>
+<title language="fr" type="title-intro">Céréales et légumineuses</title>
 
-<title language="fr" format="text/plain" type="title-intro">Céréales et légumineuses</title>
+<title language="fr" type="title-main">Spécification et méthodes d’essai</title>
 
-<title language="fr" format="text/plain" type="title-main">Spécification et méthodes d’essai</title>
-
-<title language="fr" format="text/plain" type="title-part">Riz (en chinois)</title>
+<title language="fr" type="title-part">Riz (en chinois)</title>
 <docidentifier type="ISO" primary="true">ISO/CD 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/CD 17301-1:2016()</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:zh</docidentifier><docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Food products</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 3</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Cereals and pulses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier>WG 3</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<identifier>WG 3</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Food products</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 3</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Cereals and pulses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier>WG 3</identifier></subdivision></organization></contributor><edition>2</edition><version><revision-date>2016-05-01</revision-date></version><language>zh</language><script>Hans</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
+<identifier>WG 3</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>2</edition><version><revision-date>2016-05-01</revision-date></version><language>zh</language><script>Hans</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="3" type="WG">Rice Group</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Food products</technical-committee><subcommittee number="4" type="SC">Cereals and pulses</subcommittee><workgroup number="3" type="WG">Rice Group</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="CD">Committee Draft International Standard</stagename></ext></bibdata>
-<termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension><boilerplate><copyright-statement>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="CD">Committee Draft International Standard</stagename></ext></bibdata>
+<termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension><boilerplate><copyright-statement>
 
-<clause id="_c2b48adf-1d7a-9646-a242-c79d886a6cd2" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
-<p id="_084d4254-7b78-9745-1ba0-6d23b9c35de5" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2016</span></p>
+<clause id="_0988b7e5-4ea5-82df-f40b-ce1965ace9aa" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_084d4254-7b78-9745-1ba0-6d23b9c35de5" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2016</span></p>
 
 <p id="_dcd0efd0-9c2b-bcfd-6dcd-ce36b8143916" anchor="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
@@ -128,13 +119,11 @@
 
 
 
-<terms id="_9577950d-0e75-b058-458f-3cdba21cf0d2" obligation="normative">
+<terms id="_ad2c6c36-43af-57fe-2146-1008c3a23789" obligation="normative">
 <title id="_4801537c-2690-3aab-3673-6f7783d362d3">术语和定义</title><p id="_ac2c97b2-ec0c-c2c5-107a-6918861ec988"><eref bibitemid="ISO712" citeas="ISO 712"/> 和 <eref bibitemid="ISO24333" citeas="ISO 24333:2009"/> 界定的以及下列术语和定义适用于本文件。</p>
-<p id="_faa8f8e7-bef4-6d2e-d2c2-041ac1054c4b">ISO和IEC用于标准化的术语数据库地址如下：</p>
-
-<ul id="_35bb2981-96b2-f502-fe42-11e1b4284e58"><li><p id="_5cbb5dbf-14a1-23da-818c-bb2e91efa64e">ISO在线浏览平台：位于https：//www．iso．org/obp［］</p>
+<p id="_faa8f8e7-bef4-6d2e-d2c2-041ac1054c4b">ISO和IEC用于标准化的术语数据库地址如下：</p><ul id="_b995273f-bdea-44d9-cbf4-67688280724f"><li><p id="_58ab4ced-4852-2412-9863-d54887cf2434">ISO在线浏览平台：位于https：//www。iso。org/obp［］</p>
 </li>
-<li><p id="_aa3839bb-9722-8f33-10c8-2486a63c488f">IEC Electropedia：位于https：//www．electropedia．org［］</p>
+<li><p id="_08fbd725-dba0-1406-55de-6ad58ce7b2a7">IEC Electropedia：位于https：//www。electropedia。org［］</p>
 </li>
 </ul>
 
@@ -348,7 +337,7 @@
 </source></term>
 </terms>
 
-<clause id="_5b37a4cf-8546-a009-01e9-9deeac96a582" inline-header="false" obligation="normative">
+<clause id="_41165e15-99f7-c664-0aea-adb04f030ed0" inline-header="false" obligation="normative">
 <title id="_be5d7a1f-94bc-43e9-cc09-a7dd3db19149">规格</title>
 <clause id="_4023d10b-940e-e6cb-0d44-ea65c8d92ca8" inline-header="false" obligation="normative">
 <title id="_6e61f10b-32b5-7412-99a5-b8f4f9995bc5">一般，感官和健康特征</title>
@@ -359,10 +348,9 @@
 <p id="_e4f30753-c21e-c757-0bd5-cd99fe394483">不允许肉眼可见的活昆虫的存在。 在将大块样品分离为测试样品之前应该确定这一点。</p>
 </clause>
 
-<clause id="_9d1ebf55-776e-7d07-c435-dd84f38cd89f" inline-header="false" obligation="normative">
+<clause id="_0bd393e1-c3dc-8248-cf88-54469bf3cdb1" inline-header="false" obligation="normative">
 <title id="_91048d4e-0b35-ac1e-27a1-339b2b06f601">物理和化学特性</title>
-<clause id="_dcef8364-d471-a805-5192-7d9ff91a1489" inline-header="false" obligation="normative">
-<p id="_84fe608b-7aa4-5f06-8230-4bc35eedbeeb">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_53ced4f2-363b-429a-f22f-d04ee63bad6d" reference="1"><p id="_47753b83-5a76-b36b-213e-a0b5cb34f55f">已取消并由ISO 712-1:2024取代。</p></fn>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn id="_238579e4-d1e5-9f74-0c3f-195507368d1d" reference="2"><p id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e">从前表示为15％（m/米）。</p>
+<clause id="_2a9b50a1-c08b-56de-afb7-5457d83c2403" inline-header="false" obligation="normative"><p id="_84fe608b-7aa4-5f06-8230-4bc35eedbeeb">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_53ced4f2-363b-429a-f22f-d04ee63bad6d" reference="1"><p id="_47753b83-5a76-b36b-213e-a0b5cb34f55f">已取消并由ISO 712-1:2024取代。</p></fn>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn id="_238579e4-d1e5-9f74-0c3f-195507368d1d" reference="2"><p id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e">从前表示为15％（m/米）。</p>
 </fn></p>
 
 <p id="_fb3d4a09-e60e-06af-b6dc-5463148ce251">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。<note id="_15abb653-0706-47cd-eab5-b6b4b687cfa6"><p id="_a25ea163-fa8d-ef84-4ccb-24f22cb5685e">根据气候，运输和储存的持续时间，某些目的地有时需要较低的湿度质量分数。 有关更多详细信息，请参见<eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>，<eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/>和<eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>。</p>
@@ -371,8 +359,7 @@
 
 </clause>
 
-<clause id="_c5235a62-8029-3d90-f7e7-cda3302fbbf8" inline-header="false" obligation="normative">
-<p id="_fcdc6e7d-3284-4b07-0c97-a3e5a161734f">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
+<clause id="_8d5f7b3d-6d39-1ee8-b0e4-83e429a83848" inline-header="false" obligation="normative"><p id="_fcdc6e7d-3284-4b07-0c97-a3e5a161734f">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
 
 <table id="_a6d9364f-31ca-be69-2583-a909d73c6951" anchor="table1">
 <name id="_f0019d77-ed79-0249-1b96-8e392224a192">缺陷的最大允许质量分数</name>
@@ -787,7 +774,7 @@
 <title id="_ee8e0de7-8888-db9d-8b93-83c2c39faad9">测试报告</title>
 <p id="_4ab8025d-1e37-8780-fe15-22b745474d7c">按照<xref target="clause7"/>中的规定报告结果。</p>
 </clause>
-</annex><annex id="_a40ec17c-8357-7a72-8cfc-0666e0813102" anchor="AnnexB" inline-header="false" obligation="informative">
+</annex><annex id="_695eb6dd-ebd8-20d8-e979-2f9eb3d205e4" anchor="AnnexB" inline-header="false" obligation="informative">
 <title id="_f466680c-25bb-a50f-e892-b9258292f23d">蒸米饭中糯米含量的测定</title>
 <clause id="_f85d9898-ba3d-fa45-1454-be55be631433" inline-header="false" obligation="informative">
 <title id="_32fb8c5b-5b18-e782-789a-a8a879524e10">原理</title>
@@ -904,26 +891,21 @@
 <p id="_0aead0f1-b2b6-a208-5870-62dfffe64eb5">采样应按照<xref target="clause5"/>进行。</p>
 </clause>
 
-<clause id="_c2fcb5f6-2165-bf52-fccc-e2559567d3cd" inline-header="false" obligation="informative">
+<clause id="_2a062c0a-f87c-598a-c667-cfcd3c0037e0" inline-header="false" obligation="informative">
 <title id="_46d971a1-097a-4073-4d87-6a11dca4bb3c">判定</title>
-<clause id="_caf30640-8765-d636-0d22-fc0fa67ad2c2" inline-header="false" obligation="informative">
-<p id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2"/>）。</p>
+<clause id="_7d15de52-fea7-7e99-726b-7e2fbfc4173f" inline-header="false" obligation="informative"><p id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2"/>）。</p>
 </clause>
 
-<clause id="_d246c506-a12c-4d60-0965-97570932daa6" inline-header="false" obligation="informative">
-<p id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16">加入足够的碘工作溶液（<xref target="AnnexB-3-3"/>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5"/>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
+<clause id="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9" inline-header="false" obligation="informative"><p id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16">加入足够的碘工作溶液（<xref target="AnnexB-3-3"/>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5"/>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
 </clause>
 
-<clause id="_49cb3133-88eb-3b13-965a-7b28296f8fe2" inline-header="false" obligation="informative">
-<p id="_b9557c13-d774-d7df-64c9-be32a58cccc6">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4"/>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7"/>）上以吸收多余的液体。</p>
+<clause id="_32f024a3-d350-3400-6e89-49d0af9fafe8" inline-header="false" obligation="informative"><p id="_b9557c13-d774-d7df-64c9-be32a58cccc6">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4"/>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7"/>）上以吸收多余的液体。</p>
 </clause>
 
-<clause id="_7cba22bc-0b7f-759d-077f-6bc30fde217c" inline-header="false" obligation="informative">
-<p id="_9d821ddf-743a-813c-3168-e9e6b224b36c">将染色的核仁倒入碗中（<xref target="AnnexB-2-3"/>）。 使用镊子或镊子（<xref target="AnnexB-2-6"/>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
+<clause id="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf" inline-header="false" obligation="informative"><p id="_9d821ddf-743a-813c-3168-e9e6b224b36c">将染色的核仁倒入碗中（<xref target="AnnexB-2-3"/>）。 使用镊子或镊子（<xref target="AnnexB-2-6"/>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
 </clause>
 
-<clause id="_bcabb515-f248-b982-f18f-2eac58c0ba94" inline-header="false" obligation="informative">
-<p id="_0a469f5c-10ae-f54f-6136-1d18f9226d60">将糯米部分（<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<clause id="_f50706ed-33e9-140f-312b-91bf8c582f5a" inline-header="false" obligation="informative"><p id="_0a469f5c-10ae-f54f-6136-1d18f9226d60">将糯米部分（<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <msub>
       <mi>m</mi>
@@ -1180,13 +1162,13 @@
 <td id="_32274024-0559-f15a-862f-74db416f7f74" valign="top" align="center">6,06</td>
 </tr></tbody>
 </table>
-</annex><bibliography><references id="_fac9a5df-42af-0692-2804-f991ac058ec3" normative="true" obligation="informative">
+</annex><bibliography><references id="_0707b8fd-4a50-a3fa-69d9-b259fdd06f63" normative="true" obligation="informative">
 <title id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 
 
 
-<bibitem id="_f3407948-71df-b24a-7afc-d907959edab5" type="standard" schema-version="v1.2.9" anchor="ISO712">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_10b2c2d2-3819-bcdf-a013-125dbb645f03" type="standard" schema-version="v1.2.9" anchor="ISO712">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1264,7 +1246,7 @@
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1355,8 +1337,8 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_ea04069b-ab61-3e7b-d814-04738cbabb0a" type="standard" schema-version="v1.2.9" anchor="ISO6646">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_4cf8d537-df87-342d-0263-ad7d39f8d472" type="standard" schema-version="v1.2.9" anchor="ISO6646">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1419,7 +1401,7 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -1493,8 +1475,8 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_9ff4cf43-adb9-76c9-f2f1-32e265bac154" type="standard" schema-version="v1.2.9" anchor="ISO8351-1">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_73e3e667-9b80-4479-e850-15bb0066ea83" type="standard" schema-version="v1.2.9" anchor="ISO8351-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1561,8 +1543,8 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </copyright>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_ff068e2b-90f5-9c16-3ced-e94a03ccb6a4" type="standard" schema-version="v1.2.9" anchor="ISO8351-2">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_2ceacbc2-2b80-301f-a7d3-2a1a6d522535" type="standard" schema-version="v1.2.9" anchor="ISO8351-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1624,7 +1606,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
 
@@ -1695,14 +1677,14 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem anchor="ISO16634" id="_ea1a3872-c385-3c4c-1de0-9c332eae2d77" type="standard">
+<bibitem anchor="ISO16634" id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0" type="standard">
 <title format="text/plain">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note>
+<abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note><language>zh</language><script>Hans</script>
 </bibitem>
-<bibitem id="_7e5adbae-8cea-1890-db44-5311b7c452ad" type="standard" schema-version="v1.2.9" anchor="ISO20483">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_3e690829-f7fb-6627-c2a3-574bce3611a5" type="standard" schema-version="v1.2.9" anchor="ISO20483">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
 
@@ -1776,8 +1758,8 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </relation>
   <place>Geneva</place>
 </bibitem>
-<bibitem id="_f09c66bb-656a-914e-599c-ffa75f5027e5" type="standard" schema-version="v1.2.9" anchor="ISO24333">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_866601d5-1014-7392-8df2-806f220ae9a3" type="standard" schema-version="v1.2.9" anchor="ISO24333">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
 
@@ -1867,9 +1849,9 @@ Elle n’est pas applicable aux semences.</abstract>
   </relation>
   <place>Geneva</place>
 </bibitem>
-</references><references id="_940fd1ac-0792-25a7-0b66-2280d63a6747" normative="false" obligation="informative">
-<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_b834924d-b6d5-b15c-4d44-90e822f31df3" type="standard" schema-version="v1.2.9" anchor="ISO3696">
-  <fetched>2025-07-21</fetched>
+</references><references id="_b6567280-a711-40ff-aacc-7e09d8d9f9bc" normative="false" obligation="informative">
+<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_d8f88896-3b86-8361-d8d2-fe9e30fd3cdc" type="standard" schema-version="v1.2.9" anchor="ISO3696">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1925,7 +1907,7 @@ Elle n’est pas applicable aux semences.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
 
@@ -1990,8 +1972,8 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_fa0a3bc0-6522-4960-cd1b-ad1ec00cfdee" type="standard" schema-version="v1.2.9" anchor="ISO5725-1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_4035a198-f17d-75ab-a0b3-348d524fd5cd" type="standard" schema-version="v1.2.9" anchor="ISO5725-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2061,7 +2043,7 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2155,8 +2137,8 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_1b82c5f6-922c-35bb-881d-647e096d0677" type="standard" schema-version="v1.2.9" anchor="ISO5725-2">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_98625ab9-493b-fc39-4a60-9675d6932182" type="standard" schema-version="v1.2.9" anchor="ISO5725-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2233,7 +2215,7 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2342,8 +2324,8 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_a3bfc35c-c339-4afa-0d12-ee489bdd7d42" type="standard" schema-version="v1.2.9" anchor="ISO6322-1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_158d336f-1c39-b04d-9dcf-2b082f0f41a9" type="standard" schema-version="v1.2.9" anchor="ISO6322-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2413,7 +2395,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2491,8 +2473,8 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_ca237d40-5161-d521-8fc1-2ecfea7d033b" type="standard" schema-version="v1.2.9" anchor="ISO6322-2">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_ef455c66-4017-9ccc-f76e-f0c5a0d3ae60" type="standard" schema-version="v1.2.9" anchor="ISO6322-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2555,7 +2537,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2625,8 +2607,8 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_0f0b6975-cac8-aa78-4d52-ea41bb194a47" type="standard" schema-version="v1.2.9" anchor="ISO6322-3">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_9e9063a9-73e9-311c-ec61-04668cb6c957" type="standard" schema-version="v1.2.9" anchor="ISO6322-3">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2689,7 +2671,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
 
@@ -2760,8 +2742,8 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_00dccfd5-2a82-fb62-8ba8-6a7192367b44" type="standard" schema-version="v1.2.9" anchor="ISO7301">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_71b9ee12-994a-34cd-3635-f99b6f12caaa" type="standard" schema-version="v1.2.9" anchor="ISO7301">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2840,8 +2822,8 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_0ad5db7a-b681-07db-38cc-f20e57613aa2" type="standard" schema-version="v1.2.9" anchor="ISO14864">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_1aedd456-9172-e161-dd28-4cbf8a335f6f" type="standard" schema-version="v1.2.9" anchor="ISO14864">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
 
@@ -2900,31 +2882,45 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
     </owner>
   </copyright>
   <place>Geneva</place>
-</bibitem><bibitem anchor="IEC61010-2" id="_32440955-4c77-6921-d869-7651315c3618" type="standard">
+</bibitem><bibitem anchor="IEC61010-2" id="_cd2851cb-3ebb-24eb-5aae-273ca95b31fa" type="standard">
 <title format="text/plain">测量，控制和实验室用电气设备的安全要求 第2部分：加热材料的实验室设备的特殊要求， Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</title>
 <docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docnumber>61010-2</docnumber><date type="published"><on>1998</on></date><contributor><role type="publisher"/><organization>
 <name>International Electrotechnical Commission</name>
-<abbreviation>IEC</abbreviation></organization></contributor></bibitem><bibitem anchor="ref12" id="_ed4ae184-9d8b-7c82-8d92-fb91e663bf45">
+<abbreviation>IEC</abbreviation></organization></contributor><language>zh</language><script>Hans</script></bibitem><bibitem anchor="ref12" id="_c95a9417-7f80-7f42-71cb-c3fef2fcac2b">
   <formattedref format="application/x-isodoc+xml"><smallcap>Berner D.L., &amp; Brown J.</smallcap> 蛋白质氮燃烧法的协同研究1：与Smalley总凯氏定氮法和燃烧结果的比较，Protein nitrogen combustion method collaborative study I. Comparison with Smalley total Kjeldahl nitrogen and combustion results. <em>J. Am. Oil Chem. Soc.</em> 1994, <strong>71</strong> (11) pp 1291-1293</formattedref>
   <docidentifier type="metanorma">[10]</docidentifier>
-</bibitem><bibitem anchor="ref13" id="_11d7beb3-6304-025c-f94d-9d12c96e413e">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref13" id="_0fcdb831-3e17-92a1-291a-1edcf4b78a47">
   <formattedref format="application/x-isodoc+xml"><smallcap>Buckee G.K.</smallcap> 凯氏定氮法和Dumas燃烧法测定大麦，麦芽和啤酒中的总氮量 — 协作试验，Determination of total nitrogen in barley, malt and beer by Kjeldahl procedures and the Dumas combustion method — Collaborative trial. <em>J. Inst. Brew.</em> 1994, <strong>100</strong> (2) pp 57-64</formattedref>
   <docidentifier type="metanorma">[11]</docidentifier>
-</bibitem><bibitem anchor="ref14" id="_e872f9b9-16f5-d7d9-ad7b-581a9af248e1">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref14" id="_d949f391-f958-ed87-491b-ac520b651243">
   <formattedref format="application/x-isodoc+xml"><smallcap>Frister H.</smallcap> <em>杜马斯分析直接测定氮含量; 精密特性的实验室间研究，Direct determination of nitrogen content by Dumas analysis; Interlaboratory study on precision characteristics</em>. AOAC International, Europe Section 4th International Symposium, Nyon, Switzerland, 1994, 33 pp</formattedref>
   <docidentifier type="metanorma">[12]</docidentifier>
-</bibitem><bibitem anchor="ref15" id="_32624f10-228f-0ca4-2d9d-fcbcacfdffa1">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref15" id="_687a30fd-20e6-bd38-3c05-a7f2d15e4977">
   <formattedref format="application/x-isodoc+xml"><smallcap>Ranghino F.</smallcap> 根据谷粒的糊化时间估算水稻对蒸煮的抵抗力，Evaluation of rice resistance to cooking, based on the gelatinization time of kernels. <em>Il Riso</em>. 1966, <strong>XV</strong> pp 117-127</formattedref>
   <docidentifier type="metanorma">[13]</docidentifier>
-</bibitem><bibitem anchor="ref10" id="_112d8fff-220c-0016-771d-23bdbe82c26e">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref10" id="_3a605b07-1d86-c4f7-0fdf-4195e2e6686e">
   <formattedref format="application/x-isodoc+xml"><smallcap>Standard No I.C.C 167</smallcap>. <em>根据杜马斯燃烧法测定食品和动物饲料中谷物和谷类食品中的蛋白质含量，Determination of the protein content in cereal and cereal products for food and animal feeding stuffs according to the Dumas combustion method</em> (see <link target="http://www.icc.or.at"/>)</formattedref>
   <docidentifier type="metanorma">[14]</docidentifier>
-</bibitem><bibitem anchor="ref16" id="_42506f10-b680-0bdf-51e3-53637a37e742">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref16" id="_2db77142-7b77-e4f8-bdb4-0c69c1d57252">
   <formattedref format="application/x-isodoc+xml"><smallcap>Tkachuk R.</smallcap> 谷类和油籽粉的氮转蛋白转换系数，Nitrogen-to-protein conversion factors for cereals and oilseed meals. <em>Cereal Chem.</em> 1969, <strong>46</strong> (4) pp 419-423</formattedref>
   <docidentifier type="metanorma">[15]</docidentifier>
-</bibitem><bibitem anchor="ref11" id="_a9f72990-29c8-103a-06bc-f3414934d51c">
+  <language>zh</language>
+  <script>Hans</script>
+</bibitem><bibitem anchor="ref11" id="_00ccd92e-233b-daf9-df4d-2f28f2c7c9b6">
   <formattedref format="application/x-isodoc+xml">氮 — 氨 — 蛋白质改性凯氏定氮法 — 氧化钛和硫酸铜催化剂，Nitrogen-ammonia-protein modified Kjeldahl method — Titanium oxide and copper sulfate catalyst. <em>AOCS的官方方法和建议措施</em>，<em>Official Methods and Recommended Practices of the AOCS</em> (ed. Firestone, D.E.), AOCS Official Method Ba Ai 4-91, 1997, AOCS Press, Champaign, IL</formattedref>
   <docidentifier type="metanorma">[16]</docidentifier>
+  <language>zh</language>
+  <script>Hans</script>
 </bibitem>
 
 

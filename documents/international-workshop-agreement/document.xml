@@ -1,48 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Competence of standards professionals — In companies</title>
+<title language="en" type="main">Competence of standards professionals — In companies</title>
 
+<title language="en" type="title-main">Competence of standards professionals</title>
 
-<title language="en" format="text/plain" type="title-main">Competence of standards professionals</title>
-
-<title language="en" format="text/plain" type="title-part">In companies</title>
-
-
-
-
-
-<docidentifier type="ISO" primary="true">ISO IWA 30-1.2:2019</docidentifier><docidentifier type="iso-reference">ISO IWA 30-1.2:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:IWA 30:-1:stage-60.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO IWA 30-1.2</docidentifier><docidentifier type="iso-with-lang">ISO IWA 30-1.2:2019(en)</docidentifier><docidentifier type="iso-tc">IWA/30-1</docidentifier><docnumber>IWA 30</docnumber><date type="published"><on>2019-08-19</on></date><date type="circulated"><on>2018-10-04</on></date><contributor><role type="author"/><organization>
+<title language="en" type="title-part">In companies</title>
+<docidentifier type="ISO" primary="true">ISO/FDIS IWA 30-1.2:2019</docidentifier><docidentifier type="iso-reference">ISO/FDIS IWA 30-1.2:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:IWA 30:-1:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDIS IWA 30-1.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDIS IWA 30-1.2:2019(en)</docidentifier><docidentifier type="iso-tc">IWA/30-1</docidentifier><docnumber>IWA 30</docnumber><date type="published"><on>2019-08-19</on></date><date type="circulated"><on>2018-10-04</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="">
 <name>Technical Management Board - groups</name>
-</subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+</subdivision><subdivision type="Workgroup" subtype="">
 <name>Date and time</name>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
+<name>International Organization for Standardization</name>
+<subdivision type="Technical committee" subtype="">
 <name>Technical Management Board - groups</name>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+</subdivision><subdivision type="Workgroup" subtype="">
 <name>Date and time</name>
-</subdivision></organization></contributor><edition>1</edition><version><revision-date>2019-10-15</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2019</from><owner><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2019-10-15</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDIS">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-workshop-agreement</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type="">Date and time</workgroup></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>03.100.30</code><text>Management of human resources</text></ics><structuredidentifier><project-number part="1">ISO IWA 30</project-number></structuredidentifier><stagename>International Standard</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-workshop-agreement</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>03.100.30</code><text>Management of human resources</text></ics><structuredidentifier><project-number part="1">ISO IWA 30</project-number></structuredidentifier><stagename abbreviation="FDIS">Final Draft International Standard</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_aa705764-de78-2c83-46a4-9e648d4472ef" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -195,9 +184,9 @@
 </annex><bibliography><references id="_af2014d3-8cdd-1f63-a03e-e4e37ae9de62" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
 
-</references><references id="_3a3635b9-d9db-1b6e-c0d2-408fe2ec8621" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_17b88714-0d37-749f-c1c1-89a4bee80650" type="standard" schema-version="v1.2.9" anchor="iso9000">
-  <fetched>2025-07-21</fetched>
+</references><references id="_d72f5e64-6ec5-0b17-de93-eb9be00a4ef5" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_a803aa17-21ef-67a7-f7fa-964c75cebb29" type="standard" schema-version="v1.2.9" anchor="iso9000">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Quality management systems</title>
 
@@ -273,8 +262,8 @@ ISO 9000:2015 specifies the terms and definitions that apply to all quality mana
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_59022da6-1cf2-612b-ed86-218a4c2e9d85" type="standard" schema-version="v1.2.9" anchor="iso9241_11">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_1cf5096f-93a7-cc6e-24b3-cd0a8c7f9b1f" type="standard" schema-version="v1.2.9" anchor="iso9241_11">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Ergonomics of human-system interaction</title>
 
@@ -345,8 +334,8 @@ The most common applications of this document are in design and evaluation.</abs
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_176884f5-4fd7-0182-cdf2-6307b8f2cb2b" type="standard" schema-version="v1.2.9" anchor="iso17027">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_bb68c955-66b9-4942-249a-5478b8f7e339" type="standard" schema-version="v1.2.9" anchor="iso17027">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Conformity assessment</title>
 

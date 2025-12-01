@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
+<title language="en" type="main">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
 
-<title language="en" format="text/plain" type="title-intro">Petroleum products — Fuels (class F)</title>
+<title language="en" type="title-intro">Petroleum products — Fuels (class F)</title>
 
-<title language="en" format="text/plain" type="title-main">Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
+<title language="en" type="title-main">Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
 
+<title language="fr" type="main">Produits pétroliers — Combustibles (classe F) — Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
 
+<title language="fr" type="title-intro">Produits pétroliers — Combustibles (classe F)</title>
 
-<title language="fr" format="text/plain" type="main">Produits pétroliers — Combustibles (classe F) — Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
-
-<title language="fr" format="text/plain" type="title-intro">Produits pétroliers — Combustibles (classe F)</title>
-
-<title language="fr" format="text/plain" type="title-main">Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
-
-<docidentifier type="ISO" primary="true">ISO/PAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/PAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-60.60:en</docidentifier><docidentifier type="iso-undated">ISO/PAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/PAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"><on/></date><contributor><role type="author"/><organization>
+<title language="fr" type="title-main">Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
+<docidentifier type="ISO" primary="true">ISO/FDPAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/FDPAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDPAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/FDPAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
-<identifier>TC 28</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 28</identifier><identifier type="full">TC 28/SC 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Classifications and specifications</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<identifier>SC 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
-<identifier>TC 28</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 28</identifier><identifier type="full">TC 28/SC 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Classifications and specifications</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
+<identifier>SC 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><language>en</language><script>Latn</script><status><stage abbreviation="FDPAS">50</stage><substage>60</substage></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><edition>1</edition><version><revision-date/></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration/></status><copyright><from>2019</from><owner><organization>
-<name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>publicly-available-specification</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="28" type="TC">Petroleum and related products, fuels and lubricants from natural or synthetic sources</technical-committee><subcommittee number="4" type="SC">Classifications and specifications</subcommittee><workgroup number="" type=""/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="28" type="TC">Petroleum and related products, fuels and lubricants from natural or synthetic sources</technical-committee><subcommittee number="4" type="SC">Classifications and specifications</subcommittee><workgroup number="" type=""/></approvalgroup><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="PAS">Publicly Available Specification</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>publicly-available-specification</doctype><flavor>iso</flavor><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="FDPAS">Publicly Available Specification Final Draft</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_aa705764-de78-2c83-46a4-9e648d4472ef" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -237,11 +229,11 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_62f80549-b1e6-d4fe-746b-e52c5ae80ae2" normative="true" obligation="informative">
+</annex><bibliography><references id="_c4c3e24f-47f8-024d-4871-7bdcbc62e5cd" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
 
-<bibitem id="_002f2f25-d060-45d0-e141-d665c9840d43" type="standard" schema-version="v1.2.9" anchor="iso8217">
-  <fetched>2025-07-21</fetched>
+<bibitem id="_67ca8a2e-0a6d-f1ff-8c8c-7327eec02317" type="standard" schema-version="v1.2.9" anchor="iso8217">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum products</title>
 
@@ -317,9 +309,9 @@ NOTE 3       For the purposes of this document, the terms “mass %” and “vo
   </relation>
   <place>Geneva</place>
 </bibitem>
-</references><references id="_cf2d032e-4ca6-8d3a-a51b-c4b6bc1a84dd" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_4e46acdc-ae93-8653-2040-0c644d580c0a" type="standard" schema-version="v1.2.9" anchor="iso_3015">
-  <fetched>2025-07-21</fetched>
+</references><references id="_63d22f3f-48d6-8355-5362-b5099e19cbc2" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_40f04be9-1304-b9aa-70fb-068245710c59" type="standard" schema-version="v1.2.9" anchor="iso_3015">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum and related products from natural or synthetic sources</title>
 
@@ -373,7 +365,7 @@ NOTE 3       For the purposes of this document, the terms “mass %” and “vo
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum and related products from natural or synthetic sources</title>
 
@@ -435,8 +427,8 @@ NOTE       For the purposes of this document, the term “% (V/V)” is used to 
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_184981d1-7844-98e3-5dce-559720d9444f" type="standard" schema-version="v1.2.9" anchor="iso_3016">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_dd2517a4-4f63-c9ea-e03c-ffd5d6b938ee" type="standard" schema-version="v1.2.9" anchor="iso_3016">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum and related products from natural or synthetic sources</title>
 
@@ -490,7 +482,7 @@ NOTE       For the purposes of this document, the term “% (V/V)” is used to 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-07-21</fetched>
+      <fetched>2025-12-01</fetched>
       
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum and related products from natural or synthetic sources</title>
 
@@ -554,8 +546,8 @@ NOTE       There is equipment available that uses an automated procedure similar
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_98bcd784-77fe-8ca5-94a7-b785c302807d" type="standard" schema-version="v1.2.9" anchor="iso_10307-1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_145d3a95-3fb0-3f3f-4c0c-f384191be6e0" type="standard" schema-version="v1.2.9" anchor="iso_10307-1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum products</title>
 
@@ -622,8 +614,8 @@ NOTE       There is equipment available that uses an automated procedure similar
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_d979f6fb-7b43-14d9-be99-f90cadb1c900" type="standard" schema-version="v1.2.9" anchor="iso_10307-2">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_619658d5-ebc2-7aab-8135-eefd6fd05542" type="standard" schema-version="v1.2.9" anchor="iso_10307-2">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Petroleum products</title>
 
@@ -693,8 +685,8 @@ NOTE       There is equipment available that uses an automated procedure similar
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_27291e04-8158-05d1-8c8c-6f8b658267b7" type="standard" schema-version="v1.2.9" anchor="iso20109">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_f11c20ab-3a0e-59f5-076a-aa6169cc662b" type="standard" schema-version="v1.2.9" anchor="iso20109">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Simultaneous interpreting</title>
 
@@ -758,8 +750,8 @@ In conjunction with either ISO 2603 or ISO 4043, ISO 20108 and this document pro
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_7095fe4d-c308-fbbe-9e68-4c7eb5d3d148" type="standard" schema-version="v1.2.9" anchor="iso22259">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_00fbce7d-c38c-e061-40f6-ad8cc862d8b3" type="standard" schema-version="v1.2.9" anchor="iso22259">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Conference systems</title>
 
@@ -815,15 +807,19 @@ This document facilitates the determination of the quality of conference systems
     </owner>
   </copyright>
   <place>Geneva</place>
-</bibitem><bibitem anchor="ip_309" id="_76989c98-d4ea-cb65-0869-97d69da81b76">
+</bibitem><bibitem anchor="ip_309" id="_15bf3cdc-7cf7-d8c7-297e-1793cf0d0cf9">
   <formattedref format="application/x-isodoc+xml">
     <em>Diesel and domestic heating fuels — Determination of cold filter plugging point</em>
   </formattedref>
   <docidentifier>IP 309</docidentifier>
   <docnumber>309</docnumber>
-</bibitem><bibitem anchor="inter" id="_b3e2127d-fef6-5909-aef2-a2f5b4e81204">
+  <language>en</language>
+  <script>Latn</script>
+</bibitem><bibitem anchor="inter" id="_2a7babb9-f788-7d59-41dd-470153813133">
   <formattedref format="application/x-isodoc+xml">INTERNATIONAL MARITIME ORGANIZATION (IMO), Marine Pollution (MARPOL) Annex VI — as amended. IMO Protocol of 1997, as amended by resolution MEPC.176(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto</formattedref>
   <docidentifier type="metanorma">[8]</docidentifier>
+  <language>en</language>
+  <script>Latn</script>
 </bibitem>
 
 

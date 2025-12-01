@@ -1,45 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Guidelines for addressing climate change in standards</title>
+<title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
-
-<title language="en" format="text/plain" type="title-main">Guidelines for addressing climate change in standards</title>
-
-
-
-
-
-
-<docidentifier type="ISO" primary="true">ISO Guide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO Guide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-60.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO Guide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO Guide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><contributor><role type="author"/><organization>
+<title language="en" type="title-main">Guidelines for addressing climate change in standards</title>
+<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Technical Management Board - groups</name>
-<identifier>TC</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<subdivision type="Secretariat">
+<name>SAC</name>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Technical Management Board - groups</name>
-<identifier>TC</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2020-07-10</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDGUIDE">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
-</subdivision></organization></contributor><edition>1</edition><version><revision-date>2020-07-10</revision-date></version><language>en</language><script>Latn</script><status><stage>60</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
-<name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/><secretariat>SAC</secretariat></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="" type="TC">Technical Management Board - groups</technical-committee><subcommittee number="" type=""/><workgroup number="" type=""/></approvalgroup><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="GUIDE">Guide</stagename></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="FDGUIDE">Final Draft Guide</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -210,9 +196,9 @@
 </annex><bibliography><references id="_af2014d3-8cdd-1f63-a03e-e4e37ae9de62" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
 
-</references><references id="_d2a6f336-f8c4-1695-3b3b-df4ba1d5c5d7" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_92925d13-7243-a46e-b427-1e3ffadb101c" type="standard" schema-version="v1.2.9" anchor="iso140001">
-  <fetched>2025-07-21</fetched>
+</references><references id="_213de609-c4eb-9b05-00e3-5dba307f6ff8" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_bd3bb1c2-7e76-2b62-0594-e51f244e9fc4" type="standard" schema-version="v1.2.9" anchor="iso140001">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Environmental management systems</title>
 
@@ -295,8 +281,8 @@
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_328188c6-cb13-6a57-ece1-03099e74e1c7" type="standard" schema-version="v1.2.9" anchor="iso14064_1">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_0120949e-4550-50b0-15b6-98e8ae54e4ef" type="standard" schema-version="v1.2.9" anchor="iso14064_1">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-main" format="text/plain" language="en" script="Latn">Greenhouse gases</title>
 
@@ -371,8 +357,8 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
 
   </relation>
   <place>Geneva</place>
-</bibitem><bibitem id="_779d7dca-3c5e-76f3-b71e-2b1c9055c5d0" type="standard" schema-version="v1.2.9" anchor="iso31000">
-  <fetched>2025-07-21</fetched>
+</bibitem><bibitem id="_01dab199-445e-8913-776e-e42370e5f370" type="standard" schema-version="v1.2.9" anchor="iso31000">
+  <fetched>2025-12-01</fetched>
   
 <title type="title-intro" format="text/plain" language="en" script="Latn">Risk management</title>
 

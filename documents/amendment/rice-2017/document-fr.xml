@@ -1,63 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.1.0" schema-version="v2.0.8" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
 <bibdata type="standard">
-<title language="en" format="text/plain" type="main">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+<title language="en" type="main">Cereals and pulses — Specification and test methods — Rice — Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
 
-<title language="en" format="text/plain" type="title-intro">Cereals and pulses</title>
+<title language="en" type="title-intro">Cereals and pulses</title>
 
-<title language="en" format="text/plain" type="title-main">Specification and test methods</title>
+<title language="en" type="title-main">Specification and test methods</title>
 
-<title language="en" format="text/plain" type="title-part">Rice</title>
+<title language="en" type="title-part">Rice</title>
 
-<title language="en" format="text/plain" type="title-amd">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
+<title language="en" type="title-amd">Mass fraction of extraneous matter, milled rice (nonglutinous), sample dividers and recommendations relating to storage and transport conditions</title>
 
+<title language="fr" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
 
-<title language="fr" format="text/plain" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz — Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+<title language="fr" type="title-intro">Céréales et légumineuses</title>
 
-<title language="fr" format="text/plain" type="title-intro">Céréales et légumineuses</title>
+<title language="fr" type="title-main">Spécification et méthodes d’essai</title>
 
-<title language="fr" format="text/plain" type="title-main">Spécification et méthodes d’essai</title>
+<title language="fr" type="title-part">Riz</title>
 
-<title language="fr" format="text/plain" type="title-part">Riz</title>
-
-<title language="fr" format="text/plain" type="title-amd">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
+<title language="fr" type="title-amd">Fraction massique de matière étrangère, riz usiné (non gluant), diviseurs d’échantillon et recommandations relatives aux conditions d’entreposage et de transport</title>
 <docidentifier type="ISO" primary="true">ISO 17301-1:2016/CD Amd 1:2017</docidentifier><docidentifier type="iso-reference">ISO 17301-1:2016/CD Amd 1:2017(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:ed-1:stage-30.00:amd:2017:v1</docidentifier><docnumber>17301</docnumber><date type="created"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Produits alimentaires</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Céréales et légumineuses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="author"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Amylose in rice</name>
-<identifier>WG 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<identifier>WG 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Agency</description></role><organization>
+<name>International Organization for Standardization</name>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>secretariat</description></role><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>Technical committee</description></role><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<subdivision>
+<subdivision type="Technical committee" subtype="TC">
 <name>Produits alimentaires</name>
-<identifier>TC 34</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Subcommittee</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>TC 34</identifier><identifier type="full">TC 34/SC 4/WG 4</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Céréales et légumineuses</name>
-<identifier>SC 4</identifier></subdivision></organization></contributor><contributor><role type="authorizer"><description>Workgroup</description></role><organization>
-<name>International Organization for Standardization</name>
-<subdivision>
+<identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Amylose in rice</name>
-<identifier>WG 4</identifier></subdivision></organization></contributor><edition>2</edition><language>en</language><script>Latn</script><status><stage abbreviation="CD">30</stage><substage>00</substage></status><copyright><from>2017</from><owner><organization>
+<identifier>WG 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>2</edition><language>en</language><script>Latn</script><status><stage abbreviation="CD">30</stage><substage>00</substage></status><copyright><from>2017</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><flavor>iso</flavor><editorialgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></editorialgroup><approvalgroup><agency>ISO</agency><technical-committee number="34" type="TC">Produits alimentaires</technical-committee><subcommittee number="4" type="SC">Céréales et légumineuses</subcommittee><workgroup number="4" type="WG">Amylose in rice</workgroup></approvalgroup><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2016-05-01">17301</project-number></structuredidentifier><stagename abbreviation="CD AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>amendment</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1" amendment="1" origyr="2016-05-01">17301</project-number></structuredidentifier><stagename abbreviation="CD AMD"/><updates-document-type>international-standard</updates-document-type></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
-<clause id="_e6c94a6c-40ac-e378-5af0-1afe1a876fed" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
-<p id="_a0ef368c-21a2-958f-9ff3-2e62dbf89851" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2017</span></p>
+<clause id="_50e67c5b-1344-b9b5-70dc-28132df4e753" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_a0ef368c-21a2-958f-9ff3-2e62dbf89851" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2017</span></p>
 
 <p id="_dcd0efd0-9c2b-bcfd-6dcd-ce36b8143916" anchor="boilerplate-message">All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below or ISO’s member body in the country of the requester.</p>
 
