@@ -9,10 +9,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  pull-requests: write
-  contents: write
+  contents: read
   pages: write
   id-token: write
+  packages: read
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref_name }}
@@ -29,11 +29,15 @@ jobs:
         with:
           submodules: true
 
-      - name: Metanorma generate site
-        id: build-and-publish
-        uses: actions-mn/build-and-publish@main
+      - name: Setup Metanorma with ISO flavor
+        uses: actions-mn/setup@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          installation-method: gem
+          extra-flavors: iso
+
+      - name: Metanorma generate site
+        uses: actions-mn/build-and-publish@v1
+        with:
           agree-to-terms: true
           destination: artifact
 
@@ -42,6 +46,6 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions-mn/deploy-pages@main
+        uses: actions-mn/deploy-pages@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
