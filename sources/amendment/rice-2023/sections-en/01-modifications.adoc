@@ -112,7 +112,7 @@ image::image-02.png[width=200]
 
 ____
 
-[change=add,locality="clause=D",path="."]
+[change=add,locality="clause=D",path=".",position=after]
 == Annex E
 
 Add the following new annex after Annex D, before the Bibliography:
@@ -122,9 +122,10 @@ Add the following new annex after Annex D, before the Bibliography:
 * New Annex E is referenced in Clause 8 of this Amendment.
 ****
 
-[quote]
-____
-*Annex E. Recommendations relating to storage and storage and transport conditions*
+autonumber:clause[E]
+
+[type=annex]
+=== Recommendations relating to storage and storage and transport conditions
 
 Containers of rice should be handled, transported and stored in such a way that
 they are protected from the rain, sun or other sources of excessive heat,
@@ -135,4 +136,3 @@ odours and protected against entry of insects and other vermin. Ventilation shou
 be adjusted in such a way as to ensure good ventilation during dry weather and to
 be fully closed under damp conditions. Suitable provisions should be made for
 fumigation of storerooms.
-____
