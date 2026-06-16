@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.3.4" schema-version="v2.1.5" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.3" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
 <title language="en" type="title-main">Guidelines for addressing climate change in standards</title>
-<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><date type="updated"><on>2020-07-10</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -22,7 +22,7 @@
 <name>International Organization for Standardization</name>
 <subdivision type="Technical committee" subtype="TC">
 <name>Technical Management Board - groups</name>
-</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2020-07-10</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDGUIDE">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2020-07-10</version><language>en</language><script>Latn</script><status><stage abbreviation="FDGUIDE">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="FDGUIDE">Final Draft Guide</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
 <presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
@@ -193,27 +193,36 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_f86be5c6-e409-104f-fbb0-4c0d40eba3ff" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_14eaf4bd-c6d7-e586-8aa2-93ced0b3f3dd" type="standard" schema-version="v1.2.9" anchor="iso140001">
-  <fetched>2026-04-16</fetched>
+</references><references id="_e72dfd42-1773-d08f-2771-ffcc9e2180d0" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_b20abfa3-f473-2897-1af2-c0253e4a29b0" type="standard" schema-version="v1.5.6" anchor="iso140001">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Environmental management systems</title>
+<title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Requirements with guidance for use</title>
+<title language="en" script="Latn" type="title-main">Requirements with guidance for use</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Environmental management systems — Requirements with guidance for use</title>
+<title language="en" script="Latn" type="main">Environmental management systems — Requirements with guidance for use</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Systèmes de management environnemental</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Exigences et lignes directrices pour son utilisation</title>
+
+  
+<title language="fr" script="Latn" type="main">Systèmes de management environnemental — Exigences et lignes directrices pour son utilisation</title>
 
   <uri type="src">https://www.iso.org/standard/60857.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60857:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/08/60857.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14001:2015</docidentifier>
   <docidentifier type="iso-reference">ISO 14001:2015(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:14001:stage-90.93</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:14001:stage-95.99</docidentifier>
   <docnumber>14001</docnumber>
   <date type="published">
-    <on>2015-09</on>
+    <on>2015-09-14</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -225,13 +234,33 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Environmental management systems</name>
+
+        <identifier>ISO/TC 207/SC 1</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
+  <note type="Unpublished-Status"><p id="_684c4e15-8945-bd66-dba0-502f1a5bd24b">Withdrawn.</p></note><language>ar</language>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">ISO 14001:2015 specifies the requirements for an environmental management system that an organization can use to enhance its environmental performance. ISO 14001:2015 is intended for use by an organization seeking to manage its environmental responsibilities in a systematic manner that contributes to the environmental pillar of sustainability. ISO 14001:2015 helps an organization achieve the intended outcomes of its environmental management system, which provide value for the environment, the organization itself and interested parties. Consistent with the organization’s environmental policy, the intended outcomes of an environmental management system include: · enhancement of environmental performance; · fulfilment of compliance obligations; · achievement of environmental objectives. ISO 14001:2015 is applicable to any organization, regardless of size, type and nature, and applies to the environmental aspects of its activities, products and services that the organization determines it can either control or influence considering a life cycle perspective. ISO 14001:2015 does not state specific environmental performance criteria. ISO 14001:2015 can be used in whole or in part to systematically improve environmental management. Claims of conformity to ISO 14001:2015, however, are not acceptable unless all its requirements are incorporated into an organization’s environmental management system and fulfilled without exclusion.</abstract>
   <status>
-    <stage>90</stage>
-    <substage>93</substage>
+    <stage>95</stage>
+    <substage>99</substage>
   </status>
   <copyright>
     <from>2015</from>
@@ -244,52 +273,54 @@
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2004</formattedref>
+    <bibitem>
+      <formattedref>ISO 14001:2004</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14001:2004</docidentifier>
+      <date type="published">
+        <on>2004-11-15</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2004/Cor 1:2009</formattedref>
+    <bibitem>
+      <formattedref>ISO 14001:2004/Cor 1:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14001:2004/Cor 1:2009</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2015/Amd 1:2024</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14001:2015/Amd 1:2024</docidentifier>
-      <date type="circulated">
-        <on>2021-03-25</on>
+      <date type="published">
+        <on>2009-07-17</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2015/DAmd 2</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14001:2015/DAmd 2</docidentifier>
-      <date type="circulated">
-        <on>2021-03-25</on>
-      </date>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 14001:2015/DAmd 2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2015/DAM 2</docidentifier>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_1c728771-dc2e-2373-d9b5-9091de620b34" type="standard" schema-version="v1.2.9" anchor="iso14064_1">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_9eacd4e1-eba4-e78e-a163-8cfd241206df" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Greenhouse gases</title>
+<title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+<title language="en" script="Latn" type="title-part">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+<title language="en" script="Latn" type="main">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Gaz à effet de serre</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 1: Spécifications et lignes directrices, au niveau des organismes, pour la quantification et la déclaration des émissions et des suppressions des gaz à effet de serre</title>
+
+  
+<title language="fr" script="Latn" type="main">Gaz à effet de serre — Partie 1: Spécifications et lignes directrices, au niveau des organismes, pour la quantification et la déclaration des émissions et des suppressions des gaz à effet de serre</title>
 
   <uri type="src">https://www.iso.org/standard/66453.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:66453:en</uri>
@@ -299,7 +330,7 @@
   <docidentifier type="URN">urn:iso:std:iso:14064:-1:stage-90.92</docidentifier>
   <docnumber>14064</docnumber>
   <date type="published">
-    <on>2018-12</on>
+    <on>2018-12-19</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -311,12 +342,29 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Greenhouse gas and climate change management and related activities</name>
+
+        <identifier>ISO/TC 207/SC 7</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory.
-The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>
+  <abstract language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory. The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>
   <status>
     <stage>90</stage>
     <substage>92</substage>
@@ -332,42 +380,51 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14064-1:2006</formattedref>
+    <bibitem>
+      <formattedref>ISO 14064-1:2006</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14064-1:2006</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/AWI 14064-1</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/AWI 14064-1</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14064-1:2018/DAmd 1</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAmd 1</docidentifier>
-      <date type="circulated">
-        <on>2024-10-14</on>
+      <date type="published">
+        <on>2006-03-01</on>
       </date>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 14064-1.2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 14064-1.2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 14064-1:2018/DAmd 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAM 1</docidentifier>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_d071a6a4-353c-5b59-8f2e-7a301c28bad7" type="standard" schema-version="v1.2.9" anchor="iso31000">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_cd6d486c-db79-85c6-74a9-273d4841582b" type="standard" schema-version="v1.5.6" anchor="iso31000">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Risk management</title>
+<title language="en" script="Latn" type="title-intro">Risk management</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Guidelines</title>
+<title language="en" script="Latn" type="title-main">Guidelines</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Risk management — Guidelines</title>
+<title language="en" script="Latn" type="main">Risk management — Guidelines</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Management du risque</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Lignes directrices</title>
+
+  
+<title language="fr" script="Latn" type="main">Management du risque — Lignes directrices</title>
 
   <uri type="src">https://www.iso.org/standard/65694.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:65694:en</uri>
@@ -377,7 +434,7 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
   <docidentifier type="URN">urn:iso:std:iso:31000:stage-90.92</docidentifier>
   <docnumber>31000</docnumber>
   <date type="published">
-    <on>2018-02</on>
+    <on>2018-02-14</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -389,10 +446,30 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Risk management</name>
+
+        <identifier>ISO/TC 262</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
+  <language>ar</language>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">ISO 31000:2018 provides guidelines on managing risk faced by organizations. The application of these guidelines can be customized to any organization and its context. ISO 31000:2018 provides a common approach to managing any type of risk and is not industry or sector specific. ISO 31000:2018 can be used throughout the life of the organization and can be applied to any activity, including decision-making at all levels.</abstract>
   <status>
     <stage>90</stage>
     <substage>92</substage>
@@ -408,16 +485,19 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 31000:2009</formattedref>
+    <bibitem>
+      <formattedref>ISO 31000:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO 31000:2009</docidentifier>
+      <date type="published">
+        <on>2009-11-13</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/WD 31000</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/WD 31000</docidentifier>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/CD 31000</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/CD 31000</docidentifier>
     </bibitem>
 
   </relation>

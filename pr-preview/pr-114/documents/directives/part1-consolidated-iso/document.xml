@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.3.4" schema-version="v2.1.5" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.3" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Consolidated ISO Supplement — Procedures specific to ISO</title>
 
@@ -11,8 +11,6 @@
 
 <title language="en" type="title-part-prefix">Part 1</title>
 
-<title language="ru" type="title-part-prefix">Часть 1</title>
-
 <title language="fr" type="main">Directives ISO/IEC — Supplément ISO consolidé — Procédures spécifiques à l’ISO</title>
 
 <title language="fr" type="title-intro">Directives ISO/IEC</title>
@@ -22,7 +20,7 @@
 <title language="fr" type="title-part">Procédures spécifiques à l’ISO</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">ISO DIR:2020</docidentifier><docidentifier type="iso-reference">ISO DIR:2020(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2020</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2020(en)</docidentifier><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO DIR:2020</docidentifier><docidentifier type="iso-reference">ISO DIR:2020(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2020</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2020(en)</docidentifier><date type="updated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>

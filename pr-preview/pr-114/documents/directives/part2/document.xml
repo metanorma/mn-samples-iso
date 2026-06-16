@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.3.4" schema-version="v2.1.5" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.3" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
 
@@ -9,8 +9,6 @@
 
 <title language="en" type="title-part-prefix">Part 2</title>
 
-<title language="ru" type="title-part-prefix">Часть 2</title>
-
 <title language="fr" type="main">Directives ISO/IEC — Principes et règles de structure et de rédaction des documents ISO et IEC</title>
 
 <title language="fr" type="title-intro">Directives ISO/IEC</title>
@@ -18,7 +16,7 @@
 <title language="fr" type="title-main">Principes et règles de structure et de rédaction des documents ISO et IEC</title>
 
 <title language="fr" type="title-part-prefix">Partie 2</title>
-<docidentifier type="ISO" primary="true">ISO DIR:2018</docidentifier><docidentifier type="iso-reference">ISO DIR:2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2018</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2018(en)</docidentifier><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO DIR:2018</docidentifier><docidentifier type="iso-reference">ISO DIR:2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2018</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2018(en)</docidentifier><date type="updated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -36,7 +34,7 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>directive</doctype><flavor>iso</flavor><structuredidentifier><project-number part="2">ISO </project-number></structuredidentifier><stagename abbreviation="DIR">Directives</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>true</stage-published></semantic-metadata>
 <presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><UnitsML xmlns="https://schema.unitsml.org/unitsml/1.0"><UnitSet><Unit dimensionURL="#D_L2M-1" id="U_rad.m2.kg-1">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">rad*m^2*kg^-1</UnitName>
         <UnitSymbol type="HTML">rad m
           <sup>2</sup> kg
@@ -47,18 +45,12 @@
             <mi mathvariant="normal">rad</mi>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">m</mi>
-              </mrow>
-              <mrow>
-                <mn>2</mn>
-              </mrow>
+              <mi mathvariant="normal">m</mi>
+              <mn>2</mn>
             </msup>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">kg</mi>
-              </mrow>
+              <mi mathvariant="normal">kg</mi>
               <mrow>
                 <mo>−</mo>
                 <mn>1</mn>
@@ -72,7 +64,7 @@
           <EnumeratedRootUnit unit="gram" prefix="k" powerNumerator="-1"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#NISTd1" id="U_mm">
-        <UnitSystem name="SI" type="SI_base" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_base" lang="en"/>
         <UnitName lang="en">mm</UnitName>
         <UnitSymbol type="HTML">mm</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -84,9 +76,9 @@
           <EnumeratedRootUnit unit="metre" prefix="m"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#NISTd19" id="U_uF">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">uF</UnitName>
-        <UnitSymbol type="HTML">F</UnitSymbol>
+        <UnitSymbol type="HTML">µF</UnitSymbol>
         <UnitSymbol type="MathMl">
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <mi mathvariant="normal">µF</mi>
@@ -96,7 +88,7 @@
           <EnumeratedRootUnit unit="farad" prefix="u"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#D_LMT-3Theta-1" id="U_NISTu14.u1e-1/1.u5e-1/1">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">watt per meter kelvin</UnitName>
         <UnitSymbol type="HTML">W m
           <sup>−1</sup> K
@@ -107,9 +99,7 @@
             <mi mathvariant="normal">W</mi>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">m</mi>
-              </mrow>
+              <mi mathvariant="normal">m</mi>
               <mrow>
                 <mo>−</mo>
                 <mn>1</mn>
@@ -117,9 +107,7 @@
             </msup>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">K</mi>
-              </mrow>
+              <mi mathvariant="normal">K</mi>
               <mrow>
                 <mo>−</mo>
                 <mn>1</mn>
@@ -133,7 +121,7 @@
           <EnumeratedRootUnit unit="kelvin" powerNumerator="-1"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#NISTd14" id="U_kPa">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">kPa</UnitName>
         <UnitSymbol type="HTML">kPa</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -145,9 +133,9 @@
           <EnumeratedRootUnit unit="pascal" prefix="k"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#NISTd23" id="U_uH">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">uH</UnitName>
-        <UnitSymbol type="HTML">H</UnitSymbol>
+        <UnitSymbol type="HTML">µH</UnitSymbol>
         <UnitSymbol type="MathMl">
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <mi mathvariant="normal">µH</mi>
@@ -157,7 +145,7 @@
           <EnumeratedRootUnit unit="henry" prefix="u"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#D_L2MT4I2" id="U_NISTu18">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">ohm</UnitName>
         <UnitSymbol type="HTML">Ω</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -165,8 +153,8 @@
             <mi mathvariant="normal">Ω</mi>
           </math>
         </UnitSymbol>
-      </Unit><Unit dimensionURL="#NISTd58" id="U_NISTu27p10_3.u1e-1/1">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+      </Unit><Unit dimensionURL="#D_L-1M" id="U_NISTu27p10_3.u1e-1/1">
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">kilogram per meter</UnitName>
         <UnitSymbol type="HTML">kg m
           <sup>−1</sup>
@@ -176,9 +164,7 @@
             <mi mathvariant="normal">kg</mi>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">m</mi>
-              </mrow>
+              <mi mathvariant="normal">m</mi>
               <mrow>
                 <mo>−</mo>
                 <mn>1</mn>
@@ -191,8 +177,8 @@
           <EnumeratedRootUnit unit="metre" powerNumerator="-1"/>
         </RootUnits>
       </Unit><Unit id="U_km.h-1">
-        <UnitSystem name="not_SI" type="not_SI" lang="en-US"/>
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="not_SI" type="not_SI" lang="en"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">km*h^-1</UnitName>
         <UnitSymbol type="HTML">km h
           <sup>−1</sup>
@@ -202,9 +188,7 @@
             <mi mathvariant="normal">km</mi>
             <mo rspace="thickmathspace">⁢</mo>
             <msup>
-              <mrow>
-                <mi mathvariant="normal">h</mi>
-              </mrow>
+              <mi mathvariant="normal">h</mi>
               <mrow>
                 <mo>−</mo>
                 <mn>1</mn>
@@ -217,7 +201,7 @@
           <EnumeratedRootUnit unit="hour" powerNumerator="-1"/>
         </RootUnits>
       </Unit><Unit dimensionURL="#NISTd4" id="U_NISTu4">
-        <UnitSystem name="SI" type="SI_base" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_base" lang="en"/>
         <UnitName lang="en">ampere</UnitName>
         <UnitSymbol type="HTML">A</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -226,7 +210,7 @@
           </math>
         </UnitSymbol>
       </Unit><Unit id="U_NISTu149">
-        <UnitSystem name="not_SI" type="not_SI" lang="en-US"/>
+        <UnitSystem name="not_SI" type="not_SI" lang="en"/>
         <UnitName lang="en">degree (degree of arc)</UnitName>
         <UnitSymbol type="HTML">°</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -235,7 +219,7 @@
           </math>
         </UnitSymbol>
       </Unit><Unit dimensionURL="#NISTd5" id="U_NISTu23">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">degree Celsius</UnitName>
         <UnitSymbol type="HTML">°C</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -244,7 +228,7 @@
           </math>
         </UnitSymbol>
       </Unit><Unit dimensionURL="#NISTd5" id="U_NISTu5">
-        <UnitSystem name="SI" type="SI_base" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_base" lang="en"/>
         <UnitName lang="en">kelvin</UnitName>
         <UnitSymbol type="HTML">K</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -253,7 +237,7 @@
           </math>
         </UnitSymbol>
       </Unit><Unit dimensionURL="#NISTd1" id="U_cm">
-          <UnitSystem name="SI" type="SI_base" lang="en-US"/>
+          <UnitSystem name="SI" type="SI_base" lang="en"/>
           <UnitName lang="en">cm</UnitName>
           <UnitSymbol type="HTML">cm</UnitSymbol>
           <UnitSymbol type="MathMl">
@@ -265,7 +249,7 @@
             <EnumeratedRootUnit unit="metre" prefix="c"/>
           </RootUnits>
         </Unit><Unit dimensionURL="#NISTd18" id="U_NISTu16">
-        <UnitSystem name="SI" type="SI_derived" lang="en-US"/>
+        <UnitSystem name="SI" type="SI_derived" lang="en"/>
         <UnitName lang="en">volt</UnitName>
         <UnitSymbol type="HTML">V</UnitSymbol>
         <UnitSymbol type="MathMl">
@@ -274,17 +258,17 @@
           </math>
         </UnitSymbol>
       </Unit></UnitSet><QuantitySet><Quantity id="NISTq66" quantityType="base" dimensionURL="#NISTd41">
-        <QuantityName lang="en-US">thermal conductivity</QuantityName>
+        <QuantityName lang="en">thermal conductivity</QuantityName>
       </Quantity><Quantity id="NISTq28" quantityType="base" dimensionURL="#NISTd20">
-        <QuantityName lang="en-US">electric resistance</QuantityName>
+        <QuantityName lang="en">electric resistance</QuantityName>
       </Quantity><Quantity id="NISTq126" quantityType="base" dimensionURL="#NISTd58">
-        <QuantityName lang="en-US">linear density</QuantityName>
-        <QuantityName lang="en-US">lineic mass</QuantityName>
+        <QuantityName lang="en">linear density</QuantityName>
+        <QuantityName lang="en">lineic mass</QuantityName>
       </Quantity><Quantity id="NISTq4" quantityType="base" dimensionURL="#NISTd4">
-        <QuantityName lang="en-US">electric current</QuantityName>
+        <QuantityName lang="en">electric current</QuantityName>
       </Quantity><Quantity id="NISTq9" quantityType="base" dimensionURL="#NISTd9">
-        <QuantityName lang="en-US">plane angle</QuantityName>
-        <QuantityName lang="en-US">angle</QuantityName>
+        <QuantityName lang="en">plane angle</QuantityName>
+        <QuantityName lang="en">angle</QuantityName>
       </Quantity></QuantitySet><DimensionSet><Dimension id="D_L2M-1">
         <Length symbol="L" powerNumerator="2"/>
         <Mass symbol="M" powerNumerator="-1"/>
@@ -325,6 +309,9 @@
         <Time symbol="T" powerNumerator="4"/>
         <ElectricCurrent symbol="I" powerNumerator="2"/>
       </Dimension><Dimension id="NISTd58">
+        <Length symbol="L" powerNumerator="-1"/>
+        <Mass symbol="M" powerNumerator="1"/>
+      </Dimension><Dimension id="D_L-1M">
         <Length symbol="L" powerNumerator="-1"/>
         <Mass symbol="M" powerNumerator="1"/>
       </Dimension><Dimension id="NISTd4">
@@ -4649,7 +4636,7 @@
 </clause>
 </clause>
 
-<clause id="_2ced97a8-b700-7370-5616-c1b197661f8d" anchor="cls_29" inline-header="false" obligation="normative">
+<clause id="_c4582944-0521-2186-39b7-b66c332b80b1" anchor="cls_29" inline-header="false" obligation="normative">
 <title id="_c7cb8bdc-0c01-fbb0-59de-eb51355704eb">Tables</title>
 <clause id="_aa4fb7d2-ca2a-2dc9-0f79-79c0aa138404" anchor="scls_29-1" inline-header="false" obligation="normative">
 <title id="_8f482ebc-8680-21ac-49da-373857ed25e1">Purpose or rationale</title>
@@ -4764,7 +4751,7 @@
 </clause>
 </clause>
 
-<clause id="_a3cec59d-dade-7983-6b58-e2d70318e610" anchor="scls_29-6" inline-header="false" obligation="normative">
+<clause id="_5301e2aa-2a81-3a11-644f-0ac3241d584a" anchor="scls_29-6" inline-header="false" obligation="normative">
 <title id="_f63d35de-2115-3fc2-d304-0e030b46b9f6">Examples</title>
 <example id="_864739db-171f-6bc7-a328-a76e8313d483"><p id="_1613b5c6-a914-345a-4432-571040be3e12">The layout of the different elements that can appear in a table</p>
 
@@ -4822,10 +4809,10 @@
 </table>
 </example>
 
-<example id="_2b11a36b-7d8f-0777-3fd9-7deb52f7a64b"><p id="_2a6f353f-6f0e-f2a8-96df-d07bb67aedd7">When there are several different units:</p>
+<example id="_8d2dc8cf-31e6-7714-ede4-3fbaff1f8c1b"><p id="_2a6f353f-6f0e-f2a8-96df-d07bb67aedd7">When there are several different units:</p>
 
-<table id="_c59191ef-2461-e782-67ef-e7a32dd76ef8" unnumbered="true"><thead><tr id="_a0334f31-5e6d-99e7-e572-fc960a41a55d"><th id="_780fd9c0-0596-955a-56df-39c02bbeb541" valign="top" align="left">Type</th>
-<th id="_31d81726-287b-3af1-9f4d-d95a21ace394" valign="top" align="left">Linear density<br/>
+<table id="_4d6119a0-58a6-d676-696e-c1b37abdbf54" unnumbered="true"><thead><tr id="_a9630065-980d-0305-828f-eae1543b3d0a"><th id="_780fd9c0-0596-955a-56df-39c02bbeb541" valign="top" align="left">Type</th>
+<th id="_dd353277-7c19-ccbb-d244-59dc972dbc1d" valign="top" align="left">Linear density<br/>
 <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow xref="U_NISTu27p10_3.u1e-1/1">
@@ -4842,6 +4829,7 @@
           <mn>1</mn>
         </mrow>
       </msup>
+      
       
       
       

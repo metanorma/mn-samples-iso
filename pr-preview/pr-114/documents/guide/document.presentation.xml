@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.3.4" schema-version="v2.1.5" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.4.3" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
 <title language="en" type="title-main">Guidelines for addressing climate change in standards</title>
-<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><date type="updated"><on>2020-07-10</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -22,7 +22,7 @@
 <name>International Organization for Standardization</name>
 <subdivision type="Technical committee" subtype="TC">
 <name>Technical Management Board - groups</name>
-</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition language="">1</edition><edition language="en">first edition</edition><version><revision-date>2020-07-10</revision-date></version><language current="true">en</language><script current="true">Latn</script><status><stage abbreviation="FDGUIDE" language="">50</stage><stage abbreviation="FDGUIDE" language="en">Final Draft Guide</stage><stage abbreviation="FDGUIDE" language="en" type="firstpage">FINAL DRAFT Guide</stage><stage abbreviation="FDGUIDE" language="en" type="coverpage">FINAL DRAFT<br/>Guide</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
+</subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition language="">1</edition><edition language="en">first edition</edition><version>2020-07-10</version><language current="true">en</language><script current="true">Latn</script><status><stage abbreviation="FDGUIDE" language="">50</stage><stage abbreviation="FDGUIDE" language="en">Final Draft Guide</stage><stage abbreviation="FDGUIDE" language="en" type="firstpage">FINAL DRAFT Guide</stage><stage abbreviation="FDGUIDE" language="en" type="coverpage">FINAL DRAFT<br/>Guide</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">guide</doctype><doctype language="en">Guide</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="FDGUIDE">Final Draft Guide</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
 standardization at the following addresses:
@@ -154,7 +154,7 @@ sourcecode .nt {
  <source status="modified" type="authoritative" id="_0d1210a4-8ae0-b090-01c4-c16f473b7429"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin>
 <modification id="_a11a6c4c-df43-a553-a2d7-17442bfb8e82"><p semx-id="_077ee6f6-70a9-b7a0-4e79-11a3c02ee746" id="_077ee6f6-70a9-b7a0-4e79-11a3c02ee746">The Notes to entry have been removed.</p>
 </modification>
-</source><fmt-termsource status="modified" type="authoritative">[SOURCE: <semx element="source" source="_0d1210a4-8ae0-b090-01c4-c16f473b7429"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_ca174949-052c-c80b-31ed-9737fed41c5f"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin><semx element="origin" source="_ca174949-052c-c80b-31ed-9737fed41c5f"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO </span><span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.1</span></fmt-xref></semx>, modified — <semx element="modification" source="_a11a6c4c-df43-a553-a2d7-17442bfb8e82">The Notes to entry have been removed.</semx></semx>]</fmt-termsource></term>
+</source><fmt-termsource status="modified" type="authoritative">[SOURCE: <semx element="source" source="_0d1210a4-8ae0-b090-01c4-c16f473b7429"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_ca174949-052c-c80b-31ed-9737fed41c5f"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin><semx element="origin" source="_ca174949-052c-c80b-31ed-9737fed41c5f"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.1</span></fmt-xref></semx>, modified — <semx element="modification" source="_a11a6c4c-df43-a553-a2d7-17442bfb8e82">The Notes to entry have been removed.</semx></semx>]</fmt-termsource></term>
 
 <term id="term-greenhouse-gas-emission" anchor="term-greenhouse-gas-emission" semx-id="_5c620706-1b00-e484-5a62-431e861a0c58"><fmt-name id="_ecdd65eb-75b5-cb75-fda4-c953d01f5855"><span class="fmt-caption-label"><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-greenhouse-gas-emission">2</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-greenhouse-gas-emission">2</semx></fmt-xref-label><preferred id="_38a89867-c3cf-c408-a36f-de9771845c18"><expression>
 <name id="_12a3b49b-c127-cc30-7084-0d34fb693ca8">greenhouse gas emission</name>
@@ -170,7 +170,7 @@ sourcecode .nt {
 
 
  <source status="identical" type="authoritative" id="_4b1d7963-959e-7279-9a44-2a0646ae8652"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
-</source><fmt-termsource status="identical" type="authoritative">[SOURCE: <semx element="source" source="_4b1d7963-959e-7279-9a44-2a0646ae8652"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_37910afe-14d5-c3a8-7767-19a9623286f5"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin><semx element="origin" source="_37910afe-14d5-c3a8-7767-19a9623286f5"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO </span><span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.5</span></fmt-xref></semx></semx>]</fmt-termsource></term>
+</source><fmt-termsource status="identical" type="authoritative">[SOURCE: <semx element="source" source="_4b1d7963-959e-7279-9a44-2a0646ae8652"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_37910afe-14d5-c3a8-7767-19a9623286f5"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin><semx element="origin" source="_37910afe-14d5-c3a8-7767-19a9623286f5"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.5</span></fmt-xref></semx></semx>]</fmt-termsource></term>
 
 <term id="term-greenhouse-gas-removal" anchor="term-greenhouse-gas-removal" semx-id="_f9941ab1-179e-4b58-dacb-01446d8fc8e8"><fmt-name id="_01f25e88-31a4-4093-ec7c-fb1debe04d6f"><span class="fmt-caption-label"><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-greenhouse-gas-removal">3</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-greenhouse-gas-removal">3</semx></fmt-xref-label><preferred id="_cabb0f21-58fd-a771-1ecc-b30e00fbf81e"><expression>
 <name id="_1acc45a2-b40b-3222-30f0-b80692e67c99">greenhouse gas removal</name>
@@ -188,7 +188,7 @@ sourcecode .nt {
  <source status="modified" type="authoritative" id="_0560a915-2b88-1be3-3144-b392721a3776"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin>
 <modification id="_aa206b36-5b9e-f314-47ab-b6cfdf1fb1b9"><p semx-id="_90721eea-a9c7-5bf5-c2cb-4213635db686" id="_90721eea-a9c7-5bf5-c2cb-4213635db686">The words “<tt>by GHG sinks</tt>” have been removed from the definition.</p>
 </modification>
-</source><fmt-termsource status="modified" type="authoritative">[SOURCE: <semx element="source" source="_0560a915-2b88-1be3-3144-b392721a3776"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_8ff932cc-bd7b-75b3-4418-82649766a311"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin><semx element="origin" source="_8ff932cc-bd7b-75b3-4418-82649766a311"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO </span><span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.6</span></fmt-xref></semx>, modified — <semx element="modification" source="_aa206b36-5b9e-f314-47ab-b6cfdf1fb1b9">The words “<tt>by GHG sinks</tt>” have been removed from the definition.</semx></semx>]</fmt-termsource></term>
+</source><fmt-termsource status="modified" type="authoritative">[SOURCE: <semx element="source" source="_0560a915-2b88-1be3-3144-b392721a3776"><origin bibitemid="iso14064_1" type="inline" citeas="ISO 14064-1:2018" id="_8ff932cc-bd7b-75b3-4418-82649766a311"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin><semx element="origin" source="_8ff932cc-bd7b-75b3-4418-82649766a311"><fmt-xref type="inline" target="iso14064_1"><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>,  <span class="citesec">3.1.6</span></fmt-xref></semx>, modified — <semx element="modification" source="_aa206b36-5b9e-f314-47ab-b6cfdf1fb1b9">The words “<tt>by GHG sinks</tt>” have been removed from the definition.</semx></semx>]</fmt-termsource></term>
 
 <term id="term-anthropogenic" anchor="term-anthropogenic" semx-id="_2d2cc3dd-433c-6fcc-ff40-f26d0631c59e"><fmt-name id="_f7db64da-9d70-0fdc-d7e0-0d468510f291"><span class="fmt-caption-label"><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-anthropogenic">4</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_271c1bd0-2d43-f5e9-6cee-387b9a1d3645">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_690a96d8-dd4f-e72e-8230-5c6adbc0101f">1</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-anthropogenic">4</semx></fmt-xref-label><preferred id="_ddb4823c-6d5e-3f38-838f-93d26aad70dc"><expression>
 <name id="_30126b1a-994e-cc72-78ec-6099c9e13624">anthropogenic</name>
@@ -245,27 +245,37 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_f86be5c6-e409-104f-fbb0-4c0d40eba3ff" normative="false" obligation="informative" semx-id="_f86be5c6-e409-104f-fbb0-4c0d40eba3ff" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso140001" type="standard" schema-version="v1.2.9" anchor="iso140001" semx-id="_14eaf4bd-c6d7-e586-8aa2-93ced0b3f3dd"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO </span><span class="stddocNumber">14001</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Environmental management systems — Requirements with guidance for use</span></em></formattedref>
-  <fetched>2026-04-16</fetched>
+</annex><bibliography><references id="_e72dfd42-1773-d08f-2771-ffcc9e2180d0" normative="false" obligation="informative" semx-id="_e72dfd42-1773-d08f-2771-ffcc9e2180d0" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso140001" type="standard" schema-version="v1.5.6" anchor="iso140001" semx-id="_b20abfa3-f473-2897-1af2-c0253e4a29b0"><biblio-tag>[1]<fn id="_a432415b-28ba-5897-d440-b0e4adc5d476" reference="1" original-reference="_88a60076-4768-4976-8fbe-06307334123c" target="_154769b5-ca82-18f1-ac9d-6f46f708b950"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_a432415b-28ba-5897-d440-b0e4adc5d476">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14001</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Environmental management systems — Requirements with guidance for use</span></em></formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Environmental management systems</title>
+<title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Requirements with guidance for use</title>
+<title language="en" script="Latn" type="title-main">Requirements with guidance for use</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Environmental management systems — Requirements with guidance for use</title>
+<title language="en" script="Latn" type="main">Environmental management systems — Requirements with guidance for use</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Systèmes de management environnemental</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Exigences et lignes directrices pour son utilisation</title>
+
+  
+<title language="fr" script="Latn" type="main">Systèmes de management environnemental — Exigences et lignes directrices pour son utilisation</title>
 
   <uri type="src">https://www.iso.org/standard/60857.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60857:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/08/60857.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 14001:2015</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 14001:2015(E)</docidentifier>
-  <docidentifier type="URN">URN urn:iso:std:iso:14001:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 14001:2015</docidentifier>
+  <docidentifier type="URN">URN urn:iso:std:iso:14001:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 14001:2015</docidentifier>
   <docnumber>14001</docnumber>
   <date type="published">
-    <on>2015-09</on>
+    <on>2015-09-14</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -277,13 +287,33 @@ sourcecode .nt {
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Environmental management systems</name>
+
+        <identifier id="_bf1e6699-314f-ec52-2bb2-0dca7439cd1f">ISO/TC 207/SC 1</identifier><fmt-identifier><tt><semx element="identifier" source="_bf1e6699-314f-ec52-2bb2-0dca7439cd1f">ISO/TC 207/SC 1</semx></tt></fmt-identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
+  <note type="Unpublished-Status"><p id="_684c4e15-8945-bd66-dba0-502f1a5bd24b" semx-id="_684c4e15-8945-bd66-dba0-502f1a5bd24b">Withdrawn.</p></note><language>ar</language>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">ISO 14001:2015 specifies the requirements for an environmental management system that an organization can use to enhance its environmental performance. ISO 14001:2015 is intended for use by an organization seeking to manage its environmental responsibilities in a systematic manner that contributes to the environmental pillar of sustainability. ISO 14001:2015 helps an organization achieve the intended outcomes of its environmental management system, which provide value for the environment, the organization itself and interested parties. Consistent with the organization’s environmental policy, the intended outcomes of an environmental management system include: · enhancement of environmental performance; · fulfilment of compliance obligations; · achievement of environmental objectives. ISO 14001:2015 is applicable to any organization, regardless of size, type and nature, and applies to the environmental aspects of its activities, products and services that the organization determines it can either control or influence considering a life cycle perspective. ISO 14001:2015 does not state specific environmental performance criteria. ISO 14001:2015 can be used in whole or in part to systematically improve environmental management. Claims of conformity to ISO 14001:2015, however, are not acceptable unless all its requirements are incorporated into an organization’s environmental management system and fulfilled without exclusion.</abstract>
   <status>
-    <stage>90</stage>
-    <substage>93</substage>
+    <stage>95</stage>
+    <substage>99</substage>
   </status>
   <copyright>
     <from>2015</from>
@@ -296,52 +326,54 @@ sourcecode .nt {
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2004</formattedref>
+    <bibitem>
+      <formattedref>ISO 14001:2004</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14001:2004</docidentifier>
+      <date type="published">
+        <on>2004-11-15</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2004/Cor 1:2009</formattedref>
+    <bibitem>
+      <formattedref>ISO 14001:2004/Cor 1:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14001:2004/Cor 1:2009</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2015/Amd 1:2024</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14001:2015/Amd 1:2024</docidentifier>
-      <date type="circulated">
-        <on>2021-03-25</on>
+      <date type="published">
+        <on>2009-07-17</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14001:2015/DAmd 2</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14001:2015/DAmd 2</docidentifier>
-      <date type="circulated">
-        <on>2021-03-25</on>
-      </date>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 14001:2015/DAmd 2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14001:2015/DAM 2</docidentifier>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.2.9" anchor="iso14064_1" semx-id="_1c728771-dc2e-2373-d9b5-9091de620b34"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO </span><span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</span></em></formattedref>
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.5.6" anchor="iso14064_1" semx-id="_9eacd4e1-eba4-e78e-a163-8cfd241206df"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</span></em></formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Greenhouse gases</title>
+<title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+<title language="en" script="Latn" type="title-part">Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+<title language="en" script="Latn" type="main">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Gaz à effet de serre</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 1: Spécifications et lignes directrices, au niveau des organismes, pour la quantification et la déclaration des émissions et des suppressions des gaz à effet de serre</title>
+
+  
+<title language="fr" script="Latn" type="main">Gaz à effet de serre — Partie 1: Spécifications et lignes directrices, au niveau des organismes, pour la quantification et la déclaration des émissions et des suppressions des gaz à effet de serre</title>
 
   <uri type="src">https://www.iso.org/standard/66453.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:66453:en</uri>
@@ -351,7 +383,7 @@ sourcecode .nt {
   <docidentifier type="URN">URN urn:iso:std:iso:14064:-1:stage-90.92</docidentifier><docidentifier scope="biblio-tag">ISO 14064-1:2018</docidentifier>
   <docnumber>14064</docnumber>
   <date type="published">
-    <on>2018-12</on>
+    <on>2018-12-19</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -363,12 +395,29 @@ sourcecode .nt {
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Greenhouse gas and climate change management and related activities</name>
+
+        <identifier id="_09d74df3-e1ea-9c76-de17-09befca1d691">ISO/TC 207/SC 7</identifier><fmt-identifier><tt><semx element="identifier" source="_09d74df3-e1ea-9c76-de17-09befca1d691">ISO/TC 207/SC 7</semx></tt></fmt-identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory.
-The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>
+  <abstract language="en" script="Latn">This document specifies principles and requirements at the organization level for the quantification and reporting of greenhouse gas (GHG) emissions and removals. It includes requirements for the design, development, management, reporting and verification of an organization’s GHG inventory. The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable, requirements of that GHG programme are additional to the requirements of the ISO 14064 series.</abstract>
   <status>
     <stage>90</stage>
     <substage>92</substage>
@@ -384,42 +433,51 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14064-1:2006</formattedref>
+    <bibitem>
+      <formattedref>ISO 14064-1:2006</formattedref>
       <docidentifier type="ISO" primary="true">ISO 14064-1:2006</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/AWI 14064-1</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/AWI 14064-1</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 14064-1:2018/DAmd 1</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAmd 1</docidentifier>
-      <date type="circulated">
-        <on>2024-10-14</on>
+      <date type="published">
+        <on>2006-03-01</on>
       </date>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 14064-1.2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 14064-1.2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 14064-1:2018/DAmd 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 14064-1:2018/DAM 1</docidentifier>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso31000" type="standard" schema-version="v1.2.9" anchor="iso31000" semx-id="_d071a6a4-353c-5b59-8f2e-7a301c28bad7"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO </span><span class="stddocNumber">31000</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Risk management — Guidelines</span></em></formattedref>
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="iso31000" type="standard" schema-version="v1.5.6" anchor="iso31000" semx-id="_cd6d486c-db79-85c6-74a9-273d4841582b"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">31000</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Risk management — Guidelines</span></em></formattedref>
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Risk management</title>
+<title language="en" script="Latn" type="title-intro">Risk management</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Guidelines</title>
+<title language="en" script="Latn" type="title-main">Guidelines</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Risk management — Guidelines</title>
+<title language="en" script="Latn" type="main">Risk management — Guidelines</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Management du risque</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Lignes directrices</title>
+
+  
+<title language="fr" script="Latn" type="main">Management du risque — Lignes directrices</title>
 
   <uri type="src">https://www.iso.org/standard/65694.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:65694:en</uri>
@@ -429,7 +487,7 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
   <docidentifier type="URN">URN urn:iso:std:iso:31000:stage-90.92</docidentifier><docidentifier scope="biblio-tag">ISO 31000:2018</docidentifier>
   <docnumber>31000</docnumber>
   <date type="published">
-    <on>2018-02</on>
+    <on>2018-02-14</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -441,10 +499,30 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Risk management</name>
+
+        <identifier id="_77c37d53-7bdf-c4ec-81be-45dc470ee838">ISO/TC 262</identifier><fmt-identifier><tt><semx element="identifier" source="_77c37d53-7bdf-c4ec-81be-45dc470ee838">ISO/TC 262</semx></tt></fmt-identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
+  <language>ar</language>
   <language>en</language>
+  <language>es</language>
   <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">ISO 31000:2018 provides guidelines on managing risk faced by organizations. The application of these guidelines can be customized to any organization and its context. ISO 31000:2018 provides a common approach to managing any type of risk and is not industry or sector specific. ISO 31000:2018 can be used throughout the life of the organization and can be applied to any activity, including decision-making at all levels.</abstract>
   <status>
     <stage>90</stage>
     <substage>92</substage>
@@ -460,16 +538,19 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 31000:2009</formattedref>
+    <bibitem>
+      <formattedref>ISO 31000:2009</formattedref>
       <docidentifier type="ISO" primary="true">ISO 31000:2009</docidentifier>
+      <date type="published">
+        <on>2009-11-13</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/WD 31000</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/WD 31000</docidentifier>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/CD 31000</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/CD 31000</docidentifier>
     </bibitem>
 
   </relation>
@@ -481,4 +562,4 @@ The ISO 14064 series is GHG programme neutral. If a GHG programme is applicable,
 
 
 </references></bibliography>
-</metanorma>
+<fmt-footnote-container><fmt-fn-body id="_154769b5-ca82-18f1-ac9d-6f46f708b950" target="_a432415b-28ba-5897-d440-b0e4adc5d476" reference="1"><semx element="fn" source="_a432415b-28ba-5897-d440-b0e4adc5d476"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_a432415b-28ba-5897-d440-b0e4adc5d476">1</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Withdrawn.</p></semx></fmt-fn-body></fmt-footnote-container></metanorma>
