@@ -6,6 +6,9 @@ on:
   repository_dispatch:
     types: [ metanorma/metanorma-* ]
 
+permissions:
+  contents: read
+
 jobs:
   test-docker:
     uses: metanorma/ci/.github/workflows/sample-test.yml@main
