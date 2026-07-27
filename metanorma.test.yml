@@ -1,0 +1,19 @@
+---
+# Subset used by the metanorma-cli release smoke gate (metanorma-cli#391):
+# one document per ISO deliverable type, carried over from the 2023
+# samples-smoke-matrix subset.
+metanorma:
+  source:
+    files:
+      - sources/amendment/rice-2023/document-en.final.adoc
+      - sources/guide/document.adoc
+      - sources/international-standard/rice-2023/document-en.adoc
+      - sources/international-workshop-agreement/document.adoc
+      - sources/publicly-available-specification/document.adoc
+      - sources/technical-report/document.adoc
+      - sources/technical-specification/document.adoc
+      - sources/directives/part2/document.adoc
+
+  collection:
+    organization: "Metanorma"
+    name: "ISO sample documents in Metanorma (CI smoke subset)"
