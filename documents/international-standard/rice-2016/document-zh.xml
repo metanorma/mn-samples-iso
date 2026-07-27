@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
@@ -9,6 +9,8 @@
 
 <title language="en" type="title-part">Rice (in Chinese)</title>
 
+<title language="en" type="title-part-prefix">Part 1</title>
+
 <title language="fr" type="main">Céréales et légumineuses — Spécification et méthodes d’essai — Riz (en chinois)</title>
 
 <title language="fr" type="title-intro">Céréales et légumineuses</title>
@@ -16,7 +18,9 @@
 <title language="fr" type="title-main">Spécification et méthodes d’essai</title>
 
 <title language="fr" type="title-part">Riz (en chinois)</title>
-<docidentifier type="ISO" primary="true">ISO/CD 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/CD 17301-1:2016()</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:zh</docidentifier><docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><contributor><role type="author"/><organization>
+
+<title language="fr" type="title-part-prefix">Partie 1</title>
+<docidentifier type="ISO" primary="true">ISO/CD 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/CD 17301-1:2016()</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:zh</docidentifier><docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -38,11 +42,11 @@
 <name>Cereals and pulses</name>
 <identifier>SC 4</identifier></subdivision><subdivision type="Workgroup" subtype="WG">
 <name>Rice Group</name>
-<identifier>WG 3</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>2</edition><version><revision-date>2016-05-01</revision-date></version><language>zh</language><script>Hans</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
+<identifier>WG 3</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>2</edition><version>2016-05-01</version><language>zh</language><script>Hans</script><status><stage abbreviation="CD">30</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-standard</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="CD">Committee Draft International Standard</stagename></ext></bibdata>
 <termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension><boilerplate><copyright-statement>
+<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension><boilerplate><copyright-statement>
 
 <clause id="_0988b7e5-4ea5-82df-f40b-ce1965ace9aa" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_084d4254-7b78-9745-1ba0-6d23b9c35de5" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2016</span></p>
 
@@ -89,7 +93,7 @@
 
 <p id="_7bf66a9d-a77e-a40e-a8bd-c99b22510351">可以在ISO网站上找到ISO 17301 系列中所有部件的列表。</p>
 
-</foreword><introduction id="_1bd8339d-6f96-4690-5bd1-ff555f45bf1f" obligation="informative">
+</foreword><introduction id="_f91020b2-3309-b9bc-7c84-b4c6bfe3293f" obligation="informative">
 <title id="_44328bc1-7cea-d952-10ef-251def636f31">引言</title>
 <p id="_249a7152-c94b-f39f-b040-f24bad442e66">本文件是为满足世界范围内对大米最低规格要求而开发的，因为大多数未经过筛选或吸入的商品大块含有一定比例的其他谷物，杂草种子，谷壳，稻草，石头，沙子，植物材料可具有不同于主要成分的物理和生物学特性，因此可影响储存行为。</p>
 
@@ -103,7 +107,7 @@
 
 <p id="_e65104de-ff13-c3c0-4c28-11b5bedc8c8e">该专利权持有人向发行人保证，他/她愿意与全世界的申请人在合理和非歧视性的条款和条件下谈判许可证。 在这方面，该专利权持有人的声明已在发行人登记。 信息可从以下网址获得：</p>
 
-<p id="_57b1a62a-5335-56cc-8f2a-d38622634962" align="left">Vache Equipment<br/> Fictitious<br/> World<br/><link target="mailto:gehf@vacheequipment.fic"/></p>
+<p id="_8e73305f-cbb9-9a7f-5d81-932c80b27ff4" align="left">Vache Equipment<br/> Fictitious<br/> World<br/> <link target="mailto:gehf@vacheequipment.fic"/></p>
 
 <p id="_1ba4101d-cd81-00a0-5707-8a83e39aa7de">请注意本文件的某些内容可能成为上述以外专利权的主题。 发行人不负责识别任何或所有此类专利权。</p>
 </introduction></preface><sections>
@@ -119,14 +123,12 @@
 
 
 
-<terms id="_ad2c6c36-43af-57fe-2146-1008c3a23789" obligation="normative">
-<title id="_4801537c-2690-3aab-3673-6f7783d362d3">术语和定义</title><p id="_ac2c97b2-ec0c-c2c5-107a-6918861ec988"><eref bibitemid="ISO712" citeas="ISO 712"/> 和 <eref bibitemid="ISO24333" citeas="ISO 24333:2009"/> 界定的以及下列术语和定义适用于本文件。</p>
-<p id="_faa8f8e7-bef4-6d2e-d2c2-041ac1054c4b">ISO和IEC用于标准化的术语数据库地址如下：</p><ul id="_b995273f-bdea-44d9-cbf4-67688280724f"><li><p id="_58ab4ced-4852-2412-9863-d54887cf2434">ISO在线浏览平台：位于https：//www。iso。org/obp［］</p>
+<terms id="_954b2387-76c5-387e-3bdb-2a985cce0aac" obligation="normative">
+<title id="_4801537c-2690-3aab-3673-6f7783d362d3">术语和定义</title><p id="_ac2c97b2-ec0c-c2c5-107a-6918861ec988"><eref bibitemid="ISO712" citeas="ISO 712"/> 和 <eref bibitemid="ISO24333" citeas="ISO 24333:2009"/> 界定的以及下列术语和定义适用于本文件。</p><p id="_faa8f8e7-bef4-6d2e-d2c2-041ac1054c4b">ISO和IEC用于标准化的术语数据库地址如下：</p><ul id="_b995273f-bdea-44d9-cbf4-67688280724f"><li><p id="_58ab4ced-4852-2412-9863-d54887cf2434">ISO在线浏览平台：位于https：//www。iso。org/obp［］</p>
 </li>
 <li><p id="_08fbd725-dba0-1406-55de-6ad58ce7b2a7">IEC Electropedia：位于https：//www。electropedia。org［］</p>
 </li>
 </ul>
-
 <term id="_a17a0006-d1cf-220f-9931-f85a2bb8ca01" anchor="paddy"><preferred><expression>
 <name lang="en">paddy</name><name lang="zh">稻谷</name>
 </expression>
@@ -337,7 +339,7 @@
 </source></term>
 </terms>
 
-<clause id="_41165e15-99f7-c664-0aea-adb04f030ed0" inline-header="false" obligation="normative">
+<clause id="_b72f1f98-bbff-3c50-afa8-0dcfdb6ff5c0" inline-header="false" obligation="normative">
 <title id="_be5d7a1f-94bc-43e9-cc09-a7dd3db19149">规格</title>
 <clause id="_4023d10b-940e-e6cb-0d44-ea65c8d92ca8" inline-header="false" obligation="normative">
 <title id="_6e61f10b-32b5-7412-99a5-b8f4f9995bc5">一般，感官和健康特征</title>
@@ -348,9 +350,9 @@
 <p id="_e4f30753-c21e-c757-0bd5-cd99fe394483">不允许肉眼可见的活昆虫的存在。 在将大块样品分离为测试样品之前应该确定这一点。</p>
 </clause>
 
-<clause id="_0bd393e1-c3dc-8248-cf88-54469bf3cdb1" inline-header="false" obligation="normative">
+<clause id="_f52adccd-c70f-7d06-6660-6011635023c0" inline-header="false" obligation="normative">
 <title id="_91048d4e-0b35-ac1e-27a1-339b2b06f601">物理和化学特性</title>
-<clause id="_2a9b50a1-c08b-56de-afb7-5457d83c2403" inline-header="false" obligation="normative"><p id="_84fe608b-7aa4-5f06-8230-4bc35eedbeeb">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_53ced4f2-363b-429a-f22f-d04ee63bad6d" reference="1"><p id="_47753b83-5a76-b36b-213e-a0b5cb34f55f">已取消并由ISO 712-1:2024取代。</p></fn>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn id="_238579e4-d1e5-9f74-0c3f-195507368d1d" reference="2"><p id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e">从前表示为15％（m/米）。</p>
+<clause id="_f419d020-d62a-0844-fc95-d2bd2d3b0e24" inline-header="false" obligation="normative"><p id="_bd92fff2-e73e-9bc3-4aba-71c46078ac4e">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/><fn id="_472930fd-2f33-87cb-e703-daf8ea8b000b" reference="1"><p id="_9fa2a968-fa6b-7978-1155-aa41b76243c2">撤回 .</p></fn>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2:1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn id="_238579e4-d1e5-9f74-0c3f-195507368d1d" reference="2"><p id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e">从前表示为15％（m/米）。</p>
 </fn></p>
 
 <p id="_fb3d4a09-e60e-06af-b6dc-5463148ce251">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。<note id="_15abb653-0706-47cd-eab5-b6b4b687cfa6"><p id="_a25ea163-fa8d-ef84-4ccb-24f22cb5685e">根据气候，运输和储存的持续时间，某些目的地有时需要较低的湿度质量分数。 有关更多详细信息，请参见<eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>，<eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/>和<eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>。</p>
@@ -359,9 +361,9 @@
 
 </clause>
 
-<clause id="_8d5f7b3d-6d39-1ee8-b0e4-83e429a83848" inline-header="false" obligation="normative"><p id="_fcdc6e7d-3284-4b07-0c97-a3e5a161734f">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
+<clause id="_b8fe3a7b-87ba-c2e5-b8f0-93e8dd3d3252" inline-header="false" obligation="normative"><p id="_fcdc6e7d-3284-4b07-0c97-a3e5a161734f">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
 
-<table id="_a6d9364f-31ca-be69-2583-a909d73c6951" anchor="table1">
+<table id="_47dc9c31-a786-90cf-1a4f-ea00f322d337" anchor="table1">
 <name id="_f0019d77-ed79-0249-1b96-8e392224a192">缺陷的最大允许质量分数</name>
 <thead><tr id="_95312280-da57-8968-61b3-2b8c6c2e76ef"><th id="_091a476e-9acc-6d82-f3f5-a23fa75d3684" valign="top" rowspan="2" align="center">缺陷</th>
 <th id="_f5b38c62-2c39-0c2d-3a54-652d08ef25f4" colspan="4" valign="top" align="center">脱壳米的最大允许质量分数<br/>
@@ -474,7 +476,7 @@
 <tfoot><tr id="_b29778f5-0814-96f6-f4be-32dff00a27c9"><td id="_0904697d-c167-a562-2062-c6ea263cf7f1" colspan="5" valign="top" align="left"><p id="_e11797f5-f7ac-101c-2a30-90f61f9f0efc">活昆虫不得存在。 死虫应包含在异物中。</p>
 </td>
 </tr></tfoot>
-<note id="_f40b0c1e-ea79-8094-a3d4-1910a63e1db5"><p id="_4c2337ae-eea8-82b2-9686-dd8cfa8b834a">该表基于<eref type="inline" bibitemid="ISO7301" citeas="ISO 7301:2011"/><fn id="_dd021814-5290-ba96-5198-be1f88a7d9c6" reference="d"><p id="_f474b217-977c-19aa-92c7-6726547b8502">已取消并由ISO 7301:2021取代。</p></fn>表1。</p>
+<note id="_d4827f47-217b-fd12-8140-7f24bc948a82"><p id="_beb5b74d-5a42-2f56-a645-8232cda93828">该表基于<eref type="inline" bibitemid="ISO7301" citeas="ISO 7301:2011"/>表1。</p>
 </note><note id="_622bd861-e24b-9af7-0e22-a0941344c464"><p id="_6c57dde0-ca98-8efe-a57e-d6bda8e718f2">除了本表中提供的信息外，一些商业合同还需要信息。</p>
 </note><note id="_d521b94e-7242-56fd-553e-216dce51bc3b"><p id="_c565494b-dc08-511b-c982-0922ec555dae">本表仅考虑全红面包（货）米。</p>
 </note></table>
@@ -1014,19 +1016,19 @@
     </msub>
   </mstyle>
 </math><asciimath>t_90</asciimath></stem>估计为18,2分钟。</p>
-</fn><dl id="_5ad9b1ae-3f30-4879-2541-f0882084a1f6" key="true"><dt><stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</fn><key><dl id="_c9050765-a719-f60e-fa19-684d45d6b587"><dt><stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mi>w</mi>
   </mstyle>
 </math><asciimath>w</asciimath></stem></dt>
-<dd id="_34a701ef-fd50-e135-83f9-37457212158c"><p id="_557edbd3-5059-19b3-0723-bf0bcf6374e5">以百分比表示的糊化颗粒的质量分数</p>
+<dd id="_8523256d-0fd0-6366-3bed-8dfb7eb7088d"><p id="_b022d3e7-ade5-a76c-2bd6-7d2dfbc46163">以百分比表示的糊化颗粒的质量分数</p>
 </dd>
 <dt><stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mi>t</mi>
   </mstyle>
 </math><asciimath>t</asciimath></stem></dt>
-<dd id="_a4110a0d-15bf-a53a-c6ae-31541af3308a"><p id="_8454a536-f766-a521-d43b-087ee31799a6">烹饪时间，以分钟表示</p>
+<dd id="_4dc10795-d140-c668-b54d-542098314ac3"><p id="_0373441c-4d37-a0ad-1707-6e93971d7800">烹饪时间，以分钟表示</p>
 </dd>
 <dt><stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
@@ -1036,10 +1038,10 @@
     </msub>
   </mstyle>
 </math><asciimath>t_90</asciimath></stem></dt>
-<dd id="_0ea21437-775a-336d-d792-d5b7f4d7a4d2"><p id="_fa3cbbd2-a7e4-8d61-aa57-94c636a8d2e9">将90％的内核糊化所需的时间</p>
+<dd id="_0a3dc2c4-0401-e66e-98a3-53ec70d27739"><p id="_ffa926e2-d1a7-3799-635f-f039deefea7b">将90％的内核糊化所需的时间</p>
 </dd>
 <dt>P</dt>
-<dd id="_8ab8b81e-6ea2-2094-3755-24ad58b4612f"><p id="_372a7e04-9732-0d61-f771-b14452f12857">曲线的点对应于<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<dd id="_3272836a-b179-8139-f705-7cdc8c4db9f8"><p id="_a4f96357-166e-2d82-c6a9-d879404f6607">曲线的点对应于<stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <msub>
       <mi>t</mi>
@@ -1048,7 +1050,7 @@
   </mstyle>
 </math><asciimath>t_90</asciimath></stem>的烹饪时间</p>
 </dd>
-</dl><note id="_b87d869b-3372-0a2d-f679-884adfbb981d"><p id="_99332e10-97c1-eb50-493e-ede1d2497ee0">这些结果是基于对三种不同类型内核的研究。</p>
+</dl></key><note id="_b87d869b-3372-0a2d-f679-884adfbb981d"><p id="_99332e10-97c1-eb50-493e-ede1d2497ee0">这些结果是基于对三种不同类型内核的研究。</p>
 </note></figure>
 
 
@@ -1162,38 +1164,38 @@
 <td id="_32274024-0559-f15a-862f-74db416f7f74" valign="top" align="center">6,06</td>
 </tr></tbody>
 </table>
-</annex><bibliography><references id="_0707b8fd-4a50-a3fa-69d9-b259fdd06f63" normative="true" obligation="informative">
+</annex><bibliography><references id="_56803084-132d-0399-c4de-62aee4a4550d" normative="true" obligation="informative">
 <title id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 
 
-
-<bibitem id="_10b2c2d2-3819-bcdf-a013-125dbb645f03" type="standard" schema-version="v1.2.9" anchor="ISO712">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_a3061df5-74cc-836d-0c43-b83f7730250d" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
-
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</title>
+<title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Reference method</title>
+<title language="en" script="Latn" type="title-main">Determination of moisture content</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Cereals and cereal products — Determination of moisture content — Reference method</title>
+<title language="en" script="Latn" type="title-part">Reference method</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers</title>
+<title language="en" script="Latn" type="main">Cereals and cereal products — Determination of moisture content — Reference method</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Détermination de la teneur en eau</title>
+<title language="fr" script="Latn" type="title-intro">Céréales et produits céréaliers</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Méthode de référence</title>
+<title language="fr" script="Latn" type="title-main">Détermination de la teneur en eau</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers — Détermination de la teneur en eau — Méthode de référence</title>
+<title language="fr" script="Latn" type="title-part">Méthode de référence</title>
+
+  
+<title language="fr" script="Latn" type="main">Céréales et produits céréaliers — Détermination de la teneur en eau — Méthode de référence</title>
 
   <uri type="src">https://www.iso.org/standard/44807.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
   <docidentifier type="iso-reference">ISO 712(E)</docidentifier>
@@ -1209,10 +1211,29 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>4</edition>
-  <note type="Unpublished-Status"><p id="_b0b80222-5372-9979-b99c-c2921b61d155">已取消并由ISO 712-1:2024取代。</p></note><language>en</language>
+  <note type="Unpublished-Status"><p id="_4eb3e649-495d-cb13-3d63-f0a374069441">撤回 .</p></note><language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
+  <script>Cyrl</script>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -1228,57 +1249,57 @@
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 712:1998</formattedref>
+    <bibitem>
+      <formattedref>ISO 712:1998</formattedref>
       <docidentifier type="ISO" primary="true">ISO 712:1998</docidentifier>
+      <date type="published">
+        <on>1998-12-20</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 712-1:2024</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 712-1:2024</docidentifier>
-      <date type="circulated">
-        <on>2024-09-17</on>
-      </date>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/CD 712</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/CD 712</docidentifier>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
+<title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Determination of moisture content</title>
+<title language="en" script="Latn" type="title-main">Determination of moisture content</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Reference method</title>
+<title language="en" script="Latn" type="title-part">Reference method</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Cereals and cereal products — Determination of moisture content — Reference method</title>
+<title language="en" script="Latn" type="main">Cereals and cereal products — Determination of moisture content — Reference method</title>
 
       
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers</title>
+<title language="fr" script="Latn" type="title-intro">Céréales et produits céréaliers</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Détermination de la teneur en eau</title>
+<title language="fr" script="Latn" type="title-main">Détermination de la teneur en eau</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Méthode de référence</title>
+<title language="fr" script="Latn" type="title-part">Méthode de référence</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers — Détermination de la teneur en eau — Méthode de référence</title>
+<title language="fr" script="Latn" type="main">Céréales et produits céréaliers — Détermination de la teneur en eau — Méthode de référence</title>
 
       <uri type="src">https://www.iso.org/standard/44807.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 712:2009</docidentifier>
       <docidentifier type="iso-reference">ISO 712:2009(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
       <docnumber>712</docnumber>
       <date type="published">
-        <on>2009-11</on>
+        <on>2009-10-30</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -1290,16 +1311,30 @@
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Cereals and pulses</name>
+
+            <identifier>ISO/TC 34/SC 4</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>4</edition>
-      <note type="Unpublished-Status"><p id="_967f9d32-7803-8bd4-610d-bcf1e3b7e9c2">已取消并由ISO 712-1:2024取代。</p></note><language>en</language>
+      <note type="Unpublished-Status"><p id="_6108cdf8-2934-684e-5d96-bc11627fe8c4">撤回 .</p></note><language>en</language>
       <language>fr</language>
+      <language>ru</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 712:2009 specifies a routine reference method for the determination of the moisture content of cereals and cereal products.
-ISO 712:2009 applies to: wheat, rice (paddy, husked and milled), barley, millet (Panicum miliaceum), rye, oats, triticale, sorghum in the form of grains, milled grains, semolina or flour.
-The method is not applicable to maize and pulses.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">L’ISO 712:2009 spécifie une méthode de référence pratique pour la détermination de la teneur en eau des céréales et des produits céréaliers.
-L’ISO 712:2009 est applicable aux produits suivants: blé, riz (paddy, décortiqué et usiné), orge, millet (Panicum miliaceum), seigle, avoine, triticale, sorgho, à l’état de grains, grains broyés, semoule ou farine.
-La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
+      <script>Cyrl</script>
+      <abstract language="en" script="Latn">ISO 712:2009 specifies a routine reference method for the determination of the moisture content of cereals and cereal products. ISO 712:2009 applies to: wheat, rice (paddy, husked and milled), barley, millet (Panicum miliaceum), rye, oats, triticale, sorghum in the form of grains, milled grains, semolina or flour. The method is not applicable to maize and pulses.</abstract>
       <status>
         <stage>95</stage>
         <substage>99</substage>
@@ -1315,47 +1350,51 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 712:1998</formattedref>
+        <bibitem>
+          <formattedref>ISO 712:1998</formattedref>
           <docidentifier type="ISO" primary="true">ISO 712:1998</docidentifier>
-        </bibitem>
-
-      </relation>
-      <relation type="updates">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 712-1:2024</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 712-1:2024</docidentifier>
-          <date type="circulated">
-            <on>2024-09-17</on>
+          <date type="published">
+            <on>1998-12-20</on>
           </date>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/CD 712</formattedref>
+          <docidentifier type="ISO" primary="true">ISO/CD 712</docidentifier>
+        </bibitem>
+
+      </relation>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_4cf8d537-df87-342d-0263-ad7d39f8d472" type="standard" schema-version="v1.2.9" anchor="ISO6646">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_c7863583-aa1a-c82c-729e-da84540575c1" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</title>
+<title language="en" script="Latn" type="title-main">Determination of the potential milling yield from paddy and from husked rice</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Determination of the potential milling yield from paddy and from husked rice</title>
+<title language="en" script="Latn" type="main">Rice — Determination of the potential milling yield from paddy and from husked rice</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Riz</title>
+<title language="fr" script="Latn" type="title-intro">Riz</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
+<title language="fr" script="Latn" type="title-main">Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Riz — Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
+<title language="fr" script="Latn" type="main">Riz — Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
 
   <uri type="src">https://www.iso.org/standard/51072.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
@@ -1374,10 +1413,29 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
   <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
+  <script>Cyrl</script>
   <status>
     <stage>90</stage>
     <substage>93</substage>
@@ -1393,32 +1451,41 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 6646:2000</formattedref>
+    <bibitem>
+      <formattedref>ISO 6646:2000</formattedref>
       <docidentifier type="ISO" primary="true">ISO 6646:2000</docidentifier>
+      <date type="published">
+        <on>2000-02-10</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/PWI 6646</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/PWI 6646</docidentifier>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Determination of the potential milling yield from paddy and from husked rice</title>
+<title language="en" script="Latn" type="title-main">Determination of the potential milling yield from paddy and from husked rice</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Determination of the potential milling yield from paddy and from husked rice</title>
+<title language="en" script="Latn" type="main">Rice — Determination of the potential milling yield from paddy and from husked rice</title>
 
       
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Riz</title>
+<title language="fr" script="Latn" type="title-intro">Riz</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
+<title language="fr" script="Latn" type="title-main">Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Riz — Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
+<title language="fr" script="Latn" type="main">Riz — Détermination des rendements d’usinage à partir du riz paddy et du riz décortiqué</title>
 
       <uri type="src">https://www.iso.org/standard/51072.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
@@ -1428,7 +1495,7 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
       <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
       <docnumber>6646</docnumber>
       <date type="published">
-        <on>2011-07</on>
+        <on>2011-07-01</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -1440,14 +1507,30 @@ La méthode n’est applicable ni au maïs ni aux légumineuses.</abstract>
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Cereals and pulses</name>
+
+            <identifier>ISO/TC 34/SC 4</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>3</edition>
       <language>en</language>
       <language>fr</language>
+      <language>ru</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 6646:2011 specifies a laboratory method for the determination of the yield of husked rice obtained from paddy or parboiled paddy (Oryza sativa L.), and for the determination of the yield of milled head rice obtained from paddy or parboiled paddy, or from husked rice or husked parboiled rice.
-ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">L’ISO 6646:2011 spécifie une méthode de laboratoire pour la détermination du rendement en riz décortiqué obtenu à partir de riz paddy ou de riz paddy étuvé (Oryza sativa L.), et pour la détermination du rendement en grains considérés comme entiers usinés obtenu à partir de riz paddy ou de riz paddy étuvé, ou de riz décortiqué ou de riz décortiqué étuvé.
-L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abrasion.</abstract>
+      <script>Cyrl</script>
+      <abstract language="en" script="Latn">ISO 6646:2011 specifies a laboratory method for the determination of the yield of husked rice obtained from paddy or parboiled paddy (Oryza sativa L.), and for the determination of the yield of milled head rice obtained from paddy or parboiled paddy, or from husked rice or husked parboiled rice. ISO 6646:2011 is only applicable to abrasive milling equipment.</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -1463,53 +1546,67 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 6646:2000</formattedref>
+        <bibitem>
+          <formattedref>ISO 6646:2000</formattedref>
           <docidentifier type="ISO" primary="true">ISO 6646:2000</docidentifier>
+          <date type="published">
+            <on>2000-02-10</on>
+          </date>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/PWI 6646</formattedref>
+          <docidentifier type="ISO" primary="true">ISO/PWI 6646</docidentifier>
+        </bibitem>
+
+      </relation>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_73e3e667-9b80-4479-e850-15bb0066ea83" type="standard" schema-version="v1.2.9" anchor="ISO8351-1">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_431cba50-774c-70c7-9d76-7741eecf4c47" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
+<title language="en" script="Latn" type="title-intro">Packaging</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
+<title language="en" script="Latn" type="title-main">Method of specification for sacks</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Paper sacks</title>
+<title language="en" script="Latn" type="title-part">Part 1: Paper sacks</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Packaging — Method of specification for sacks — Part 1: Paper sacks</title>
+<title language="en" script="Latn" type="main">Packaging — Method of specification for sacks — Part 1: Paper sacks</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Emballages</title>
+<title language="fr" script="Latn" type="title-intro">Emballages</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Méthode de spécification des sacs</title>
+<title language="fr" script="Latn" type="title-main">Méthode de spécification des sacs</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 1: Sacs en papier</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Sacs en papier</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Emballages — Méthode de spécification des sacs — Partie 1: Sacs en papier</title>
+<title language="fr" script="Latn" type="main">Emballages — Méthode de spécification des sacs — Partie 1: Sacs en papier</title>
 
   <uri type="src">https://www.iso.org/standard/15496.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:15496:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/54/15496.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-1:1994</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-1:1994(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:8351:-1:stage-90.93</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:8351:-1:stage-90.92</docidentifier>
   <docnumber>8351</docnumber>
   <date type="published">
-    <on>1994-07</on>
+    <on>1994-06-30</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1521,15 +1618,31 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Performance requirements and tests for means of packaging, packages and unit loads</name>
+
+        <identifier>ISO/TC 122/SC 3</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Provides a checklist for the characteristics of paper sacks to be specified when ordering. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of paper sacks as specified in ISO 6590-2.</abstract>
-  <abstract format="text/plain" language="fr" script="Latn">La présente partie de l’ISO 8351 prescrit une liste de vérification des caractéristiques à spécifier lors de la commande de sacs en papier. Ces spécifications de commande couvrent la description du sac mais ne concernent pas les exigences quantitatives de performance. La présente partie de l’ISO 8351 est principalement applicable aux types de sacs en papier prescrits dans l’ISO 6590-1.</abstract>
+  <abstract language="en" script="Latn">Provides a checklist for the characteristics of paper sacks to be specified when ordering. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of paper sacks as specified in ISO 6590-2.</abstract>
   <status>
     <stage>90</stage>
-    <substage>93</substage>
+    <substage>92</substage>
   </status>
   <copyright>
     <from>1994</from>
@@ -1541,33 +1654,42 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       </organization>
     </owner>
   </copyright>
-  <place>Geneva</place>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/DIS 8351-1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/DIS 8351-1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_2ceacbc2-2b80-301f-a7d3-2a1a6d522535" type="standard" schema-version="v1.2.9" anchor="ISO8351-2">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_e2bb7968-cd43-7584-41b6-13f7bb9cf437" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
+<title language="en" script="Latn" type="title-intro">Packaging</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
+<title language="en" script="Latn" type="title-main">Method of specification for sacks</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Sacks made from thermoplastic flexible film</title>
+<title language="en" script="Latn" type="title-part">Part 2: Sacks made from thermoplastic flexible film</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</title>
+<title language="en" script="Latn" type="main">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Emballages</title>
+<title language="fr" script="Latn" type="title-intro">Emballages</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Méthode de spécification des sacs</title>
+<title language="fr" script="Latn" type="title-main">Méthode de spécification des sacs</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Sacs faits d’un film thermoplastique flexible</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Sacs faits d’un film thermoplastique flexible</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Emballages — Méthode de spécification des sacs — Partie 2: Sacs faits d’un film thermoplastique flexible</title>
+<title language="fr" script="Latn" type="main">Emballages — Méthode de spécification des sacs — Partie 2: Sacs faits d’un film thermoplastique flexible</title>
 
   <uri type="src">https://www.iso.org/standard/1818.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
@@ -1586,6 +1708,23 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Packaging</name>
+
+        <identifier>ISO/TC 122</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
@@ -1606,30 +1745,29 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Packaging</title>
+<title language="en" script="Latn" type="title-intro">Packaging</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Method of specification for sacks</title>
+<title language="en" script="Latn" type="title-main">Method of specification for sacks</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Sacks made from thermoplastic flexible film</title>
+<title language="en" script="Latn" type="title-part">Part 2: Sacks made from thermoplastic flexible film</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</title>
+<title language="en" script="Latn" type="main">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</title>
 
       
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Emballages</title>
+<title language="fr" script="Latn" type="title-intro">Emballages</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Méthode de spécification des sacs</title>
+<title language="fr" script="Latn" type="title-main">Méthode de spécification des sacs</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Sacs faits d’un film thermoplastique flexible</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Sacs faits d’un film thermoplastique flexible</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Emballages — Méthode de spécification des sacs — Partie 2: Sacs faits d’un film thermoplastique flexible</title>
+<title language="fr" script="Latn" type="main">Emballages — Méthode de spécification des sacs — Partie 2: Sacs faits d’un film thermoplastique flexible</title>
 
       <uri type="src">https://www.iso.org/standard/1818.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
@@ -1639,7 +1777,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
       <docnumber>8351</docnumber>
       <date type="published">
-        <on>1994-07</on>
+        <on>1994-06-30</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -1651,12 +1789,28 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Packaging</name>
+
+            <identifier>ISO/TC 122</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">Provides a checklist for the characteristics to be specified when ordering sacks made from thermoplastic flexible films. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of sacks made from thermoplastic flexible films as specified in ISO 6590-2.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">La présente partie de l’ISO 8351 prescrit une liste de vérification des caractéristiques à spécifier lors de la commande de sacs faits d’un film thermoplastique flexible. Ces spécifications de commande couvrent la description du sac mais ne concernent pas les exigences quantitatives de performance. La présente partie de l’ISO 8351 est principalement applicable aux types de sacs faits d’un film thermoplastique flexible prescrits dans l’ISO 6590-2.</abstract>
+      <abstract language="en" script="Latn">Provides a checklist for the characteristics to be specified when ordering sacks made from thermoplastic flexible films. These ordering specifications cover the decription of the sack and do not deal with quantitative performance requirements. Is primarily intended for application to the types of sacks made from thermoplastic flexible films as specified in ISO 6590-2.</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -1671,11 +1825,15 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
           </organization>
         </owner>
       </copyright>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
 <bibitem anchor="ISO16634" id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0" type="standard">
 <title format="text/plain">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
@@ -1683,41 +1841,41 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note><language>zh</language><script>Hans</script>
 </bibitem>
-<bibitem id="_3e690829-f7fb-6627-c2a3-574bce3611a5" type="standard" schema-version="v1.2.9" anchor="ISO20483">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_5a12eba6-9cbf-6050-fa45-fd0426b5b721" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and pulses</title>
+<title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Determination of the nitrogen content and calculation of the crude protein content</title>
+<title language="en" script="Latn" type="title-main">Determination of the nitrogen content and calculation of the crude protein content</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Kjeldahl method</title>
+<title language="en" script="Latn" type="title-part">Kjeldahl method</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</title>
+<title language="en" script="Latn" type="main">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Céréales et légumineuses</title>
+<title language="fr" script="Latn" type="title-intro">Céréales et légumineuses</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Détermination de la teneur en azote et calcul de la teneur en protéines brutes</title>
+<title language="fr" script="Latn" type="title-main">Détermination de la teneur en azote et calcul de la teneur en protéines brutes</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Méthode de Kjeldahl</title>
+<title language="fr" script="Latn" type="title-part">Méthode de Kjeldahl</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Céréales et légumineuses — Détermination de la teneur en azote et calcul de la teneur en protéines brutes — Méthode de Kjeldahl</title>
+<title language="fr" script="Latn" type="main">Céréales et légumineuses — Détermination de la teneur en azote et calcul de la teneur en protéines brutes — Méthode de Kjeldahl</title>
 
   <uri type="src">https://www.iso.org/standard/59162.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 20483:2013</docidentifier>
   <docidentifier type="iso-reference">ISO 20483:2013(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.60</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.93</docidentifier>
   <docnumber>20483</docnumber>
   <date type="published">
-    <on>2013-12</on>
+    <on>2013-11-19</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1729,15 +1887,33 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 20483:2013 specifies a method for the determination of the nitrogen content of cereals, pulses and derived products, according to the Kjeldahl method, and a method for calculating the crude protein content. The method does not distinguish between protein nitrogen and non-protein nitrogen.</abstract>
-  <abstract format="text/plain" language="fr" script="Latn">L’ISO 20483:2013 spécifie une méthode pour la détermination de la teneur en azote des céréales, des légumineuses et des produits dérivés, selon la méthode de Kjeldahl, ainsi qu’une méthode de calcul de la teneur en protéines brutes. La méthode ne fait pas la distinction entre l’azote protéique et l’azote non protéique.</abstract>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 20483:2013 specifies a method for the determination of the nitrogen content of cereals, pulses and derived products, according to the Kjeldahl method, and a method for calculating the crude protein content. The method does not distinguish between protein nitrogen and non-protein nitrogen.</abstract>
   <status>
     <stage>90</stage>
-    <substage>60</substage>
+    <substage>93</substage>
   </status>
   <copyright>
     <from>2013</from>
@@ -1750,33 +1926,38 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 20483:2006</formattedref>
+    <bibitem>
+      <formattedref>ISO 20483:2006</formattedref>
       <docidentifier type="ISO" primary="true">ISO 20483:2006</docidentifier>
+      <date type="published">
+        <on>2006-10-20</on>
+      </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_866601d5-1014-7392-8df2-806f220ae9a3" type="standard" schema-version="v1.2.9" anchor="ISO24333">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_137f921f-4ff4-4937-b936-ae2754984016" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Cereals and cereal products</title>
+<title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Sampling</title>
+<title language="en" script="Latn" type="title-main">Sampling</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Cereals and cereal products — Sampling</title>
+<title language="en" script="Latn" type="main">Cereals and cereal products — Sampling</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers</title>
+<title language="fr" script="Latn" type="title-intro">Céréales et produits céréaliers</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Échantillonnage</title>
+<title language="fr" script="Latn" type="title-main">Échantillonnage</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Céréales et produits céréaliers — Échantillonnage</title>
+<title language="fr" script="Latn" type="main">Céréales et produits céréaliers — Échantillonnage</title>
 
   <uri type="src">https://www.iso.org/standard/42165.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:42165:en</uri>
@@ -1786,7 +1967,7 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
   <docidentifier type="URN">urn:iso:std:iso:24333:stage-90.92</docidentifier>
   <docnumber>24333</docnumber>
   <date type="published">
-    <on>2009-12</on>
+    <on>2009-12-03</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1798,20 +1979,30 @@ L’ISO 6646:2011 ne s’applique qu’aux blanchisseurs de laboratoire par abra
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 24333:2009 specifies requirements for the dynamic or static sampling, by manual or mechanical means, of cereals and cereal products, for assessment of their quality and condition.
-It is applicable to sampling for the determination of heterogeneously distributed contaminants, undesirable substances, and parameters usually homogeneously distributed like those used to assess quality or compliance with specification.
-It can be used to determine insects in a grain lot.
-It is applicable to sampling for assessment of the quality and condition of lots of genetically modified organisms (GMO) but is inappropriate for the determination of the presence of adventitious genetically modified material in non-GM product.
-It is not applicable to seed grain.</abstract>
-  <abstract format="text/plain" language="fr" script="Latn">L’ISO 24333:2009 spécifie des exigences relatives à l’échantillonnage dynamique ou statique, par des moyens manuels ou mécaniques, des céréales et produits céréaliers, en vue de l’évaluation de leur qualité et de leur état.
-Elle est applicable à l’échantillonnage réalisé en vue de la détermination de contaminants répartis de façon hétérogène, de substances indésirables et de paramètres généralement répartis de façon homogène comme ceux utilisés pour évaluer la qualité ou la conformité à une spécification.
-Elle peut être utilisée afin de déterminer l’infestation par des insectes d’un lot de grains.
-Elle est applicable à l’échantillonnage réalisé en vue de l’évaluation de la qualité et de l’état des lots d’organismes génétiquement modifiés (OGM) mais n’est pas appropriée pour déterminer la présence fortuite d’organismes génétiquement modifiés dans des produits non génétiquement modifiés.
-Elle n’est pas applicable aux semences.</abstract>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 24333:2009 specifies requirements for the dynamic or static sampling, by manual or mechanical means, of cereals and cereal products, for assessment of their quality and condition. It is applicable to sampling for the determination of heterogeneously distributed contaminants, undesirable substances, and parameters usually homogeneously distributed like those used to assess quality or compliance with specification. It can be used to determine insects in a grain lot. It is applicable to sampling for assessment of the quality and condition of lots of genetically modified organisms (GMO) but is inappropriate for the determination of the presence of adventitious genetically modified material in non-GM product. It is not applicable to seed grain.</abstract>
   <status>
     <stage>90</stage>
     <substage>92</substage>
@@ -1827,48 +2018,56 @@ Elle n’est pas applicable aux semences.</abstract>
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 6644:2002</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 6644:2002</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 13690:1999</formattedref>
+    <bibitem>
+      <formattedref>ISO 13690:1999</formattedref>
       <docidentifier type="ISO" primary="true">ISO 13690:1999</docidentifier>
+      <date type="published">
+        <on>1999-10-07</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/AWI 24333</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/AWI 24333</docidentifier>
+    <bibitem>
+      <formattedref>ISO 6644:2002</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 6644:2002</docidentifier>
+      <date type="published">
+        <on>2002-11-22</on>
+      </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 24333</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 24333</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-</references><references id="_b6567280-a711-40ff-aacc-7e09d8d9f9bc" normative="false" obligation="informative">
-<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_d8f88896-3b86-8361-d8d2-fe9e30fd3cdc" type="standard" schema-version="v1.2.9" anchor="ISO3696">
-  <fetched>2025-12-01</fetched>
+</references><references id="_bd7a4cb3-e622-8791-4554-6f604c43aa8c" normative="false" obligation="informative">
+<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_b551b4f0-98a0-8bc0-9cae-ae41ed8b2cd3" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
+<title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</title>
+<title language="en" script="Latn" type="title-main">Specification and test methods</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Water for analytical laboratory use — Specification and test methods</title>
+<title language="en" script="Latn" type="main">Water for analytical laboratory use — Specification and test methods</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Eau pour laboratoire à usage analytique</title>
+<title language="fr" script="Latn" type="title-intro">Eau pour laboratoire à usage analytique</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Spécification et méthodes d’essai</title>
+<title language="fr" script="Latn" type="title-main">Spécification et méthodes d’essai</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Eau pour laboratoire à usage analytique — Spécification et méthodes d’essai</title>
+<title language="fr" script="Latn" type="main">Eau pour laboratoire à usage analytique — Spécification et méthodes d’essai</title>
 
   <uri type="src">https://www.iso.org/standard/9169.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
@@ -1885,6 +2084,23 @@ Elle n’est pas applicable aux semences.</abstract>
 
       <abbreviation>ISO</abbreviation>
       <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Chemistry</name>
+
+        <identifier>ISO/TC 47</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
   <edition>1</edition>
@@ -1907,24 +2123,23 @@ Elle n’est pas applicable aux semences.</abstract>
   </copyright>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Water for analytical laboratory use</title>
+<title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Specification and test methods</title>
+<title language="en" script="Latn" type="title-main">Specification and test methods</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Water for analytical laboratory use — Specification and test methods</title>
+<title language="en" script="Latn" type="main">Water for analytical laboratory use — Specification and test methods</title>
 
       
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Eau pour laboratoire à usage analytique</title>
+<title language="fr" script="Latn" type="title-intro">Eau pour laboratoire à usage analytique</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Spécification et méthodes d’essai</title>
+<title language="fr" script="Latn" type="title-main">Spécification et méthodes d’essai</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Eau pour laboratoire à usage analytique — Spécification et méthodes d’essai</title>
+<title language="fr" script="Latn" type="main">Eau pour laboratoire à usage analytique — Spécification et méthodes d’essai</title>
 
       <uri type="src">https://www.iso.org/standard/9169.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
@@ -1934,7 +2149,7 @@ Elle n’est pas applicable aux semences.</abstract>
       <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
       <docnumber>3696</docnumber>
       <date type="published">
-        <on>1987-04</on>
+        <on>1987-04-09</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -1946,13 +2161,28 @@ Elle n’est pas applicable aux semences.</abstract>
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Chemistry</name>
+
+            <identifier>ISO/TC 47</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">Specifies the requirements for three grades for the analysis of inorganic chemicals. Not applicable to organic trace analysis, analysis of surface-active agents and biological or medical analysis. The material shall be a clear, colourless liquid as assessed by inspection. Classifies according to the content: free from dissolved or colloidal ionic and organic contaminants, very low inorganic, organic or colloidal contaminants and suitable for laboratory wet chemistry work. Specifies the pH and conductivity measurement, the limit tests for oxidizable matter and for reactive silica, the measurement of absorbance and the determination of residue after evaporation at 110 °C.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">La présente Norme internationale spécifie les caractéristiques et les méthodes d’essai correspondantes concernant trois qualités d’eau à usage de laboratoire pour l’analyse des produits de chimie inorganique. La présente Norme internationale n’est pas applicable à l’eau pour l’analyse de traces organiques, pour l’analyse des agents de surface, pour l’analyse biologique ou pour les analyses médicales.  
-NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou essais pour lesquels il est requis de l’eau stérile ou exempte de pyrogènes, ou de tension superficielle définie), des essais spécifiques complémentaires et une purification supplémentaire peuvent être nécessaires.</abstract>
+      <abstract language="en" script="Latn">Specifies the requirements for three grades for the analysis of inorganic chemicals. Not applicable to organic trace analysis, analysis of surface-active agents and biological or medical analysis. The material shall be a clear, colourless liquid as assessed by inspection. Classifies according to the content: free from dissolved or colloidal ionic and organic contaminants, very low inorganic, organic or colloidal contaminants and suitable for laboratory wet chemistry work. Specifies the pH and conductivity measurement, the limit tests for oxidizable matter and for reactive silica, the measurement of absorbance and the determination of residue after evaporation at 110 °C.</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -1967,37 +2197,41 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
           </organization>
         </owner>
       </copyright>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_4035a198-f17d-75ab-a0b3-348d524fd5cd" type="standard" schema-version="v1.2.9" anchor="ISO5725-1">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_ac02f16a-1b7a-04b0-c8a3-9651b888f7be" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
+<title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</title>
+<title language="en" script="Latn" type="title-part">Part 1: General principles and definitions</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</title>
+<title language="en" script="Latn" type="main">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
+<title language="fr" script="Latn" type="title-main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 1: Principes généraux et définitions</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Principes généraux et définitions</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
+<title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
   <uri type="src">https://www.iso.org/standard/69418.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-60.60</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
   <docnumber>5725</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -2007,6 +2241,23 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
 
       <abbreviation>ISO</abbreviation>
       <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Measurement methods and results</name>
+
+        <identifier>ISO/TC 69/SC 6</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2028,49 +2279,54 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 5725-1:1994</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+    <bibitem>
+      <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+      <date type="published">
+        <on>1998-02-05</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+    <bibitem>
+      <formattedref>ISO 5725-1:1994</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+      <date type="published">
+        <on>1994-12-22</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
+<title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General principles and definitions</title>
+<title language="en" script="Latn" type="title-part">Part 1: General principles and definitions</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</title>
+<title language="en" script="Latn" type="main">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
+<title language="fr" script="Latn" type="title-main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 1: Principes généraux et définitions</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Principes généraux et définitions</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
+<title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
       <uri type="src">https://www.iso.org/standard/69418.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-60.60</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2023-07</on>
+        <on>2023-07-20</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2082,28 +2338,28 @@ NOTE — Dans certains cas (par exemple certaines méthodes analytiques ou e
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Measurement methods and results</name>
+
+            <identifier>ISO/TC 69/SC 6</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">This document
-—     introduces conditions, constraints and resources necessary to evaluate a measurement method or a result;
-—     defines an organizational scheme for the acquisition of trueness and precision data by study;
-—     provides the necessary definitions, statistical model and principles for ISO 5725 (all parts).
-—     is not applicable to proficiency testing or production of the reference item that has their own standards (ISO 13528, respectively and ISO Guide 35).
-This document is concerned exclusively with measurement methods which yield results on a continuous scale and give a single value as the test result, although this single value may be the outcome of a calculation from a set of observations.
-It defines values which describe, in quantitative terms, the ability of a measurement method to give a true result (trueness) or to replicate a given result (precision). Thus, there is an implication that exactly the identical item is being measured, in exactly the same way, and that the measurement process is under control.
-This document may be applied to a very wide range of test items, including gas, liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the test item.
-This document does not include methods of calculation that are described in the other parts.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">Le présent document
-—     décrit les conditions, les contraintes et les ressources nécessaires pour évaluer une méthode de mesure ou un résultat;
-—     définit un cadre organisationnel pour l’acquisition de données de justesse et de fidélité par l’étude;
-—     fournit les définitions, le modèle statistique et les principes nécessaires à l’utilisation des normes de l’ISO 5725 (toutes les parties);
-—     ne s’applique pas aux essais d’aptitude ni à la production d’un individu de référence, des thèmes abordés par d’autres normes (ISO 13528 et ISO Guide 35).
-Le présent document traite exclusivement des méthodes de mesure qui fournissent des résultats sur une échelle continue et qui donnent comme résultat d’essai une seule valeur, bien que cette valeur unique puisse être le résultat d’un calcul effectué à partir d’un ensemble d’observations.
-Il définit des valeurs qui décrivent, en termes quantitatifs, la capacité d’une méthode de mesure à donner un résultat correct (justesse) ou à répéter un résultat donné (fidélité). Cette capacité suppose donc de mesurer un individu identique exactement de la même façon et de maîtriser le processus de mesure.
-Le présent document peut être appliqué à une très grande variété d’individus d’essai, y compris des gaz, des liquides, des poudres et des objets solides, fabriqués ou naturels, sous réserve de prendre correctement en compte l’hétérogénéité éventuelle de l’individu d’essai.
-Le présent document ne porte pas sur les méthodes de calcul qui sont décrites dans les autres parties.</abstract>
+      <abstract language="en" script="Latn">This document —     introduces conditions, constraints and resources necessary to evaluate a measurement method or a result; —     defines an organizational scheme for the acquisition of trueness and precision data by study; —     provides the necessary definitions, statistical model and principles for ISO 5725 (all parts). —     is not applicable to proficiency testing or production of the reference item that has their own standards (ISO 13528, respectively and ISO Guide 35). This document is concerned exclusively with measurement methods which yield results on a continuous scale and give a single value as the test result, although this single value may be the outcome of a calculation from a set of observations. It defines values which describe, in quantitative terms, the ability of a measurement method to give a true result (trueness) or to replicate a given result (precision). Thus, there is an implication that exactly the identical item is being measured, in exactly the same way, and that the measurement process is under control. This document may be applied to a very wide range of test items, including gas, liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the test item. This document does not include methods of calculation that are described in the other parts.</abstract>
       <status>
         <stage>60</stage>
         <substage>60</substage>
@@ -2119,50 +2375,60 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 5725-1:1994</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+        <bibitem>
+          <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+          <date type="published">
+            <on>1998-02-05</on>
+          </date>
         </bibitem>
 
       </relation>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 5725-1:1994/Cor 1:1998</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+        <bibitem>
+          <formattedref>ISO 5725-1:1994</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+          <date type="published">
+            <on>1994-12-22</on>
+          </date>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_98625ab9-493b-fc39-4a60-9675d6932182" type="standard" schema-version="v1.2.9" anchor="ISO5725-2">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_b8d59cad-1dfc-e38c-2c8f-7b282a2890db" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
+<title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
+<title language="en" script="Latn" type="title-part">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
+<title language="en" script="Latn" type="main">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
+<title language="fr" script="Latn" type="title-main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
+<title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
   <uri type="src">https://www.iso.org/standard/69419.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-90.92</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -2174,13 +2440,30 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Measurement methods and results</name>
+
+        <identifier>ISO/TC 69/SC 6</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
   <status>
-    <stage>90</stage>
-    <substage>92</substage>
+    <stage>60</stage>
+    <substage>60</substage>
   </status>
   <copyright>
     <from>2019</from>
@@ -2193,56 +2476,54 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 5725-2:1994</formattedref>
+    <bibitem>
+      <formattedref>ISO 5725-2:1994</formattedref>
       <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+      <date type="published">
+        <on>1994-12-22</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/DIS 5725-2</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/DIS 5725-2</docidentifier>
+      <date type="published">
+        <on>2002-06-06</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results</title>
+<title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
+<title language="en" script="Latn" type="title-part">Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
+<title language="en" script="Latn" type="main">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
+<title language="fr" script="Latn" type="title-main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
+<title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
       <uri type="src">https://www.iso.org/standard/69419.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-90.92</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2019-12</on>
+        <on>2019-12-06</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2254,39 +2535,31 @@ Le présent document ne porte pas sur les méthodes de calcul qui sont décrites
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Measurement methods and results</name>
+
+            <identifier>ISO/TC 69/SC 6</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">1.1  This document
-—     amplifies the general principles for designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment;
-—     provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods;
-—     provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision.
-NOTE    Modifications to this basic method for particular purposes are given in other parts of ISO 5725.
-1.2  It is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result, although this single value can be the outcome of a calculation from a set of observations.
-1.3  It assumes that in the design and performance of the precision experiment, all the principles as laid down in ISO 5725-1 are observed. The basic method uses the same number of test results in each laboratory, with each laboratory analysing the same levels of test sample; i.e. a balanced uniform-level experiment. The basic method applies to procedures that have been standardized and are in regular use in a number of laboratories.
-1.4  The statistical model of ISO 5725-1:1994, Clause 5, is accepted as a suitable basis for the interpretation and analysis of the test results, the distribution of which is approximately normal.
-1.5  The basic method, as described in this document, (usually) estimates the precision of a measurement method:
-a)   when it is required to determine the repeatability and reproducibility standard deviations as defined in ISO 5725-1;
-b)   when the materials to be used are homogeneous, or when the effects of heterogeneity can be included in the precision values; and
-c)   when the use of a balanced uniform-level layout is acceptable.
-1.6  The same approach can be used to make a preliminary estimate of precision for measurement methods which have not reached standardization or are not in routine use.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">1.1    Le présent document:
-—          souligne les principes généraux applicables à la planification d’expériences pour l’estimation numérique de la fidélité des méthodes de mesure au moyen d’une expérience collaborative interlaboratoires;
-—          fournit une description pratique détaillée de la méthode de base d’une utilisation courante pour l’estimation de la fidélité des méthodes de mesure;
-—          fournit des recommandations pour l’ensemble du personnel concerné par la planification, l’exécution ou l’analyse des résultats des essais pour l’estimation de la fidélité.
-NOTE       Des modifications de cette méthode de base pour des cas particuliers sont données dans les autres parties de l’ISO 5725.
-1.2    Il traite exclusivement des méthodes de mesure qui fournissent des mesures sur une échelle continue et qui donnent comme résultat d’essai une seule valeur, bien que cette valeur unique puisse être le résultat d’un calcul effectué à partir d’un ensemble d’observations.
-1.3    Il prend pour hypothèse que pour la planification et l’exécution de l’expérience de fidélité, tous les principes donnés dans I’ISO 5725‑1 sont suivis. La méthode de base utilise le même nombre de résultats d’essai dans chaque laboratoire, chacun analysant les mêmes niveaux d’échantillons d’essai, c’est-à-dire une expérience à niveau uniforme équilibrée. La méthode de base s’applique à des procédures qui ont été normalisées et qui sont régulièrement utilisées dans un certain nombre de laboratoires.
-1.4    Le modèle statistique de l’ISO 5725‑1:1994, Article 5, est considéré comme une base appropriée pour l’interprétation et l’analyse des résultats d’essai dont la distribution est approximativement normale.
-1.5    La méthode de base, telle que décrite dans le présent document, estime (généralement) la fidélité d’une méthode de mesure:
-a)    lorsqu’il est nécessaire de déterminer l’écart-type de répétabilité et l’écart-type de reproductibilité tels qu’ils sont définis dans l’ISO 5725‑1;
-b)    lorsque les matériaux à utiliser sont homogènes ou lorsque les effets de l’hétérogénéité peuvent être inclus dans les valeurs de fidélité; et
-c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est admise.
-1.6    Une approche similaire peut être appliquée à l’estimation préliminaire de la fidélité pour des méthodes de mesure qui n’ont pas atteint le stade de normalisation ou qui ne sont pas d’utilisation courante.</abstract>
+      <abstract language="en" script="Latn">1.1 This document — amplifies the general principles for designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment; — provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods; — provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. NOTE Modifications to this basic method for particular purposes are given in other parts of ISO 5725. 1.2 It is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result, although this single value can be the outcome of a calculation from a set of observations. 1.3 It assumes that in the design and performance of the precision experiment, all the principles as laid down in ISO 5725-1 are observed. The basic method uses the same number of test results in each laboratory, with each laboratory analysing the same levels of test sample; i.e. a balanced uniform-level experiment. The basic method applies to procedures that have been standardized and are in regular use in a number of laboratories. 1.4 The statistical model of ISO 5725-1:1994, Clause 5, is accepted as a suitable basis for the interpretation and analysis of the test results, the distribution of which is approximately normal. 1.5 The basic method, as described in this document, (usually) estimates the precision of a measurement method: a) when it is required to determine the repeatability and reproducibility standard deviations as defined in ISO 5725-1; b) when the materials to be used are homogeneous, or when the effects of heterogeneity can be included in the precision values; and c) when the use of a balanced uniform-level layout is acceptable. 1.6 The same approach can be used to make a preliminary estimate of precision for measurement methods which have not reached standardization or are not in routine use.</abstract>
       <status>
-        <stage>90</stage>
-        <substage>92</substage>
+        <stage>60</stage>
+        <substage>60</substage>
       </status>
       <copyright>
         <from>2019</from>
@@ -2299,50 +2572,53 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 5725-2:1994</formattedref>
+        <bibitem>
+          <formattedref>ISO 5725-2:1994</formattedref>
           <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+          <date type="published">
+            <on>1994-12-22</on>
+          </date>
         </bibitem>
 
       </relation>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 5725-2:1994/Cor 1:2002</formattedref>
+        <bibitem>
+          <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
           <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
+          <date type="published">
+            <on>2002-06-06</on>
+          </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/DIS 5725-2</formattedref>
-          <docidentifier type="ISO" primary="true">ISO/DIS 5725-2</docidentifier>
-        </bibitem>
-
-      </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_158d336f-1c39-b04d-9dcf-2b082f0f41a9" type="standard" schema-version="v1.2.9" anchor="ISO6322-1">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_8bf2a9ff-6958-807d-4381-9dfbbcab5d8a" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</title>
+<title language="en" script="Latn" type="title-part">Part 1: General recommendations for the keeping of cereals</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 1: Recommandations générales pour la conservation des céréales</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Recommandations générales pour la conservation des céréales</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales</title>
 
   <uri type="src">https://www.iso.org/standard/21396.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
@@ -2359,6 +2635,23 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
       <abbreviation>ISO</abbreviation>
       <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2380,39 +2673,48 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 6322-1:1981</formattedref>
+    <bibitem>
+      <formattedref>ISO 6322-1:1981</formattedref>
       <docidentifier type="ISO" primary="true">ISO 6322-1:1981</docidentifier>
+      <date type="published">
+        <on>1981-05-01</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/CD 6322-1</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/CD 6322-1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/CD 6322-1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/CD 6322-1</formattedref>
       <docidentifier type="ISO" primary="true">ISO/CD 6322-1</docidentifier>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: General recommendations for the keeping of cereals</title>
+<title language="en" script="Latn" type="title-part">Part 1: General recommendations for the keeping of cereals</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 1: Recommandations générales pour la conservation des céréales</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Recommandations générales pour la conservation des céréales</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 1: Recommandations générales pour la conservation des céréales</title>
 
       <uri type="src">https://www.iso.org/standard/21396.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
@@ -2422,7 +2724,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
       <docnumber>6322</docnumber>
       <date type="published">
-        <on>1996-11</on>
+        <on>1996-10-24</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2434,12 +2736,28 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Cereals and pulses</name>
+
+            <identifier>ISO/TC 34/SC 4</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">Gives general guidance of keeping cereals. Other aspects of the storage of cereals and pulses are dealt with in ISO 6322-2 and ISAO 6322-3.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">La présente partie de l’ISO 6322 décrit des lignes directrices générales relatives aux problèmes de conservation des céréales. D’autres aspects du stockage des céréales et des légumineuses sont traités dans l’ISO 6322-2 et l’ISO 6322-3.</abstract>
+      <abstract language="en" script="Latn">Gives general guidance of keeping cereals. Other aspects of the storage of cereals and pulses are dealt with in ISO 6322-2 and ISAO 6322-3.</abstract>
       <status>
         <stage>90</stage>
         <substage>92</substage>
@@ -2455,43 +2773,57 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 6322-1:1981</formattedref>
+        <bibitem>
+          <formattedref>ISO 6322-1:1981</formattedref>
           <docidentifier type="ISO" primary="true">ISO 6322-1:1981</docidentifier>
+          <date type="published">
+            <on>1981-05-01</on>
+          </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/CD 6322-1</formattedref>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/CD 6322-1</formattedref>
           <docidentifier type="ISO" primary="true">ISO/CD 6322-1</docidentifier>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/CD 6322-1</formattedref>
+          <docidentifier type="ISO" primary="true">ISO/CD 6322-1</docidentifier>
+        </bibitem>
+
+      </relation>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_ef455c66-4017-9ccc-f76e-f0c5a0d3ae60" type="standard" schema-version="v1.2.9" anchor="ISO6322-2">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_06216f25-3ddc-ce16-8952-8edaca176b0a" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</title>
+<title language="en" script="Latn" type="title-part">Part 2: Practical recommendations</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 2: Practical recommendations</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 2: Practical recommendations</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Recommandations pratiques</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Recommandations pratiques</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques</title>
 
   <uri type="src">https://www.iso.org/standard/21395.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
@@ -2508,6 +2840,23 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
       <abbreviation>ISO</abbreviation>
       <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2529,32 +2878,34 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 6322-2:1981</formattedref>
+    <bibitem>
+      <formattedref>ISO 6322-2:1981</formattedref>
       <docidentifier type="ISO" primary="true">ISO 6322-2:1981</docidentifier>
+      <date type="published">
+        <on>1981-06-01</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Practical recommendations</title>
+<title language="en" script="Latn" type="title-part">Part 2: Practical recommendations</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 2: Practical recommendations</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 2: Practical recommendations</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 2: Recommandations pratiques</title>
+<title language="fr" script="Latn" type="title-part">Partie 2: Recommandations pratiques</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 2: Recommandations pratiques</title>
 
       <uri type="src">https://www.iso.org/standard/21395.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
@@ -2564,7 +2915,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
       <date type="published">
-        <on>2000-02</on>
+        <on>2000-02-10</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2576,11 +2927,27 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Cereals and pulses</name>
+
+            <identifier>ISO/TC 34/SC 4</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="fr" script="Latn">La présente partie de l’ISO 6322 donne des lignes directrices sur le choix d’une méthode de stockage des céréales et des légumineuses ainsi que des recommandations pratiques permettant de réaliser un bon stockage, en fonction de la méthode choisie. D’autres aspects du stockage des céréales et des légumineuses sont traités dans l’ISO 6322-1 et l’ISO 6322-3.</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -2596,36 +2963,43 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 6322-2:1981</formattedref>
+        <bibitem>
+          <formattedref>ISO 6322-2:1981</formattedref>
           <docidentifier type="ISO" primary="true">ISO 6322-2:1981</docidentifier>
+          <date type="published">
+            <on>1981-06-01</on>
+          </date>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_9e9063a9-73e9-311c-ec61-04668cb6c957" type="standard" schema-version="v1.2.9" anchor="ISO6322-3">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_6feb5bf6-a11a-150b-79d2-315177d87a9d" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</title>
+<title language="en" script="Latn" type="title-part">Part 3: Control of attack by pests</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 3: Control of attack by pests</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 3: Control of attack by pests</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
   
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 3: Contrôle de l’attaque par les déprédateurs</title>
+<title language="fr" script="Latn" type="title-part">Partie 3: Contrôle de l’attaque par les déprédateurs</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 3: Contrôle de l’attaque par les déprédateurs</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 3: Contrôle de l’attaque par les déprédateurs</title>
 
   <uri type="src">https://www.iso.org/standard/12614.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
@@ -2642,6 +3016,23 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
 
       <abbreviation>ISO</abbreviation>
       <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
   <edition>2</edition>
@@ -2663,32 +3054,34 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 6322-3:1981</formattedref>
+    <bibitem>
+      <formattedref>ISO 6322-3:1981</formattedref>
       <docidentifier type="ISO" primary="true">ISO 6322-3:1981</docidentifier>
+      <date type="published">
+        <on>1981-07-01</on>
+      </date>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses</title>
+<title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
       
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 3: Control of attack by pests</title>
+<title language="en" script="Latn" type="title-part">Part 3: Control of attack by pests</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Storage of cereals and pulses — Part 3: Control of attack by pests</title>
+<title language="en" script="Latn" type="main">Storage of cereals and pulses — Part 3: Control of attack by pests</title>
 
       
-<title type="title-main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses</title>
+<title language="fr" script="Latn" type="title-main">Stockage des céréales et des légumineuses</title>
 
       
-<title type="title-part" format="text/plain" language="fr" script="Latn">Partie 3: Contrôle de l’attaque par les déprédateurs</title>
+<title language="fr" script="Latn" type="title-part">Partie 3: Contrôle de l’attaque par les déprédateurs</title>
 
       
-<title type="main" format="text/plain" language="fr" script="Latn">Stockage des céréales et des légumineuses — Partie 3: Contrôle de l’attaque par les déprédateurs</title>
+<title language="fr" script="Latn" type="main">Stockage des céréales et des légumineuses — Partie 3: Contrôle de l’attaque par les déprédateurs</title>
 
       <uri type="src">https://www.iso.org/standard/12614.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
@@ -2698,7 +3091,7 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
       <date type="published">
-        <on>1989-06</on>
+        <on>1989-06-15</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2710,12 +3103,28 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Cereals and pulses</name>
+
+            <identifier>ISO/TC 34/SC 4</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">Gives guidance in means of controlling attack by vertebrate and invertebrate pests. It shows onset of infestation, factors affecting insect and mite development, heating of grain caused by insects and mites, prevention and control of insect and mite infestation. An informative annex A gives limiting and optimum conditions for increase in populations of 23 insect and mite pests.</abstract>
-      <abstract format="text/plain" language="fr" script="Latn">Gives guidance in means of controlling attack by vertebrate and invertebrate pests. It shows onset of infestation, factors affecting insect and mite development, heating of grain caused by insects and mites, prevention and control of insect and mite infestation. An informative annex A gives limiting and optimum conditions for increase in populations of 23 insect and mite pests.</abstract>
+      <abstract language="en" script="Latn">Gives guidance in means of controlling attack by vertebrate and invertebrate pests. It shows onset of infestation, factors affecting insect and mite development, heating of grain caused by insects and mites, prevention and control of insect and mite infestation. An informative annex A gives limiting and optimum conditions for increase in populations of 23 insect and mite pests.</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -2731,48 +3140,53 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 6322-3:1981</formattedref>
+        <bibitem>
+          <formattedref>ISO 6322-3:1981</formattedref>
           <docidentifier type="ISO" primary="true">ISO 6322-3:1981</docidentifier>
+          <date type="published">
+            <on>1981-07-01</on>
+          </date>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_71b9ee12-994a-34cd-3635-f99b6f12caaa" type="standard" schema-version="v1.2.9" anchor="ISO7301">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_dd0b387c-32f5-cb94-e56a-92d8b23c642d" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Specification</title>
+<title language="en" script="Latn" type="title-main">Specification</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Specification</title>
+<title language="en" script="Latn" type="main">Rice — Specification</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Riz</title>
+<title language="fr" script="Latn" type="title-intro">Riz</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Spécifications</title>
+<title language="fr" script="Latn" type="title-main">Spécifications</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Riz — Spécifications</title>
+<title language="fr" script="Latn" type="main">Riz — Spécifications</title>
 
   <uri type="src">https://www.iso.org/standard/50935.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:50935:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier>
   <docidentifier type="iso-reference">ISO 7301:2011(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:7301:stage-95.99</docidentifier>
   <docnumber>7301</docnumber>
   <date type="published">
-    <on>2011-03</on>
-  </date>
-  <date type="corrected">
-    <on>2011-10</on>
+    <on>2011-02-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -2784,15 +3198,33 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
-  <note type="Unpublished-Status"><p id="_d608e773-1e39-ce81-5f66-3fea2a28b54a">已取消并由ISO 7301:2021取代。</p></note><language>en</language>
+  <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 7301:2011 gives the minimum specifications for rice (Oryza sativa L.) which is subject to international trade. It is applicable to the following types: husked rice and milled rice, parboiled or not, intended for direct human consumption. It is neither applicable to other products derived from rice, nor to waxy rice (glutinous rice).</abstract>
-  <abstract format="text/plain" language="fr" script="Latn">L’ISO 7301:2011 fixe les spécifications minimales pour le riz (Oryza sativa L.) faisant l’objet d’un commerce international. Elle est applicable aux types de riz suivants: riz décortiqué et riz usiné, étuvé ou non, destiné à l’alimentation humaine. Elle n’est pas applicable à d’autres produits dérivés du riz, ni au riz gluant.</abstract>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 7301:2011 gives the minimum specifications for rice (Oryza sativa L.) which is subject to international trade. It is applicable to the following types: husked rice and milled rice, parboiled or not, intended for direct human consumption. It is neither applicable to other products derived from rice, nor to waxy rice (glutinous rice).</abstract>
   <status>
-    <stage>95</stage>
-    <substage>99</substage>
+    <stage>60</stage>
+    <substage>60</substage>
   </status>
   <copyright>
     <from>2011</from>
@@ -2805,52 +3237,54 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 7301:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO 7301:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 7301:2002</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 7301:2021</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 7301:2021</docidentifier>
-      <date type="circulated">
-        <on>2021-06-07</on>
+      <date type="published">
+        <on>2002-05-30</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_1aedd456-9172-e161-dd28-4cbf8a335f6f" type="standard" schema-version="v1.2.9" anchor="ISO14864">
-  <fetched>2025-12-01</fetched>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 7301:2011/CD Cor 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 7301:2011/CD Cor 1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_a315565f-d909-9280-d52f-b0514e9bc9fd" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Evaluation of gelatinization time of kernels during cooking</title>
+<title language="en" script="Latn" type="title-main">Evaluation of gelatinization time of kernels during cooking</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Evaluation of gelatinization time of kernels during cooking</title>
+<title language="en" script="Latn" type="main">Rice — Evaluation of gelatinization time of kernels during cooking</title>
 
   
-<title type="title-intro" format="text/plain" language="fr" script="Latn">Riz</title>
+<title language="fr" script="Latn" type="title-intro">Riz</title>
 
   
-<title type="title-main" format="text/plain" language="fr" script="Latn">Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
+<title language="fr" script="Latn" type="title-main">Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
 
   
-<title type="main" format="text/plain" language="fr" script="Latn">Riz — Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
+<title language="fr" script="Latn" type="main">Riz — Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
 
   <uri type="src">https://www.iso.org/standard/25793.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier>
   <docidentifier type="iso-reference">ISO 14864:1998(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.60</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.93</docidentifier>
   <docnumber>14864</docnumber>
   <date type="published">
-    <on>1998-12</on>
+    <on>1998-12-20</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -2862,14 +3296,30 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="fr" script="Latn">La présente Norme internationale spécifie une méthode permettant d’évaluer le temps de gélatinisation lors de la cuisson des grains de riz. Elle s’applique au riz usiné tel que défini dans l’ISO 7301.</abstract>
   <status>
     <stage>90</stage>
-    <substage>60</substage>
+    <substage>93</substage>
   </status>
   <copyright>
     <from>1998</from>
@@ -2881,7 +3331,9 @@ c)    lorsque l’utilisation d’un plan de niveau uniforme équilibré est adm
       </organization>
     </owner>
   </copyright>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem><bibitem anchor="IEC61010-2" id="_cd2851cb-3ebb-24eb-5aae-273ca95b31fa" type="standard">
 <title format="text/plain">测量，控制和实验室用电气设备的安全要求 第2部分：加热材料的实验室设备的特殊要求， Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</title>
 <docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docnumber>61010-2</docnumber><date type="published"><on>1998</on></date><contributor><role type="publisher"/><organization>

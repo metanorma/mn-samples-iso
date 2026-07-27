@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_3483ae18.82f7.49a5"
+Content-Type: multipart/related; boundary="----=_NextPart_7e78dda0.f9be.4cc3"
 
-------=_NextPart_3483ae18.82f7.49a5
+------=_NextPart_7e78dda0.f9be.4cc3
 Content-ID: <document.htm>
 Content-Disposition: inline; filename="document.htm"
 Content-Type: text/html; charset="utf-8"
@@ -1546,7 +1546,7 @@ p.MsoRMPane, li.MsoRMPane, div.MsoRMPane {
   mso-fareast-language: JA;
 }
 
-span.Heading1Char, span.__WORD__1Char {
+span.Heading1Char, span.\31 Char {
   mso-style-name: "Heading 1 Char";
   mso-style-priority: 1;
   mso-style-unhide: no;
@@ -1564,7 +1564,7 @@ span.Heading1Char, span.__WORD__1Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading2Char, span.__WORD__2Char {
+span.Heading2Char, span.\32 Char {
   mso-style-name: "Heading 2 Char";
   mso-style-priority: 2;
   mso-style-unhide: no;
@@ -1582,7 +1582,7 @@ span.Heading2Char, span.__WORD__2Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading3Char, span.__WORD__3Char {
+span.Heading3Char, span.\33 Char {
   mso-style-name: "Heading 3 Char";
   mso-style-priority: 3;
   mso-style-unhide: no;
@@ -1600,7 +1600,7 @@ span.Heading3Char, span.__WORD__3Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading4Char, span.__WORD__4Char {
+span.Heading4Char, span.\34 Char {
   mso-style-name: "Heading 4 Char";
   mso-style-priority: 4;
   mso-style-unhide: no;
@@ -1618,7 +1618,7 @@ span.Heading4Char, span.__WORD__4Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading5Char, span.__WORD__5Char {
+span.Heading5Char, span.\35 Char {
   mso-style-name: "Heading 5 Char";
   mso-style-priority: 5;
   mso-style-unhide: no;
@@ -1636,7 +1636,7 @@ span.Heading5Char, span.__WORD__5Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading6Char, span.__WORD__6Char {
+span.Heading6Char, span.\36 Char {
   mso-style-name: "Heading 6 Char";
   mso-style-priority: 6;
   mso-style-unhide: no;
@@ -3668,10 +3668,6 @@ p.zzCopyright, li.zzCopyright, div.zzCopyright {
   line-height: 12pt;
   mso-pagination: widow-orphan;
   tab-stops: 25.7pt 481.15pt;
-  border: none;
-  mso-border-alt: solid blue 0.5pt;
-  padding: 0cm;
-  mso-padding-alt: 1pt 4pt 1pt 4pt;
   font-size: 11.0pt;
   mso-bidi-font-size: 10pt;
   font-family: "Cambria",serif;
@@ -3680,6 +3676,13 @@ p.zzCopyright, li.zzCopyright, div.zzCopyright {
   color: blue;
   mso-ansi-language: EN-GB;
   mso-fareast-language: JA;
+}
+
+div.zzCopyrightContainer {
+  border: none;
+  mso-border-alt: solid blue 0.5pt;
+  padding: 0cm;
+  mso-padding-alt: 1pt 4pt 1pt 4pt;
 }
 
 p.zzAddress {
@@ -3758,7 +3761,7 @@ p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
   mso-bidi-font-weight: normal;
 }
 
-p.__WORD__1, li.__WORD__1, div.__WORD__1 {
+p.\31 , li.\31 , div.\31  {
   mso-style-name: 引用1;
   mso-style-priority: 99;
   mso-style-unhide: no;
@@ -4030,7 +4033,7 @@ div.figdl p, table.figdl p {
   font-size: 10.0pt;
 }
 
-table.formula_dl {
+div.formula_dl, p.formula_dl, table.formula_dl {
   margin-left: 20.15pt;
 }
 
@@ -4066,6 +4069,11 @@ table.MsoISOTable td, table.MsoISOTableBig td {
   border: solid windowtext 1pt;
   mso-border-alt: solid windowtext 1pt;
   padding: 0cm 2.85pt 0cm 2.85pt;
+}
+
+table.MsoNormalTable th, table.MsoNormalTable td {
+  border: none;
+  mso-border-alt: none;
 }
 
 table.MsoTableGrid {
@@ -4366,7 +4374,7 @@ p.title-second, li.title-second, div.title-second {
   mso-fareast-language: JA;
 }
 
-p.__WORD__10, li.__WORD__10, div.__WORD__10 {
+p.\31 0, li.\31 0, div.\31 0 {
   mso-style-name: 标题1;
   mso-style-unhide: no;
   mso-margin-top-alt: auto;
@@ -4612,7 +4620,7 @@ span.title2 {
   mso-style-unhide: no;
 }
 
-span.__WORD__11 {
+span.\31 1 {
   mso-style-name: 副标题1;
   mso-style-unhide: no;
 }
@@ -7552,6 +7560,10 @@ td.example_label, td.note_label, td.termnote_label {
 
 
 
+
+
+
+
 -->
 
 
@@ -7562,6 +7574,8 @@ td.example_label, td.note_label, td.termnote_label {
 
 <p class="zzCover">
 <span lang="EN-GB" xml:lang="EN-GB"><b>Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F) &#x2014; Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</b></span></p>
+
+
 
 
 
@@ -7600,10 +7614,10 @@ td.example_label, td.note_label, td.termnote_label {
 
 <p class="zzCopyright"><a name="boilerplate-place" id="boilerplate-place"></a>Published in Switzerland</p>
 </div></div>
-<div><a name="boilerplate-copyright-append-destination" id="boilerplate-copyright-append-destination"></a><div class="boilerplate-copyright">
+<div><a name="boilerplate-copyright-append-destination" id="boilerplate-copyright-append-destination"></a><div class="boilerplate-copyright"><div class="zzCopyrightContainer">
 
 
-</div></div>
+</div></div></div>
 </div>
 
 
@@ -7612,118 +7626,118 @@ td.example_label, td.note_label, td.termnote_label {
 "Heading 1,1,ANNEX,1,Biblio Title,1,Foreword Title,1,Intro Title,1,ANNEXN,1,ANNEXZ,1,na2,1,na3,1,na4,1,na5,1,na6,1,Title,1,Base_Heading,1,Box-title,1,Front Head,1,Index Head,1,AMEND Terms Heading,1,AMEND Heading 1 Unnumbered,1"
  <span style="mso-element:field-separator"></span></span>
 <span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc193852187">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc026272396">Foreword<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc193852187 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc026272396 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc349814713">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc077344642">Introduction<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc349814713 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc077344642 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc754373760">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc238166622">1 Scope<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc754373760 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc238166622 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc440911724">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc525936661">2 Normative references<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc440911724 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc525936661 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc611113454">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc996113769">3 Terms and definitions<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc611113454 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc996113769 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc250863391">3.4 Total sediment-aged<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc571051418">3.4 Total sediment-aged<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc250863391 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc571051418 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc603841513">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc915531101">4 Main content<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc603841513 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc915531101 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc452174891">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc895258724">4.1 General<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc452174891 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc895258724 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc2"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc174715799">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc263564061">4.2 Data models<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc174715799 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc263564061 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc3"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc806602556">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc876025610">4.2.1 Basic data types<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc806602556 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc876025610 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc024537982">Annex A 
+<a href="#_Toc123513351">Annex A 
    
   <span style="font-weight:normal;">(normative)</span>
    
    
-  Annex One
+  <b>Annex One</b>
 <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc024537982 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc123513351 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc186349828">Annex B 
+<a href="#_Toc227872224">Annex B 
    
   <span style="font-weight:normal;">(informative)</span>
    
    
-  Annex Two
+  <b>Annex Two</b>
 <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc186349828 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc227872224 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
 <p class="MsoToc1"><span class="MsoHyperlink"><span lang="EN-GB" style="mso-no-proof:yes" xml:lang="EN-GB">
-<a href="#_Toc427652262">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
+<a href="#_Toc264392680">Bibliography<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-tab-count:1 dotted">. </span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">
 <span style="mso-element:field-begin"></span></span>
-<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc427652262 \h </span>
+<span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"> PAGEREF _Toc264392680 \h </span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-separator"></span></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB">1</span>
   <span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"></span><span lang="EN-GB" class="MsoTocTextSpan" xml:lang="EN-GB"><span style="mso-element:field-end"></span></span></a></span></span></p>
 
@@ -7744,8 +7758,7 @@ td.example_label, td.note_label, td.termnote_label {
       </div>
       <div><h1>2<span style="mso-tab-count:1">&#xA0; </span>Normative references</h1>
 <p class="MsoBodyText"><a name="_49996d2b-65c1-916b-9bbf-42b933aa0025" id="_49996d2b-65c1-916b-9bbf-42b933aa0025"></a>The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-
-<p class="RefNorm"><a name="iso8217" id="iso8217"></a><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">8217</span>:<span class="stdyear" style="mso-pattern:none;">2017</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F)&#x2009;&#x2014;&#x2009;Specifications of marine fuels</span></i></p>
+<p class="RefNorm"><a name="iso8217" id="iso8217"></a><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">8217</span>:<span class="stdyear" style="mso-pattern:none;">2017</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Fuels (class F)&#x2009;&#x2014;&#x2009;Specifications of marine fuels</span></i></p>
 </div>
       <div><a name="terms" id="terms"></a><h1>3<span style="mso-tab-count:1">&#xA0; </span>Terms and definitions</h1><p class="MsoBodyText"><a name="_dcc01114-4d03-3550-1347-4ba901bda94c" id="_dcc01114-4d03-3550-1347-4ba901bda94c"></a>For the purposes of this document, the following terms and definitions apply.</p><p class="MsoBodyText"><a name="_1df4aedb-297d-0c69-967f-f6a60db009d2" id="_1df4aedb-297d-0c69-967f-f6a60db009d2"></a>ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p><div class="ul_wrap"><p class="ListContinue1"><a name="_93880b15-0e52-9141-f887-d290dce89ffd" id="_93880b15-0e52-9141-f887-d290dce89ffd"></a>&#x2014;<span style="mso-tab-count:1">&#xA0;</span>ISO Online browsing platform: available at <a href="https://www.iso.org/obp">https://www.iso.org/obp</a></p>
 
@@ -7763,7 +7776,7 @@ td.example_label, td.note_label, td.termnote_label {
 <p class="Definition"><a name="_2fd25a7c-cc27-a8b8-b3a0-355611d98f9c" id="_2fd25a7c-cc27-a8b8-b3a0-355611d98f9c"></a>highest temperature at which a given volume of distillate fuel fails to pass through a standardized filtration device in a specified time when cooled under standardized conditions</p>
 
 
- <p class="Source">[SOURCE: <a href="#ip_309">IP&#xA0;309</a><a href="#ip_309"><sup>[7]</sup></a>
+ <p class="Source">[SOURCE: <a href="#ip_309"><span class="stdpublisher" style="mso-pattern:none;">IP</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">309</span></a><a href="#ip_309"><sup>[7]</sup></a>
 ]</p><p class="TermNum"><a name="term-cloud-point" id="term-cloud-point"></a>3.3</p><p class="Terms" style="text-align:left;"><b>cloud point</b></p><p class="AdmittedTerm" style="text-align:left;">CP</p>
 
 
@@ -7771,38 +7784,38 @@ td.example_label, td.note_label, td.termnote_label {
 <p class="Definition"><a name="_3591f570-9de0-067d-7360-cd5dfab79dd8" id="_3591f570-9de0-067d-7360-cd5dfab79dd8"></a>temperature at which a cloud of wax crystals first appears in a transparent liquid when it is cooled under specified conditions</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso_3015"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">3015</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>, modified &#x2014; In the definition, liquid has been specified to be &#x201C;transparent&#x201D;.]</p><div><a name="_e500adf2-8efd-1ddf-2bb0-6c0f54fa7acf" id="_e500adf2-8efd-1ddf-2bb0-6c0f54fa7acf"></a><h2>3.4<span style="mso-tab-count:1">&#xA0; </span>Total sediment-aged</h2>
+ <p class="Source">[SOURCE: <a href="#iso_3015"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">3015</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>, modified &#x2014; In the definition, liquid has been specified to be &#x201C;transparent&#x201D;.]</p><div><a name="_e500adf2-8efd-1ddf-2bb0-6c0f54fa7acf" id="_e500adf2-8efd-1ddf-2bb0-6c0f54fa7acf"></a><h2>3.4<span style="mso-tab-count:1">&#xA0; </span>Total sediment-aged</h2>
 
 <p class="TermNum"><a name="term-potential-total-sediment" id="term-potential-total-sediment"></a>3.4.1</p><p class="Terms" style="text-align:left;"><b>potential total sediment</b></p><p class="AdmittedTerm" style="text-align:left;">TSP</p>
 
 
 
-<p class="Definition"><a name="_0eb4b666-ccf1-bdd7-16bf-79227831c12f" id="_0eb4b666-ccf1-bdd7-16bf-79227831c12f"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after ageing a sample of residual fuel for 24 h at 100 &#xB0;C under prescribed conditions</p>
+<p class="Definition"><a name="_0eb4b666-ccf1-bdd7-16bf-79227831c12f" id="_0eb4b666-ccf1-bdd7-16bf-79227831c12f"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after ageing a sample of residual fuel for 24 h at 100 &#xB0;C under prescribed conditions</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>]</p>
+ <p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.1</span></a>]</p>
 
 <p class="TermNum"><a name="term-accelerated-total-sediment" id="term-accelerated-total-sediment"></a>3.4.2</p><p class="Terms" style="text-align:left;"><b>accelerated total sediment</b></p><p class="AdmittedTerm" style="text-align:left;">TSA</p>
 
 
 
-<p class="Definition"><a name="_cc430de1-6ea3-66f1-e01b-b937432ee241" id="_cc430de1-6ea3-66f1-e01b-b937432ee241"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after dilution of a sample of residual fuel with hexadecane in the ratio of 1 ml per 10 g of sample under carefully controlled conditions, followed by storage for 1h at 100 &#xB0;C</p>
+<p class="Definition"><a name="_cc430de1-6ea3-66f1-e01b-b937432ee241" id="_cc430de1-6ea3-66f1-e01b-b937432ee241"></a>total sediment, determined by <a href="#iso_10307-1"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span></a>, after dilution of a sample of residual fuel with hexadecane in the ratio of 1 ml per 10 g of sample under carefully controlled conditions, followed by storage for 1h at 100 &#xB0;C</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.2</span></a>]</p>
+ <p class="Source">[SOURCE: <a href="#iso_10307-2"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>,  <span class="citesec" style="mso-pattern:none;">3.2</span></a>]</p>
 </div><p class="TermNum"><a name="term-microphone" id="term-microphone"></a>3.5</p><p class="Terms" style="text-align:left;"><b>microphone</b></p>
 <p class="Definition"><a name="_fccbd5cd-0115-a928-a29d-a0ba8f01fa91" id="_fccbd5cd-0115-a928-a29d-a0ba8f01fa91"></a>transducer that converts sound into an electrical signal</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p><p class="TermNum"><a name="term-headphone" id="term-headphone"></a>3.6</p><p class="Terms" style="text-align:left;"><b>headphone</b></p>
+ <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.14</span></a>]</p><p class="TermNum"><a name="term-headphone" id="term-headphone"></a>3.6</p><p class="Terms" style="text-align:left;"><b>headphone</b></p>
 <p class="Definition"><a name="_6d5e6df7-ba49-29b3-1f2b-89a31817c9c5" id="_6d5e6df7-ba49-29b3-1f2b-89a31817c9c5"></a>transducer that converts an electrical signal into sound, designed to be worn close to the ear</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.17</span></a>]</p><p class="TermNum"><a name="term-headset" id="term-headset"></a>3.7</p><p class="Terms" style="text-align:left;"><b>headset</b></p>
+ <p class="Source">[SOURCE: <a href="#iso22259"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>,  <span class="citesec" style="mso-pattern:none;">3.17</span></a>]</p><p class="TermNum"><a name="term-headset" id="term-headset"></a>3.7</p><p class="Terms" style="text-align:left;"><b>headset</b></p>
 <p class="Definition"><a name="_4c614cff-869d-0d7c-5aed-190cdb346d63" id="_4c614cff-869d-0d7c-5aed-190cdb346d63"></a><b>term <span class="ISOCodebold">headphones</span>, display <span class="ISOCodebold">headphone</span> not resolved via ID <span class="ISOCodebold">headphones</span></b> combined with a <i>microphone</i> (<a href="#term-microphone"><span class="citesec" style="mso-pattern:none;">3.5</span></a>)</p>
 
 
- <p class="Source">[SOURCE: <a href="#iso20109"><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>,  <span class="citesec" style="mso-pattern:none;">3.5</span></a>]</p></div>
+ <p class="Source">[SOURCE: <a href="#iso20109"><span class="stdpublisher" style="mso-pattern:none;">ISO</span>&#xA0;<span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>,  <span class="citesec" style="mso-pattern:none;">3.5</span></a>]</p></div>
       <div>
         <a name="content" id="content"></a>
         <h1>4<span style="mso-tab-count:1">&#xA0; </span>Main content</h1>
@@ -7816,7 +7829,7 @@ td.example_label, td.note_label, td.termnote_label {
 
 <div><a name="_5cbff914-ea50-25b2-e87f-d58a24e6f1d4" id="_5cbff914-ea50-25b2-e87f-d58a24e6f1d4"></a><h3>4.2.1<span style="mso-tab-count:1">&#xA0; </span>Basic data types</h3>
 
-<div class="figure"><a name="_9621f12f-0863-82f1-98c9-ce9c8d77f2d6" id="_9621f12f-0863-82f1-98c9-ce9c8d77f2d6"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:728254b7-d7e1-4c2a-97f4-b2b9871fb0a9.png" height="290" width="448"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
+<div class="figure"><a name="_9621f12f-0863-82f1-98c9-ce9c8d77f2d6" id="_9621f12f-0863-82f1-98c9-ce9c8d77f2d6"></a><p class="figure" style="page-break-after:avoid;"><img src="cid:b39c4f77-d3bd-407f-9ee1-fd93c214021a.png" height="290" width="448"/></p><p class="Figuretitle" style="text-align:center;">Figure 1</p></div>
 </div>
 </div>
       </div>
@@ -7832,6 +7845,7 @@ td.example_label, td.note_label, td.termnote_label {
           <br/>
           <b>Annex One</b>
         </p>
+        <p style="display:none;" class="variant-title-toc">Annex A<span style="mso-tab-count:1">&#xA0; </span>Annex One</p>
         <p class="MsoBodyText"><a name="_7ac12c35-b858-40ec-4fa3-e22ee31d4420" id="_7ac12c35-b858-40ec-4fa3-e22ee31d4420"></a>This is a normative annex.</p>
       </div>
       <p class="MsoBodyText">
@@ -7846,14 +7860,15 @@ td.example_label, td.note_label, td.termnote_label {
           <br/>
           <b>Annex Two</b>
         </p>
+        <p style="display:none;" class="variant-title-toc">Annex B<span style="mso-tab-count:1">&#xA0; </span>Annex Two</p>
         <p class="MsoBodyText"><a name="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca"></a>This is an informative annex.</p>
       </div>
       <p class="MsoBodyText">
         <br clear="all" style="mso-special-character:line-break;page-break-before:always"/>
       </p>
       <div><p class="BiblioTitle">Bibliography</p>
-<p class="BiblioEntry"><a name="iso_3015" id="iso_3015"></a>[1]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">3015</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of cloud point</span></i></p><p class="BiblioEntry"><a name="iso_3016" id="iso_3016"></a>[2]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">3016</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of pour point</span></i></p><p class="BiblioEntry"><a name="iso_10307-1" id="iso_10307-1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 1: Determination by hot filtration</span></i></p><p class="BiblioEntry"><a name="iso_10307-2" id="iso_10307-2"></a>[4]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 2: Determination using standard procedures for ageing</span></i></p><p class="BiblioEntry"><a name="iso20109" id="iso20109"></a>[5]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Simultaneous interpreting&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="iso22259" id="iso22259"></a>[6]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO&#xA0;</span><span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Conference systems&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="ip_309" id="ip_309"></a>[7]<span style="mso-tab-count:1">&#xA0; </span>IP&#xA0;309,
-<i>Diesel and domestic heating fuels&#x2009;&#x2014;&#x2009;Determination of cold filter plugging point</i>
+<p class="BiblioEntry"><a name="iso_3015" id="iso_3015"></a>[1]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">3015</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of cloud point</span></i></p><p class="BiblioEntry"><a name="iso_3016" id="iso_3016"></a>[2]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">3016</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum and related products from natural or synthetic sources&#x2009;&#x2014;&#x2009;Determination of pour point</span></i></p><p class="BiblioEntry"><a name="iso_10307-1" id="iso_10307-1"></a>[3]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">1</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 1: Determination by hot filtration</span></i></p><p class="BiblioEntry"><a name="iso_10307-2" id="iso_10307-2"></a>[4]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">10307</span>-<span class="stddocPartNumber" style="mso-pattern:none;">2</span>:<span class="stdyear" style="mso-pattern:none;">2009</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Petroleum products&#x2009;&#x2014;&#x2009;Total sediment in residual fuel oils&#x2009;&#x2014;&#x2009;Part 2: Determination using standard procedures for ageing</span></i></p><p class="BiblioEntry"><a name="iso20109" id="iso20109"></a>[5]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">20109</span>:<span class="stdyear" style="mso-pattern:none;">2016</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Simultaneous interpreting&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="iso22259" id="iso22259"></a>[6]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">ISO</span> <span class="stddocNumber" style="mso-pattern:none;">22259</span>:<span class="stdyear" style="mso-pattern:none;">2019</span>, <i><span class="stddocTitle" style="mso-pattern:none;">Conference systems&#x2009;&#x2014;&#x2009;Equipment&#x2009;&#x2014;&#x2009;Requirements</span></i></p><p class="BiblioEntry"><a name="ip_309" id="ip_309"></a>[7]<span style="mso-tab-count:1">&#xA0; </span><span class="stdpublisher" style="mso-pattern:none;">IP</span> <span class="stddocNumber" style="mso-pattern:none;">309</span>,
+    <i>Diesel and domestic heating fuels&#x2009;&#x2014;&#x2009;Determination of cold filter plugging point</i>
   </p><p class="BiblioEntry"><a name="inter" id="inter"></a>[8]<span style="mso-tab-count:1">&#xA0; </span>INTERNATIONAL MARITIME ORGANIZATION (IMO), Marine Pollution (MARPOL) Annex VI&#x2009;&#x2014;&#x2009;as amended. IMO Protocol of 1997, as amended by resolution MEPC.176(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto</p>
 
 
@@ -7871,7 +7886,7 @@ td.example_label, td.note_label, td.termnote_label {
 </html>
 
 
-------=_NextPart_3483ae18.82f7.49a5
+------=_NextPart_7e78dda0.f9be.4cc3
 Content-ID: <filelist.xml>
 Content-Disposition: inline; filename="filelist.xml"
 Content-Transfer-Encoding: base64
@@ -7880,13 +7895,13 @@ Content-Type: application/xml
 PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
 ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1pc28vbW4tc2FtcGxl
 cy1pc28vX3NpdGUvZG9jdW1lbnRzL3B1YmxpY2x5LWF2YWlsYWJsZS1zcGVjaWZpY2F0aW9uL2Rv
-Y3VtZW50Lmh0bSIvPiAgPG86RmlsZSBIUmVmPSI3MjgyNTRiNy1kN2UxLTRjMmEtOTdmNC1iMmI5
-ODcxZmIwYTkucG5nIi8+CiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxl
+Y3VtZW50Lmh0bSIvPiAgPG86RmlsZSBIUmVmPSJiMzljNGY3Ny1kM2JkLTQwN2YtOWVlMS1mZDkz
+YzIxNDAyMWEucG5nIi8+CiAgPG86RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxl
 IEhSZWY9ImhlYWRlci5odG1sIi8+CjwveG1sPgo=
 
-------=_NextPart_3483ae18.82f7.49a5
-Content-ID: <728254b7-d7e1-4c2a-97f4-b2b9871fb0a9.png>
-Content-Disposition: inline; filename="728254b7-d7e1-4c2a-97f4-b2b9871fb0a9.png"
+------=_NextPart_7e78dda0.f9be.4cc3
+Content-ID: <b39c4f77-d3bd-407f-9ee1-fd93c214021a.png>
+Content-Disposition: inline; filename="b39c4f77-d3bd-407f-9ee1-fd93c214021a.png"
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -8289,11 +8304,11 @@ VBpwagWUjRFgnFjKWrt2LZL8naKcGCwEO8FasBksB/uh9z506JDXsHyA2rYSTioNOLUCivSy/d69
 eykoKSmJEncqyonBQrATrAWbwXKwH4zvyJEjXsPyAWrbSjipNODUCqiiKIriQQVUURQlSlRAFUVR
 okQFVFEUJUpUQBVFUaLk/wGevHFrulmTpQAAAABJRU5ErkJggg==
 
-------=_NextPart_3483ae18.82f7.49a5
+------=_NextPart_7e78dda0.f9be.4cc3
 Content-ID: <header.html>
 Content-Disposition: inline; filename="header.html"
 Content-Transfer-Encoding: base64
-Content-Type: text/html charset="utf-8"
+Content-Type: text/html; charset="utf-8"
 
 PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
 cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
@@ -8812,4 +8827,4 @@ MHB0Oyc+wqkNCklTTyZuYnNwOzIwMTkmbmJzcDvigJMgQWxsIHJpZ2h0cyByZXNlcnZlZDxvOnA+
 PC9vOnA+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCg0KDQo8L2JvZHk+DQoNCjwvaHRtbD4NCg==
 
 
-------=_NextPart_3483ae18.82f7.49a5--
+------=_NextPart_7e78dda0.f9be.4cc3--

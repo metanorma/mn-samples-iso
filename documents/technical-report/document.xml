@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
 
 <title language="en" type="title-intro">Information technology</title>
 
 <title language="en" type="title-main">Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
-<docidentifier type="ISO" primary="true">ISO/FDTR 29166:2011</docidentifier><docidentifier type="iso-reference">ISO/FDTR 29166:2011(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:tr:29166:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTR 29166</docidentifier><docidentifier type="iso-with-lang">ISO/FDTR 29166:2011(en)</docidentifier><docidentifier type="iso-tc">29166</docidentifier><docnumber>29166</docnumber><date type="published"><on>2011-12</on></date><date type="circulated"><on>2018-10-04</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDTR 29166:2011</docidentifier><docidentifier type="iso-reference">ISO/FDTR 29166:2011(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:tr:29166:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTR 29166</docidentifier><docidentifier type="iso-with-lang">ISO/FDTR 29166:2011(en)</docidentifier><docidentifier type="iso-tc">29166</docidentifier><docnumber>29166</docnumber><date type="published"><on>2011-12</on></date><date type="circulated"><on>2018-10-04</on></date><date type="updated"><on>2011-12</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -28,10 +28,10 @@
 <name>Information technology</name>
 <identifier>JTC 1</identifier><identifier type="full">JTC 1/SC 34</identifier></subdivision><subdivision type="Subcommittee" subtype="SC">
 <name>Document description and processing languages</name>
-<identifier>SC 34</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2011-12</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDTR">50</stage><substage>60</substage></status><copyright><from>2011</from><owner><organization>
+<identifier>SC 34</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2011-12</version><language>en</language><script>Latn</script><status><stage abbreviation="FDTR">50</stage><substage>60</substage></status><copyright><from>2011</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-report</doctype><flavor>iso</flavor><ics><code>35.060</code><text>Languages used in information technology</text></ics><structuredidentifier><project-number>ISO 29166</project-number></structuredidentifier><stagename abbreviation="FDTR">Final Draft Technical Report</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><name>document-scheme</name><value>1989</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>1989</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_1ac749d8-50de-9e5a-be08-8e0bb1eef33f" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_bd68d22e-f082-3fc3-5fb4-7d4cd7473f6a" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2011</span></p>
@@ -100,16 +100,14 @@
 
 
 
-<terms id="_3a84f9c4-a165-d66d-200a-100157c011ea" anchor="terms" obligation="normative">
-<title id="_dfb2eab2-f980-6365-3c47-81d0eb272962">Terms and definitions</title><p id="_dcc01114-4d03-3550-1347-4ba901bda94c">For the purposes of this document, the following terms and definitions apply.</p>
-<p id="_1df4aedb-297d-0c69-967f-f6a60db009d2">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
+<terms id="_ea984b7d-4d08-a247-34fa-e255f801db3f" anchor="terms" obligation="normative">
+<title id="_dfb2eab2-f980-6365-3c47-81d0eb272962">Terms and definitions</title><p id="_dcc01114-4d03-3550-1347-4ba901bda94c">For the purposes of this document, the following terms and definitions apply.</p><p id="_1df4aedb-297d-0c69-967f-f6a60db009d2">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
 
 <ul id="_e6ddc246-88cc-2222-8452-b939a5cefa0e"><li><p id="_93880b15-0e52-9141-f887-d290dce89ffd">ISO Online browsing platform: available at <link target="https://www.iso.org/obp"/></p>
 </li>
 <li><p id="_8a7ecb99-412c-1138-ae9d-76c4ac7b7d43">IEC Electropedia: available at <link target="https://www.electropedia.org"/></p>
 </li>
 </ul>
-
 <term id="_e0ba1f12-9238-2f3b-ec4f-eb6cd2496b19" anchor="term-translation-type"><preferred><expression>
 <name>translation type</name>
 </expression>
@@ -244,19 +242,27 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_cd166925-8264-0da9-33b3-7a27c042ec21" normative="true" obligation="informative">
+</annex><bibliography><references id="_e3862e2d-5dba-fc87-a13f-2a4ba130ca0b" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-
-<bibitem id="_320a430c-0a31-75de-4f23-ddd669807461" type="standard" schema-version="v1.2.9" anchor="iso-iec_26300">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_c809bccc-9ba5-d569-90fa-18023b2351f0" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
-
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">Open Document Format for Office Applications (OpenDocument) v1.0</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Open Document Format for Office Applications (OpenDocument) v1.0</title>
+<title language="en" script="Latn" type="title-main">Open Document Format for Office Applications (OpenDocument) v1.0</title>
+
+  
+<title language="en" script="Latn" type="main">Information technology — Open Document Format for Office Applications (OpenDocument) v1.0</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Format de document ouvert pour applications de bureau (OpenDocument) v1.0</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Format de document ouvert pour applications de bureau (OpenDocument) v1.0</title>
 
   <uri type="src">https://www.iso.org/standard/43485.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:43485:en</uri>
@@ -266,7 +272,7 @@
   <docidentifier type="URN">urn:iso:std:iso-iec:26300:stage-90.93</docidentifier>
   <docnumber>26300</docnumber>
   <date type="published">
-    <on>2006-12</on>
+    <on>2006-11-30</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -288,14 +294,27 @@
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Document description and processing languages</name>
+
+        <identifier>ISO/IEC JTC 1/SC 34</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
-  <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 26300:2006 defines an XML schema for office applications and its semantics. The schema is suitable for office documents, including text documents, spreadsheets, charts and graphical documents like drawings or presentations, but is not restricted to these kinds of documents.
-ISO/IEC 26300:2006 provides for high-level information suitable for editing documents. It defines suitable XML structures for office documents and is friendly to transformations using XSLT or similar XML-based tools.
-ISO/IEC 26300:2006 first provides an introduction to the OpenDocument format and explains the structure of documents that conform to the OpenDocument specification. It describes the meta information that can be contained in such documents, and their text and paragraph content. Text Fields and text indices are described.
-ISO/IEC 26300:2006 describes the table content of a document in OpenDocument format, its graphical content, its chart content and its form content. It also describes content that is common to all documents. It describes the integration of SMIL animation markup into the OpenDocument schema. It explains style information content and specifies formatting properties that can be used within styles. The data types used by the OpenDocument schema are described. The OpenDocument format makes use of a package concept; these packages are described.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 26300:2006 defines an XML schema for office applications and its semantics. The schema is suitable for office documents, including text documents, spreadsheets, charts and graphical documents like drawings or presentations, but is not restricted to these kinds of documents. ISO/IEC 26300:2006 provides for high-level information suitable for editing documents. It defines suitable XML structures for office documents and is friendly to transformations using XSLT or similar XML-based tools. ISO/IEC 26300:2006 first provides an introduction to the OpenDocument format and explains the structure of documents that conform to the OpenDocument specification. It describes the meta information that can be contained in such documents, and their text and paragraph content. Text Fields and text indices are described. ISO/IEC 26300:2006 describes the table content of a document in OpenDocument format, its graphical content, its chart content and its form content. It also describes content that is common to all documents. It describes the integration of SMIL animation markup into the OpenDocument schema. It explains style information content and specifies formatting properties that can be used within styles. The data types used by the OpenDocument schema are described. The OpenDocument format makes use of a package concept; these packages are described.</abstract>
   <status>
     <stage>90</stage>
     <substage>93</substage>
@@ -310,100 +329,115 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300-1:2015</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300-1:2015</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300-1:2015</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2015-06-17</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300-2:2015</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300-2:2015</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300-2:2015</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2015-06-17</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300-3:2015</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300-3:2015</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300-3:2015</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2015-06-17</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300:2006/Cor 1:2010</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300:2006/Cor 1:2010</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006/Cor 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2010-12-15</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300:2006/Cor 2:2011</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300:2006/Cor 2:2011</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006/Cor 2:2011</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2011-11-30</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300:2006/Cor 3:2014</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006/Cor 3:2014</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
-      </date>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 26300:2006/Amd 1:2012</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300:2006/Amd 1:2012</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006/Amd 1:2012</docidentifier>
-      <date type="circulated">
-        <on>2020-12-11</on>
+      <date type="published">
+        <on>2012-03-08</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 26300:2006/Cor 3:2014</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006/Cor 3:2014</docidentifier>
+      <date type="published">
+        <on>2014-08-14</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_96b1bda8-ce53-eaa5-27a7-2588d3ef9eb3" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-1">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_361b5a1a-7b7e-8041-147c-29d525aa70e4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Document description and processing languages</title>
+<title language="en" script="Latn" type="title-main">Document description and processing languages</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference</title>
+<title language="en" script="Latn" type="title-part">Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Document description and processing languages — Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference</title>
+<title language="en" script="Latn" type="main">Information technology — Document description and processing languages — Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Description des documents et langages de traitement</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Formats de fichier “Office Open XML” — Partie 1: Principes essentiels et référence de langage de balisage</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Description des documents et langages de traitement — Formats de fichier “Office Open XML” — Partie 1: Principes essentiels et référence de langage de balisage</title>
 
   <uri type="src">https://www.iso.org/standard/51463.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51463:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51463.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-1:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-1:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
   <date type="published">
-    <on>2008-11</on>
+    <on>2008-11-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -425,11 +459,27 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Document description and processing languages</name>
+
+        <identifier>ISO/IEC JTC 1/SC 34</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_4878a4b0-278a-a57c-54cc-842edeb5468b">Cancelled and replaced by ISO/IEC 29500-1:2011.</p></note><language>en</language>
-  <language>fr</language>
+  <note type="Unpublished-Status"><p id="_906e3a24-cc17-0fd2-999d-34c65e10e0fa">Withdrawn.</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 29500-1:2008 defines a set of XML vocabularies for representing word-processing documents, spreadsheets and presentations, based on the Microsoft Office 2008 applications. It specifies requirements for Office Open XML consumers and producers that comply to the strict conformance category.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 29500-1:2008 defines a set of XML vocabularies for representing word-processing documents, spreadsheets and presentations, based on the Microsoft Office 2008 applications. It specifies requirements for Office Open XML consumers and producers that comply to the strict conformance category.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -444,60 +494,82 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-1:2011</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-1:2011</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2011</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2011-08-12</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-1:2008/Cor 1:2010</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008/Cor 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
-      </date>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-1:2008/Amd 1:2010</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-1:2008/Amd 1:2010</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008/Amd 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
+      <date type="published">
+        <on>2010-08-06</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-1:2008/Cor 1:2010</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008/Cor 1:2010</docidentifier>
+      <date type="published">
+        <on>2010-05-04</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-1:2008/NP Amd 2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008/NP Amd 2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_23cb1974-dd81-ca4f-111f-cf2ea42337fe" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-2">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_5c07f41b-9b95-718b-d3c1-1bbc2d7761e0" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Document description and processing languages</title>
+<title language="en" script="Latn" type="title-main">Document description and processing languages</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Office Open XML File Formats — Part 2: Open Packaging Conventions</title>
+<title language="en" script="Latn" type="title-part">Office Open XML File Formats — Part 2: Open Packaging Conventions</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Document description and processing languages — Office Open XML File Formats — Part 2: Open Packaging Conventions</title>
+<title language="en" script="Latn" type="main">Information technology — Document description and processing languages — Office Open XML File Formats — Part 2: Open Packaging Conventions</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Description des documents et langages de traitement</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Formats de fichier “Office Open XML” — Partie 2: Conventions de paquetage ouvert</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Description des documents et langages de traitement — Formats de fichier “Office Open XML” — Partie 2: Conventions de paquetage ouvert</title>
 
   <uri type="src">https://www.iso.org/standard/51459.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51459:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51459.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-2:2008</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-2:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-2:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
   <date type="published">
-    <on>2008-11</on>
+    <on>2008-11-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -519,11 +591,27 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Document description and processing languages</name>
+
+        <identifier>ISO/IEC JTC 1/SC 34</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_3e24856a-dcab-e84e-b2f9-565155ef7c15">Cancelled and replaced by ISO/IEC 29500-2:2011.</p></note><language>en</language>
-  <language>fr</language>
+  <note type="Unpublished-Status"><p id="_30a7785c-1bcf-a472-26ab-02fc8bd65460">Withdrawn.</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 29500-2:2008 defines a general-purpose file/component packaging facility, which is built on top of the widely used ZIP file structure.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 29500-2:2008 defines a general-purpose file/component packaging facility, which is built on top of the widely used ZIP file structure.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -538,50 +626,72 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-2:2011</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-2:2011</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-2:2011</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2011-08-12</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-2:2008/Cor 1:2010</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-2:2008/NP Amd 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 29500-2:2008/NP Amd 1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-2:2008/Cor 1:2010</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-2:2008/Cor 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
+      <date type="published">
+        <on>2010-05-04</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_4c82d91d-bd4c-0a2d-5af3-da227ab8aeed" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-3">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_3c5a8ee9-cfc9-5d29-9a65-250453961be4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Document description and processing languages</title>
+<title language="en" script="Latn" type="title-main">Document description and processing languages</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility</title>
+<title language="en" script="Latn" type="title-part">Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Document description and processing languages — Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility</title>
+<title language="en" script="Latn" type="main">Information technology — Document description and processing languages — Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Description des documents et langages de traitement</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Formats de fichier “Office Open XML” — Partie 3: Compatibilité et extensibilité du balisage</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Description des documents et langages de traitement — Formats de fichier “Office Open XML” — Partie 3: Compatibilité et extensibilité du balisage</title>
 
   <uri type="src">https://www.iso.org/standard/51461.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51461:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51461.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-3:2008</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-3:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-3:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
   <date type="published">
-    <on>2008-11</on>
+    <on>2008-11-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -603,11 +713,27 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Document description and processing languages</name>
+
+        <identifier>ISO/IEC JTC 1/SC 34</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_815fa6bb-6144-21c8-0274-e977bbc078c7">Cancelled and replaced by ISO/IEC 29500-3:2011.</p></note><language>en</language>
-  <language>fr</language>
+  <note type="Unpublished-Status"><p id="_a169f136-7d86-1901-971a-5b77648f00fb">Withdrawn.</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 29500-3:2008 defines a general-purpose mechanism to extend an XML vocabulary.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 29500-3:2008 defines a general-purpose mechanism to extend an XML vocabulary.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -622,50 +748,65 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-3:2011</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-3:2011</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-3:2011</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2011-08-12</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-3:2008/Cor 1:2010</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-3:2008/Cor 1:2010</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-3:2008/Cor 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
+      <date type="published">
+        <on>2010-05-10</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_26a0a472-798d-b5ea-ab1c-3a9aacd6d2ec" type="standard" schema-version="v1.2.9" anchor="iso-iec_29500-4">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_34de193e-7280-990f-2c7a-ea220744ab5d" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Document description and processing languages</title>
+<title language="en" script="Latn" type="title-main">Document description and processing languages</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Office Open XML File Formats — Part 4: Transitional Migration Features</title>
+<title language="en" script="Latn" type="title-part">Office Open XML File Formats — Part 4: Transitional Migration Features</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Document description and processing languages — Office Open XML File Formats — Part 4: Transitional Migration Features</title>
+<title language="en" script="Latn" type="main">Information technology — Document description and processing languages — Office Open XML File Formats — Part 4: Transitional Migration Features</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Description des documents et langages de traitement</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Formats de fichier “Office Open XML” — Partie 4: Caractéristiques de migration transitoire</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Description des documents et langages de traitement — Formats de fichier “Office Open XML” — Partie 4: Caractéristiques de migration transitoire</title>
 
   <uri type="src">https://www.iso.org/standard/51462.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51462:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51462.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-4:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-4:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
   <date type="published">
-    <on>2008-11</on>
+    <on>2008-11-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -687,11 +828,27 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Document description and processing languages</name>
+
+        <identifier>ISO/IEC JTC 1/SC 34</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_269bc95a-b4c6-a855-3419-5d3b519078bf">Cancelled and replaced by ISO/IEC 29500-4:2011.</p></note><language>en</language>
-  <language>fr</language>
+  <note type="Unpublished-Status"><p id="_11d91064-502c-f3c0-425a-926d5fd1a636">Withdrawn.</p></note><language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 29500-4:2008 defines a set of XML elements and attributes, over and above those defined by ISO/IEC 29500-1, that provide support for legacy Microsoft Office applications; that is, those prior to the 2008 release. It specifies requirements for Office Open XML consumers and producers that comply to the transitional conformance category.</abstract>
+  <abstract language="en" script="Latn">ISO/IEC 29500-4:2008 defines a set of XML elements and attributes, over and above those defined by ISO/IEC 29500-1, that provide support for legacy Microsoft Office applications; that is, those prior to the 2008 release. It specifies requirements for Office Open XML consumers and producers that comply to the transitional conformance category.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -706,49 +863,67 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-4:2011</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-4:2011</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2011</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2011-08-12</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-4:2008/Cor 1:2010</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008/Cor 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
-      </date>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 29500-4:2008/Amd 1:2010</formattedref>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-4:2008/Amd 1:2010</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008/Amd 1:2010</docidentifier>
-      <date type="circulated">
-        <on>2011-08-12</on>
+      <date type="published">
+        <on>2010-08-06</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-4:2008/Cor 1:2010</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008/Cor 1:2010</docidentifier>
+      <date type="published">
+        <on>2010-05-04</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 29500-4:2008/NP Amd 2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008/NP Amd 2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
 
-<bibitem id="_a0acfb7e-94c6-8c2d-0083-54ec8fd5efbb" type="standard" schema-version="v1.2.9" anchor="ISO5127">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_e9ad8789-12aa-9cc9-52a6-eb746ed2da2e" type="standard" schema-version="v1.5.6" anchor="ISO5127">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+<title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Foundation and vocabulary</title>
+<title language="en" script="Latn" type="title-main">Foundation and vocabulary</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information and documentation — Foundation and vocabulary</title>
+<title language="en" script="Latn" type="main">Information and documentation — Foundation and vocabulary</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Information et documentation</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Fondations et vocabulaire</title>
+
+  
+<title language="fr" script="Latn" type="main">Information et documentation — Fondations et vocabulaire</title>
 
   <uri type="src">https://www.iso.org/standard/59743.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59743:en</uri>
@@ -767,9 +942,25 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Information and documentation</name>
+
+        <identifier>ISO/TC 46</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
-  <language>fr</language>
   <script>Latn</script>
   <status>
     <stage>90</stage>
@@ -786,37 +977,48 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 5127:2001</formattedref>
+    <bibitem>
+      <formattedref>ISO 5127:2001</formattedref>
       <docidentifier type="ISO" primary="true">ISO 5127:2001</docidentifier>
+      <date type="published">
+        <on>2001-10-25</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/AWI 5127</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/AWI 5127</formattedref>
       <docidentifier type="ISO" primary="true">ISO/AWI 5127</docidentifier>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/WD 5127</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 5127</formattedref>
       <docidentifier type="ISO" primary="true">ISO/WD 5127</docidentifier>
     </bibitem>
 
   </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+<title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Foundation and vocabulary</title>
+<title language="en" script="Latn" type="title-main">Foundation and vocabulary</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Information and documentation — Foundation and vocabulary</title>
+<title language="en" script="Latn" type="main">Information and documentation — Foundation and vocabulary</title>
+
+      
+<title language="fr" script="Latn" type="title-intro">Information et documentation</title>
+
+      
+<title language="fr" script="Latn" type="title-main">Fondations et vocabulaire</title>
+
+      
+<title language="fr" script="Latn" type="main">Information et documentation — Fondations et vocabulaire</title>
 
       <uri type="src">https://www.iso.org/standard/59743.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59743:en</uri>
@@ -826,7 +1028,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <docidentifier type="URN">urn:iso:std:iso:5127:stage-90.92</docidentifier>
       <docnumber>5127</docnumber>
       <date type="published">
-        <on>2017-05</on>
+        <on>2017-05-10</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -838,11 +1040,27 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Information and documentation</name>
+
+            <identifier>ISO/TC 46</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>2</edition>
       <language>en</language>
-      <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 5127:2017 provides a concept system and general vocabulary for the field of documentation within the whole information field. It has been created with a balanced representation of major work areas in mind: documentation, libraries, archives, media, museums, records management, conservation as well as legal aspects of documentation. The scope of the vocabulary provided in this document corresponds to that of ISO/TC 46: standardization of practices relating to libraries, documentation and information centres, publishing, archives, records management, museum documentation, indexing and abstracting services, and information science.</abstract>
+      <abstract language="en" script="Latn">ISO 5127:2017 provides a concept system and general vocabulary for the field of documentation within the whole information field. It has been created with a balanced representation of major work areas in mind: documentation, libraries, archives, media, museums, records management, conservation as well as legal aspects of documentation. The scope of the vocabulary provided in this document corresponds to that of ISO/TC 46: standardization of practices relating to libraries, documentation and information centres, publishing, archives, records management, museum documentation, indexing and abstracting services, and information science.</abstract>
       <status>
         <stage>90</stage>
         <substage>92</substage>
@@ -858,49 +1076,65 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
         </owner>
       </copyright>
       <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 5127:2001</formattedref>
+        <bibitem>
+          <formattedref>ISO 5127:2001</formattedref>
           <docidentifier type="ISO" primary="true">ISO 5127:2001</docidentifier>
+          <date type="published">
+            <on>2001-10-25</on>
+          </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/AWI 5127</formattedref>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/AWI 5127</formattedref>
           <docidentifier type="ISO" primary="true">ISO/AWI 5127</docidentifier>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/WD 5127</formattedref>
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/WD 5127</formattedref>
           <docidentifier type="ISO" primary="true">ISO/WD 5127</docidentifier>
         </bibitem>
 
       </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-<bibitem id="_5ef8a511-0ee7-61fe-9412-f5578c1d2b62" type="standard" schema-version="v1.2.9" anchor="ISO15924">
-  <fetched>2025-12-01</fetched>
+<bibitem id="_1c721bfb-b87f-8e92-9181-3ac6f7e57f01" type="standard" schema-version="v1.5.6" anchor="ISO15924">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+<title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of scripts</title>
+<title language="en" script="Latn" type="title-main">Codes for the representation of names of scripts</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information and documentation — Codes for the representation of names of scripts</title>
+<title language="en" script="Latn" type="main">Information and documentation — Codes for the representation of names of scripts</title>
 
-  <uri type="src">https://www.iso.org/standard/81905.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:81905:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/08/19/81905.detail.rss</uri>
+  
+<title language="fr" script="Latn" type="title-intro">Information et documentation</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Codes pour la représentation des noms d’écritures</title>
+
+  
+<title language="fr" script="Latn" type="main">Information et documentation — Codes pour la représentation des noms d’écritures</title>
+
+  <uri type="src">https://www.iso.org/standard/29546.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:29546:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 15924</docidentifier>
   <docidentifier type="iso-reference">ISO 15924(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:15924:stage-60.60</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:15924:stage-95.99</docidentifier>
   <docnumber>15924</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -912,7 +1146,24 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
-  <edition>2</edition>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Information and documentation</name>
+
+        <identifier>ISO/TC 46</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
@@ -921,7 +1172,7 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
     <substage>60</substage>
   </status>
   <copyright>
-    <from>2022</from>
+    <from>2004</from>
     <owner>
       <organization>
         
@@ -930,44 +1181,35 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
       </organization>
     </owner>
   </copyright>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 15924:2004</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 15924:2004</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 15924:2022/PRF Amd 1</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 15924:2022/PRF Amd 1</docidentifier>
-      <date type="circulated">
-        <on>2022-03-04</on>
-      </date>
-    </bibitem>
-
-  </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+<title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Codes for the representation of names of scripts</title>
+<title language="en" script="Latn" type="title-main">Codes for the representation of names of scripts</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Information and documentation — Codes for the representation of names of scripts</title>
+<title language="en" script="Latn" type="main">Information and documentation — Codes for the representation of names of scripts</title>
 
-      <uri type="src">https://www.iso.org/standard/81905.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:81905:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/08/19/81905.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 15924:2022</docidentifier>
-      <docidentifier type="iso-reference">ISO 15924:2022(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:15924:stage-60.60</docidentifier>
+      
+<title language="fr" script="Latn" type="title-intro">Information et documentation</title>
+
+      
+<title language="fr" script="Latn" type="title-main">Codes pour la représentation des noms d’écritures</title>
+
+      
+<title language="fr" script="Latn" type="main">Information et documentation — Codes pour la représentation des noms d’écritures</title>
+
+      <uri type="src">https://www.iso.org/standard/29546.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:29546:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 15924:2004</docidentifier>
+      <docidentifier type="iso-reference">ISO 15924:2004(E)</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:15924:stage-95.99</docidentifier>
       <docnumber>15924</docnumber>
       <date type="published">
-        <on>2022-03</on>
+        <on>2004-02-04</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -979,17 +1221,34 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
-      <edition>2</edition>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Information and documentation</name>
+
+            <identifier>ISO/TC 46</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
+      <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">This document provides a code for the presentation of names of scripts. The codes were devised for use in terminology, lexicography, bibliography, and linguistics, but they can be used for any application requiring the expression of scripts in coded form. This document also includes guidance on the use of script codes in some of these applications.</abstract>
+      <abstract language="en" script="Latn">ISO 15924:2004 provides a code for the presentation of names of scripts. The codes were devised for use in terminology, lexicography, bibliography and linguistics, but they may be used for any application requiring the expression of scripts in coded form. ISO 15924:2004 also includes guidance on the use of script codes in some of these applications.</abstract>
       <status>
         <stage>60</stage>
         <substage>60</substage>
       </status>
       <copyright>
-        <from>2022</from>
+        <from>2004</from>
         <owner>
           <organization>
             
@@ -998,196 +1257,42 @@ ISO/IEC 26300:2006 describes the table content of a document in OpenDocument for
           </organization>
         </owner>
       </copyright>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 15924:2004</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 15924:2004</docidentifier>
-        </bibitem>
-
-      </relation>
-      <relation type="updates">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 15924:2022/PRF Amd 1</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 15924:2022/PRF Amd 1</docidentifier>
-          <date type="circulated">
-            <on>2022-03-04</on>
-          </date>
-        </bibitem>
-
-      </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
-</references><references id="_b7ee86bf-0d6a-c356-f22d-8dc83dc3e939" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_abaf1d7e-b86b-7f7c-0ee7-51df4a137475" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-1">
-  <fetched>2025-12-01</fetched>
+</references><references id="_c4024631-d0a9-a857-f96c-0606240325d2" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_ef3d005f-90bb-c92a-df30-0e6b984980a6" type="standard" schema-version="v1.5.6" anchor="iso15489_1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
-
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">Open Distributed Processing</title>
+<title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Reference model: Overview — Part 1:</title>
+<title language="en" script="Latn" type="title-main">Records management</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Open Distributed Processing — Reference model: Overview — Part 1:</title>
-
-  <uri type="src">https://www.iso.org/standard/20696.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:20696:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20696.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO/IEC 10746-1:1998</docidentifier>
-  <docidentifier type="iso-reference">ISO/IEC 10746-1:1998(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso-iec:10746:-1:stage-90.93</docidentifier>
-  <docnumber>10746</docnumber>
-  <date type="published">
-    <on>1998-12</on>
-  </date>
-  <contributor>
-    <role type="publisher"/>
-    <organization>
-      
-<name>International Organization for Standardization</name>
-
-      <abbreviation>ISO</abbreviation>
-      <uri>www.iso.org</uri>
-    </organization>
-  </contributor>
-  <contributor>
-    <role type="publisher"/>
-    <organization>
-      
-<name>International Electrotechnical Commission</name>
-
-      <abbreviation>IEC</abbreviation>
-      <uri>www.iec.ch</uri>
-    </organization>
-  </contributor>
-  <edition>1</edition>
-  <language>en</language>
-  <language>fr</language>
-  <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This Recommendation | International Standard:
-? gives an introduction and motivation for ODP;
-? provides an overview of the Reference Model of Open Distributed Processing (RM-ODP) and an
-explanation of its key concepts;
-? gives guidance on the application of the RM-ODP.
-This Recommendation | International Standard covers both overview and detailed explanation, and can be consulted in
-various ways when reading the standards:
-a) if you intend to read only this Recommendation | International Standard, to gain a general understanding of
-the importance of ODP to your organization, concentrate on clause 6;
-b) if you intend to study the whole RM-ODP, you should also read clause 6 before moving on to
-ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 | ISO/IEC 10746-3;
-c) as you read ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 | ISO/IEC 10746-3 you may
-wish to consult clauses 7 to 10, which give supporting explanation for the various concepts that these
-common texts define;
-d) when you have completed a first reading of ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 |
-ISO/IEC 10746-3, read clauses 11 and 12 which discuss the use of standards in ODP system
-specifications, and provide some examples of applying the ODP concepts in the specification of systems.</abstract>
-  <status>
-    <stage>90</stage>
-    <substage>93</substage>
-  </status>
-  <copyright>
-    <from>1998</from>
-    <owner>
-      <organization>
-        
-<name>ISO/IEC</name>
-
-      </organization>
-    </owner>
-  </copyright>
-  <place>Geneva</place>
-</bibitem><bibitem id="_716bf28e-70ed-75be-5c87-7cbd65f3c6d0" type="standard" schema-version="v1.2.9" anchor="iso-iec_10746-3">
-  <fetched>2025-12-01</fetched>
-  
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-part">Part 1: Concepts and principles</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Open Distributed Processing</title>
+<title language="en" script="Latn" type="main">Information and documentation — Records management — Part 1: Concepts and principles</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Reference Model: Architecture</title>
+<title language="fr" script="Latn" type="title-intro">Information et documentation</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Open Distributed Processing — Reference Model: Architecture</title>
-
-  <uri type="src">https://www.iso.org/standard/20697.html</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20697.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:1996</docidentifier>
-  <docidentifier type="iso-reference">ISO/IEC 10746-3:1996(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso-iec:10746:-3:stage-95.99</docidentifier>
-  <docnumber>10746</docnumber>
-  <date type="published">
-    <on>1996-09</on>
-  </date>
-  <contributor>
-    <role type="publisher"/>
-    <organization>
-      
-<name>International Organization for Standardization</name>
-
-      <abbreviation>ISO</abbreviation>
-      <uri>www.iso.org</uri>
-    </organization>
-  </contributor>
-  <contributor>
-    <role type="publisher"/>
-    <organization>
-      
-<name>International Electrotechnical Commission</name>
-
-      <abbreviation>IEC</abbreviation>
-      <uri>www.iec.ch</uri>
-    </organization>
-  </contributor>
-  <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_f73ff8ab-c317-f2d3-d35c-831bcda0a85e">Cancelled and replaced by ISO/IEC 10746-3:2009.</p></note><language>en</language>
-  <language>fr</language>
-  <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Defines how ODP systems are specified, making use of concepts in ITU-T Recommendation X.902 (ISO/IEC 10746-2); identifies the characteristics that qualify systems as ODP systems.</abstract>
-  <status>
-    <stage>95</stage>
-    <substage>99</substage>
-  </status>
-  <copyright>
-    <from>1996</from>
-    <owner>
-      <organization>
-        
-<name>ISO/IEC</name>
-
-      </organization>
-    </owner>
-  </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 10746-3:2009</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:2009</docidentifier>
-      <date type="circulated">
-        <on>2010-07-22</on>
-      </date>
-    </bibitem>
-
-  </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_0abec420-767f-0745-8f34-c05f43f5b6d3" type="standard" schema-version="v1.2.9" anchor="iso15489_1">
-  <fetched>2025-12-01</fetched>
-  
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information and documentation</title>
+<title language="fr" script="Latn" type="title-main">Gestion des documents d’activité</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Records management</title>
+<title language="fr" script="Latn" type="title-part">Partie 1: Concepts et principes</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Concepts and principles</title>
-
-  
-<title type="main" format="text/plain" language="en" script="Latn">Information and documentation — Records management — Part 1: Concepts and principles</title>
+<title language="fr" script="Latn" type="main">Information et documentation — Gestion des documents d’activité — Partie 1: Concepts et principes</title>
 
   <uri type="src">https://www.iso.org/standard/62542.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:62542:en</uri>
@@ -1197,7 +1302,7 @@ specifications, and provide some examples of applying the ODP concepts in the sp
   <docidentifier type="URN">urn:iso:std:iso:15489:-1:stage-90.93</docidentifier>
   <docnumber>15489</docnumber>
   <date type="published">
-    <on>2016-04</on>
+    <on>2016-04-07</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1209,17 +1314,28 @@ specifications, and provide some examples of applying the ODP concepts in the sp
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Archives/records management</name>
+
+        <identifier>ISO/TC 46/SC 11</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 15489-1:2016 defines the concepts and principles from which approaches to the creation, capture and management of records are developed. This part of ISO 15489 describes concepts and principles relating to the following:
-a)    records, metadata for records and records systems;
-b)    policies, assigned responsibilities, monitoring and training supporting the effective management of records;
-c)    recurrent analysis of business context and the identification of records requirements;
-d)    records controls;
-e)    processes for creating, capturing and managing records.
-ISO 15489-1:2016 applies to the creation, capture and management of records regardless of structure or form, in all types of business and technological environments, over time.</abstract>
+  <abstract language="en" script="Latn">ISO 15489-1:2016 defines the concepts and principles from which approaches to the creation, capture and management of records are developed. This part of ISO 15489 describes concepts and principles relating to the following: a) records, metadata for records and records systems; b) policies, assigned responsibilities, monitoring and training supporting the effective management of records; c) recurrent analysis of business context and the identification of records requirements; d) records controls; e) processes for creating, capturing and managing records. ISO 15489-1:2016 applies to the creation, capture and management of records regardless of structure or form, in all types of business and technological environments, over time.</abstract>
   <status>
     <stage>90</stage>
     <substage>93</substage>
@@ -1235,35 +1351,53 @@ ISO 15489-1:2016 applies to the creation, capture and management of records rega
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 15489-1:2001</formattedref>
+    <bibitem>
+      <formattedref>ISO 15489-1:2001</formattedref>
       <docidentifier type="ISO" primary="true">ISO 15489-1:2001</docidentifier>
+      <date type="published">
+        <on>2001-09-28</on>
+      </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_d0cc5cbb-1d5a-0b4f-499e-317e9ed1b262" type="standard" schema-version="v1.2.9" anchor="iso27000">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_e391437b-9554-a40e-336a-bd2612c731bf" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Information technology</title>
+<title language="en" script="Latn" type="title-intro">Information technology</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Security techniques</title>
+<title language="en" script="Latn" type="title-main">Open Distributed Processing</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Information security management systems — Overview and vocabulary</title>
+<title language="en" script="Latn" type="title-part">Reference model: Overview — Part 1:</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Information technology — Security techniques — Information security management systems — Overview and vocabulary</title>
+<title language="en" script="Latn" type="main">Information technology — Open Distributed Processing — Reference model: Overview — Part 1:</title>
 
-  <uri type="src">https://www.iso.org/standard/41933.html</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/04/19/41933.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO/IEC 27000:2009</docidentifier>
-  <docidentifier type="iso-reference">ISO/IEC 27000:2009(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso-iec:27000:stage-95.99</docidentifier>
-  <docnumber>27000</docnumber>
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Traitement réparti ouvert</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Modèle de référence: Aperçu général — Partie 1:</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Traitement réparti ouvert — Modèle de référence: Aperçu général — Partie 1:</title>
+
+  <uri type="src">https://www.iso.org/standard/20696.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:20696:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20696.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO/IEC 10746-1:1998</docidentifier>
+  <docidentifier type="iso-reference">ISO/IEC 10746-1:1998(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-iec:10746:-1:stage-90.93</docidentifier>
+  <docnumber>10746</docnumber>
   <date type="published">
-    <on>2009-05</on>
+    <on>1998-12-20</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -1285,12 +1419,235 @@ ISO 15489-1:2016 applies to the creation, capture and management of records rega
       <uri>www.iec.ch</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Software and systems engineering</name>
+
+        <identifier>ISO/IEC JTC 1/SC 7</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
-  <note type="Unpublished-Status"><p id="_fcc73d2f-8e4b-5c74-246c-51cc030842d3">Cancelled and replaced by ISO/IEC 27000:2012.</p></note><language>en</language>
+  <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 27000:2009 provides an overview of information security management systems, which form the subject of the information security management system (ISMS) family of standards, and defines related terms. As a result of implementing ISO/IEC 27000:2009, all types of organization (e.g. commercial enterprises, government agencies and non-profit organizations) are expected to obtain: 
-The objectives of ISO/IEC 27000:2009 are to provide terms and definitions, and an introduction to the ISMS family of standards that:</abstract>
+  <abstract language="en" script="Latn">This Recommendation | International Standard: ? gives an introduction and motivation for ODP; ? provides an overview of the Reference Model of Open Distributed Processing (RM-ODP) and an explanation of its key concepts; ? gives guidance on the application of the RM-ODP. This Recommendation | International Standard covers both overview and detailed explanation, and can be consulted in various ways when reading the standards: a) if you intend to read only this Recommendation | International Standard, to gain a general understanding of the importance of ODP to your organization, concentrate on clause 6; b) if you intend to study the whole RM-ODP, you should also read clause 6 before moving on to ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 | ISO/IEC 10746-3; c) as you read ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 | ISO/IEC 10746-3 you may wish to consult clauses 7 to 10, which give supporting explanation for the various concepts that these common texts define; d) when you have completed a first reading of ITU-T Rec. X.902 | ISO/IEC 10746-2 and ITU-T Rec. X.903 | ISO/IEC 10746-3, read clauses 11 and 12 which discuss the use of standards in ODP system specifications, and provide some examples of applying the ODP concepts in the specification of systems.</abstract>
+  <status>
+    <stage>90</stage>
+    <substage>93</substage>
+  </status>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        
+<name>ISO/IEC</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_5d25e312-5df4-1fb2-598e-39020b685686" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3">
+  <fetched>2026-07-27</fetched>
+  
+<title language="en" script="Latn" type="title-intro">Information technology</title>
+
+  
+<title language="en" script="Latn" type="title-main">Open Distributed Processing</title>
+
+  
+<title language="en" script="Latn" type="title-part">Reference Model: Architecture</title>
+
+  
+<title language="en" script="Latn" type="main">Information technology — Open Distributed Processing — Reference Model: Architecture</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Traitement réparti ouvert</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Modèle de référence: Architecture</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Traitement réparti ouvert — Modèle de référence: Architecture</title>
+
+  <uri type="src">https://www.iso.org/standard/20697.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:20697:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20697.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:1996</docidentifier>
+  <docidentifier type="iso-reference">ISO/IEC 10746-3:1996(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-iec:10746:-3:stage-95.99</docidentifier>
+  <docnumber>10746</docnumber>
+  <date type="published">
+    <on>1996-09-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
+<name>International Electrotechnical Commission</name>
+
+      <abbreviation>IEC</abbreviation>
+      <uri>www.iec.ch</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Software and systems engineering</name>
+
+        <identifier>ISO/IEC JTC 1/SC 7</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <note type="Unpublished-Status"><p id="_c407dab9-1e35-3867-c718-408e1c669c01">Withdrawn.</p></note><language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract language="en" script="Latn">Defines how ODP systems are specified, making use of concepts in ITU-T Recommendation X.902 (ISO/IEC 10746-2); identifies the characteristics that qualify systems as ODP systems.</abstract>
+  <status>
+    <stage>95</stage>
+    <substage>99</substage>
+  </status>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        
+<name>ISO/IEC</name>
+
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 10746-3:2009</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:2009</docidentifier>
+      <date type="published">
+        <on>2009-12-15</on>
+      </date>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 10746-3:1996/PDAM 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:1996/CD Amd 1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_8f9aede4-71a7-3f03-eaca-32881e717839" type="standard" schema-version="v1.5.6" anchor="iso27000">
+  <fetched>2026-07-27</fetched>
+  
+<title language="en" script="Latn" type="title-intro">Information technology</title>
+
+  
+<title language="en" script="Latn" type="title-main">Security techniques</title>
+
+  
+<title language="en" script="Latn" type="title-part">Information security management systems — Overview and vocabulary</title>
+
+  
+<title language="en" script="Latn" type="main">Information technology — Security techniques — Information security management systems — Overview and vocabulary</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Technologies de l’information</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Techniques de sécurité</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Systèmes de management de la sécurité de l’information — Vue d’ensemble et vocabulaire</title>
+
+  
+<title language="fr" script="Latn" type="main">Technologies de l’information — Techniques de sécurité — Systèmes de management de la sécurité de l’information — Vue d’ensemble et vocabulaire</title>
+
+  <uri type="src">https://www.iso.org/standard/41933.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:41933:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/04/19/41933.detail.rss</uri>
+  <docidentifier type="ISO" primary="true">ISO/IEC 27000:2009</docidentifier>
+  <docidentifier type="iso-reference">ISO/IEC 27000:2009(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso-iec:27000:stage-95.99</docidentifier>
+  <docnumber>27000</docnumber>
+  <date type="published">
+    <on>2009-04-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <abbreviation>ISO</abbreviation>
+      <uri>www.iso.org</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      
+<name>International Electrotechnical Commission</name>
+
+      <abbreviation>IEC</abbreviation>
+      <uri>www.iec.ch</uri>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="IEC">
+        
+<name>Information security, cybersecurity and privacy protection</name>
+
+        <identifier>ISO/IEC JTC 1/SC 27</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <note type="Unpublished-Status"><p id="_7be12734-3f17-07c9-73a6-bbc6a26cab24">Withdrawn.</p></note><language>en</language>
+  <language>fr</language>
+  <script>Latn</script>
+  <abstract language="en" script="Latn">ISO/IEC 27000:2009 provides an overview of information security management systems, which form the subject of the information security management system (ISMS) family of standards, and defines related terms. As a result of implementing ISO/IEC 27000:2009, all types of organization (e.g. commercial enterprises, government agencies and non-profit organizations) are expected to obtain: an overview of the ISMS family of standards; an introduction to information security management systems (ISMS); a brief description of the Plan-Do-Check-Act (PDCA) process; and an understanding of terms and definitions in use throughout the ISMS family of standards. The objectives of ISO/IEC 27000:2009 are to provide terms and definitions, and an introduction to the ISMS family of standards that: define requirements for an ISMS and for those certifying such systems; provide direct support, detailed guidance and/or interpretation for the overall Plan-Do-Check-Act (PDCA) processes and requirements; address sector-specific guidelines for ISMS; and address conformity assessment for ISMS.</abstract>
   <status>
     <stage>95</stage>
     <substage>99</substage>
@@ -1305,17 +1662,19 @@ The objectives of ISO/IEC 27000:2009 are to provide terms and definitions, and a
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/IEC 27000:2012</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/IEC 27000:2012</formattedref>
       <docidentifier type="ISO" primary="true">ISO/IEC 27000:2012</docidentifier>
-      <date type="circulated">
+      <date type="published">
         <on>2012-12-04</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
 
 

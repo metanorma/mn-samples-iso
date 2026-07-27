@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.2.2" schema-version="v2.1.4" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Fire safety — Statistical data collection — Vocabulary</title>
 
@@ -9,6 +9,8 @@
 
 <title language="en" type="title-part">Vocabulary</title>
 
+<title language="en" type="title-part-prefix">Part 2</title>
+
 <title language="fr" type="main">Sécurité incendie — Collecte des données statistiques — Vocabulaire</title>
 
 <title language="fr" type="title-intro">Sécurité incendie</title>
@@ -16,7 +18,9 @@
 <title language="fr" type="title-main">Collecte des données statistiques</title>
 
 <title language="fr" type="title-part">Vocabulaire</title>
-<docidentifier type="ISO" primary="true">ISO/FDTS 17755-2-2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDTS 17755-2-2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:ts:17755-2:-2:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTS 17755-2-2</docidentifier><docidentifier type="iso-with-lang">ISO/FDTS 17755-2-2:2020(en)</docidentifier><docnumber>17755-2</docnumber><date type="published"><on>2020-08-06</on></date><date type="circulated"><on>2020-07-16</on></date><contributor><role type="author"/><organization>
+
+<title language="fr" type="title-part-prefix">Partie 2</title>
+<docidentifier type="ISO" primary="true">ISO/FDTS 17755-2-2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDTS 17755-2-2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:ts:17755-2:-2:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDTS 17755-2-2</docidentifier><docidentifier type="iso-with-lang">ISO/FDTS 17755-2-2:2020(en)</docidentifier><docnumber>17755-2</docnumber><date type="published"><on>2020-08-06</on></date><date type="circulated"><on>2020-07-16</on></date><date type="updated"><on>2020-08-06</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -34,10 +38,10 @@
 <name>International Organization for Standardization</name>
 <subdivision type="Technical committee" subtype="TC">
 <name>Fire safety</name>
-<identifier>TC 92</identifier><identifier type="full">TC 92</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version><revision-date>2020-08-06</revision-date></version><language>en</language><script>Latn</script><status><stage abbreviation="FDTS">50</stage><substage>60</substage></status><copyright><from>2020</from><owner><organization>
+<identifier>TC 92</identifier><identifier type="full">TC 92</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2020-08-06</version><language>en</language><script>Latn</script><status><stage abbreviation="FDTS">50</stage><substage>60</substage></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-specification</doctype><flavor>iso</flavor><ics><code>01.040.13</code><text>Environment. Health protection. Safety (Vocabularies)</text></ics><ics><code>13.220.20</code><text>Fire protection</text></ics><structuredidentifier><project-number part="2">ISO 17755-2</project-number></structuredidentifier><stagename abbreviation="FDTS">Final Draft Technical Specification</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><name>document-scheme</name><value>2013</value></presentation-metadata><presentation-metadata><name>TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>HTML TOC Heading Levels</name><value>2</value></presentation-metadata><presentation-metadata><name>DOC TOC Heading Levels</name><value>3</value></presentation-metadata><presentation-metadata><name>PDF TOC Heading Levels</name><value>3</value></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -92,16 +96,14 @@
 
 
 
-<terms id="_c83876ec-4962-f9b5-8442-c593990bef72" anchor="terms" obligation="normative">
-<title id="_dfb2eab2-f980-6365-3c47-81d0eb272962">Terms and definitions</title><p id="_dcc01114-4d03-3550-1347-4ba901bda94c">For the purposes of this document, the following terms and definitions apply.</p>
-<p id="_1df4aedb-297d-0c69-967f-f6a60db009d2">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
+<terms id="_ec3e1a35-4d43-1b76-384c-683e51077cf6" anchor="terms" obligation="normative">
+<title id="_dfb2eab2-f980-6365-3c47-81d0eb272962">Terms and definitions</title><p id="_dcc01114-4d03-3550-1347-4ba901bda94c">For the purposes of this document, the following terms and definitions apply.</p><p id="_1df4aedb-297d-0c69-967f-f6a60db009d2">ISO and IEC maintain terminology databases for use in standardization at the following addresses:</p>
 
 <ul id="_e6ddc246-88cc-2222-8452-b939a5cefa0e"><li><p id="_93880b15-0e52-9141-f887-d290dce89ffd">ISO Online browsing platform: available at <link target="https://www.iso.org/obp"/></p>
 </li>
 <li><p id="_8a7ecb99-412c-1138-ae9d-76c4ac7b7d43">IEC Electropedia: available at <link target="https://www.electropedia.org"/></p>
 </li>
 </ul>
-
 <term id="_2ed6d15c-097a-2f9d-05bb-48c943b8c5e0" anchor="term-accelerant"><preferred><expression>
 <name>accelerant</name>
 </expression>
@@ -119,7 +121,7 @@
  <termnote id="_8e23549c-9ca3-decb-a5e2-a106d1e63c7c"><p id="_d2dbe668-b9de-0641-744e-ffad0608dc89">See also, location of the fire (3.58) and point of origin of the fire (3.64).</p>
 </termnote></term>
 
-<term id="_b1c693b0-2664-9b1c-8082-1ed2c9cdaf19" anchor="term-_fire-statistics_-fuel"><preferred><expression>
+<term id="_a9c278e9-b316-ad36-be82-077fd392c0d6" anchor="term-_fire-statistics_-fuel"><preferred><expression>
 <name>fuel</name>
 </expression>
 </preferred>
@@ -128,7 +130,7 @@
 <domain>fire statistics</domain><definition id="_a832b706-4f5e-72bf-599b-823f55636582"><verbal-definition id="_0e527687-dc60-be6a-cad1-7f95db76d494"><p id="_9fe2aaeb-0679-31f2-ae62-07b4524716e7">material that maintains combustion under specified environmental conditions</p></verbal-definition></definition>
 
 
- <termnote id="_66e280b3-097a-2992-fb11-8f180c505cd0"><p id="_1d3cf90d-d544-a43c-9b3c-092e388ab4f9">This definition differs from that given in <eref type="inline" bibitemid="iso13943" citeas="ISO 13943:2017"><localityStack><locality type="clause"><referenceFrom>3.189</referenceFrom></locality></localityStack></eref><fn id="_75c4067f-e9f3-1da0-15fa-ccca181c56b7"><p id="_e9b9b5fb-7dce-69de-bcbf-6f0a84ab35ba">Cancelled and replaced by ISO 13943:2023.</p></fn>.</p>
+ <termnote id="_b837f6c9-bcb3-743f-2498-31e366670de8"><p id="_b54cd03a-df46-0ae3-d184-3a7b7f670d8b">This definition differs from that given in <eref type="inline" bibitemid="iso13943" citeas="ISO 13943:2017"><localityStack><locality type="clause"><referenceFrom>3.189</referenceFrom></locality></localityStack></eref>.</p>
 </termnote></term>
 
 <term id="_98fadb40-b0c6-4c27-bfc7-cba1b33a9fae" anchor="term-location-of-the-fire"><preferred><expression>
@@ -235,32 +237,38 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_af2014d3-8cdd-1f63-a03e-e4e37ae9de62" normative="true" obligation="informative">
+</annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-
-</references><references id="_b5e321df-7926-d950-1db2-743758597a8d" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_e2652138-62f9-260e-8e1f-93d7006e5054" type="standard" schema-version="v1.2.9" anchor="ISO7301">
-  <fetched>2025-12-01</fetched>
+</references><references id="_44b25df4-55b6-0832-b166-5e242f547897" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_a7192534-f2f9-2438-d8f5-fd369f7c310f" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
-
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">Specification</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Specification</title>
+<title language="en" script="Latn" type="title-main">Specification</title>
+
+  
+<title language="en" script="Latn" type="main">Rice — Specification</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Riz</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Spécifications</title>
+
+  
+<title language="fr" script="Latn" type="main">Riz — Spécifications</title>
 
   <uri type="src">https://www.iso.org/standard/50935.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:50935:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier>
   <docidentifier type="iso-reference">ISO 7301:2011(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:7301:stage-95.99</docidentifier>
   <docnumber>7301</docnumber>
   <date type="published">
-    <on>2011-03</on>
-  </date>
-  <date type="corrected">
-    <on>2011-10</on>
+    <on>2011-02-17</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -272,14 +280,33 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
-  <note type="Unpublished-Status"><p id="_88791194-6be6-c95e-e6a1-1eeb965d33b6">Cancelled and replaced by ISO 7301:2021.</p></note><language>en</language>
+  <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 7301:2011 gives the minimum specifications for rice (Oryza sativa L.) which is subject to international trade. It is applicable to the following types: husked rice and milled rice, parboiled or not, intended for direct human consumption. It is neither applicable to other products derived from rice, nor to waxy rice (glutinous rice).</abstract>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 7301:2011 gives the minimum specifications for rice (Oryza sativa L.) which is subject to international trade. It is applicable to the following types: husked rice and milled rice, parboiled or not, intended for direct human consumption. It is neither applicable to other products derived from rice, nor to waxy rice (glutinous rice).</abstract>
   <status>
-    <stage>95</stage>
-    <substage>99</substage>
+    <stage>60</stage>
+    <substage>60</substage>
   </status>
   <copyright>
     <from>2011</from>
@@ -292,42 +319,54 @@
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 7301:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO 7301:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 7301:2002</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 7301:2021</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 7301:2021</docidentifier>
-      <date type="circulated">
-        <on>2021-06-07</on>
+      <date type="published">
+        <on>2002-05-30</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_108aeb75-51b3-ecae-2368-6212f713a728" type="standard" schema-version="v1.2.9" anchor="iso13943">
-  <fetched>2025-12-01</fetched>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 7301:2011/CD Cor 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 7301:2011/CD Cor 1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_13b7f928-25d7-841c-8937-01325678d961" type="standard" schema-version="v1.5.6" anchor="iso13943">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Fire safety</title>
+<title language="en" script="Latn" type="title-intro">Fire safety</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Vocabulary</title>
+<title language="en" script="Latn" type="title-main">Vocabulary</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Fire safety — Vocabulary</title>
+<title language="en" script="Latn" type="main">Fire safety — Vocabulary</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Sécurité au feu</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Vocabulaire</title>
+
+  
+<title language="fr" script="Latn" type="main">Sécurité au feu — Vocabulaire</title>
 
   <uri type="src">https://www.iso.org/standard/63321.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63321:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/33/63321.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 13943:2017</docidentifier>
   <docidentifier type="iso-reference">ISO 13943:2017(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:13943:stage-95.99</docidentifier>
   <docnumber>13943</docnumber>
   <date type="published">
-    <on>2017-07</on>
+    <on>2017-08-03</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -339,14 +378,31 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Fire safety</name>
+
+        <identifier>ISO/TC 92</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
-  <note type="Unpublished-Status"><p id="_9029c393-5b94-4340-aab5-cff09330f05e">Cancelled and replaced by ISO 13943:2023.</p></note><language>en</language>
+  <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO 13943:2017 defines terminology relating to fire safety as used in ISO and IEC fire standards.</abstract>
+  <abstract language="en" script="Latn">ISO 13943:2017 defines terminology relating to fire safety as used in ISO and IEC fire standards.</abstract>
   <status>
-    <stage>95</stage>
-    <substage>99</substage>
+    <stage>60</stage>
+    <substage>60</substage>
   </status>
   <copyright>
     <from>2017</from>
@@ -359,43 +415,54 @@
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 13943:2008</formattedref>
+    <bibitem>
+      <formattedref>ISO 13943:2008</formattedref>
       <docidentifier type="ISO" primary="true">ISO 13943:2008</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 13943:2023</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 13943:2023</docidentifier>
-      <date type="circulated">
-        <on>2023-09-15</on>
+      <date type="published">
+        <on>2008-10-08</on>
       </date>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_b642d674-b4fd-8098-5da7-2f5e66852c2e" type="standard" schema-version="v1.2.9" anchor="ISO14864">
-  <fetched>2025-12-01</fetched>
+  <relation type="updatedBy">
+    <bibitem>
+      <formattedref>ISO 13943:2017/PWI Amd 1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 13943:2017/PWI Amd 1</docidentifier>
+    </bibitem>
+
+  </relation>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_7bf5b8b6-f9ab-6281-8999-da8f78179ef0" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Rice</title>
+<title language="en" script="Latn" type="title-intro">Rice</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Evaluation of gelatinization time of kernels during cooking</title>
+<title language="en" script="Latn" type="title-main">Evaluation of gelatinization time of kernels during cooking</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Rice — Evaluation of gelatinization time of kernels during cooking</title>
+<title language="en" script="Latn" type="main">Rice — Evaluation of gelatinization time of kernels during cooking</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Riz</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
+
+  
+<title language="fr" script="Latn" type="main">Riz — Évaluation du temps de gélatinisation lors de la cuisson des grains</title>
 
   <uri type="src">https://www.iso.org/standard/25793.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier>
   <docidentifier type="iso-reference">ISO 14864:1998(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.60</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.93</docidentifier>
   <docnumber>14864</docnumber>
   <date type="published">
-    <on>1998-12</on>
+    <on>1998-12-20</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -407,14 +474,30 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Cereals and pulses</name>
+
+        <identifier>ISO/TC 34/SC 4</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="fr" script="Latn">La présente Norme internationale spécifie une méthode permettant d’évaluer le temps de gélatinisation lors de la cuisson des grains de riz. Elle s’applique au riz usiné tel que défini dans l’ISO 7301.</abstract>
   <status>
     <stage>90</stage>
-    <substage>60</substage>
+    <substage>93</substage>
   </status>
   <copyright>
     <from>1998</from>
@@ -426,27 +509,38 @@
       </organization>
     </owner>
   </copyright>
-  <place>Geneva</place>
-</bibitem><bibitem id="_adfb0f24-f83a-2064-7950-f0b07e08598a" type="standard" schema-version="v1.2.9" anchor="isotr17755">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_4dee6964-f9a2-12b2-8061-82cd2af6f171" type="standard" schema-version="v1.5.6" anchor="isotr17755">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Fire safety</title>
+<title language="en" script="Latn" type="title-intro">Fire safety</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Overview of national fire statistics practices</title>
+<title language="en" script="Latn" type="title-main">Overview of national fire statistics practices</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Fire safety — Overview of national fire statistics practices</title>
+<title language="en" script="Latn" type="main">Fire safety — Overview of national fire statistics practices</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Sécurité incendie</title>
+
+  
+<title language="fr" script="Latn" type="title-main"> Aperçu général sur les pratiques nationales de collecte des statistiques d’incendies</title>
+
+  
+<title language="fr" script="Latn" type="main">Sécurité incendie —  Aperçu général sur les pratiques nationales de collecte des statistiques d’incendies</title>
 
   <uri type="src">https://www.iso.org/standard/60469.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60469:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/04/60469.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/TR 17755:2014</docidentifier>
   <docidentifier type="iso-reference">ISO/TR 17755:2014(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:tr:17755:stage-90.92</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:tr:17755:stage-90.93</docidentifier>
   <docnumber>17755</docnumber>
   <date type="published">
-    <on>2014-04</on>
+    <on>2014-04-14</on>
   </date>
   <contributor>
     <role type="publisher"/>
@@ -458,14 +552,31 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Fire safety</name>
+
+        <identifier>ISO/TC 92</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">ISO/TR 17755:2014 assembles data on national fire statistics practices. Such practices are highly relevant to the estimation of model parameters in standards developed by ISO/TC 92.</abstract>
+  <abstract language="en" script="Latn">ISO/TR 17755:2014 assembles data on national fire statistics practices. Such practices are highly relevant to the estimation of model parameters in standards developed by ISO/TC 92.</abstract>
   <status>
     <stage>90</stage>
-    <substage>92</substage>
+    <substage>93</substage>
   </status>
   <copyright>
     <from>2014</from>
@@ -477,28 +588,36 @@
       </organization>
     </owner>
   </copyright>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/WD TR 17755-1</formattedref>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD TR 17755-1</formattedref>
       <docidentifier type="ISO" primary="true">ISO/WD TR 17755-1</docidentifier>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
-</bibitem><bibitem id="_116795fd-722a-aefd-2a3b-ab89a7740e77" type="standard" schema-version="v1.2.9" anchor="isots19677">
-  <fetched>2025-12-01</fetched>
+  <place>
+    <city>Geneva</city>
+  </place>
+</bibitem><bibitem id="_9cd2f776-ed0e-6b7a-ee04-19c8f5700396" type="standard" schema-version="v1.5.6" anchor="isots19677">
+  <fetched>2026-07-27</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+<title language="en" script="Latn" type="title-main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+<title language="en" script="Latn" type="main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Lignes directrices pour l’évaluation de l’impact négatif des feux d’espaces naturels sur l’environnement et les personnes par exposition environnementale</title>
+
+  
+<title language="fr" script="Latn" type="main">Lignes directrices pour l’évaluation de l’impact négatif des feux d’espaces naturels sur l’environnement et les personnes par exposition environnementale</title>
 
   <uri type="src">https://www.iso.org/standard/74843.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:74843:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/48/74843.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/TS 19677</docidentifier>
   <docidentifier type="iso-reference">ISO/TS 19677(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-90.92</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-95.99</docidentifier>
   <docnumber>19677</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -510,13 +629,30 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Fire threat to people and environment</name>
+
+        <identifier>ISO/TC 92/SC 3</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
   <status>
-    <stage>90</stage>
-    <substage>92</substage>
+    <stage>60</stage>
+    <substage>60</substage>
   </status>
   <copyright>
     <from>2019</from>
@@ -528,31 +664,29 @@
       </organization>
     </owner>
   </copyright>
-  <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/DTS 19677</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/DTS 19677</docidentifier>
-    </bibitem>
-
-  </relation>
   <relation type="instanceOf">
     <bibitem type="standard">
-      <fetched>2025-12-01</fetched>
       
-<title type="title-main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+<title language="en" script="Latn" type="title-main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 
       
-<title type="main" format="text/plain" language="en" script="Latn">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+<title language="en" script="Latn" type="main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
+
+      
+<title language="fr" script="Latn" type="title-main">Lignes directrices pour l’évaluation de l’impact négatif des feux d’espaces naturels sur l’environnement et les personnes par exposition environnementale</title>
+
+      
+<title language="fr" script="Latn" type="main">Lignes directrices pour l’évaluation de l’impact négatif des feux d’espaces naturels sur l’environnement et les personnes par exposition environnementale</title>
 
       <uri type="src">https://www.iso.org/standard/74843.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:74843:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/07/48/74843.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO/TS 19677:2019</docidentifier>
       <docidentifier type="iso-reference">ISO/TS 19677:2019(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-90.92</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-95.99</docidentifier>
       <docnumber>19677</docnumber>
       <date type="published">
-        <on>2019-02</on>
+        <on>2019-02-01</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -564,21 +698,31 @@
           <uri>www.iso.org</uri>
         </organization>
       </contributor>
+      <contributor>
+        <role type="author">
+          <description>committee</description>
+        </role>
+        <organization>
+          
+<name>International Organization for Standardization</name>
+
+          <subdivision type="technical-committee" subtype="TC">
+            
+<name>Fire threat to people and environment</name>
+
+            <identifier>ISO/TC 92/SC 3</identifier>
+          </subdivision>
+          <abbreviation>ISO</abbreviation>
+        </organization>
+      </contributor>
       <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">This document addresses the impact of wildland fires and firefighting activities on the environment (air, water, soil, wildlife and vegetation). It further addresses the impact of wildland fire effluents on exposed human population, including firefighters, as well as food production, land, sea and air traffic, and the built environment. It also describes the environmental impacts of firefighting activities.
-This document also provides requirements and recommendations to quantify such impacts of wildland fires and to establish post-fire mitigation measures.
-The wildland fires covered include both natural wildland fires and man-initiated fires, including prescribed burning and agricultural fires, but not peat fires nor coal seam fires.
-This document is intended to serve as a tool for the development of standard protocols for:
-—          the assessment of local and remote adverse environmental impacts of wildland fires;
-—          the assessment of the effects of smoke and gas exposure on firefighters and exposed human populations.
-It provides guidance for incident commanders and other responsible or affected parties when decisions regarding firefighting strategies, tactics, and restoration are made. It is intended principally for use by firefighters and investigators, insurance providers, environmental regulatory authorities, civil defence organisations, public health authorities and land owners.
-This document does not include specific instruction on compiling and reporting the information needed to assess environmental damage caused by a fire incident, nor does it include specific sampling methodologies and analysis requirements. These topics are the focus of documents in the ISO 26367 series. This document does not address either fire damage to the built environment, direct acute toxicity issues, which are covered by other ISO standards, nor does it address economic impact, although the impact of climate change is discussed in Annex D.</abstract>
+      <abstract language="en" script="Latn">This document addresses the impact of wildland fires and firefighting activities on the environment (air, water, soil, wildlife and vegetation). It further addresses the impact of wildland fire effluents on exposed human population, including firefighters, as well as food production, land, sea and air traffic, and the built environment. It also describes the environmental impacts of firefighting activities. This document also provides requirements and recommendations to quantify such impacts of wildland fires and to establish post-fire mitigation measures. The wildland fires covered include both natural wildland fires and man-initiated fires, including prescribed burning and agricultural fires, but not peat fires nor coal seam fires. This document is intended to serve as a tool for the development of standard protocols for: — the assessment of local and remote adverse environmental impacts of wildland fires; — the assessment of the effects of smoke and gas exposure on firefighters and exposed human populations. It provides guidance for incident commanders and other responsible or affected parties when decisions regarding firefighting strategies, tactics, and restoration are made. It is intended principally for use by firefighters and investigators, insurance providers, environmental regulatory authorities, civil defence organisations, public health authorities and land owners. This document does not include specific instruction on compiling and reporting the information needed to assess environmental damage caused by a fire incident, nor does it include specific sampling methodologies and analysis requirements. These topics are the focus of documents in the ISO 26367 series. This document does not address either fire damage to the built environment, direct acute toxicity issues, which are covered by other ISO standards, nor does it address economic impact, although the impact of climate change is discussed in Annex D.</abstract>
       <status>
-        <stage>90</stage>
-        <substage>92</substage>
+        <stage>60</stage>
+        <substage>60</substage>
       </status>
       <copyright>
         <from>2019</from>
@@ -590,18 +734,15 @@ This document does not include specific instruction on compiling and reporting t
           </organization>
         </owner>
       </copyright>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/DTS 19677</formattedref>
-          <docidentifier type="ISO" primary="true">ISO/DTS 19677</docidentifier>
-        </bibitem>
-
-      </relation>
-      <place>Geneva</place>
+      <place>
+        <city>Geneva</city>
+      </place>
     </bibitem>
 
   </relation>
-  <place>Geneva</place>
+  <place>
+    <city>Geneva</city>
+  </place>
 </bibitem>
 
 

@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_a28e3fea.29a0.4c44"
+Content-Type: multipart/related; boundary="----=_NextPart_6b65af5e.4813.4d45"
 
-------=_NextPart_a28e3fea.29a0.4c44
+------=_NextPart_6b65af5e.4813.4d45
 Content-ID: <document-en.damd.htm>
 Content-Disposition: inline; filename="document-en.damd.htm"
 Content-Type: text/html; charset="utf-8"
@@ -1546,7 +1546,7 @@ p.MsoRMPane, li.MsoRMPane, div.MsoRMPane {
   mso-fareast-language: JA;
 }
 
-span.Heading1Char, span.__WORD__1Char {
+span.Heading1Char, span.\31 Char {
   mso-style-name: "Heading 1 Char";
   mso-style-priority: 1;
   mso-style-unhide: no;
@@ -1564,7 +1564,7 @@ span.Heading1Char, span.__WORD__1Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading2Char, span.__WORD__2Char {
+span.Heading2Char, span.\32 Char {
   mso-style-name: "Heading 2 Char";
   mso-style-priority: 2;
   mso-style-unhide: no;
@@ -1582,7 +1582,7 @@ span.Heading2Char, span.__WORD__2Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading3Char, span.__WORD__3Char {
+span.Heading3Char, span.\33 Char {
   mso-style-name: "Heading 3 Char";
   mso-style-priority: 3;
   mso-style-unhide: no;
@@ -1600,7 +1600,7 @@ span.Heading3Char, span.__WORD__3Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading4Char, span.__WORD__4Char {
+span.Heading4Char, span.\34 Char {
   mso-style-name: "Heading 4 Char";
   mso-style-priority: 4;
   mso-style-unhide: no;
@@ -1618,7 +1618,7 @@ span.Heading4Char, span.__WORD__4Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading5Char, span.__WORD__5Char {
+span.Heading5Char, span.\35 Char {
   mso-style-name: "Heading 5 Char";
   mso-style-priority: 5;
   mso-style-unhide: no;
@@ -1636,7 +1636,7 @@ span.Heading5Char, span.__WORD__5Char {
   mso-bidi-font-weight: normal;
 }
 
-span.Heading6Char, span.__WORD__6Char {
+span.Heading6Char, span.\36 Char {
   mso-style-name: "Heading 6 Char";
   mso-style-priority: 6;
   mso-style-unhide: no;
@@ -3668,10 +3668,6 @@ p.zzCopyright, li.zzCopyright, div.zzCopyright {
   line-height: 12pt;
   mso-pagination: widow-orphan;
   tab-stops: 25.7pt 481.15pt;
-  border: none;
-  mso-border-alt: solid blue 0.5pt;
-  padding: 0cm;
-  mso-padding-alt: 1pt 4pt 1pt 4pt;
   font-size: 11.0pt;
   mso-bidi-font-size: 10pt;
   font-family: "Cambria",serif;
@@ -3680,6 +3676,13 @@ p.zzCopyright, li.zzCopyright, div.zzCopyright {
   color: blue;
   mso-ansi-language: EN-GB;
   mso-fareast-language: JA;
+}
+
+div.zzCopyrightContainer {
+  border: none;
+  mso-border-alt: solid blue 0.5pt;
+  padding: 0cm;
+  mso-padding-alt: 1pt 4pt 1pt 4pt;
 }
 
 p.zzAddress {
@@ -3758,7 +3761,7 @@ p.zzSTDTitle, li.zzSTDTitle, div.zzSTDTitle {
   mso-bidi-font-weight: normal;
 }
 
-p.__WORD__1, li.__WORD__1, div.__WORD__1 {
+p.\31 , li.\31 , div.\31  {
   mso-style-name: 引用1;
   mso-style-priority: 99;
   mso-style-unhide: no;
@@ -4030,7 +4033,7 @@ div.figdl p, table.figdl p {
   font-size: 10.0pt;
 }
 
-table.formula_dl {
+div.formula_dl, p.formula_dl, table.formula_dl {
   margin-left: 20.15pt;
 }
 
@@ -4066,6 +4069,11 @@ table.MsoISOTable td, table.MsoISOTableBig td {
   border: solid windowtext 1pt;
   mso-border-alt: solid windowtext 1pt;
   padding: 0cm 2.85pt 0cm 2.85pt;
+}
+
+table.MsoNormalTable th, table.MsoNormalTable td {
+  border: none;
+  mso-border-alt: none;
 }
 
 table.MsoTableGrid {
@@ -4366,7 +4374,7 @@ p.title-second, li.title-second, div.title-second {
   mso-fareast-language: JA;
 }
 
-p.__WORD__10, li.__WORD__10, div.__WORD__10 {
+p.\31 0, li.\31 0, div.\31 0 {
   mso-style-name: 标题1;
   mso-style-unhide: no;
   mso-margin-top-alt: auto;
@@ -4612,7 +4620,7 @@ span.title2 {
   mso-style-unhide: no;
 }
 
-span.__WORD__11 {
+span.\31 1 {
   mso-style-name: 副标题1;
   mso-style-unhide: no;
 }
@@ -7539,7 +7547,11 @@ td.example_label, td.note_label, td.termnote_label {
 
 <!--
 
-<p class="zzCover"><b>AMENDMENT&#xa0;1</b></p>
+<p class="zzCover"><b>AMENDMENT&#160;1</b></p>
+
+
+
+
 
 
 
@@ -7560,12 +7572,14 @@ td.example_label, td.note_label, td.termnote_label {
 
 
 
+
+
 <p class="zzCover" style="font-weight:normal;">
   <i>C&#xE9;r&#xE9;ales et l&#xE9;gumineuses &#x2014; Sp&#xE9;cification et m&#xE9;thodes d&#x2019;essai &#x2014; Partie&#xA0;1: Riz (DAmd)</i>
 </p>
 
 <p class="zzCover" style="font-weight:normal;">
-  <i>AMENDMENT&#xA0;1: Fraction massique de mati&#xE8;re &#xE9;trang&#xE8;re, riz usin&#xE9; (non gluant), diviseurs d&#x2019;&#xE9;chantillon et recommandations relatives aux conditions d&#x2019;entreposage et de transport</i>
+  <i>AMENDEMENT&#xA0;1: Fraction massique de mati&#xE8;re &#xE9;trang&#xE8;re, riz usin&#xE9; (non gluant), diviseurs d&#x2019;&#xE9;chantillon et recommandations relatives aux conditions d&#x2019;entreposage et de transport</i>
 </p>
 
 
@@ -7581,7 +7595,7 @@ td.example_label, td.note_label, td.termnote_label {
     </p>
     <div class="WordSection2">
 
-<div class="authority"><div class="boilerplate-copyright">
+<div class="authority"><div class="boilerplate-copyright"><div class="zzCopyrightContainer">
 
 <div><a name="boilerplate-copyright-default" id="boilerplate-copyright-default"></a>
 
@@ -7598,7 +7612,7 @@ td.example_label, td.note_label, td.termnote_label {
 
 <p class="zzCopyright"><a name="boilerplate-place" id="boilerplate-place"></a>Published in Switzerland</p>
 </div>
-</div>
+</div></div>
 </div><p class="MsoBodyText"><br clear="all" style="mso-special-character:line-break;page-break-before:always"/></p><div><a name="_d21ba1d8-1e39-2b71-fae6-a71d9bbc0db4" id="_d21ba1d8-1e39-2b71-fae6-a71d9bbc0db4"></a><p class="ForewordTitle">Foreword</p><p class="ForewordText"><a name="_fb666896-6223-7e03-ac2f-512f1314cc92" id="_fb666896-6223-7e03-ac2f-512f1314cc92"></a>ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.</p><p class="ForewordText"><a name="_afeb2cad-f849-eee5-3e7e-1f824a3c987b" id="_afeb2cad-f849-eee5-3e7e-1f824a3c987b"></a>The procedures used to develop this document and those intended for its further maintenance are described in the ISO/IEC Directives, Part 1. In particular the different approval criteria needed for the different types of ISO documents should be noted. This document was drafted in accordance with the editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).</p><p class="ForewordText"><a name="_51ac9d86-1831-a38e-0195-1aece8a9418a" id="_51ac9d86-1831-a38e-0195-1aece8a9418a"></a>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be in the Introduction and/or on the ISO list of patent declarations received (see www.iso.org/patents).</p><p class="ForewordText"><a name="_53c3d577-039b-c4b5-9501-d397ca719bff" id="_53c3d577-039b-c4b5-9501-d397ca719bff"></a>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p><p class="ForewordText"><a name="_0fef840f-1954-8758-f0ac-cc166dcae91d" id="_0fef840f-1954-8758-f0ac-cc166dcae91d"></a>For an explanation on the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO&#x2019;s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT) see the following URL: www.iso.org/iso/foreword.html.</p><p class="ForewordText"><a name="_06c8bf3b-c4c5-b7f0-6049-013c970b29e3" id="_06c8bf3b-c4c5-b7f0-6049-013c970b29e3"></a>This document was prepared by Technical Committee ISO/{technical-committee-type} 34, <i>Food products</i>, Subcommittee SC 4, <i>Cereals and pulses</i>.</p><p class="ForewordText"><a name="_93c0c497-962b-04f3-6c33-88d008177308" id="_93c0c497-962b-04f3-6c33-88d008177308"></a>A list of all parts in the ISO 17301 series can be found on the ISO website.</p></div><p class="MsoBodyText">&#xA0;</p></div>
     <p class="MsoBodyText">
       <br clear="all" class="section"/>
@@ -7621,7 +7635,7 @@ td.example_label, td.note_label, td.termnote_label {
         <a name="_2308aea9-389d-4146-4b45-cf28ec13f87a" id="_2308aea9-389d-4146-4b45-cf28ec13f87a"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">Normative references</p>
         <p class="MsoBodyText"><a name="_78ac8d8f-0713-2870-fdf2-33039ccd1174" id="_78ac8d8f-0713-2870-fdf2-33039ccd1174"></a>Replace the reference to ISO 16634:&#x2014; (including the footnote) with the following:</p>
-        <div><a name="_b7582085-4e2c-b21d-1b03-f1b8098a530b" id="_b7582085-4e2c-b21d-1b03-f1b8098a530b"></a><p class="BodyTextindent1"><a name="_d36e2f78-a4c1-acce-7d1c-777100cd1aca" id="_d36e2f78-a4c1-acce-7d1c-777100cd1aca"></a>ISO 16634-2:2016, <i>Food products &#x2014; Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content &#x2014; Part 2: Cereals, pulses and milled cereal products</i></p>
+        <div class="Quote AmendNewcontent"><p class="MsoBodyText"><a name="_d36e2f78-a4c1-acce-7d1c-777100cd1aca" id="_d36e2f78-a4c1-acce-7d1c-777100cd1aca"></a>ISO 16634-2:2016, <i>Food products &#x2014; Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content &#x2014; Part 2: Cereals, pulses and milled cereal products</i></p>
 </div>
         <p class="MsoBodyText"><a name="_ef7dc8c5-5e53-2834-4234-004473a9fadf" id="_ef7dc8c5-5e53-2834-4234-004473a9fadf"></a>Renumber subsequent footnotes.</p>
       </div>
@@ -7629,14 +7643,14 @@ td.example_label, td.note_label, td.termnote_label {
         <a name="_1ea6eabb-bd71-267c-fd03-078a60843213" id="_1ea6eabb-bd71-267c-fd03-078a60843213"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">4.1, second paragraph</p>
         <p class="MsoBodyText"><a name="_592d0a68-a06b-e35e-1578-5f2735919a3f" id="_592d0a68-a06b-e35e-1578-5f2735919a3f"></a>Replace the paragraph with the following:</p>
-        <div><a name="_be1a9331-94e9-8438-87b0-ac74623a1784" id="_be1a9331-94e9-8438-87b0-ac74623a1784"></a><p class="BodyTextindent1"><a name="_0ff57d81-d811-e03b-b4f2-c8fceaaa0d4a" id="_0ff57d81-d811-e03b-b4f2-c8fceaaa0d4a"></a>There shall be a procedure to identify the maximum permissible levels for additives and pesticide residues and other contaminants in the country of destination.</p>
+        <div class="Quote AmendNewcontent"><p class="MsoBodyText"><a name="_0ff57d81-d811-e03b-b4f2-c8fceaaa0d4a" id="_0ff57d81-d811-e03b-b4f2-c8fceaaa0d4a"></a>There shall be a procedure to identify the maximum permissible levels for additives and pesticide residues and other contaminants in the country of destination.</p>
 </div>
       </div>
       <div>
-        <a name="_7e893f6f-d137-c36c-b7ec-0abad805bade" id="_7e893f6f-d137-c36c-b7ec-0abad805bade"></a>
+        <a name="_02788c94-9ec5-97cf-a073-74f7fe855b4b" id="_02788c94-9ec5-97cf-a073-74f7fe855b4b"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">4.2.1</p>
         <p class="MsoBodyText"><a name="_754fac88-acf6-be91-77d9-9da51213b1ff" id="_754fac88-acf6-be91-77d9-9da51213b1ff"></a>Designate the existing NOTE as NOTE 1 and add the following new NOTE:</p>
-        <div><a name="_6d8992be-cd3e-fb50-e8b1-d4689b0ffc9b" id="_6d8992be-cd3e-fb50-e8b1-d4689b0ffc9b"></a><div><a name="_23f671fd-b2c6-f0f1-a62a-70374619d643" id="_23f671fd-b2c6-f0f1-a62a-70374619d643"></a><p class="Noteindent">NOTE 2<span style="mso-tab-count:1">&#xA0; </span>For certain destinations, no differentiation is made between the organic and inorganic mass fractions of extraneous matter.</p></div>
+        <div class="Quote AmendNewcontent"><div><a name="_23f671fd-b2c6-f0f1-a62a-70374619d643" id="_23f671fd-b2c6-f0f1-a62a-70374619d643"></a><p class="Note">NOTE 2<span style="mso-tab-count:1">&#xA0; </span>For certain destinations, no differentiation is made between the organic and inorganic mass fractions of extraneous matter.</p></div>
 </div>
       </div>
       <div>
@@ -7653,55 +7667,55 @@ td.example_label, td.note_label, td.termnote_label {
         <a name="_3ce3837f-e402-71ef-37cc-0aac7326916d" id="_3ce3837f-e402-71ef-37cc-0aac7326916d"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">Clause 8</p>
         <p class="MsoBodyText"><a name="_63126dfb-e273-c1e2-f0ca-4708ccbb11f2" id="_63126dfb-e273-c1e2-f0ca-4708ccbb11f2"></a>Add the following paragraph at the end of the clause:</p>
-        <div><a name="_4a1199ca-4651-b079-fcc2-bdc4ad9bb4bd" id="_4a1199ca-4651-b079-fcc2-bdc4ad9bb4bd"></a><p class="BodyTextindent1"><a name="_04ae868a-3752-92b6-1851-a85c7247f814" id="_04ae868a-3752-92b6-1851-a85c7247f814"></a>Annex E gives recommendations relating to storage and transport conditions.</p>
+        <div class="Quote AmendNewcontent"><p class="MsoBodyText"><a name="_04ae868a-3752-92b6-1851-a85c7247f814" id="_04ae868a-3752-92b6-1851-a85c7247f814"></a>Annex E gives recommendations relating to storage and transport conditions.</p>
 </div>
       </div>
       <div>
         <a name="_774e31ae-3a61-9b5d-92de-db7413177fc7" id="_774e31ae-3a61-9b5d-92de-db7413177fc7"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">Clause 9</p>
         <p class="MsoBodyText"><a name="_5f947c09-9992-93c8-066e-dd5c28f7e684" id="_5f947c09-9992-93c8-066e-dd5c28f7e684"></a>Replace the text with the following:</p>
-        <div><a name="_3ed3881b-d20a-78e1-c54f-b22000139200" id="_3ed3881b-d20a-78e1-c54f-b22000139200"></a><p class="BodyTextindent1"><a name="_07af3906-dcbd-a2c2-852a-a22c1b866193" id="_07af3906-dcbd-a2c2-852a-a22c1b866193"></a>The marking on the packages shall clearly identify the type of rice.</p>
+        <div class="Quote AmendNewcontent"><p class="MsoBodyText"><a name="_07af3906-dcbd-a2c2-852a-a22c1b866193" id="_07af3906-dcbd-a2c2-852a-a22c1b866193"></a>The marking on the packages shall clearly identify the type of rice.</p>
 </div>
       </div>
       <div>
         <a name="_4a95b9c8-cb6a-3095-d6ed-d37747273d21" id="_4a95b9c8-cb6a-3095-d6ed-d37747273d21"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">A.2.1</p>
         <p class="MsoBodyText"><a name="_9495a1ab-d3e3-4cb0-f9f5-4aa33bcf278f" id="_9495a1ab-d3e3-4cb0-f9f5-4aa33bcf278f"></a>Replace the text with the following:</p>
-        <div><a name="_30ee837e-4c36-5768-e323-466ddf397e63" id="_30ee837e-4c36-5768-e323-466ddf397e63"></a><p class="BodyTextindent1"><a name="_67d8be53-8c95-a4ea-2d05-3b6cd0e19861" id="_67d8be53-8c95-a4ea-2d05-3b6cd0e19861"></a><b>A.2.1 Sample divider</b>, consisting of a conical sample divider or multiple-slot sample divider with a distribution system, e.g. conical (Boerner-type) divider such as that shown in Figure A.1 or multiple-slot (riffle-type) divider such as that shown in Figure A.2.</p>
+        <div class="Quote AmendNewcontent"><p class="MsoBodyText"><a name="_67d8be53-8c95-a4ea-2d05-3b6cd0e19861" id="_67d8be53-8c95-a4ea-2d05-3b6cd0e19861"></a><b>A.2.1 Sample divider</b>, consisting of a conical sample divider or multiple-slot sample divider with a distribution system, e.g. conical (Boerner-type) divider such as that shown in Figure A.1 or multiple-slot (riffle-type) divider such as that shown in Figure A.2.</p>
 </div>
       </div>
       <div>
-        <a name="_5f4b503d-67d5-189c-a83f-de800a88f5a7" id="_5f4b503d-67d5-189c-a83f-de800a88f5a7"></a>
+        <a name="_0c2dd8ec-8051-caed-c293-9f790b94dc21" id="_0c2dd8ec-8051-caed-c293-9f790b94dc21"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">Figure A.1</p>
         <p class="MsoBodyText"><a name="_0e8f4b9f-1fae-f915-d74b-2c7f441c3893" id="_0e8f4b9f-1fae-f915-d74b-2c7f441c3893"></a>Replace Figure A.1 with the following two figures:</p>
-        <div><a name="_3e376789-274f-b165-1117-e1869a7bff92" id="_3e376789-274f-b165-1117-e1869a7bff92"></a><div class="figure"><a name="fig1" id="fig1"></a>
+        <div class="Quote AmendNewcontent"><div class="figure"><a name="fig1" id="fig1"></a>
 
-<p class="FigureGraphic"><img src="cid:b96d8701-615d-43fa-814b-c70d5a6fd36e.png" height="615" width="420"/></p><p style="page-break-after: avoid;" class="BodyTextindent1"><b>Key</b></p><div align="left" style="page-break-after:avoid;"><table style="text-align:left;" class="formula_dl"><a name="_8e737dde-f57d-be16-6e37-a2473ac5f9f8" id="_8e737dde-f57d-be16-6e37-a2473ac5f9f8"></a><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">1</p></td><td valign="top"><p class="Tablebody"><a name="_777981a5-8131-f1f1-1d33-5af82066c547" id="_777981a5-8131-f1f1-1d33-5af82066c547"></a>funnel</p>
-</td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">2</p></td><td valign="top"><p class="Tablebody"><a name="_0b9d3f60-91e7-388b-c053-22592c539cbd" id="_0b9d3f60-91e7-388b-c053-22592c539cbd"></a>collection boxes</p>
-</td></tr></table></div><p class="Figuretitle" style="text-align:center;">Figure A.1&#xA0;&#x2014; Conical (Boerner-type) divider</p></div>
+<p class="FigureGraphic"><img src="cid:31ccc58f-ffe7-4e51-8303-c65686aaa146.png" height="615" width="420"/></p><div class="key formula_dl" style="page-break-after:avoid;"><p style="page-break-after: avoid;" class="KeyTitle"><b>Key</b></p><div align="left"><table style="text-align:left;" class="formula_dl"><a name="_ed8f53a7-b0aa-da1e-aa1a-17086bd55a1c" id="_ed8f53a7-b0aa-da1e-aa1a-17086bd55a1c"></a><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">1</p></td><td valign="top"><p class="Tablebody"><a name="_b17e3518-5436-1ae3-fa72-ddc8cd6f9104" id="_b17e3518-5436-1ae3-fa72-ddc8cd6f9104"></a>funnel</p>
+</td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">2</p></td><td valign="top"><p class="Tablebody"><a name="_1e3905ad-69bb-5325-d81b-7e9ac581ce1b" id="_1e3905ad-69bb-5325-d81b-7e9ac581ce1b"></a>collection boxes</p>
+</td></tr></table></div></div><p class="Figuretitle" style="text-align:center;">Figure A.1&#xA0;&#x2014; Conical (Boerner-type) divider</p></div>
 
 
 
 <div class="figure"><a name="fig2" id="fig2"></a>
 
-<p class="FigureGraphic"><img src="cid:59183739-2ca5-4745-b7f6-7c1562aec70c.png" height="463" width="489"/></p><p style="page-break-after: avoid;" class="BodyTextindent1"><b>Key</b></p><div align="left" style="page-break-after:avoid;"><table style="text-align:left;" class="formula_dl"><a name="_4306673a-7eda-c866-5cbf-bb4235755c12" id="_4306673a-7eda-c866-5cbf-bb4235755c12"></a><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">1</p></td><td valign="top"><p class="Tablebody"><a name="_f65665a1-d8b2-e059-d011-2ba393015edb" id="_f65665a1-d8b2-e059-d011-2ba393015edb"></a>slots</p>
-</td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">2</p></td><td valign="top"><p class="Tablebody"><a name="_9328ed4a-8cf2-69ac-16e4-1a3cd8409284" id="_9328ed4a-8cf2-69ac-16e4-1a3cd8409284"></a>collection boxes</p>
-</td></tr></table></div><p class="Figuretitle" style="text-align:center;">Figure A.2&#xA0;&#x2014; Multiple-slot (riffle-type) divider with two collection boxes</p></div>
+<p class="FigureGraphic"><img src="cid:679303b6-4232-4074-8a64-4d888239e660.png" height="463" width="489"/></p><div class="key formula_dl" style="page-break-after:avoid;"><p style="page-break-after: avoid;" class="KeyTitle"><b>Key</b></p><div align="left"><table style="text-align:left;" class="formula_dl"><a name="_3ea3114b-60b9-ee39-a66b-bdc442169ffe" id="_3ea3114b-60b9-ee39-a66b-bdc442169ffe"></a><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">1</p></td><td valign="top"><p class="Tablebody"><a name="_fd61415c-9c06-0d7b-d1a8-42175d524800" id="_fd61415c-9c06-0d7b-d1a8-42175d524800"></a>slots</p>
+</td></tr><tr><td valign="top" align="left"><p align="left" style="margin-left:0pt;text-align:left;" class="Tablebody">2</p></td><td valign="top"><p class="Tablebody"><a name="_a425480a-a6c3-6ecd-daf9-cc91f9b6e8b3" id="_a425480a-a6c3-6ecd-daf9-cc91f9b6e8b3"></a>collection boxes</p>
+</td></tr></table></div></div><p class="Figuretitle" style="text-align:center;">Figure A.2&#xA0;&#x2014; Multiple-slot (riffle-type) divider with two collection boxes</p></div>
 
 
 </div>
       </div>
       <div>
-        <a name="_bef76c30-ce0b-dae3-05b6-0ddc5abdc228" id="_bef76c30-ce0b-dae3-05b6-0ddc5abdc228"></a>
+        <a name="_2f5cf99d-73f9-571d-4982-657cc639f8d5" id="_2f5cf99d-73f9-571d-4982-657cc639f8d5"></a>
         <p style="font-style:italic;page-break-after:avoid;" class="MsoBodyText">Annex E</p>
         <p class="MsoBodyText"><a name="_90287d5d-104f-f618-ed25-56404501205c" id="_90287d5d-104f-f618-ed25-56404501205c"></a>Add the following annex after Annex D, before the Bibliography.</p>
-        <div><a name="_486b7ee8-828b-e65f-0f31-19cb7a6a6f55" id="_486b7ee8-828b-e65f-0f31-19cb7a6a6f55"></a><p class="BodyTextindent1"><a name="_d82d1fb5-826d-26df-d3d0-4b154506ccb4" id="_d82d1fb5-826d-26df-d3d0-4b154506ccb4"></a><b>Annex E. Recommendations relating to storage and storage and transport conditions</b></p>
+        <div class="Quote AmendNewcontent"><a name="_e06ff370-1eb5-a28f-a62e-177b1dfbf16b" id="_e06ff370-1eb5-a28f-a62e-177b1dfbf16b"></a>
+<p class="h"><b>Annex E</b><br/><span class="obligation">(normative)</span><br/><br/><b>Recommendations relating to storage and storage and transport conditions</b></p>
+<p class="MsoBodyText"><a name="_83b4355d-8e95-c670-693f-898ecdb1e165" id="_83b4355d-8e95-c670-693f-898ecdb1e165"></a>Containers of rice should be stored in covered premises, well protected from the sun, rain and excessive heat.</p>
 
-<p class="BodyTextindent1"><a name="_45d724fd-c899-b8a0-1853-2231a4c1d15d" id="_45d724fd-c899-b8a0-1853-2231a4c1d15d"></a>Containers of rice should be stored in covered premises, well protected from the sun, rain and excessive heat.</p>
+<p class="MsoBodyText"><a name="_0797d6a8-d079-8799-14bf-6a41966a6d74" id="_0797d6a8-d079-8799-14bf-6a41966a6d74"></a>The storeroom should be dry, free from unpleasant odours and protected against entry of insects and other vermin. Ventilation should be adjusted in such a way as to give good ventilation during dry weather and to be fully closed under damp conditions. Suitable provisions should be made for fumigation of storerooms.</p>
 
-<p class="BodyTextindent1"><a name="_8b9b8a79-46c6-4038-e19a-e31e50e10d6d" id="_8b9b8a79-46c6-4038-e19a-e31e50e10d6d"></a>The storeroom should be dry, free from unpleasant odours and protected against entry of insects and other vermin. Ventilation should be adjusted in such a way as to give good ventilation during dry weather and to be fully closed under damp conditions. Suitable provisions should be made for fumigation of storerooms.</p>
-
-<p class="BodyTextindent1"><a name="_706d6998-8d78-9a23-2b2c-5548dd9ecdd9" id="_706d6998-8d78-9a23-2b2c-5548dd9ecdd9"></a>Containers should be handled and transported in such a way that they are protected from the rain, sun or other sources of excessive heat, unpleasant odours and any other contamination (especially in the holds of ships).</p>
+<p class="MsoBodyText"><a name="_3e8ffc22-0f4d-f447-a93d-105170e020ec" id="_3e8ffc22-0f4d-f447-a93d-105170e020ec"></a>Containers should be handled and transported in such a way that they are protected from the rain, sun or other sources of excessive heat, unpleasant odours and any other contamination (especially in the holds of ships).</p>
 </div>
       </div>
     </div>
@@ -7710,7 +7724,7 @@ td.example_label, td.note_label, td.termnote_label {
 </html>
 
 
-------=_NextPart_a28e3fea.29a0.4c44
+------=_NextPart_6b65af5e.4813.4d45
 Content-ID: <filelist.xml>
 Content-Disposition: inline; filename="filelist.xml"
 Content-Transfer-Encoding: base64
@@ -7719,14 +7733,14 @@ Content-Type: application/xml
 PHhtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiPgog
 ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uLy9fX3cvbW4tc2FtcGxlcy1pc28vbW4tc2FtcGxl
 cy1pc28vX3NpdGUvZG9jdW1lbnRzL2FtZW5kbWVudC9yaWNlLTIwMTcvZG9jdW1lbnQtZW4uZGFt
-ZC5odG0iLz4gIDxvOkZpbGUgSFJlZj0iNTkxODM3MzktMmNhNS00NzQ1LWI3ZjYtN2MxNTYyYWVj
-NzBjLnBuZyIvPgogIDxvOkZpbGUgSFJlZj0iYjk2ZDg3MDEtNjE1ZC00M2ZhLTgxNGItYzcwZDVh
-NmZkMzZlLnBuZyIvPgogIDxvOkZpbGUgSFJlZj0iZmlsZWxpc3QueG1sIi8+CiAgPG86RmlsZSBI
+ZC5odG0iLz4gIDxvOkZpbGUgSFJlZj0iMzFjY2M1OGYtZmZlNy00ZTUxLTgzMDMtYzY1Njg2YWFh
+MTQ2LnBuZyIvPgogIDxvOkZpbGUgSFJlZj0iNjc5MzAzYjYtNDIzMi00MDc0LThhNjQtNGQ4ODgy
+MzllNjYwLnBuZyIvPgogIDxvOkZpbGUgSFJlZj0iZmlsZWxpc3QueG1sIi8+CiAgPG86RmlsZSBI
 UmVmPSJoZWFkZXIuaHRtbCIvPgo8L3htbD4K
 
-------=_NextPart_a28e3fea.29a0.4c44
-Content-ID: <b96d8701-615d-43fa-814b-c70d5a6fd36e.png>
-Content-Disposition: inline; filename="b96d8701-615d-43fa-814b-c70d5a6fd36e.png"
+------=_NextPart_6b65af5e.4813.4d45
+Content-ID: <31ccc58f-ffe7-4e51-8303-c65686aaa146.png>
+Content-Disposition: inline; filename="31ccc58f-ffe7-4e51-8303-c65686aaa146.png"
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -7983,9 +7997,9 @@ AgCkQCABAFIgkAAAKRBIAIAUCCQAQAoEEgAgBQIJAJACgQQASIFAAgCkQCABAFIgkAAAKRBIAIAU
 CCQAQAoEEgAgBQIJAJACgQQASIFAAgCkQCABAFIgkAAAKRBIAIAUCCQAQAoEEgAgBQIJAJACgQQA
 SIFAAgCkQCABAFIgkAAAKRBIAIAE/v3v/wWgKMdF6S+K1gAAAABJRU5ErkJggg==
 
-------=_NextPart_a28e3fea.29a0.4c44
-Content-ID: <59183739-2ca5-4745-b7f6-7c1562aec70c.png>
-Content-Disposition: inline; filename="59183739-2ca5-4745-b7f6-7c1562aec70c.png"
+------=_NextPart_6b65af5e.4813.4d45
+Content-ID: <679303b6-4232-4074-8a64-4d888239e660.png>
+Content-Disposition: inline; filename="679303b6-4232-4074-8a64-4d888239e660.png"
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -8329,11 +8343,11 @@ ACYgCQMAAJiAJAwAAGACkjAAAIAJSMIAAAAmIAkDAACYgCQMAABgApIwAACACUjCAAAAJiAJAwAA
 mIAkDAAAYAKSMAAAgAlIwgAAACYgCQMAAJiAJAwAAGACkjAAAIAJSMIAAAAmIAkDAACYgCQMAABg
 ApIwAACACUjCAAAAJiAJAwAAmIAkDAAA4HH//e//A2Z+kHY7moKtAAAAAElFTkSuQmCC
 
-------=_NextPart_a28e3fea.29a0.4c44
+------=_NextPart_6b65af5e.4813.4d45
 Content-ID: <header.html>
 Content-Disposition: inline; filename="header.html"
 Content-Transfer-Encoding: base64
-Content-Type: text/html charset="utf-8"
+Content-Type: text/html; charset="utf-8"
 
 PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiDQp4bWxuczpvPSJ1
 cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiDQp4bWxuczp3PSJ1cm46c2No
@@ -8852,4 +8866,4 @@ dGVyPjxzcGFuIGxhbmc9RU4tQVUgc3R5bGU9J2ZvbnQtc2l6ZToxMC4wcHQ7Jz7CqQ0KSVNPJm5i
 c3A7MjAxNyZuYnNwO+KAkyBBbGwgcmlnaHRzIHJlc2VydmVkPG86cD48L286cD48L3NwYW4+PC9w
 Pg0KDQo8L2Rpdj4NCg0KDQoNCjwvYm9keT4NCg0KPC9odG1sPg0K
 
-------=_NextPart_a28e3fea.29a0.4c44--
+------=_NextPart_6b65af5e.4813.4d45--
