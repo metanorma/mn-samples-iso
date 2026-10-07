@@ -84,7 +84,7 @@
 </clause>
 </copyright-statement>
 </boilerplate><preface><foreword id="_0e3616aa-ff4a-0dfd-0dae-2c6b71ee2c77" obligation="informative">
-<title id="_41c9fad3-d4c1-eecc-4fad-f91704acc026"><bookmark id="_a22d2630-24a2-4717-fdc2-bba8ae105c12" anchor="_66d8662b-dd03-42e5-82a1-948f4ff629d5"/><bookmark id="_34d35262-118e-0e35-3d7b-b0c296f92376" anchor="_57d08fa9-4e53-488b-bea2-b610eea305ca"/><bookmark id="_da90bafa-73ec-627d-d577-a55945b46249" anchor="_81a4a92f-343b-45e6-a93f-40ec9f605ff0"/>Foreword</title>
+<title id="_41c9fad3-d4c1-eecc-4fad-f91704acc026"><bookmark id="_a22d2630-24a2-4717-fdc2-bba8ae105c12" anchor="_f0ea0b4f-6d4b-491f-812c-e3cbdb3a65cd"/><bookmark id="_34d35262-118e-0e35-3d7b-b0c296f92376" anchor="_663bd7eb-24f1-43ce-8dbe-5ddf1dc97402"/><bookmark id="_da90bafa-73ec-627d-d577-a55945b46249" anchor="_022bf1f6-7a93-4a13-9174-506c2f040a45"/>Foreword</title>
 
 
 
@@ -96,7 +96,7 @@
 
 <p id="_53c3d577-039b-c4b5-9501-d397ca719bff">Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
 
-<p id="_f647e957-e4b5-fd15-1368-4b45c5b05038"><bookmark id="_e64e75b9-7cf6-6209-a843-d9d2632c86ab" anchor="_5b513713-c505-41e4-bf04-89a66b27dded"/>For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see <link target="https://www.iso.org/iso/foreword.html">www.iso.org/iso/foreword.html</link>.</p>
+<p id="_f647e957-e4b5-fd15-1368-4b45c5b05038"><bookmark id="_e64e75b9-7cf6-6209-a843-d9d2632c86ab" anchor="_4feaef52-a709-4f85-af88-d01fad7f7168"/>For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions related to conformity assessment, as well as information about ISO’s adherence to the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see <link target="https://www.iso.org/iso/foreword.html">www.iso.org/iso/foreword.html</link>.</p>
 
 
 <p id="_06ea1c21-8cfd-751d-a8c0-9d0f7ec5be7d">This document was prepared by Technical Committee ISO/TC 34,  <em>Food products</em>, Subcommittee SC 4,  <em>Cereals and pulses</em>.</p>
@@ -113,7 +113,7 @@
 
 <p id="_faa2c804-54e3-a95b-a31c-70787832cbef">A list of all parts in the ISO 17301 series can be found on the ISO website.</p>
 
-<p id="_25266336-b935-3444-f4f9-44fcf3be17ad"><bookmark id="_f0359a42-44a0-91dc-3bfd-999b10b1efe9" anchor="_383f3788-b218-4e39-b2d1-1d17aeccc952"/>Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
+<p id="_25266336-b935-3444-f4f9-44fcf3be17ad"><bookmark id="_f0359a42-44a0-91dc-3bfd-999b10b1efe9" anchor="_4d79adbd-66e0-48ee-9139-28ba7c00b3ff"/>Any feedback or questions on this document should be directed to the user’s national standards body. A complete listing of these bodies can be found at <link target="https://www.iso.org/members.html">www.iso.org/members.html</link>.</p>
 
 </foreword><introduction id="_395f4cf6-2264-3542-0c23-cf4fb8fa6858" anchor="intro" obligation="informative">
 <title id="_2b2e98d1-114a-3da4-8556-01ae0a724280">Introduction</title>
@@ -200,7 +200,7 @@
 
 
 
-<definition id="_ea4cbc43-4ccd-b81c-de23-48d43a075bdf"><verbal-definition id="_75761143-a3c1-bf02-5fee-5509a47c83a4"><p id="_90e19ac2-c5a2-d912-be92-0cf61f655d3a"><concept><refterm><bookmark id="_eac1789a-4754-f9cb-8aa7-f105c6fe4771" anchor="_ff07a7af-b683-411f-8d95-2c2e64368e10"/>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice"/></concept> from which some or all of the bran and embryo have been removed by mechanical milling</p></verbal-definition></definition>
+<definition id="_ea4cbc43-4ccd-b81c-de23-48d43a075bdf"><verbal-definition id="_75761143-a3c1-bf02-5fee-5509a47c83a4"><p id="_90e19ac2-c5a2-d912-be92-0cf61f655d3a"><concept><refterm><bookmark id="_eac1789a-4754-f9cb-8aa7-f105c6fe4771" anchor="_94b5cc33-e7ab-4cec-90b9-179a95352b47"/>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice"/></concept> from which some or all of the bran and embryo have been removed by mechanical milling</p></verbal-definition></definition>
 
 
 
@@ -236,7 +236,7 @@
 
 
 
-<domain>rice</domain><definition id="_f687d989-4045-b502-7400-92b2db94a1da"><verbal-definition id="_65f5fdcf-2968-f9d7-55ef-1851d833016e"><p id="_cfb95482-1d19-bb23-47a4-85ce436a9af5"><bookmark id="_a5711d70-c9fa-05c4-ad4c-a25ac2c44ba6" anchor="_d0dbdbd5-6125-46d9-b324-9e21b3f3868c"/>organic and inorganic components other than whole or broken kernels</p></verbal-definition></definition>
+<domain>rice</domain><definition id="_f687d989-4045-b502-7400-92b2db94a1da"><verbal-definition id="_65f5fdcf-2968-f9d7-55ef-1851d833016e"><p id="_cfb95482-1d19-bb23-47a4-85ce436a9af5"><bookmark id="_a5711d70-c9fa-05c4-ad4c-a25ac2c44ba6" anchor="_01fb6ba3-935e-4537-b1e4-6d422272f5f0"/>organic and inorganic components other than whole or broken kernels</p></verbal-definition></definition>
 
 
 
@@ -319,7 +319,7 @@
 <name>gelatinization</name>
 </expression>
 </preferred>
-<definition id="_39564cd0-bef9-a422-281b-53fa6f3d7da5"><verbal-definition id="_0308d5ef-6cf8-6c38-fe1e-0497cbee380d"><p id="_382fe80b-cc59-db3d-105a-63b7529fa628"><bookmark id="_a8837766-e38d-0a31-942c-1d9dac07e340" anchor="_53961bbd-7d49-4ddf-b4a2-97188b50a4e3"/>hydration process conferring the jelly-like state typical of the coagulated colloids, which are named “gels”, on kernels</p></verbal-definition></definition>
+<definition id="_39564cd0-bef9-a422-281b-53fa6f3d7da5"><verbal-definition id="_0308d5ef-6cf8-6c38-fe1e-0497cbee380d"><p id="_382fe80b-cc59-db3d-105a-63b7529fa628"><bookmark id="_a8837766-e38d-0a31-942c-1d9dac07e340" anchor="_48291225-5b8a-4ff2-af5d-c94a7e39f045"/>hydration process conferring the jelly-like state typical of the coagulated colloids, which are named “gels”, on kernels</p></verbal-definition></definition>
 
 
 
@@ -342,7 +342,7 @@
 </source></term>
 
 <term id="_9d0d6acd-f978-a0dc-c6ee-140691c0b136" anchor="term-gelatinization-time"><preferred><expression>
-<name><bookmark id="_8e4912d0-d5e4-eded-fad5-addea4ca9b14" anchor="_1c054e55-64cc-46e9-b46b-51286991363e"/>gelatinization time</name>
+<name><bookmark id="_8e4912d0-d5e4-eded-fad5-addea4ca9b14" anchor="_f035328e-2c19-48fe-a55c-2279ad4a2de8"/>gelatinization time</name>
 </expression>
 </preferred>
 <definition id="_74a3e4ff-ce35-93e2-90f3-2969d64a03f3"><verbal-definition id="_18565e6a-bb95-1405-65c5-ccc368c6765c"><p id="_9ad10a93-0142-116a-84a7-e69be2263259">
@@ -402,12 +402,12 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 
 </clause>
 
-<clause id="_aade5f2a-1cb0-4abf-2980-726c24ae2a55" inline-header="false" obligation="normative"><p id="_ddda74eb-bce2-7d8f-a079-898735214c1c"><bookmark id="_f9da0dae-e71a-3f9a-b17b-fd23f80c0643" anchor="_f0ff7f8c-56b2-4429-9e0a-dd76acb0dc01"/>The defect tolerance for the categories considered, and determined in accordance with the method given in  <xref target="AnnexA"/>, shall not exceed the limits given in <xref target="table1"/>.</p>
+<clause id="_aade5f2a-1cb0-4abf-2980-726c24ae2a55" inline-header="false" obligation="normative"><p id="_ddda74eb-bce2-7d8f-a079-898735214c1c"><bookmark id="_f9da0dae-e71a-3f9a-b17b-fd23f80c0643" anchor="_1d339542-9548-4fa8-9104-261e366a8178"/>The defect tolerance for the categories considered, and determined in accordance with the method given in  <xref target="AnnexA"/>, shall not exceed the limits given in <xref target="table1"/>.</p>
 
 
 <table id="_7e9ddf0e-240e-5410-1399-2dbd04e33f0c" anchor="table1">
 <name id="_cc1d92e3-eb31-bf5e-f7e2-73d97cd004ea">Maximum permissible mass fraction of defects</name>
-<thead><tr id="_00ac3281-d551-41fd-d1b4-a8a55615f3f1"><th id="_339fcb80-85e1-65c1-a08a-571beb4f8cbb" valign="middle" rowspan="2" align="center"><bookmark id="_e042f405-54b8-9249-63c9-025c9a45a999" anchor="_93d99539-954d-4cc7-b8c9-92d346acb5b8"/>Defect</th>
+<thead><tr id="_00ac3281-d551-41fd-d1b4-a8a55615f3f1"><th id="_339fcb80-85e1-65c1-a08a-571beb4f8cbb" valign="middle" rowspan="2" align="center"><bookmark id="_e042f405-54b8-9249-63c9-025c9a45a999" anchor="_81893181-6f5f-4d63-bcd1-0e44c09d7057"/>Defect</th>
 <th id="_00f85639-6943-710c-c5af-a36908e8f381" colspan="4" valign="top" align="center">Maximum permissible mass fraction of defects<br/>
 <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
@@ -567,7 +567,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_5c4b43d8-48aa-8b1b-bb26-0489fad2bc89">Nitrogen content and crude protein content</title>
 <p id="_75f29e5d-8429-9081-7d6e-59e61f63c419">Determine the nitrogen content and crude protein content in accordance with either  <eref type="inline" bibitemid="ISO16634" citeas="ISO 16634-2:2016"><localityStack><locality type="clause"><referenceFrom>10</referenceFrom></locality></localityStack></eref>, or <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"/>. For details on the determination of protein content using the Kjeldahl method, see Reference  <eref type="inline" bibitemid="ref12" citeas="[9]"/> in the Bibliography. For details concerning the use of the Dumas method, see References <eref type="inline" bibitemid="ref10" citeas="[14]"/> and <eref type="inline" bibitemid="ref16" citeas="[15]"/>.</p>
 
-<p id="_bdffec7e-3449-bb4e-5c49-c7a7adb6a1ab"><bookmark id="_332b1987-f63b-c3ae-a8b3-31e4cc9b6f00" anchor="_f056e453-bf37-4068-9cb4-6a8422e0550b"/>Calculate the crude protein content of the dry product by multiplying the value of the nitrogen content by the conversion factor specified in <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"><localityStack connective="and"><locality type="annex"><referenceFrom>C</referenceFrom></locality></localityStack><localityStack connective="and"><locality type="table"><referenceFrom>C.1</referenceFrom></locality></localityStack></eref>, that is adapted to the type of cereals or pulses  <eref type="footnote" bibitemid="ref13" citeas="[10]"/><eref type="footnote" bibitemid="ref14" citeas="[11]"/> and to their use.</p>
+<p id="_bdffec7e-3449-bb4e-5c49-c7a7adb6a1ab"><bookmark id="_332b1987-f63b-c3ae-a8b3-31e4cc9b6f00" anchor="_1d440acf-653b-48d7-9577-6041155192cd"/>Calculate the crude protein content of the dry product by multiplying the value of the nitrogen content by the conversion factor specified in <eref type="inline" bibitemid="ISO20483" citeas="ISO 20483:2013"><localityStack connective="and"><locality type="annex"><referenceFrom>C</referenceFrom></locality></localityStack><localityStack connective="and"><locality type="table"><referenceFrom>C.1</referenceFrom></locality></localityStack></eref>, that is adapted to the type of cereals or pulses  <eref type="footnote" bibitemid="ref13" citeas="[10]"/><eref type="footnote" bibitemid="ref14" citeas="[11]"/> and to their use.</p>
 
 </clause>
 
@@ -591,7 +591,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_1bb46a56-7ce6-00a2-bcf0-295d89760690">Determination</title>
 <admonition id="_5b6aca8f-a783-8577-9a0f-202552b4c8f3" type="warning"><p id="_8d79b732-f261-f21c-77cd-8eb78889b594">Only use paddy or parboiled rice for the determination of husked rice yield.</p>
 </admonition>
-<p id="_20dd0870-2ac3-cf23-fca7-96786831041b"><bookmark id="_d7f00c5b-806a-52ea-2d31-21a08baae7e7" anchor="_35e0c8cb-6be1-4968-bfc2-c319a6135c19"/>Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
+<p id="_20dd0870-2ac3-cf23-fca7-96786831041b"><bookmark id="_d7f00c5b-806a-52ea-2d31-21a08baae7e7" anchor="_189e73b4-abbb-409c-a82e-35b5db1b4fdb"/>Determine the husked rice yield in accordance with <eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>.</p>
 
 </clause>
 
@@ -599,7 +599,7 @@ shall not be greater than the values specified in <xref target="table1"/>.<note 
 <title id="_e0f90c43-6764-900d-4efc-65e920e74c01">Precision</title>
 <clause id="_7b11e313-6530-797f-ea56-4bd20d381d70" inline-header="false" obligation="normative">
 <title id="_ce365734-3edb-2dff-5345-dc3cad4bc5cd">Interlaboratory test</title>
-<p id="_6146bf27-9b9c-23ef-47bc-228881606cbf"><bookmark id="_3df10cd5-21b3-f769-bc30-1e509f4e975e" anchor="_d19d5e6a-370f-4629-8ec5-a23fc8ad397c"/>The results of an interlaboratory test are given in <xref target="AnnexD"/> for information.</p>
+<p id="_6146bf27-9b9c-23ef-47bc-228881606cbf"><bookmark id="_3df10cd5-21b3-f769-bc30-1e509f4e975e" anchor="_0e92bc07-69ce-416f-ba30-6d93cf7285f1"/>The results of an interlaboratory test are given in <xref target="AnnexD"/> for information.</p>
 
 
 <p id="_975f8fe8-9e6b-d075-23c8-04852983e2bc">The results of the repeatability and reproducibility tests (see <xref target="cls-6.5.2.2"/> and  <xref target="cls-6.5.2.3"/>) shall be obtained within a short interval of time, using the same:</p>
@@ -713,7 +713,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 
 </sections><annex id="_c05174f4-4f1e-9a7a-3132-aeb4c298f944" anchor="AnnexA" inline-header="false" obligation="normative">
-<title id="_2c09028e-80ad-a5c9-ab50-7509965e8e32"><bookmark id="_e5185863-940c-eece-1d56-61897f07b4d4" anchor="_85b531e8-99e3-49ab-985e-da6edc779e3b"/><bookmark id="_de9b66ef-c70d-0569-1394-7b9a17339582" anchor="_083e254c-4adb-4cc9-8442-cb943e232fa7"/>Determination of defects</title>
+<title id="_2c09028e-80ad-a5c9-ab50-7509965e8e32"><bookmark id="_e5185863-940c-eece-1d56-61897f07b4d4" anchor="_39bbe7e3-56cf-4e98-b463-8078e3cd551d"/><bookmark id="_de9b66ef-c70d-0569-1394-7b9a17339582" anchor="_0650fedd-568e-4972-a214-329351ffb114"/>Determination of defects</title>
 
 
 <clause id="_b9220d43-a57f-880b-6602-2f93ad0a41d2" inline-header="false" obligation="normative">
@@ -790,7 +790,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 
 <clause id="_845d29d5-8485-fba0-bb53-39509b616286" anchor="cls-A5" inline-header="false" obligation="normative">
 <title id="_0d6ffaef-e9af-225e-6fb9-7a1cf318b552">Calculation</title>
-<p id="_9556446c-4e01-2cf5-c119-aacc8816d2a9"><bookmark id="_7b30af06-2546-7cbe-8021-06471d656f15" anchor="_1296745b-6463-4cbf-bb45-55fbbc590dfa"/>Express the mass fraction of each defect using <xref target="formulaA-1"/>:</p>
+<p id="_9556446c-4e01-2cf5-c119-aacc8816d2a9"><bookmark id="_7b30af06-2546-7cbe-8021-06471d656f15" anchor="_940ed70c-043b-431c-a651-3da3237e054f"/>Express the mass fraction of each defect using <xref target="formulaA-1"/>:</p>
 
 <formula id="_1d546708-20d4-cd0e-244d-51dd8ad575b9" anchor="formulaA-1"><stem block="true" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="true">
@@ -847,7 +847,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <p id="_1096d6de-c5bf-b067-44b7-f422bcf2efe6">Report the results as specified in <xref target="clause7"/>.</p>
 </clause>
 </annex><annex id="_685555cb-e96a-5223-6fbe-97f045089042" anchor="AnnexB" inline-header="false" obligation="informative">
-<title id="_4b026aca-d90f-1e40-2282-cca353b039c8"><bookmark id="_c9d85509-fb5f-f516-e5bf-c38f6d1a98f3" anchor="_bcf432a5-865d-4dcd-a276-4d76b0b606e1"/>Determination of the waxy rice content of parboiled rice</title>
+<title id="_4b026aca-d90f-1e40-2282-cca353b039c8"><bookmark id="_c9d85509-fb5f-f516-e5bf-c38f6d1a98f3" anchor="_907caf67-6030-47ba-94f0-bdc837e6ab67"/>Determination of the waxy rice content of parboiled rice</title>
 
 <clause id="_09ce4ff9-9578-cc6c-78a5-26cc7fbd5a8c" inline-header="false" obligation="informative">
 <title id="_191c6dff-fb5e-d20b-f0fe-f17d3b495a76">Principle</title>
@@ -1121,7 +1121,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <title id="_96a0b060-ac4e-0872-0337-c81c4661b2df">Gelatinization</title>
 <p id="_bdc79c6a-a59a-76c5-6f58-42552fbe2436"><xref target="figureC-1"/> gives an example of a typical gelatinization curve. <xref target="figureC-2"/> shows the three stages of gelatinization:</p>
 
-<ul id="_be68c5c2-450f-a77e-2143-ff972883189b"><li><p id="_4ea12bca-a8c0-4b62-2e51-5ea070140afd"><bookmark id="_dc72d2a7-269f-48b0-740b-a4695c1f888c" anchor="_71964b13-c06a-448f-aa0b-b42b733ce03c"/><bookmark id="_6b925732-bf93-cefb-08df-c4b4d54bc564" anchor="_55c3a607-db62-400f-89a6-2e6d773153c5"/><bookmark id="_e2743147-e5ce-3514-d11e-60419f693c2e" anchor="_04c66b8b-3a37-421f-91b4-2522766c667f"/>initial;</p>
+<ul id="_be68c5c2-450f-a77e-2143-ff972883189b"><li><p id="_4ea12bca-a8c0-4b62-2e51-5ea070140afd"><bookmark id="_dc72d2a7-269f-48b0-740b-a4695c1f888c" anchor="_8e5e055a-166f-4101-a0ae-f105ccba1ba4"/><bookmark id="_6b925732-bf93-cefb-08df-c4b4d54bc564" anchor="_5d3be998-12cf-4dd1-ba7c-9e79484711e6"/><bookmark id="_e2743147-e5ce-3514-d11e-60419f693c2e" anchor="_ed0204a4-1c9b-4cd8-9586-58ce03a80e44"/>initial;</p>
 </li>
 <li><p id="_bcc8fe04-cd0d-0a68-905b-6d3d48f95339">intermediate;</p>
 </li>
@@ -1204,7 +1204,7 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <p id="_6a8552fd-e6c1-dbb2-84ec-7c89c4a598d4">An interlaboratory test <eref type="inline" bibitemid="ref15" citeas="[13]"/> was carried out by the ENR [Rice Research Centre (Italy)] in accordance with  <eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1"/> and <eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2"/>, with the participation of 15 laboratories. Each laboratory carried out three determinations on four different types of kernel. The statistical results are shown in  <xref target="tableD-1"/>.</p>
 
 <table id="_4da73ae1-20c4-4133-bb39-42377fb7e230" anchor="tableD-1">
-<name id="_a6a77bb7-f1e7-a3ab-af9a-0760940b51ad">Repeatability and reproducibility of husked rice yield</name><thead><tr id="_515383ae-3457-ff39-3c00-a8aa17a8f2de"><th id="_669406d9-35e1-32e0-e789-e28399de6e8d" valign="top" rowspan="2" align="center"><bookmark id="_e7705f3f-3a59-485c-0d88-350aa40e36e8" anchor="_743b9302-2a97-453a-834d-8b44bda1e543"/>Description</th>
+<name id="_a6a77bb7-f1e7-a3ab-af9a-0760940b51ad">Repeatability and reproducibility of husked rice yield</name><thead><tr id="_515383ae-3457-ff39-3c00-a8aa17a8f2de"><th id="_669406d9-35e1-32e0-e789-e28399de6e8d" valign="top" rowspan="2" align="center"><bookmark id="_e7705f3f-3a59-485c-0d88-350aa40e36e8" anchor="_b65c913d-f817-40a4-aced-1a35cbe45015"/>Description</th>
 <th id="_7ce531a5-b902-4c60-22d4-48376fd27bba" colspan="4" valign="top" align="center">Rice sample</th>
 </tr><tr id="_73695b30-0c38-d75f-1f87-7de341df6b50"><th id="_061a4a17-dadc-91d4-c453-e4077557c02b" valign="top" align="left">Arborio</th>
 <th id="_d5a8860e-7659-2ff8-7939-da97386a55e0" valign="top" align="center">Drago<fn id="_937d26ae-cf5e-4f82-97e6-e11c99c07555" reference="a"><p id="_00706c75-858e-0841-a7e9-4b257416b59f">Parboiled rice.</p>
@@ -1304,9 +1304,9 @@ moisture, waxy rice, nitrogen and crude protein.<note id="_240facec-25e1-6fbf-9c
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_d245fdbe-3471-44fc-aad3-967b1fd88d53">1</callout>
+%w{a b c}.each do |x| <callout target="_a984e9bf-28e1-45f2-b797-429fa318da15">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_d245fdbe-3471-44fc-aad3-967b1fd88d53"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_a984e9bf-28e1-45f2-b797-429fa318da15"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
@@ -3646,19 +3646,19 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 
 
 </references></bibliography>
-<annotation-container><annotation id="_d332521b-fe64-334e-8671-70bbe032f8e3" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_66d8662b-dd03-42e5-82a1-948f4ff629d5" to="_66d8662b-dd03-42e5-82a1-948f4ff629d5"><ul id="_27be51e4-f3f6-c0de-2bab-24df481c06fa"><li><p id="_6bedc025-9b28-71e4-6cee-8ed864f41019">The cover page includes the title, composed of no more than three elements</p>
+<annotation-container><annotation id="_d332521b-fe64-334e-8671-70bbe032f8e3" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_f0ea0b4f-6d4b-491f-812c-e3cbdb3a65cd" to="_f0ea0b4f-6d4b-491f-812c-e3cbdb3a65cd"><ul id="_27be51e4-f3f6-c0de-2bab-24df481c06fa"><li><p id="_6bedc025-9b28-71e4-6cee-8ed864f41019">The cover page includes the title, composed of no more than three elements</p>
 </li>
 </ul>
-</annotation><annotation id="_15c891c9-db9b-2722-9c28-10203eef9056" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_57d08fa9-4e53-488b-bea2-b610eea305ca" to="_57d08fa9-4e53-488b-bea2-b610eea305ca"><ul id="_4f9fb758-966f-5ab2-e687-15f28ab1a874"><li><p id="_b712d086-27bb-e5ba-56e9-04f3db5b3820">The copyright statement is generated automatically</p>
+</annotation><annotation id="_15c891c9-db9b-2722-9c28-10203eef9056" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_663bd7eb-24f1-43ce-8dbe-5ddf1dc97402" to="_663bd7eb-24f1-43ce-8dbe-5ddf1dc97402"><ul id="_4f9fb758-966f-5ab2-e687-15f28ab1a874"><li><p id="_b712d086-27bb-e5ba-56e9-04f3db5b3820">The copyright statement is generated automatically</p>
 </li>
 </ul>
-</annotation><annotation id="_d556ecad-f535-9369-73d7-c8094b2d9af6" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_81a4a92f-343b-45e6-a93f-40ec9f605ff0" to="_81a4a92f-343b-45e6-a93f-40ec9f605ff0"><ul id="_809bb4f7-f1f3-8623-3ed9-2e593fc77132"><li><p id="_7761b3eb-d5c2-f517-d676-909d5957b810">The list of contents is generated automatically</p>
+</annotation><annotation id="_d556ecad-f535-9369-73d7-c8094b2d9af6" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_022bf1f6-7a93-4a13-9174-506c2f040a45" to="_022bf1f6-7a93-4a13-9174-506c2f040a45"><ul id="_809bb4f7-f1f3-8623-3ed9-2e593fc77132"><li><p id="_7761b3eb-d5c2-f517-d676-909d5957b810">The list of contents is generated automatically</p>
 </li>
 </ul>
-</annotation><annotation id="_4aae7407-05c6-df5a-0265-adbeeee3add8" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_5b513713-c505-41e4-bf04-89a66b27dded" to="_5b513713-c505-41e4-bf04-89a66b27dded"><ul id="_df1ffebd-2ec4-cc70-12a2-35f816badee4"><li><p id="_0d1d7a64-9d5a-05d2-4320-c31ff00c077c">Template text for all committees</p>
+</annotation><annotation id="_4aae7407-05c6-df5a-0265-adbeeee3add8" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_4feaef52-a709-4f85-af88-d01fad7f7168" to="_4feaef52-a709-4f85-af88-d01fad7f7168"><ul id="_df1ffebd-2ec4-cc70-12a2-35f816badee4"><li><p id="_0d1d7a64-9d5a-05d2-4320-c31ff00c077c">Template text for all committees</p>
 </li>
 </ul>
-</annotation><annotation id="_9c8f6573-f793-12d3-5de8-fd742cf04873" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_383f3788-b218-4e39-b2d1-1d17aeccc952" to="_383f3788-b218-4e39-b2d1-1d17aeccc952"><ul id="_cfa74843-11a5-98f4-3ad7-4bfd1dd66037"><li><p id="_f0cb5fad-a23a-8de6-e0ae-3aebc175917f">Committee-specific text</p>
+</annotation><annotation id="_9c8f6573-f793-12d3-5de8-fd742cf04873" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_4d79adbd-66e0-48ee-9139-28ba7c00b3ff" to="_4d79adbd-66e0-48ee-9139-28ba7c00b3ff"><ul id="_cfa74843-11a5-98f4-3ad7-4bfd1dd66037"><li><p id="_f0cb5fad-a23a-8de6-e0ae-3aebc175917f">Committee-specific text</p>
 <ul id="_1983f96b-6c30-1f2f-afba-ff235d561c20"><li><p id="_e1b2cbe1-39ba-c266-1993-99a74ea9c8e7">ISO/IEC Directives, Part 2, 2021, Clause 12</p>
 </li>
 </ul>
@@ -3690,7 +3690,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_02a41b65-eb1f-5094-6fc5-b22d2380cd11" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_ff07a7af-b683-411f-8d95-2c2e64368e10" to="_ff07a7af-b683-411f-8d95-2c2e64368e10"><ul id="_0c20e0cd-0b74-7742-77c2-e626b7b93e54"><li><p id="_05f7e31e-d3ce-26bc-33aa-ccd492a32221">Preferred term “milled rice” in bold type</p>
+</annotation><annotation id="_02a41b65-eb1f-5094-6fc5-b22d2380cd11" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_94b5cc33-e7ab-4cec-90b9-179a95352b47" to="_94b5cc33-e7ab-4cec-90b9-179a95352b47"><ul id="_0c20e0cd-0b74-7742-77c2-e626b7b93e54"><li><p id="_05f7e31e-d3ce-26bc-33aa-ccd492a32221">Preferred term “milled rice” in bold type</p>
 </li>
 <li><p id="_dc0363b2-ddaa-5465-8697-54bd1aee7fde">Admitted term “white rice” in regular type</p>
 </li>
@@ -3699,21 +3699,21 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 <li><p id="_e8c75c07-bfe0-5ab3-8227-7c1239683121">Source document is informative and listed in the Bibliography</p>
 </li>
 </ul>
-</annotation><annotation id="_eb91b992-3922-1d43-e2c4-0202e4618442" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_d0dbdbd5-6125-46d9-b324-9e21b3f3868c" to="_d0dbdbd5-6125-46d9-b324-9e21b3f3868c"><ul id="_d46c72c7-9327-2e71-3e2f-8bccd0574c4c"><li><p id="_ed322d24-aee9-d11f-ecfc-1ebec789ad0a">Abbreviated term “EM” given under the term</p>
+</annotation><annotation id="_eb91b992-3922-1d43-e2c4-0202e4618442" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_01fb6ba3-935e-4537-b1e4-6d422272f5f0" to="_01fb6ba3-935e-4537-b1e4-6d422272f5f0"><ul id="_d46c72c7-9327-2e71-3e2f-8bccd0574c4c"><li><p id="_ed322d24-aee9-d11f-ecfc-1ebec789ad0a">Abbreviated term “EM” given under the term</p>
 </li>
 <li><p id="_0d945109-51c2-8013-bb93-a8956f085c69">EXAMPLE given under the definition</p>
 </li>
 </ul>
-</annotation><annotation id="_126484b6-a05c-acca-e1cb-95f27814b865" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_53961bbd-7d49-4ddf-b4a2-97188b50a4e3" to="_53961bbd-7d49-4ddf-b4a2-97188b50a4e3"><ul id="_80bed143-36a7-b1ed-50fb-961e35843a5c"><li><p id="_d1d5b669-2af3-2176-aca3-3cdb2fb3cf40">Note to terminological entry provides additional information</p>
+</annotation><annotation id="_126484b6-a05c-acca-e1cb-95f27814b865" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_48291225-5b8a-4ff2-af5d-c94a7e39f045" to="_48291225-5b8a-4ff2-af5d-c94a7e39f045"><ul id="_80bed143-36a7-b1ed-50fb-961e35843a5c"><li><p id="_d1d5b669-2af3-2176-aca3-3cdb2fb3cf40">Note to terminological entry provides additional information</p>
 </li>
 </ul>
-</annotation><annotation id="_71935f31-ca8e-965e-f8fe-6d55bb31aa99" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_1c054e55-64cc-46e9-b46b-51286991363e" to="_1c054e55-64cc-46e9-b46b-51286991363e"><ul id="_95361f2e-9ff0-803e-83f3-1486b51f960e"><li><p id="_d0eb2410-43a2-7563-83aa-1c9ca9a5b357">Symbol appears below the term</p>
+</annotation><annotation id="_71935f31-ca8e-965e-f8fe-6d55bb31aa99" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_f035328e-2c19-48fe-a55c-2279ad4a2de8" to="_f035328e-2c19-48fe-a55c-2279ad4a2de8"><ul id="_95361f2e-9ff0-803e-83f3-1486b51f960e"><li><p id="_d0eb2410-43a2-7563-83aa-1c9ca9a5b357">Symbol appears below the term</p>
 </li>
 </ul>
-</annotation><annotation id="_f84dfa82-fba1-c2f0-458c-6f3547b6a868" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_f0ff7f8c-56b2-4429-9e0a-dd76acb0dc01" to="_f0ff7f8c-56b2-4429-9e0a-dd76acb0dc01"><ul id="_220e7eb9-6c1d-aa31-ee01-ccf84852efae"><li><p id="_cd0f3bdf-8b49-511f-0e49-aaee16c2e67e">Cross-reference to Annex A and Table 1</p>
+</annotation><annotation id="_f84dfa82-fba1-c2f0-458c-6f3547b6a868" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_1d339542-9548-4fa8-9104-261e366a8178" to="_1d339542-9548-4fa8-9104-261e366a8178"><ul id="_220e7eb9-6c1d-aa31-ee01-ccf84852efae"><li><p id="_cd0f3bdf-8b49-511f-0e49-aaee16c2e67e">Cross-reference to Annex A and Table 1</p>
 </li>
 </ul>
-</annotation><annotation id="_b4acc76a-138b-5e9b-78a1-fc8d2dd5eab2" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_93d99539-954d-4cc7-b8c9-92d346acb5b8" to="_93d99539-954d-4cc7-b8c9-92d346acb5b8"><ul id="_2c8c10be-d7d9-437f-a4d8-f1e08d3bf219"><li><p id="_353e4c60-0e73-9657-1f25-50f08da25b11">Table footer can contain requirements, notes and footnotes</p>
+</annotation><annotation id="_b4acc76a-138b-5e9b-78a1-fc8d2dd5eab2" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_81893181-6f5f-4d63-bcd1-0e44c09d7057" to="_81893181-6f5f-4d63-bcd1-0e44c09d7057"><ul id="_2c8c10be-d7d9-437f-a4d8-f1e08d3bf219"><li><p id="_353e4c60-0e73-9657-1f25-50f08da25b11">Table footer can contain requirements, notes and footnotes</p>
 <ul id="_b8c85b39-4040-49b2-ad25-55ad446c5aa0"><li><p id="_bab36950-e5c1-4629-22c0-c13a7da0dd27">ISO/IEC Directives, Part 2, 2021, Clause 29</p>
 </li>
 </ul>
@@ -3739,19 +3739,19 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 <li><p id="_704e82b4-2663-e1e8-bf88-521cfa4f6339">ISO 24333 is dated because it refers to a specific clause</p>
 </li>
 </ul>
-</annotation><annotation id="_770318b9-0634-65a3-0f6d-aca8eb8cdbeb" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_f056e453-bf37-4068-9cb4-6a8422e0550b" to="_f056e453-bf37-4068-9cb4-6a8422e0550b"><ul id="_06accce9-22ff-ba6b-2ba7-32679cbba1ae"><li><p id="_10ef5d15-3113-e30d-93eb-838058a5d1ea">Cross-references to bibliographic entries</p>
+</annotation><annotation id="_770318b9-0634-65a3-0f6d-aca8eb8cdbeb" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_1d440acf-653b-48d7-9577-6041155192cd" to="_1d440acf-653b-48d7-9577-6041155192cd"><ul id="_06accce9-22ff-ba6b-2ba7-32679cbba1ae"><li><p id="_10ef5d15-3113-e30d-93eb-838058a5d1ea">Cross-references to bibliographic entries</p>
 <ul id="_748ccedf-fd2c-c5a6-9560-b93a85f57a3d"><li><p id="_efc9a1c5-f9c1-0aa1-a24f-1209f06010d0">ISO/IEC Directives, Part 2, 2021, 10.3</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_883d7c2d-b624-5f7a-f1b4-7942a75de246" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_35e0c8cb-6be1-4968-bfc2-c319a6135c19" to="_35e0c8cb-6be1-4968-bfc2-c319a6135c19"><ul id="_d0c2cc8b-673b-b540-b3c5-4a326d85eb2c"><li><p id="_c2f762ac-a4fd-1409-925e-56e765dbc70b">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
+</annotation><annotation id="_883d7c2d-b624-5f7a-f1b4-7942a75de246" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_189e73b4-abbb-409c-a82e-35b5db1b4fdb" to="_189e73b4-abbb-409c-a82e-35b5db1b4fdb"><ul id="_d0c2cc8b-673b-b540-b3c5-4a326d85eb2c"><li><p id="_c2f762ac-a4fd-1409-925e-56e765dbc70b">Warnings should be placed next to the relevant content or at the beginning of the clause</p>
 <ul id="_ad831a28-7a3f-9268-cf25-6d9a7fbc71f1"><li><p id="_3b7ee8a5-6726-7cef-3d9e-13a87097cbd4">ISO/IEC Directives, Part 2, 2021, 18.4</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_14ee26e0-ad1f-865b-6236-f192c908fec4" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_d19d5e6a-370f-4629-8ec5-a23fc8ad397c" to="_d19d5e6a-370f-4629-8ec5-a23fc8ad397c"><ul id="_7ab22c4c-719a-5e2c-5426-3469ce3b3b7a"><li><p id="_c19d8d24-f275-ba05-7d2f-1ba7e4cef03d">Informative cross-reference to Annex D</p>
+</annotation><annotation id="_14ee26e0-ad1f-865b-6236-f192c908fec4" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_0e92bc07-69ce-416f-ba30-6d93cf7285f1" to="_0e92bc07-69ce-416f-ba30-6d93cf7285f1"><ul id="_7ab22c4c-719a-5e2c-5426-3469ce3b3b7a"><li><p id="_c19d8d24-f275-ba05-7d2f-1ba7e4cef03d">Informative cross-reference to Annex D</p>
 </li>
 </ul>
 </annotation><annotation id="_27cc4917-e04b-dcdf-7f26-ddb4491f309c" reviewer="ISO" from="clause7" to="clause7" type="review" date="2026-10-07T00:00:00Z"><ul id="_bf1f1df0-d13f-f7c5-4c7d-2205ff60f251"><li><p id="_4af04c54-891d-c1db-4601-a348d904caf8">ISO/IEC Directives, Part 2, 2021, 18.5.8</p>
@@ -3760,18 +3760,18 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 </annotation><annotation id="_65d4efd3-cc08-1775-a02d-0d63ba15308b" reviewer="ISO" from="cls-8" to="cls-9" type="review" date="2026-10-07T00:00:00Z"><ul id="_d67675b5-987d-e76c-6b99-0c2aeb73458f"><li><p id="_78af74d2-ef2d-e51b-2c4d-63012a3f207d">ISO/IEC Directives, Part 2, 2021, Clause 19</p>
 </li>
 </ul>
-</annotation><annotation id="_f9d0cf23-142f-dba3-f3d4-9331425d1f3e" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_85b531e8-99e3-49ab-985e-da6edc779e3b" to="_85b531e8-99e3-49ab-985e-da6edc779e3b"><ul id="_e6db3a25-008d-9be8-f562-fd9cbe6d58fd"><li><p id="_b67b626f-a8b8-1134-a35b-bb757e81ba15">Annexes provide additional information to the main body of the document</p>
+</annotation><annotation id="_f9d0cf23-142f-dba3-f3d4-9331425d1f3e" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_39bbe7e3-56cf-4e98-b463-8078e3cd551d" to="_39bbe7e3-56cf-4e98-b463-8078e3cd551d"><ul id="_e6db3a25-008d-9be8-f562-fd9cbe6d58fd"><li><p id="_b67b626f-a8b8-1134-a35b-bb757e81ba15">Annexes provide additional information to the main body of the document</p>
 </li>
 <li><p id="_028616ad-7849-777f-81ae-9faaa29310c0">They can be normative or informative</p>
 </li>
 </ul>
-</annotation><annotation id="_7978d56c-b547-262a-066c-5b436437e171" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_083e254c-4adb-4cc9-8442-cb943e232fa7" to="_083e254c-4adb-4cc9-8442-cb943e232fa7"><ul id="_514c161e-60f1-5867-270d-aadb14ceb2e5"><li><p id="_367d2eeb-5cee-e810-c795-efc0120959a9">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
+</annotation><annotation id="_7978d56c-b547-262a-066c-5b436437e171" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_0650fedd-568e-4972-a214-329351ffb114" to="_0650fedd-568e-4972-a214-329351ffb114"><ul id="_514c161e-60f1-5867-270d-aadb14ceb2e5"><li><p id="_367d2eeb-5cee-e810-c795-efc0120959a9">Annex A is cited normatively in 4.2.1 and 4.2.2</p>
 <ul id="_61d49472-a629-4a4e-d08e-f4152d1519f2"><li><p id="_931556a4-78ad-2a18-00ff-1b2e0b42a369">ISO/IEC Directives, Part 2, 2021, Clause 20</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_266688d0-ac5e-8625-64fc-d34e8c53cf77" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_1296745b-6463-4cbf-bb45-55fbbc590dfa" to="_1296745b-6463-4cbf-bb45-55fbbc590dfa"><ul id="_019f31e4-2ec9-deee-447a-93a62c83be78"><li><p id="_5ca80ee9-25bf-9cd8-67c7-ff37d0862a94">Mathematical formulae</p>
+</annotation><annotation id="_266688d0-ac5e-8625-64fc-d34e8c53cf77" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_940ed70c-043b-431c-a651-3da3237e054f" to="_940ed70c-043b-431c-a651-3da3237e054f"><ul id="_019f31e4-2ec9-deee-447a-93a62c83be78"><li><p id="_5ca80ee9-25bf-9cd8-67c7-ff37d0862a94">Mathematical formulae</p>
 </li>
 <li><p id="_163d5aba-b1d0-d293-7ff6-22eef08cdd0e">Symbols are defined below formulae</p>
 <ul id="_e24b9cb7-2fdd-1d9e-b0dc-32d11f7d6aeb"><li><p id="_52a6e810-7409-cde9-057e-b734144e6f45">ISO/IEC Directives, Part 2, 2021, Clause 27</p>
@@ -3779,7 +3779,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_5c4bd757-5dc1-750e-60b9-b6d7f7c429f7" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_bcf432a5-865d-4dcd-a276-4d76b0b606e1" to="_bcf432a5-865d-4dcd-a276-4d76b0b606e1"><ul id="_d7668c5c-35b8-6420-d33e-24ded45f07db"><li><p id="_5e3b8a71-af70-d052-2009-f15a4f3f89b2">Annex B is cited informatively in 6.2</p>
+</annotation><annotation id="_5c4bd757-5dc1-750e-60b9-b6d7f7c429f7" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_907caf67-6030-47ba-94f0-bdc837e6ab67" to="_907caf67-6030-47ba-94f0-bdc837e6ab67"><ul id="_d7668c5c-35b8-6420-d33e-24ded45f07db"><li><p id="_5e3b8a71-af70-d052-2009-f15a4f3f89b2">Annex B is cited informatively in 6.2</p>
 </li>
 </ul>
 </annotation><annotation id="_0bad7478-b605-8047-db88-d1ee28131f66" reviewer="ISO" from="cls-B2" to="cls-B3" type="review" date="2026-10-07T00:00:00Z"><ul id="_6c9c2f0c-3b51-7d0d-65c7-ca735e04d479"><li><p id="_4f959c1a-8367-2a19-7d8a-54c7a3e60e5f">The apparatus clause has a specific presentation style</p>
@@ -3794,21 +3794,21 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_64acfead-626e-fdb4-73e3-27a113b56c11" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_71964b13-c06a-448f-aa0b-b42b733ce03c" to="_71964b13-c06a-448f-aa0b-b42b733ce03c"><ul id="_ecadf0ea-30d4-5747-2944-a7d13cc8dd41"><li><p id="_a1a4dbc8-ba2f-5644-0dee-d2824d27ee96">Cross-references to the figures</p>
+</annotation><annotation id="_64acfead-626e-fdb4-73e3-27a113b56c11" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_8e5e055a-166f-4101-a0ae-f105ccba1ba4" to="_8e5e055a-166f-4101-a0ae-f105ccba1ba4"><ul id="_ecadf0ea-30d4-5747-2944-a7d13cc8dd41"><li><p id="_a1a4dbc8-ba2f-5644-0dee-d2824d27ee96">Cross-references to the figures</p>
 <ul id="_c3e1aa07-9239-6d70-05a9-e240ce43eec3"><li><p id="_f8ff5b86-4aa1-6c8c-46b9-b3e88779121f">ISO/IEC Directives, Part 2, 2021, Clause 28</p>
 </li>
 </ul>
 </li>
 </ul>
-</annotation><annotation id="_d16a2038-0766-010d-4468-6500bfd26d97" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_55c3a607-db62-400f-89a6-2e6d773153c5" to="_55c3a607-db62-400f-89a6-2e6d773153c5"><ul id="_9cc7cf58-b484-94b8-d65a-68ae2694de75"><li><p id="_ea6ae97d-ff54-91e0-4e85-211621ad8b16">Figures are language neutral</p>
+</annotation><annotation id="_d16a2038-0766-010d-4468-6500bfd26d97" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_5d3be998-12cf-4dd1-ba7c-9e79484711e6" to="_5d3be998-12cf-4dd1-ba7c-9e79484711e6"><ul id="_9cc7cf58-b484-94b8-d65a-68ae2694de75"><li><p id="_ea6ae97d-ff54-91e0-4e85-211621ad8b16">Figures are language neutral</p>
 </li>
 <li><p id="_c06507cd-adc5-0808-1dc7-27206a8660da">Text is placed in a figure key</p>
 </li>
 </ul>
-</annotation><annotation id="_3195610f-ca7e-d24b-5c85-614d3f545974" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_04c66b8b-3a37-421f-91b4-2522766c667f" to="_04c66b8b-3a37-421f-91b4-2522766c667f"><ul id="_9e033d3b-e302-adfb-0557-2009ef39d6c6"><li><p id="_367615b7-591b-7a30-0776-4cbed4aa1105">Figures contain a figure number and title</p>
+</annotation><annotation id="_3195610f-ca7e-d24b-5c85-614d3f545974" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_ed0204a4-1c9b-4cd8-9586-58ce03a80e44" to="_ed0204a4-1c9b-4cd8-9586-58ce03a80e44"><ul id="_9e033d3b-e302-adfb-0557-2009ef39d6c6"><li><p id="_367615b7-591b-7a30-0776-4cbed4aa1105">Figures contain a figure number and title</p>
 </li>
 </ul>
-</annotation><annotation id="_3d443189-3f2d-e829-0839-d1dcb712dcdf" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_743b9302-2a97-453a-834d-8b44bda1e543" to="_743b9302-2a97-453a-834d-8b44bda1e543"><ul id="_9ad7e483-8a98-ac92-2447-ffaf934975d7"><li><p id="_41f4671a-95c9-365f-44dd-9b1a8f190cee">Annex D is cited informatively in 6.5.2.1</p>
+</annotation><annotation id="_3d443189-3f2d-e829-0839-d1dcb712dcdf" reviewer="ISO" type="review" date="2026-10-07T00:00:00Z" from="_b65c913d-f817-40a4-aced-1a35cbe45015" to="_b65c913d-f817-40a4-aced-1a35cbe45015"><ul id="_9ad7e483-8a98-ac92-2447-ffaf934975d7"><li><p id="_41f4671a-95c9-365f-44dd-9b1a8f190cee">Annex D is cited informatively in 6.5.2.1</p>
 </li>
 </ul>
 </annotation><annotation id="_c7bdd447-10f3-21cb-37b5-f0ff0b7ba1ab" reviewer="ISO" from="bib" to="bib" type="review" date="2026-10-07T00:00:00Z"><ul id="_2c085770-5bdf-66d1-1736-03ab43159cae"><li><p id="_cda219bd-bde0-8b25-a807-8e98d8f87b90">Entries [4], [5] and [6] are cited informatively in 4.2.1 NOTE</p>

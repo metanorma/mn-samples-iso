@@ -1270,9 +1270,9 @@ deionized water such as Lugols.<fn id="_24c2c962-296c-05c0-8989-5839d32bc379" re
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_6bff39af-c66b-4188-a2de-fab8a15d6926">1</callout>
+%w{a b c}.each do |x| <callout target="_e594415c-1638-4605-8301-b51e78fd0577">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_6bff39af-c66b-4188-a2de-fab8a15d6926"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_e594415c-1638-4605-8301-b51e78fd0577"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
