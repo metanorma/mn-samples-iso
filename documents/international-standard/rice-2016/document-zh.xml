@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
@@ -130,7 +130,7 @@
 </li>
 </ul>
 <term id="_a17a0006-d1cf-220f-9931-f85a2bb8ca01" anchor="paddy"><preferred><expression>
-<name lang="en">paddy</name><name lang="zh">稻谷</name>
+<name language="en">paddy</name><name language="zh">稻谷</name>
 </expression>
 </preferred><admitted><expression>
 <name>糙米 rough rice</name>
@@ -146,7 +146,7 @@
 </source></term>
 
 <term id="_f731d0c8-984f-2767-98b1-b142fad702a0" anchor="husked_rice"><preferred><expression>
-<name lang="en">husked rice</name><name lang="zh">糙米</name>
+<name language="en">husked rice</name><name language="zh">糙米</name>
 </expression>
 </preferred><deprecates><expression>
 <name>货米 cargo rice</name>
@@ -163,7 +163,7 @@
 </source></term>
 
 <term id="_ce985690-7b66-4c7a-ec70-3e672030f493" anchor="term-milled-rice-精米"><preferred><expression>
-<name lang="en">milled rice</name><name lang="zh">精米</name>
+<name language="en">milled rice</name><name language="zh">精米</name>
 </expression>
 </preferred><admitted><expression>
 <name>白米 white rice</name>
@@ -180,14 +180,14 @@
 </source></term>
 
 <term id="_4da9f00a-2ce5-6504-c75d-adaea37694ff" anchor="term-parboiled-rice-熟米饭"><preferred><expression>
-<name lang="en">parboiled rice</name><name lang="zh">熟米饭</name>
+<name language="en">parboiled rice</name><name language="zh">熟米饭</name>
 </expression>
 </preferred>
 <definition id="_331083fa-325e-263b-854f-288fe52b806b"><verbal-definition id="_f1d80618-e7ef-f69e-d55a-09a6395b9609"><p id="_424c3ff4-7151-a06d-7324-719cc00c3c6c">通过在水中浸泡 <em>稻谷</em>（<xref target="paddy"/>）或 <em>稻米</em>（<xref target="husked_rice"/>），然后进行热处理和干燥过程，将淀粉完全糊化的大米</p></verbal-definition></definition>
  </term>
 
 <term id="_c0a78152-4eb7-0d83-8246-85046eca8dfa" anchor="term-waxy-rice-糯米"><preferred><expression>
-<name lang="en">waxy rice</name><name lang="zh">糯米</name>
+<name language="en">waxy rice</name><name language="zh">糯米</name>
 </expression>
 </preferred>
 <definition id="_f618aa91-2852-d47a-0c09-99fce6ebd21f"><verbal-definition id="_f378be32-5799-9395-de49-827cda560a6e"><p id="_73286916-e03f-ed0c-cb93-d29a8243306b">其内核具有白色和不透明外观的各种大米</p></verbal-definition></definition>
@@ -197,7 +197,7 @@
 </termnote></term>
 
 <term id="_a6885426-c24c-6bad-9b78-20723aedd105" anchor="term-_稻米_-extraneous-matter-异物"><preferred><expression>
-<name lang="en">extraneous matter</name><name lang="zh">异物</name>
+<name language="en">extraneous matter</name><name language="zh">异物</name>
 </expression>
 </preferred><admitted><expression>
 <name>EM</name>
@@ -231,14 +231,14 @@
 </termnote></term>
 
 <term id="_99fec99c-9963-c665-9838-e2cc7f0c4711" anchor="term-damaged-kernel-损内核"><preferred><expression>
-<name lang="en">damaged kernel</name><name lang="zh">损内核</name>
+<name language="en">damaged kernel</name><name language="zh">损内核</name>
 </expression>
 </preferred>
 <definition id="_37760dba-773b-505f-41c3-e41b099479d3"><verbal-definition id="_1d4c5a4f-b47c-12fd-86d8-82e3abdf2202"><p id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept></p></verbal-definition></definition>
  </term>
 
 <term id="_0bba29eb-40d7-b3bc-eb37-eeaac7ea0160" anchor="term-immature-kernel-未成熟内核"><preferred><expression>
-<name lang="en">immature kernel</name><name lang="zh">未成熟内核</name>
+<name language="en">immature kernel</name><name language="zh">未成熟内核</name>
 </expression>
 </preferred><admitted><expression>
 <name>未成熟内核 unripe kernel</name>
@@ -251,7 +251,7 @@
  </term>
 
 <term id="_9cf25eb3-5e7a-c6c3-b2bb-9faa49ad3ad0" anchor="term-husked-rice-yield-糙米产量"><preferred><expression>
-<name lang="en">husked rice yield</name><name lang="zh">糙米产量</name>
+<name language="en">husked rice yield</name><name language="zh">糙米产量</name>
 </expression>
 </preferred>
 <definition id="_fea492fd-0dd9-1167-4ece-f37b0ad68860"><verbal-definition id="_5e31a030-368d-2db0-5737-976ae229dadc"><p id="_5a91f069-4128-522d-6c56-a49362fbb3c9">从水稻获得的糙米量</p></verbal-definition></definition>
@@ -262,7 +262,7 @@
 </source></term>
 
 <term id="_413e9fdf-e921-fc38-6e57-a1b46398f959" anchor="term-nitrogen-content-氮含量"><preferred><expression>
-<name lang="en">nitrogen content</name><name lang="zh">氮含量</name>
+<name language="en">nitrogen content</name><name language="zh">氮含量</name>
 </expression>
 </preferred>
 <definition id="_7ac09900-8477-d6d8-ecb2-70315d67cc95"><verbal-definition id="_229ae243-6f3a-dc5e-a54a-04336e6140d8"><p id="_3ff34379-1841-fb5d-1b39-1c8c9f93ad80">在执行所述程序后确定的氮量</p></verbal-definition></definition>
@@ -276,7 +276,7 @@
 </source></term>
 
 <term id="_b9fb80dc-69d2-b0d5-ff98-fd7e8872400e" anchor="term-crude-protein-content-粗蛋白含量"><preferred><expression>
-<name lang="en">crude protein content</name><name lang="zh">粗蛋白含量</name>
+<name language="en">crude protein content</name><name language="zh">粗蛋白含量</name>
 </expression>
 </preferred>
 <definition id="_d22a3289-f779-45a5-aa53-9e1eb2be6c14"><verbal-definition id="_6fbce50a-e5cc-198d-8bfc-9b71fa62f17e"><p id="_87765a05-7c74-1360-1991-c904f55e06bf">通过应用特定方法确定的由氮含量获得的粗蛋白质的量，通过将该含量乘以取决于谷类或脉冲的类型的适当因子</p></verbal-definition></definition>
@@ -290,7 +290,7 @@
 </source></term>
 
 <term id="_47e50e29-b1c9-d789-42d4-fc2791cdb14a" anchor="gelatinization"><preferred><expression>
-<name lang="en">gelatinization</name><name lang="zh">糊化</name>
+<name language="en">gelatinization</name><name language="zh">糊化</name>
 </expression>
 </preferred>
 <definition id="_7f80ad3c-228d-d58f-0f6b-911e1949e7de"><verbal-definition id="_03a790db-a477-333a-72c9-27b1c83dd4c0"><p id="_09ddc057-6b0b-cd24-b11a-44822bc506e1">在稻米内核的水合过程中，赋予凝胶状物的凝胶状状态，凝胶状物质称为凝胶状物</p></verbal-definition></definition>
@@ -304,7 +304,7 @@
 </source></term>
 
 <term id="_7a37149a-7917-71af-bf8d-66ca2b936530" anchor="gel_state"><preferred><expression>
-<name lang="en">gel state</name><name lang="zh">凝胶状态</name>
+<name language="en">gel state</name><name language="zh">凝胶状态</name>
 </expression>
 </preferred>
 <definition id="_1fa7a05a-3552-2d41-70da-2d8a0a172ded"><verbal-definition id="_a3f926e3-1271-bff1-c096-6bb108ff814e"><p id="_98315668-f80d-6f27-44f5-0dc37f70eadd">通过糊化（<xref target="gelatinization"/>）而达到的状态，内核是完全透明，并且当在两块玻璃板之间压制后完全没有白色和不透明内核</p></verbal-definition></definition>
@@ -315,7 +315,7 @@
 </source></term>
 
 <term id="_9916542c-5bfb-8a54-c59b-3b41bf1ddc01" anchor="term-gelatinization-time-糊化时间"><preferred><expression>
-<name lang="en">gelatinization time</name><name lang="zh">糊化时间</name>
+<name language="en">gelatinization time</name><name language="zh">糊化时间</name>
 </expression>
 </preferred>
 <definition id="_fb2634c3-add2-3719-7517-8ad4b107c8e1"><verbal-definition id="_e29fb08e-f2e6-ee46-c2e3-88d63dc4e2a7"><p id="_9ad10a93-0142-116a-84a7-e69be2263259">
@@ -1164,12 +1164,12 @@
 <td id="_32274024-0559-f15a-862f-74db416f7f74" valign="top" align="center">6,06</td>
 </tr></tbody>
 </table>
-</annex><bibliography><references id="_56803084-132d-0399-c4de-62aee4a4550d" normative="true" obligation="informative">
+</annex><bibliography><references id="_41b10145-77e3-a561-36ae-cd77b6acee99" normative="true" obligation="informative">
 <title id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 
 
-<bibitem id="_a3061df5-74cc-836d-0c43-b83f7730250d" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_b6963191-d75b-8329-46ea-2e6d1a26a923" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1198,6 +1198,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
+  <docidentifier type="iso-undated">ISO 712</docidentifier>
   <docidentifier type="iso-reference">ISO 712(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
   <docnumber>712</docnumber>
@@ -1295,6 +1296,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 712:2009</docidentifier>
+      <docidentifier type="iso-undated">ISO 712</docidentifier>
       <docidentifier type="iso-reference">ISO 712:2009(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
       <docnumber>712</docnumber>
@@ -1376,8 +1378,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_c7863583-aa1a-c82c-729e-da84540575c1" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_b2a62ac1-c914-d0b6-2424-33615c2de01c" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1400,6 +1402,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
+  <docidentifier type="iso-undated">ISO 6646</docidentifier>
   <docidentifier type="iso-reference">ISO 6646(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
   <docnumber>6646</docnumber>
@@ -1491,6 +1494,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6646:2011</docidentifier>
+      <docidentifier type="iso-undated">ISO 6646</docidentifier>
       <docidentifier type="iso-reference">ISO 6646:2011(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
       <docnumber>6646</docnumber>
@@ -1572,8 +1576,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_431cba50-774c-70c7-9d76-7741eecf4c47" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_3b6d684a-2c28-f4d3-f0c9-d33651a6cd23" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1602,6 +1606,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:15496:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/54/15496.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-1:1994</docidentifier>
+  <docidentifier type="iso-undated">ISO 8351-1</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-1:1994(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-1:stage-90.92</docidentifier>
   <docnumber>8351</docnumber>
@@ -1665,8 +1670,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_e2bb7968-cd43-7584-41b6-13f7bb9cf437" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_47b86b0a-1746-169c-8e69-81dbc8c342a6" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1695,6 +1700,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
   <docnumber>8351</docnumber>
@@ -1773,6 +1779,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 8351-2:1994</docidentifier>
+      <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
       <docidentifier type="iso-reference">ISO 8351-2:1994(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
       <docnumber>8351</docnumber>
@@ -1841,8 +1848,8 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note><language>zh</language><script>Hans</script>
 </bibitem>
-<bibitem id="_5a12eba6-9cbf-6050-fa45-fd0426b5b721" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_cd7109b4-c98c-f292-1605-27828556fa31" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1871,6 +1878,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 20483:2013</docidentifier>
+  <docidentifier type="iso-undated">ISO 20483</docidentifier>
   <docidentifier type="iso-reference">ISO 20483:2013(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.93</docidentifier>
   <docnumber>20483</docnumber>
@@ -1939,8 +1947,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_137f921f-4ff4-4937-b936-ae2754984016" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_e92174d8-0090-204f-fac5-565133c37e35" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1963,6 +1971,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:42165:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/21/42165.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 24333:2009</docidentifier>
+  <docidentifier type="iso-undated">ISO 24333</docidentifier>
   <docidentifier type="iso-reference">ISO 24333:2009(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:24333:stage-90.92</docidentifier>
   <docnumber>24333</docnumber>
@@ -2048,9 +2057,9 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_bd7a4cb3-e622-8791-4554-6f604c43aa8c" normative="false" obligation="informative">
-<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_b551b4f0-98a0-8bc0-9cae-ae41ed8b2cd3" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-07-27</fetched>
+</references><references id="_6b17d323-a7cd-7e71-e920-facff23c7685" normative="false" obligation="informative">
+<title id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><bibitem id="_c06d9c4d-bc9c-de22-719c-051b28dc91d9" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2073,6 +2082,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
+  <docidentifier type="iso-undated">ISO 3696</docidentifier>
   <docidentifier type="iso-reference">ISO 3696(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
   <docnumber>3696</docnumber>
@@ -2145,6 +2155,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 3696:1987</docidentifier>
+      <docidentifier type="iso-undated">ISO 3696</docidentifier>
       <docidentifier type="iso-reference">ISO 3696:1987(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
       <docnumber>3696</docnumber>
@@ -2206,8 +2217,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_ac02f16a-1b7a-04b0-c8a3-9651b888f7be" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_5a69d866-b3b8-a76c-43f1-45b28dd6e452" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2230,6 +2241,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
+  <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
   <docnumber>5725</docnumber>
@@ -2322,6 +2334,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>
+      <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
       <docnumber>5725</docnumber>
@@ -2403,8 +2416,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_b8d59cad-1dfc-e38c-2c8f-7b282a2890db" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_668aa76e-cd34-77dc-ca26-6c059d38ac5b" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2427,6 +2440,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2519,6 +2533,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>
+      <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
@@ -2600,8 +2615,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_8bf2a9ff-6958-807d-4381-9dfbbcab5d8a" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_36d7e124-d561-52dd-221c-81b2601e1dcb" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2624,6 +2639,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
   <docnumber>6322</docnumber>
@@ -2720,6 +2736,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-1:1996</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-1:1996(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
       <docnumber>6322</docnumber>
@@ -2805,8 +2822,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_06216f25-3ddc-ce16-8952-8edaca176b0a" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_0537a7ad-c36f-c436-87e1-03e879a8c4ae" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2829,6 +2846,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -2911,6 +2929,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-2:2000</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-2:2000(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
@@ -2981,8 +3000,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6feb5bf6-a11a-150b-79d2-315177d87a9d" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_e553609b-a703-8683-27b6-67dc57db5cbb" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3005,6 +3024,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3087,6 +3107,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-3:1989</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-3:1989(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
@@ -3158,8 +3179,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_dd0b387c-32f5-cb94-e56a-92d8b23c642d" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_7a093dfb-dac9-f6c3-28ae-9e53f6c7da87" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3182,6 +3203,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:50935:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier>
+  <docidentifier type="iso-undated">ISO 7301</docidentifier>
   <docidentifier type="iso-reference">ISO 7301:2011(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:7301:stage-95.99</docidentifier>
   <docnumber>7301</docnumber>
@@ -3256,8 +3278,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a315565f-d909-9280-d52f-b0514e9bc9fd" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_be4b32fc-4579-6780-116a-2b293c32f586" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3280,6 +3302,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier>
+  <docidentifier type="iso-undated">ISO 14864</docidentifier>
   <docidentifier type="iso-reference">ISO 14864:1998(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.93</docidentifier>
   <docnumber>14864</docnumber>

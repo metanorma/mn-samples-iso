@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (AWI)</title>
 
@@ -1268,18 +1268,18 @@ deionized water such as Lugols.<fn id="_24c2c962-296c-05c0-8989-5839d32bc379" re
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_f96f9aff-fd14-4418-a486-1a47d1a834fc">1</callout>
+%w{a b c}.each do |x| <callout target="_53510871-3141-44b0-8ea6-1072b673d269">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_f96f9aff-fd14-4418-a486-1a47d1a834fc"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_53510871-3141-44b0-8ea6-1072b673d269"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
 </example>
 </appendix>
-</annex><bibliography><references id="_e48d6b7e-20e2-b76f-403f-d8473962da74" normative="true" obligation="informative">
+</annex><bibliography><references id="_a9d478c3-b941-7309-7ae7-8ec055c284a5" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_217aa1ce-64ab-2a56-bae2-16fb4fb1a7aa" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_954e3533-867d-eb3d-1607-9814a19e57e3" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1308,6 +1308,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
+  <docidentifier type="iso-undated">ISO 712</docidentifier>
   <docidentifier type="iso-reference">ISO 712(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
   <docnumber>712</docnumber>
@@ -1405,6 +1406,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 712:2009</docidentifier>
+      <docidentifier type="iso-undated">ISO 712</docidentifier>
       <docidentifier type="iso-reference">ISO 712:2009(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:712:stage-95.99</docidentifier>
       <docnumber>712</docnumber>
@@ -1486,8 +1488,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_c7863583-aa1a-c82c-729e-da84540575c1" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_b2a62ac1-c914-d0b6-2424-33615c2de01c" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1510,6 +1512,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
+  <docidentifier type="iso-undated">ISO 6646</docidentifier>
   <docidentifier type="iso-reference">ISO 6646(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
   <docnumber>6646</docnumber>
@@ -1601,6 +1604,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6646:2011</docidentifier>
+      <docidentifier type="iso-undated">ISO 6646</docidentifier>
       <docidentifier type="iso-reference">ISO 6646:2011(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6646:stage-90.93</docidentifier>
       <docnumber>6646</docnumber>
@@ -1682,8 +1686,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_431cba50-774c-70c7-9d76-7741eecf4c47" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_3b6d684a-2c28-f4d3-f0c9-d33651a6cd23" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1712,6 +1716,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:15496:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/54/15496.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-1:1994</docidentifier>
+  <docidentifier type="iso-undated">ISO 8351-1</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-1:1994(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-1:stage-90.92</docidentifier>
   <docnumber>8351</docnumber>
@@ -1775,8 +1780,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_e2bb7968-cd43-7584-41b6-13f7bb9cf437" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_47b86b0a-1746-169c-8e69-81dbc8c342a6" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1805,6 +1810,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
   <docnumber>8351</docnumber>
@@ -1883,6 +1889,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 8351-2:1994</docidentifier>
+      <docidentifier type="iso-undated">ISO 8351-2</docidentifier>
       <docidentifier type="iso-reference">ISO 8351-2:1994(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:8351:-2:stage-90.93</docidentifier>
       <docnumber>8351</docnumber>
@@ -1951,8 +1958,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><language>en</language><script>Latn</script>
 </bibitem>
-<bibitem id="_5a12eba6-9cbf-6050-fa45-fd0426b5b721" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_cd7109b4-c98c-f292-1605-27828556fa31" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1981,6 +1988,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59162:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59162.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 20483:2013</docidentifier>
+  <docidentifier type="iso-undated">ISO 20483</docidentifier>
   <docidentifier type="iso-reference">ISO 20483:2013(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:20483:stage-90.93</docidentifier>
   <docnumber>20483</docnumber>
@@ -2049,8 +2057,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_137f921f-4ff4-4937-b936-ae2754984016" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_e92174d8-0090-204f-fac5-565133c37e35" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2073,6 +2081,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:42165:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/21/42165.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 24333:2009</docidentifier>
+  <docidentifier type="iso-undated">ISO 24333</docidentifier>
   <docidentifier type="iso-reference">ISO 24333:2009(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:24333:stage-90.92</docidentifier>
   <docnumber>24333</docnumber>
@@ -2158,9 +2167,9 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_0022b1c7-0d55-2222-e83d-e11a6812d520" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_b551b4f0-98a0-8bc0-9cae-ae41ed8b2cd3" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-07-27</fetched>
+</references><references id="_c8ff67bc-06bd-b812-ca78-b61c62b6e4fc" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_c06d9c4d-bc9c-de22-719c-051b28dc91d9" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2183,6 +2192,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
+  <docidentifier type="iso-undated">ISO 3696</docidentifier>
   <docidentifier type="iso-reference">ISO 3696(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
   <docnumber>3696</docnumber>
@@ -2255,6 +2265,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 3696:1987</docidentifier>
+      <docidentifier type="iso-undated">ISO 3696</docidentifier>
       <docidentifier type="iso-reference">ISO 3696:1987(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:3696:stage-90.93</docidentifier>
       <docnumber>3696</docnumber>
@@ -2316,8 +2327,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_ac02f16a-1b7a-04b0-c8a3-9651b888f7be" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_5a69d866-b3b8-a76c-43f1-45b28dd6e452" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2340,6 +2351,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
+  <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
   <docnumber>5725</docnumber>
@@ -2432,6 +2444,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>
+      <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
       <docnumber>5725</docnumber>
@@ -2513,8 +2526,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_b8d59cad-1dfc-e38c-2c8f-7b282a2890db" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_668aa76e-cd34-77dc-ca26-6c059d38ac5b" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2537,6 +2550,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
   <docnumber>5725</docnumber>
@@ -2629,6 +2643,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>
+      <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
       <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
@@ -2710,8 +2725,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_8bf2a9ff-6958-807d-4381-9dfbbcab5d8a" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_36d7e124-d561-52dd-221c-81b2601e1dcb" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2734,6 +2749,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
   <docnumber>6322</docnumber>
@@ -2830,6 +2846,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-1:1996</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-1</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-1:1996(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-1:stage-90.92</docidentifier>
       <docnumber>6322</docnumber>
@@ -2915,8 +2932,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_06216f25-3ddc-ce16-8952-8edaca176b0a" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_0537a7ad-c36f-c436-87e1-03e879a8c4ae" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2939,6 +2956,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3021,6 +3039,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-2:2000</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-2</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-2:2000(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-2:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
@@ -3091,8 +3110,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6feb5bf6-a11a-150b-79d2-315177d87a9d" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_e553609b-a703-8683-27b6-67dc57db5cbb" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3115,6 +3134,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
+  <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
   <docnumber>6322</docnumber>
@@ -3197,6 +3217,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 6322-3:1989</docidentifier>
+      <docidentifier type="iso-undated">ISO 6322-3</docidentifier>
       <docidentifier type="iso-reference">ISO 6322-3:1989(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:6322:-3:stage-90.93</docidentifier>
       <docnumber>6322</docnumber>
@@ -3268,8 +3289,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_dd0b387c-32f5-cb94-e56a-92d8b23c642d" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_7a093dfb-dac9-f6c3-28ae-9e53f6c7da87" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3292,6 +3313,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:50935:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier>
+  <docidentifier type="iso-undated">ISO 7301</docidentifier>
   <docidentifier type="iso-reference">ISO 7301:2011(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:7301:stage-95.99</docidentifier>
   <docnumber>7301</docnumber>
@@ -3366,8 +3388,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a315565f-d909-9280-d52f-b0514e9bc9fd" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_be4b32fc-4579-6780-116a-2b293c32f586" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3390,6 +3412,7 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier>
+  <docidentifier type="iso-undated">ISO 14864</docidentifier>
   <docidentifier type="iso-reference">ISO 14864:1998(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.93</docidentifier>
   <docnumber>14864</docnumber>

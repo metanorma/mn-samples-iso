@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
 
@@ -455,7 +455,7 @@
 <definition id="_a7090256-d7fc-d188-f00d-5dd03fb87af6"><verbal-definition id="_2f551437-02e6-792e-3dcb-15ca83e7be93"><p id="_6057221b-cadd-eee9-acd5-0f94fb6bde49">ISO or IEC standardization draft or publication</p></verbal-definition></definition>
 
 
- <termexample id="_e9a73ed5-b997-e917-8efa-98051dd6995e"><p id="_1420a7f2-9b69-09e1-73bc-76bd7a14d89d"><concept><strong>term <tt>International Standards</tt>, display <tt>International Standard</tt> not resolved via ID <tt>International-Standards</tt></strong></concept>, <concept><strong>term <tt>Technical Specifications</tt>, display <tt>Technical Specification</tt> not resolved via ID <tt>Technical-Specifications</tt></strong></concept>, <concept><strong>term <tt>Publicly Available Specifications</tt>, display <tt>Publicly Available Specification</tt> not resolved via ID <tt>Publicly-Available-Specifications</tt></strong></concept>, <concept><strong>term <tt>Technical Reports</tt>, display <tt>Technical Report</tt> not resolved via ID <tt>Technical-Reports</tt></strong></concept> and <concept><strong>term <tt>Guides</tt>, display <tt>Guide</tt> not resolved via ID <tt>Guides</tt></strong></concept>.</p>
+ <termexample id="_e9a73ed5-b997-e917-8efa-98051dd6995e"><p id="_1420a7f2-9b69-09e1-73bc-76bd7a14d89d"><concept><errormsg>term <tt>International Standards</tt>, display <tt>International Standard</tt> not resolved via ID <tt>International-Standards</tt></errormsg></concept>, <concept><errormsg>term <tt>Technical Specifications</tt>, display <tt>Technical Specification</tt> not resolved via ID <tt>Technical-Specifications</tt></errormsg></concept>, <concept><errormsg>term <tt>Publicly Available Specifications</tt>, display <tt>Publicly Available Specification</tt> not resolved via ID <tt>Publicly-Available-Specifications</tt></errormsg></concept>, <concept><errormsg>term <tt>Technical Reports</tt>, display <tt>Technical Report</tt> not resolved via ID <tt>Technical-Reports</tt></errormsg></concept> and <concept><errormsg>term <tt>Guides</tt>, display <tt>Guide</tt> not resolved via ID <tt>Guides</tt></errormsg></concept>.</p>
 </termexample></term>
 
 <term id="_8ff63c14-d289-074b-ff67-6f2f553835e4" anchor="term-standard"><preferred><expression>
@@ -517,10 +517,10 @@
 
 
 
- <termnote id="_c0b089d4-d874-4964-6c9d-63af06043a7c"><p id="_965eeebf-4ae8-69e9-1004-1864d68b6336">The content of a Technical Specification, including its annexes, may include <concept><strong>term <tt>requirements</tt>, display <tt>requirement</tt> not resolved via ID <tt>requirements</tt></strong></concept>.</p>
+ <termnote id="_c0b089d4-d874-4964-6c9d-63af06043a7c"><p id="_965eeebf-4ae8-69e9-1004-1864d68b6336">The content of a Technical Specification, including its annexes, may include <concept><errormsg>term <tt>requirements</tt>, display <tt>requirement</tt> not resolved via ID <tt>requirements</tt></errormsg></concept>.</p>
 </termnote><termnote id="_32e40646-919d-08fc-86b3-6b949d982c5d"><p id="_b13d10ce-1ffe-fe53-7058-3a60508f3222">A Technical Specification is not allowed to conflict with an existing International Standard.</p>
 </termnote><termnote id="_12ae044e-6ea7-fcaf-590d-257c375ffe95"><p id="_38993644-a5e0-ddd5-07ce-f567bbf8301c">Competing Technical Specifications on the same subject are permitted.</p>
-</termnote><termnote id="_4e8fb01b-3d05-8a8e-dd09-7a1b1b44bdf0"><p id="_2407bba5-5fb7-c21c-af0b-e4b28b31d3ce">Prior to mid-1999, Technical Specifications were designated as <concept><strong>term <tt>Technical Reports</tt>, display <tt>Technical Report</tt> not resolved via ID <tt>Technical-Reports</tt></strong></concept> of type 1 or 2.</p>
+</termnote><termnote id="_4e8fb01b-3d05-8a8e-dd09-7a1b1b44bdf0"><p id="_2407bba5-5fb7-c21c-af0b-e4b28b31d3ce">Prior to mid-1999, Technical Specifications were designated as <concept><errormsg>term <tt>Technical Reports</tt>, display <tt>Technical Report</tt> not resolved via ID <tt>Technical-Reports</tt></errormsg></concept> of type 1 or 2.</p>
 </termnote></term>
 
 <term id="_a78d40b8-4a9f-6fd7-43a0-69aee9c0ee6c" anchor="scls_3-1-6"><preferred><expression>
@@ -552,7 +552,7 @@
 <name>Guide</name>
 </expression>
 </preferred>
-<definition id="_c6a300c5-74b2-9de0-b395-279389e3c6e3"><verbal-definition id="_ccdc320b-7f06-7acb-ac87-b38c4d3911f5"><p id="_b7508eae-07c5-c81f-70c1-240021e9b642"><concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept> published by ISO or IEC giving rules, orientation, advice or <concept><strong>term <tt>recommendations</tt>, display <tt>recommendation</tt> not resolved via ID <tt>recommendations</tt></strong></concept> relating to international standardization</p></verbal-definition></definition>
+<definition id="_c6a300c5-74b2-9de0-b395-279389e3c6e3"><verbal-definition id="_ccdc320b-7f06-7acb-ac87-b38c4d3911f5"><p id="_b7508eae-07c5-c81f-70c1-240021e9b642"><concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept> published by ISO or IEC giving rules, orientation, advice or <concept><errormsg>term <tt>recommendations</tt>, display <tt>recommendation</tt> not resolved via ID <tt>recommendations</tt></errormsg></concept> relating to international standardization</p></verbal-definition></definition>
 
 
  <termnote id="_7a2dd86d-4673-030d-f4b0-2dbe9a9ef092"><p id="_f04979b5-0842-002d-6112-db0e645e1a98">Guides can address issues of interest to all users of documents published by ISO and IEC.</p>
@@ -584,7 +584,7 @@
 <name>normative element</name>
 </expression>
 </preferred>
-<definition id="_6bfa1037-2298-334c-a240-f2eae758b0c0"><verbal-definition id="_908a429d-f68d-30dc-57b7-3576851d3cfb"><p id="_c28bd2b2-d145-f508-afc6-5cbe368e341f">element that describes the scope of the <concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept> or sets out <concept><strong>term <tt>provisions</tt>, display <tt>provision</tt> not resolved via ID <tt>provisions</tt></strong></concept></p></verbal-definition></definition>
+<definition id="_6bfa1037-2298-334c-a240-f2eae758b0c0"><verbal-definition id="_908a429d-f68d-30dc-57b7-3576851d3cfb"><p id="_c28bd2b2-d145-f508-afc6-5cbe368e341f">element that describes the scope of the <concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept> or sets out <concept><errormsg>term <tt>provisions</tt>, display <tt>provision</tt> not resolved via ID <tt>provisions</tt></errormsg></concept></p></verbal-definition></definition>
  </term>
 
 <term id="_80c66882-413a-2c3f-804b-5eec10e778c2" anchor="term-informative-element"><preferred><expression>
@@ -608,7 +608,7 @@
 <name>conditional element</name>
 </expression>
 </preferred>
-<definition id="_b0b01d61-2991-326f-bef1-41ccde0e8b68"><verbal-definition id="_dc62dbe7-32d3-d3b3-df05-12410a327bdc"><p id="_f7eb5fa4-202d-0b7c-f907-a752887bc084">element that is present depending on the <concept><strong>term <tt>provisions</tt>, display <tt>provision</tt> not resolved via ID <tt>provisions</tt></strong></concept> of the particular <concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept></p></verbal-definition></definition>
+<definition id="_b0b01d61-2991-326f-bef1-41ccde0e8b68"><verbal-definition id="_dc62dbe7-32d3-d3b3-df05-12410a327bdc"><p id="_f7eb5fa4-202d-0b7c-f907-a752887bc084">element that is present depending on the <concept><errormsg>term <tt>provisions</tt>, display <tt>provision</tt> not resolved via ID <tt>provisions</tt></errormsg></concept> of the particular <concept><refterm>document</refterm><renderterm>document</renderterm><xref target="scls_3-1-1"/></concept></p></verbal-definition></definition>
 
 
  <termexample id="_5948638c-5f3e-8a8f-07cf-3cb0679c7a30"><p id="_9b6eb9ea-98e7-3154-51ba-853c792bd4e6">The symbols and abbreviated terms clause is an example of a conditional element.</p>

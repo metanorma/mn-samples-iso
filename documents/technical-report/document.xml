@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
 
@@ -200,7 +200,7 @@
 <name>records system</name>
 </expression>
 </preferred>
-<definition id="_72d2659f-b014-71eb-2fb0-e05859dd3c38"><verbal-definition id="_8f08f62b-4d7a-f6b0-d218-514be12cad45"><p id="_dd527044-954d-de08-c807-e23bba53b935">information system which captures, manages and provides <concept><refterm>access</refterm><renderterm>access</renderterm><xref target="term-access"/></concept> to <concept><strong>term <tt>records</tt>, display <tt>record(s)</tt> not resolved via ID <tt>records</tt></strong></concept> through time</p></verbal-definition></definition>
+<definition id="_72d2659f-b014-71eb-2fb0-e05859dd3c38"><verbal-definition id="_8f08f62b-4d7a-f6b0-d218-514be12cad45"><p id="_dd527044-954d-de08-c807-e23bba53b935">information system which captures, manages and provides <concept><refterm>access</refterm><renderterm>access</renderterm><xref target="term-access"/></concept> to <concept><errormsg>term <tt>records</tt>, display <tt>record(s)</tt> not resolved via ID <tt>records</tt></errormsg></concept> through time</p></verbal-definition></definition>
 
 
 
@@ -242,10 +242,10 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_e3862e2d-5dba-fc87-a13f-2a4ba130ca0b" normative="true" obligation="informative">
+</annex><bibliography><references id="_07a548dc-b9d5-a56f-e22c-4a4974944ee1" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_c809bccc-9ba5-d569-90fa-18023b2351f0" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_2b03ebae-f6da-4a41-e3a1-7a67744dbe01" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -268,6 +268,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:43485:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/34/43485.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 26300:2006</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 26300</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 26300:2006(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:26300:stage-90.93</docidentifier>
   <docnumber>26300</docnumber>
@@ -403,8 +404,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_361b5a1a-7b7e-8041-147c-29d525aa70e4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_fab47b57-c505-dfef-197c-f2143baf5d19" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -433,6 +434,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51463:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51463.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-1:2008</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 29500-1</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-1:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-1:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
@@ -535,8 +537,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_5c07f41b-9b95-718b-d3c1-1bbc2d7761e0" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_d17d6370-6225-0fcd-bd3e-b35eeced3552" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -565,6 +567,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51459:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51459.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-2:2008</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 29500-2</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-2:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-2:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
@@ -657,8 +660,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_3c5a8ee9-cfc9-5d29-9a65-250453961be4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_72c352af-a153-a5e6-adfe-1d7aea71a1bd" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -687,6 +690,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51461:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51461.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-3:2008</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 29500-3</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-3:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-3:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
@@ -772,8 +776,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_34de193e-7280-990f-2c7a-ea220744ab5d" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_cad59a5a-8a16-03c1-bd05-0641dd42da34" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -802,6 +806,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51462:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/14/51462.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 29500-4:2008</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 29500-4</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 29500-4:2008(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:29500:-4:stage-95.99</docidentifier>
   <docnumber>29500</docnumber>
@@ -905,8 +910,8 @@
   </place>
 </bibitem>
 
-<bibitem id="_e9ad8789-12aa-9cc9-52a6-eb746ed2da2e" type="standard" schema-version="v1.5.6" anchor="ISO5127">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_e034c8c6-1f6b-c92a-8f12-395fa505a617" type="standard" schema-version="v1.5.6" anchor="ISO5127">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -929,6 +934,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59743:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/97/59743.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 5127</docidentifier>
+  <docidentifier type="iso-undated">ISO 5127</docidentifier>
   <docidentifier type="iso-reference">ISO 5127(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:5127:stage-90.92</docidentifier>
   <docnumber>5127</docnumber>
@@ -1024,6 +1030,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59743:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/05/97/59743.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 5127:2017</docidentifier>
+      <docidentifier type="iso-undated">ISO 5127</docidentifier>
       <docidentifier type="iso-reference">ISO 5127:2017(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5127:stage-90.92</docidentifier>
       <docnumber>5127</docnumber>
@@ -1109,8 +1116,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_1c721bfb-b87f-8e92-9181-3ac6f7e57f01" type="standard" schema-version="v1.5.6" anchor="ISO15924">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_0e7e8e36-e74c-34f4-84ca-dd52f147dc7a" type="standard" schema-version="v1.5.6" anchor="ISO15924">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1133,6 +1140,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:29546:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 15924</docidentifier>
+  <docidentifier type="iso-undated">ISO 15924</docidentifier>
   <docidentifier type="iso-reference">ISO 15924(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:15924:stage-95.99</docidentifier>
   <docnumber>15924</docnumber>
@@ -1205,6 +1213,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:29546:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/95/29546.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 15924:2004</docidentifier>
+      <docidentifier type="iso-undated">ISO 15924</docidentifier>
       <docidentifier type="iso-reference">ISO 15924:2004(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:15924:stage-95.99</docidentifier>
       <docnumber>15924</docnumber>
@@ -1267,9 +1276,9 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_c4024631-d0a9-a857-f96c-0606240325d2" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_ef3d005f-90bb-c92a-df30-0e6b984980a6" type="standard" schema-version="v1.5.6" anchor="iso15489_1">
-  <fetched>2026-07-27</fetched>
+</references><references id="_9e097822-9fe3-24b4-8c37-d992590f1bfd" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_9d1bf07d-8fa7-2a73-8ba5-b7f78674ec21" type="standard" schema-version="v1.5.6" anchor="iso15489_1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1298,6 +1307,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:62542:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/25/62542.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 15489-1:2016</docidentifier>
+  <docidentifier type="iso-undated">ISO 15489-1</docidentifier>
   <docidentifier type="iso-reference">ISO 15489-1:2016(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:15489:-1:stage-90.93</docidentifier>
   <docnumber>15489</docnumber>
@@ -1363,8 +1373,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_e391437b-9554-a40e-336a-bd2612c731bf" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_fb3e51f9-37eb-e0bb-d3f7-fad245b41afc" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1393,6 +1403,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:20696:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20696.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 10746-1:1998</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 10746-1</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 10746-1:1998(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:10746:-1:stage-90.93</docidentifier>
   <docnumber>10746</docnumber>
@@ -1458,8 +1469,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_5d25e312-5df4-1fb2-598e-39020b685686" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_6d2d3c38-d93c-45c8-f20a-5e905325d115" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1488,6 +1499,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:20697:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/06/20697.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 10746-3:1996</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 10746-3</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 10746-3:1996(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:10746:-3:stage-95.99</docidentifier>
   <docnumber>10746</docnumber>
@@ -1570,8 +1582,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_8f9aede4-71a7-3f03-eaca-32881e717839" type="standard" schema-version="v1.5.6" anchor="iso27000">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_41b00272-a1d8-5f99-aad3-2917b0074536" type="standard" schema-version="v1.5.6" anchor="iso27000">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1600,6 +1612,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:41933:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/19/41933.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC 27000:2009</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC 27000</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC 27000:2009(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:27000:stage-95.99</docidentifier>
   <docnumber>27000</docnumber>

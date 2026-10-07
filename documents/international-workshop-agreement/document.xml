@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Competence of standards professionals — In companies</title>
 
@@ -105,7 +105,7 @@
 <name>competence</name>
 </expression>
 </preferred>
-<definition id="_a5ba1721-39e5-4bdc-1d56-0535843be7d1"><verbal-definition id="_684e0ae0-4cf5-f3f7-202d-c133b43f5845"><p id="_eb2e8f14-6f25-6699-1961-ec5ab5fbee7c">ability to apply <concept><refterm>knowledge</refterm><renderterm>knowledge</renderterm><xref target="term-knowledge"/></concept>, <concept><strong>term <tt>skills</tt>, display <tt>skill</tt> not resolved via ID <tt>skills</tt></strong></concept> and <concept><strong>term <tt>attributes</tt>, display <tt>attribute</tt> not resolved via ID <tt>attributes</tt></strong></concept> to achieve intended results</p></verbal-definition></definition>
+<definition id="_a5ba1721-39e5-4bdc-1d56-0535843be7d1"><verbal-definition id="_684e0ae0-4cf5-f3f7-202d-c133b43f5845"><p id="_eb2e8f14-6f25-6699-1961-ec5ab5fbee7c">ability to apply <concept><refterm>knowledge</refterm><renderterm>knowledge</renderterm><xref target="term-knowledge"/></concept>, <concept><errormsg>term <tt>skills</tt>, display <tt>skill</tt> not resolved via ID <tt>skills</tt></errormsg></concept> and <concept><errormsg>term <tt>attributes</tt>, display <tt>attribute</tt> not resolved via ID <tt>attributes</tt></errormsg></concept> to achieve intended results</p></verbal-definition></definition>
 
 
 
@@ -185,9 +185,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_cdebcfa5-a0ec-7d09-fe48-9bdf3016da1b" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_160df16d-f904-5bf2-b2c7-0ea1b1310fd4" type="standard" schema-version="v1.5.6" anchor="iso9000">
-  <fetched>2026-07-27</fetched>
+</references><references id="_a4f12397-847d-305f-e14f-39643a813f31" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_40ba9b45-40db-ee0b-6c24-742ca7c97e33" type="standard" schema-version="v1.5.6" anchor="iso9000">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Quality management systems</title>
 
@@ -210,6 +210,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:45481:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/54/45481.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 9000:2015</docidentifier>
+  <docidentifier type="iso-undated">ISO 9000</docidentifier>
   <docidentifier type="iso-reference">ISO 9000:2015(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:9000:stage-95.99</docidentifier>
   <docnumber>9000</docnumber>
@@ -278,8 +279,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_8d2d8d17-aa7b-19b3-a68e-8807236f947a" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_59c2c45a-d300-63a4-5dc0-96035d2bdca0" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Ergonomics of human-system interaction</title>
 
@@ -302,6 +303,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63500:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/35/63500.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 9241-11:2018</docidentifier>
+  <docidentifier type="iso-undated">ISO 9241-11</docidentifier>
   <docidentifier type="iso-reference">ISO 9241-11:2018(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:9241:-11:stage-90.93</docidentifier>
   <docnumber>9241</docnumber>
@@ -367,8 +369,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_281df7ee-29d8-3ad8-6679-57e94380bfaf" type="standard" schema-version="v1.5.6" anchor="iso17027">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_d7bdc0ea-90ec-0f36-2c3d-10d3b0ecffc3" type="standard" schema-version="v1.5.6" anchor="iso17027">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conformity assessment</title>
 
@@ -391,6 +393,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:62024:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/20/62024.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/IEC TS 17027:2014</docidentifier>
+  <docidentifier type="iso-undated">ISO/IEC TS 17027</docidentifier>
   <docidentifier type="iso-reference">ISO/IEC TS 17027:2014(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso-iec:ts:17027:stage-95.99</docidentifier>
   <docnumber>17027</docnumber>

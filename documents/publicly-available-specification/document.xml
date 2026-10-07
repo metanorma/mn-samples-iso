@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
 
@@ -191,7 +191,7 @@
 <name>headset</name>
 </expression>
 </preferred>
-<definition id="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><verbal-definition id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d"><p id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept><strong>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></strong></concept> combined with a <concept><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone"/></concept></p></verbal-definition></definition>
+<definition id="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><verbal-definition id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d"><p id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept><errormsg>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></errormsg></concept> combined with a <concept><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone"/></concept></p></verbal-definition></definition>
 
 
  <source status="identical" type="authoritative"><origin bibitemid="iso20109" type="inline" citeas="ISO 20109:2016"><localityStack><locality type="clause"><referenceFrom>3.5</referenceFrom></locality></localityStack></origin>
@@ -227,10 +227,10 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_a8ef6673-79e4-8db7-3994-49fde24c2be9" normative="true" obligation="informative">
+</annex><bibliography><references id="_e3d2ccab-95a1-ec69-6b03-d7f49b8a5ad2" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_f6149477-fa3b-5dff-8647-6c7082652d95" type="standard" schema-version="v1.5.6" anchor="iso8217">
-  <fetched>2026-07-27</fetched>
+<bibitem id="_da98a6c5-8851-a14e-4caf-3facdb58b864" type="standard" schema-version="v1.5.6" anchor="iso8217">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -259,6 +259,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:64247:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/42/64247.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8217:2017</docidentifier>
+  <docidentifier type="iso-undated">ISO 8217</docidentifier>
   <docidentifier type="iso-reference">ISO 8217:2017(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:8217:stage-95.99</docidentifier>
   <docnumber>8217</docnumber>
@@ -325,9 +326,9 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_aba54fc1-4649-f3dc-d8d4-e90423604c4c" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_165e1394-b1c8-4d4a-0d1b-8c75f9dbe9d3" type="standard" schema-version="v1.5.6" anchor="iso_3015">
-  <fetched>2026-07-27</fetched>
+</references><references id="_ddda3f10-7f29-4b39-c62a-d6cb9cf4a211" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_82ab8cf2-2e68-8315-e0a3-072df5e43091" type="standard" schema-version="v1.5.6" anchor="iso_3015">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -350,6 +351,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:72765:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/27/72765.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3015</docidentifier>
+  <docidentifier type="iso-undated">ISO 3015</docidentifier>
   <docidentifier type="iso-reference">ISO 3015(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3015:stage-90.93</docidentifier>
   <docnumber>3015</docnumber>
@@ -432,6 +434,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:72765:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/07/27/72765.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 3015:2019</docidentifier>
+      <docidentifier type="iso-undated">ISO 3015</docidentifier>
       <docidentifier type="iso-reference">ISO 3015:2019(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:3015:stage-90.93</docidentifier>
       <docnumber>3015</docnumber>
@@ -503,8 +506,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_74b75175-4223-b872-3a38-a6902a0239f2" type="standard" schema-version="v1.5.6" anchor="iso_3016">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_ab0a07c5-5c10-e30d-2456-79d63b71f8bf" type="standard" schema-version="v1.5.6" anchor="iso_3016">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -527,6 +530,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:73386:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/33/73386.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3016</docidentifier>
+  <docidentifier type="iso-undated">ISO 3016</docidentifier>
   <docidentifier type="iso-reference">ISO 3016(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3016:stage-90.93</docidentifier>
   <docnumber>3016</docnumber>
@@ -609,6 +613,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:73386:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/07/33/73386.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO 3016:2019</docidentifier>
+      <docidentifier type="iso-undated">ISO 3016</docidentifier>
       <docidentifier type="iso-reference">ISO 3016:2019(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:3016:stage-90.93</docidentifier>
       <docnumber>3016</docnumber>
@@ -680,8 +685,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_5101ecb0-1c13-75d3-cd30-9574798316d0" type="standard" schema-version="v1.5.6" anchor="iso_10307-1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_711c5c66-ff1a-f87c-5954-535529f5eca3" type="standard" schema-version="v1.5.6" anchor="iso_10307-1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -710,6 +715,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44980:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/49/44980.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 10307-1:2009</docidentifier>
+  <docidentifier type="iso-undated">ISO 10307-1</docidentifier>
   <docidentifier type="iso-reference">ISO 10307-1:2009(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:10307:-1:stage-90.93</docidentifier>
   <docnumber>10307</docnumber>
@@ -784,8 +790,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_552f46bc-3c06-66ad-e339-60b9b9ef15dc" type="standard" schema-version="v1.5.6" anchor="iso_10307-2">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_00be5f77-0e31-937b-f820-ad07b9f0292c" type="standard" schema-version="v1.5.6" anchor="iso_10307-2">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -814,6 +820,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44005:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/40/44005.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 10307-2:2009</docidentifier>
+  <docidentifier type="iso-undated">ISO 10307-2</docidentifier>
   <docidentifier type="iso-reference">ISO 10307-2:2009(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:10307:-2:stage-90.93</docidentifier>
   <docnumber>10307</docnumber>
@@ -895,8 +902,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_5b2e5ca1-4ab3-5baa-7dbf-3cb6bfe870f8" type="standard" schema-version="v1.5.6" anchor="iso20109">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_3f55134c-b812-804f-0d42-9a8de0e21de6" type="standard" schema-version="v1.5.6" anchor="iso20109">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Simultaneous interpreting</title>
 
@@ -925,6 +932,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:67063:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/70/67063.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 20109:2016</docidentifier>
+  <docidentifier type="iso-undated">ISO 20109</docidentifier>
   <docidentifier type="iso-reference">ISO 20109:2016(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:20109:stage-95.99</docidentifier>
   <docnumber>20109</docnumber>
@@ -980,8 +988,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9ca0bf33-7c5f-76ec-0fc2-d04a53dbca18" type="standard" schema-version="v1.5.6" anchor="iso22259">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_2eb5900d-a254-14ee-32b7-d3c4aeec1e24" type="standard" schema-version="v1.5.6" anchor="iso22259">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conference systems</title>
 
@@ -1010,6 +1018,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:72988:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/29/72988.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 22259:2019</docidentifier>
+  <docidentifier type="iso-undated">ISO 22259</docidentifier>
   <docidentifier type="iso-reference">ISO 22259:2019(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:22259:stage-90.93</docidentifier>
   <docnumber>22259</docnumber>

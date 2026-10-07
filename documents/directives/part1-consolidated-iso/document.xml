@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Consolidated ISO Supplement — Procedures specific to ISO</title>
 
@@ -4548,7 +4548,7 @@
 
 
 
-<definition id="_896a37b4-91e9-e778-c105-55cd325736a5"><verbal-definition id="_1950d937-fdc9-2e4a-6c98-d7a39c7dd2f4"><p id="_b7e54530-d557-c9af-1f51-13ec6600ee85">standard for <concept><strong>term <tt>management systems</tt>, display <tt>management system</tt> not resolved via ID <tt>management-systems</tt></strong></concept></p></verbal-definition></definition>
+<definition id="_896a37b4-91e9-e778-c105-55cd325736a5"><verbal-definition id="_1950d937-fdc9-2e4a-6c98-d7a39c7dd2f4"><p id="_b7e54530-d557-c9af-1f51-13ec6600ee85">standard for <concept><errormsg>term <tt>management systems</tt>, display <tt>management system</tt> not resolved via ID <tt>management-systems</tt></errormsg></concept></p></verbal-definition></definition>
 
 
  <termnote id="_c4b24dda-e75c-c13d-bdcf-c0ad9a072fda"><p id="_d52e6c4d-7b18-a42a-e6ec-d29226aa21a0">For the purposes of this document, this definition also applies to other ISO deliverables (e.g. TS, PAS).</p>
@@ -5132,7 +5132,7 @@ outcome of the work of the ISO/TMB/JTCG “Joint technical Coordination Group on
 <name>organization</name>
 </expression>
 </preferred>
-<definition id="_fd0b26c3-930f-69a8-c8cc-77911bbcc849"><verbal-definition id="_d73c64be-2461-0c97-4b0b-ed80fbd8d948"><p id="_64dbdf40-0c22-ac86-07a8-2e03068136b4">person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its <concept><strong>term <tt>objectives</tt>, display <tt>objective</tt> not resolved via ID <tt>objectives</tt></strong></concept></p></verbal-definition></definition>
+<definition id="_fd0b26c3-930f-69a8-c8cc-77911bbcc849"><verbal-definition id="_d73c64be-2461-0c97-4b0b-ed80fbd8d948"><p id="_64dbdf40-0c22-ac86-07a8-2e03068136b4">person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its <concept><errormsg>term <tt>objectives</tt>, display <tt>objective</tt> not resolved via ID <tt>objectives</tt></errormsg></concept></p></verbal-definition></definition>
 
 
  <termnote id="_3359d522-f067-b8b3-79d4-94da60dbd253"><p id="_256e0614-8f9d-fc74-4dbc-e3fa42fc076b">The concept of organization includes, but is not limited to, sole-trader, company, corporation, firm, enterprise, authority, partnership, charity or institution, or part or combination thereof, whether incorporated or not, public or private.</p>
@@ -5168,7 +5168,7 @@ outcome of the work of the ISO/TMB/JTCG “Joint technical Coordination Group on
 <name>management system</name>
 </expression>
 </preferred>
-<definition id="_41a5178b-6775-419a-9c2e-f2299df079bd"><verbal-definition id="_e7fa997b-6a0a-de48-e25d-6fd1d2f67abe"><p id="_aded3742-e876-18b7-ffe8-4948414d0807">set of interrelated or interacting elements of an <concept><refterm>organization</refterm><renderterm>organization</renderterm><xref target="term-organization"/></concept> to establish <concept><strong>term <tt>policies</tt>, display <tt>policy</tt> not resolved via ID <tt>policies</tt></strong></concept> and <concept><strong>term <tt>objectives</tt>, display <tt>objective</tt> not resolved via ID <tt>objectives</tt></strong></concept> and <concept><strong>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></strong></concept> to achieve those objectives</p></verbal-definition></definition>
+<definition id="_41a5178b-6775-419a-9c2e-f2299df079bd"><verbal-definition id="_e7fa997b-6a0a-de48-e25d-6fd1d2f67abe"><p id="_aded3742-e876-18b7-ffe8-4948414d0807">set of interrelated or interacting elements of an <concept><refterm>organization</refterm><renderterm>organization</renderterm><xref target="term-organization"/></concept> to establish <concept><errormsg>term <tt>policies</tt>, display <tt>policy</tt> not resolved via ID <tt>policies</tt></errormsg></concept> and <concept><errormsg>term <tt>objectives</tt>, display <tt>objective</tt> not resolved via ID <tt>objectives</tt></errormsg></concept> and <concept><errormsg>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></errormsg></concept> to achieve those objectives</p></verbal-definition></definition>
 
 
 
@@ -5264,7 +5264,7 @@ outcome of the work of the ISO/TMB/JTCG “Joint technical Coordination Group on
  <termnote id="_d4524d51-3454-620f-4ad3-df76922df00a"><p id="_108bd179-bd71-3b31-21a0-0a230eceb9d2">Documented information can be in any format and media, and from any source.</p>
 </termnote><termnote id="_a5b9e39e-7876-a649-e76d-0005579f941e"><p id="_403e30e9-7ef7-5ace-af09-7c998a3033b3">Documented information can refer to:</p>
 
-<ul id="_1511f7cc-c7ae-ff10-4e17-4acc8f8bb482"><li><p id="_334a0412-7e9f-0263-9601-8b057569a604">the <concept><refterm>management system</refterm><renderterm>management system</renderterm><xref target="term-management-system-1"/></concept>, including related <concept><strong>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></strong></concept>;</p>
+<ul id="_1511f7cc-c7ae-ff10-4e17-4acc8f8bb482"><li><p id="_334a0412-7e9f-0263-9601-8b057569a604">the <concept><refterm>management system</refterm><renderterm>management system</renderterm><xref target="term-management-system-1"/></concept>, including related <concept><errormsg>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></errormsg></concept>;</p>
 </li>
 <li><p id="_377434c3-8686-d3d7-d475-12b1524ff8bf">information created in order for the organization to operate (documentation);</p>
 </li>
@@ -5290,7 +5290,7 @@ outcome of the work of the ISO/TMB/JTCG “Joint technical Coordination Group on
 
 
  <termnote id="_8199022b-2739-2ffe-3f10-c34eae8370e6"><p id="_59e2ff13-50ba-fc5c-f801-542df435ed63">Performance can relate either to quantitative or qualitative findings.</p>
-</termnote><termnote id="_28b576e5-4736-fe4e-7b52-08688b5e891a"><p id="_ab63d459-37ce-50e2-5905-2b23be8e6606">Performance can relate to managing activities, <concept><strong>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></strong></concept>, products (including services), systems or <concept><strong>term <tt>organizations</tt>, display <tt>organization</tt> not resolved via ID <tt>organizations</tt></strong></concept>.</p>
+</termnote><termnote id="_28b576e5-4736-fe4e-7b52-08688b5e891a"><p id="_ab63d459-37ce-50e2-5905-2b23be8e6606">Performance can relate to managing activities, <concept><errormsg>term <tt>processes</tt>, display <tt>process</tt> not resolved via ID <tt>processes</tt></errormsg></concept>, products (including services), systems or <concept><errormsg>term <tt>organizations</tt>, display <tt>organization</tt> not resolved via ID <tt>organizations</tt></errormsg></concept>.</p>
 </termnote></term>
 
 <term id="_163ccb53-7671-a736-da04-508ce9f967a1" anchor="term-outsource-_verb_"><preferred><expression>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Fire safety — Statistical data collection — Vocabulary</title>
 
@@ -239,9 +239,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_44b25df4-55b6-0832-b166-5e242f547897" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_a7192534-f2f9-2438-d8f5-fd369f7c310f" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-07-27</fetched>
+</references><references id="_4ecbdb83-bef4-ce0f-0c8f-1b34bc715742" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_86c67b00-2ac7-cd84-fa45-0eb0ee1f6850" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -264,6 +264,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:50935:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/09/50935.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 7301:2011</docidentifier>
+  <docidentifier type="iso-undated">ISO 7301</docidentifier>
   <docidentifier type="iso-reference">ISO 7301:2011(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:7301:stage-95.99</docidentifier>
   <docnumber>7301</docnumber>
@@ -338,8 +339,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_13b7f928-25d7-841c-8937-01325678d961" type="standard" schema-version="v1.5.6" anchor="iso13943">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_8365e6bf-c24b-90a6-d921-9ac3c30829c9" type="standard" schema-version="v1.5.6" anchor="iso13943">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -362,6 +363,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:63321:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/33/63321.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 13943:2017</docidentifier>
+  <docidentifier type="iso-undated">ISO 13943</docidentifier>
   <docidentifier type="iso-reference">ISO 13943:2017(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:13943:stage-95.99</docidentifier>
   <docnumber>13943</docnumber>
@@ -434,8 +436,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_7bf5b8b6-f9ab-6281-8999-da8f78179ef0" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_1aafe6d7-982f-a227-cc29-cb3cd25249fe" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -458,6 +460,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:25793:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/57/25793.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14864:1998</docidentifier>
+  <docidentifier type="iso-undated">ISO 14864</docidentifier>
   <docidentifier type="iso-reference">ISO 14864:1998(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:14864:stage-90.93</docidentifier>
   <docnumber>14864</docnumber>
@@ -512,8 +515,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_4dee6964-f9a2-12b2-8061-82cd2af6f171" type="standard" schema-version="v1.5.6" anchor="isotr17755">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_c6f80a75-74cd-2e10-6c31-455d31cf2ae6" type="standard" schema-version="v1.5.6" anchor="isotr17755">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -536,6 +539,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60469:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/04/60469.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/TR 17755:2014</docidentifier>
+  <docidentifier type="iso-undated">ISO/TR 17755</docidentifier>
   <docidentifier type="iso-reference">ISO/TR 17755:2014(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:tr:17755:stage-90.93</docidentifier>
   <docnumber>17755</docnumber>
@@ -598,8 +602,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9cd2f776-ed0e-6b7a-ee04-19c8f5700396" type="standard" schema-version="v1.5.6" anchor="isots19677">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_92a97e44-50c5-c632-f683-6c831f0abee8" type="standard" schema-version="v1.5.6" anchor="isots19677">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 
@@ -616,6 +620,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:74843:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/48/74843.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO/TS 19677</docidentifier>
+  <docidentifier type="iso-undated">ISO/TS 19677</docidentifier>
   <docidentifier type="iso-reference">ISO/TS 19677(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-95.99</docidentifier>
   <docnumber>19677</docnumber>
@@ -682,6 +687,7 @@
       <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:74843:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/07/48/74843.detail.rss</uri>
       <docidentifier type="ISO" primary="true">ISO/TS 19677:2019</docidentifier>
+      <docidentifier type="iso-undated">ISO/TS 19677</docidentifier>
       <docidentifier type="iso-reference">ISO/TS 19677:2019(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:ts:19677:stage-95.99</docidentifier>
       <docnumber>19677</docnumber>

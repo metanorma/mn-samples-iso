@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.4.9" schema-version="v2.1.6" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
@@ -193,9 +193,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_93323bb4-ddc6-14c3-c4a4-6e5ed19d332b" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_ba51a264-e28b-ca30-8b88-67d039c52a97" type="standard" schema-version="v1.5.6" anchor="iso140001">
-  <fetched>2026-07-27</fetched>
+</references><references id="_2b7c905d-bd29-3c7f-f672-bbda0b03f5a6" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_6219f6b8-6978-3549-45fd-715f9c858ea5" type="standard" schema-version="v1.5.6" anchor="iso140001">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
@@ -218,6 +218,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:60857:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/08/60857.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14001:2015</docidentifier>
+  <docidentifier type="iso-undated">ISO 14001</docidentifier>
   <docidentifier type="iso-reference">ISO 14001:2015(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:14001:stage-95.99</docidentifier>
   <docnumber>14001</docnumber>
@@ -302,8 +303,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a31d44be-9cd7-f4e5-9290-abbe63d28a60" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_23f6d615-9802-e3bf-bda2-e53e2cd44b2c" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
@@ -326,6 +327,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:66453:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/64/66453.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 14064-1:2018</docidentifier>
+  <docidentifier type="iso-undated">ISO 14064-1</docidentifier>
   <docidentifier type="iso-reference">ISO 14064-1:2018(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:14064:-1:stage-90.92</docidentifier>
   <docnumber>14064</docnumber>
@@ -406,8 +408,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_6070f7bf-091e-7836-3213-72172c0feb0b" type="standard" schema-version="v1.5.6" anchor="iso31000">
-  <fetched>2026-07-27</fetched>
+</bibitem><bibitem id="_e11aa496-145a-470a-ed5d-3da481aa248e" type="standard" schema-version="v1.5.6" anchor="iso31000">
+  <fetched>2026-10-07</fetched>
   
 <title language="en" script="Latn" type="title-intro">Risk management</title>
 
@@ -430,6 +432,7 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:65694:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/56/65694.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 31000:2018</docidentifier>
+  <docidentifier type="iso-undated">ISO 31000</docidentifier>
   <docidentifier type="iso-reference">ISO 31000:2018(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:31000:stage-90.92</docidentifier>
   <docnumber>31000</docnumber>
