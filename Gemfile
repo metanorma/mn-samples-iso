@@ -10,9 +10,8 @@ gem "metanorma", git: "https://github.com/metanorma/metanorma", branch: "main", 
 gem "metanorma-taste", git: "https://github.com/metanorma/metanorma-taste", branch: "main", github: "metanorma/metanorma-taste", branch: "main"
 gem "metanorma-utils", git: "https://github.com/metanorma/metanorma-utils", branch: "main", github: "metanorma/metanorma-utils", branch: "main"
 
-gem "relaton", "= 3.0.0.pre.alpha.11"
-gem "relaton-render", "= 3.0.0.pre.alpha.19", github: "metanorma/relaton-render", branch: "main"
-gem "relaton-bib", "2.2.0.pre.alpha.1"
-gem "pubid", github: "pubid/pubid", branch: "main"
+gem "relaton", "~> 3.0.0.pre.alpha"
+gem "relaton-render", "~> 3.0.0.pre.alpha"
+gem "pubid", "~> 2.0.0.pre.alpha"
 gem "moxml", github: "lutaml/moxml", branch: "main"
 gem "leptris", "1.9.314"
