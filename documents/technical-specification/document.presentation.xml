@@ -322,9 +322,9 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_0ff9cc05-3e4d-6d6c-2d9b-a0b9db4c2138" normative="false" obligation="informative" semx-id="_0ff9cc05-3e4d-6d6c-2d9b-a0b9db4c2138" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_34523786-9616-86c5-98c6-7017c11f4928"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</annex><bibliography><references id="_0de9e5e3-e610-99b2-d63b-2cdcc4915bd5" normative="false" obligation="informative" semx-id="_0de9e5e3-e610-99b2-d63b-2cdcc4915bd5" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_f19c3e27-ca9b-ab04-0ac0-1999f0101645"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -422,8 +422,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso13943" type="standard" schema-version="v1.5.6" anchor="iso13943" semx-id="_bd0dc254-2e9d-bc12-5c93-6c4f1f0505e1"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">13943</span>:<span class="stdyear">2017</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Fire safety — Vocabulary</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="iso13943" type="standard" schema-version="v1.5.6" anchor="iso13943" semx-id="_135a7655-62bd-a334-41b8-16e6dc5dd8ee"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">13943</span>:<span class="stdyear">2017</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Fire safety — Vocabulary</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -519,8 +519,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_2d660ad1-4e29-36a3-0534-b092f0b0aa9b"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_f8b222cb-1569-9dde-fb6a-92eb061337ad"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -598,8 +598,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="isotr17755" type="standard" schema-version="v1.5.6" anchor="isotr17755" semx-id="_9aa4d40b-fddc-30e6-9c9d-769bfae00009"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span>/<span class="doctype">TR</span> <span class="stddocNumber">17755</span>:<span class="stdyear">2014</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Fire safety — Overview of national fire statistics practices</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="isotr17755" type="standard" schema-version="v1.5.6" anchor="isotr17755" semx-id="_fcc72aea-d994-f811-e8a1-ed66199aae66"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span>/<span class="doctype">TR</span> <span class="stddocNumber">17755</span>:<span class="stdyear">2014</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Fire safety — Overview of national fire statistics practices</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -685,8 +685,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="isots19677" type="standard" schema-version="v1.5.6" anchor="isots19677" semx-id="_210017e0-b346-122c-28f7-bbc202c928d0"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span>/<span class="doctype">TS</span> <span class="stddocNumber">19677</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="isots19677" type="standard" schema-version="v1.5.6" anchor="isots19677" semx-id="_ebf05ea4-9947-64fe-2aff-ecb22e9b7f19"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span>/<span class="doctype">TS</span> <span class="stddocNumber">19677</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 

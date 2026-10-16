@@ -245,9 +245,9 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_61d3c919-e02e-920a-02f1-3f1039453804" normative="false" obligation="informative" semx-id="_61d3c919-e02e-920a-02f1-3f1039453804" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso140001" type="standard" schema-version="v1.5.6" anchor="iso140001" semx-id="_2fe99ae7-9963-e6e1-5d1e-c00416e0a079"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14001</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Environmental management systems — Requirements with guidance for use</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</annex><bibliography><references id="_f1d99979-1b8f-f841-f71f-bd8c61cad0f4" normative="false" obligation="informative" semx-id="_f1d99979-1b8f-f841-f71f-bd8c61cad0f4" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso140001" type="standard" schema-version="v1.5.6" anchor="iso140001" semx-id="_259063bd-f596-efcf-57bc-d0b12a8c464e"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14001</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Environmental management systems — Requirements with guidance for use</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
@@ -355,8 +355,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.5.6" anchor="iso14064_1" semx-id="_5ad3f043-fbbe-3c17-4b7a-de7320b42a3e"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="iso14064_1" type="standard" schema-version="v1.5.6" anchor="iso14064_1" semx-id="_d11e7039-9c19-c958-58a7-e6ec3e945e0e"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14064</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Greenhouse gases — Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
@@ -460,8 +460,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso31000" type="standard" schema-version="v1.5.6" anchor="iso31000" semx-id="_2650552b-01a5-7e21-647b-643acd624e9d"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">31000</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Risk management — Guidelines</span></em></formattedref>
-  <fetched>2026-10-15</fetched>
+</bibitem><bibitem id="iso31000" type="standard" schema-version="v1.5.6" anchor="iso31000" semx-id="_3a6ef497-7789-eaa2-daa3-e45d5759af75"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">31000</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Risk management — Guidelines</span></em></formattedref>
+  <fetched>2026-10-16</fetched>
   
 <title language="en" script="Latn" type="title-intro">Risk management</title>
 
