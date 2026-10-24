@@ -288,10 +288,10 @@ sourcecode .nt {
 
 
 
-<references id="_5dbe3f2f-d5b5-05a6-40cb-35f374796fac" normative="true" obligation="informative" semx-id="_5dbe3f2f-d5b5-05a6-40cb-35f374796fac" displayorder="6">
-<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_b6f00105-d0ca-ae1d-d0a3-164021a1bf75"><span class="fmt-caption-label"><semx element="autonum" source="_5dbe3f2f-d5b5-05a6-40cb-35f374796fac">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_5dbe3f2f-d5b5-05a6-40cb-35f374796fac">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="iso-iec_26300" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300" semx-id="_fa7a0ab6-4454-d239-d46b-afab13ad3bdc"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">26300</span>:<span class="stdyear">2006</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Open Document Format for Office Applications (OpenDocument) v1.0</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+<references id="_4a92886a-ba88-35d2-17b7-6072a8ad984c" normative="true" obligation="informative" semx-id="_4a92886a-ba88-35d2-17b7-6072a8ad984c" displayorder="6">
+<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_b6f00105-d0ca-ae1d-d0a3-164021a1bf75"><span class="fmt-caption-label"><semx element="autonum" source="_4a92886a-ba88-35d2-17b7-6072a8ad984c">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_4a92886a-ba88-35d2-17b7-6072a8ad984c">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+<bibitem id="iso-iec_26300" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300" semx-id="_ba35b655-d9f8-af52-496e-01e509965721"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">26300</span>:<span class="stdyear">2006</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Open Document Format for Office Applications (OpenDocument) v1.0</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -450,9 +450,9 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="iso-iec_29500-1" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1" semx-id="_792f7b26-0e6f-7774-b6eb-363ec237de70"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2008</span><fn id="_77f1bd37-a51d-992a-483f-32cc9c17ec82" reference="1" original-reference="_ae02a2e5-cb94-4afe-93db-87169f69ad28" target="_3c5916f3-871f-279d-eb94-a7dd424fa0c1"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_77f1bd37-a51d-992a-483f-32cc9c17ec82">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="iso-iec_29500-1" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1" semx-id="_d2ffcf0b-51aa-8057-504f-23b35eafbf4b"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2008</span><fn id="_77f1bd37-a51d-992a-483f-32cc9c17ec82" reference="1" original-reference="_3c5f7b3f-4a5f-4fad-bd82-d91613223323" target="_3c5916f3-871f-279d-eb94-a7dd424fa0c1"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_77f1bd37-a51d-992a-483f-32cc9c17ec82">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Document description and processing languages — Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -584,9 +584,9 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="iso-iec_29500-2" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2" semx-id="_8ab97f6b-0623-a31e-38cd-4e770fb995a2"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">2008</span><fn id="_8ce57ac8-2dab-d516-63a7-57c9fd1ff649" reference="2" original-reference="_e7a12688-fbd4-46d6-9a82-24db4c61ffc9" target="_0550e2d9-8799-7dd5-2e1d-9c3a6c7f7ae7"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_8ce57ac8-2dab-d516-63a7-57c9fd1ff649">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="iso-iec_29500-2" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2" semx-id="_6a0c23bf-1f92-887d-f4fd-0c18dc6797a5"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">2008</span><fn id="_8ce57ac8-2dab-d516-63a7-57c9fd1ff649" reference="2" original-reference="_9ed16087-96bf-4115-ab40-0dec216f1b3a" target="_0550e2d9-8799-7dd5-2e1d-9c3a6c7f7ae7"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_8ce57ac8-2dab-d516-63a7-57c9fd1ff649">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Document description and processing languages — Office Open XML File Formats — Part 2: Open Packaging Conventions</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -708,9 +708,9 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="iso-iec_29500-3" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3" semx-id="_824bba95-aebd-7d1e-f26f-55545651ec3e"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">3</span>:<span class="stdyear">2008</span><fn id="_b2a1416c-4f96-f648-c403-99c077dc2011" reference="3" original-reference="_cb6122fd-da38-4750-9c2d-f91e86caabbf" target="_90716004-1dbc-624f-9f15-6638514b6408"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_b2a1416c-4f96-f648-c403-99c077dc2011">3</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="iso-iec_29500-3" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3" semx-id="_5ead5944-816d-759e-32dd-f16fdc2f2f40"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">3</span>:<span class="stdyear">2008</span><fn id="_b2a1416c-4f96-f648-c403-99c077dc2011" reference="3" original-reference="_e78edf13-f058-4906-bff0-db52f324b370" target="_90716004-1dbc-624f-9f15-6638514b6408"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_b2a1416c-4f96-f648-c403-99c077dc2011">3</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Document description and processing languages — Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -825,9 +825,9 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="iso-iec_29500-4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4" semx-id="_b4f0f262-e25d-c027-10ac-9e68f4b6fc84"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">4</span>:<span class="stdyear">2008</span><fn id="_82597f8b-7528-1457-af91-5d0397f06d97" reference="4" original-reference="_de161b60-cdf4-4979-b8ba-0a1f3f6d2d01" target="_4c7ecd3d-fea9-960f-5493-b534baaf7a32"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_82597f8b-7528-1457-af91-5d0397f06d97">4</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="iso-iec_29500-4" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4" semx-id="_dc982196-7d93-2df7-679e-54e755f6df81"><biblio-tag><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">29500</span>-<span class="stddocPartNumber">4</span>:<span class="stdyear">2008</span><fn id="_82597f8b-7528-1457-af91-5d0397f06d97" reference="4" original-reference="_9f295688-cf86-4746-ad3a-9da1ae879de2" target="_4c7ecd3d-fea9-960f-5493-b534baaf7a32"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_82597f8b-7528-1457-af91-5d0397f06d97">4</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Document description and processing languages — Office Open XML File Formats — Part 4: Transitional Migration Features</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -960,8 +960,8 @@ sourcecode .nt {
   </place>
 </bibitem>
 
-<bibitem id="ISO5127" type="standard" schema-version="v1.5.6" anchor="ISO5127" semx-id="_81538bae-db74-1b51-3c9f-1a2b5390167f"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">5127</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Foundation and vocabulary</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+<bibitem id="ISO5127" type="standard" schema-version="v1.5.6" anchor="ISO5127" semx-id="_d2f1adbc-d22f-95b5-5a52-2f5dc80c952e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">5127</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Foundation and vocabulary</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1166,8 +1166,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO15924" type="standard" schema-version="v1.5.6" anchor="ISO15924" semx-id="_10dbc4ab-ad07-2373-439d-0519ca1af4e7"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">15924</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Codes for the representation of names of scripts</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+<bibitem id="ISO15924" type="standard" schema-version="v1.5.6" anchor="ISO15924" semx-id="_30545277-8587-82ad-143d-afdb8bf5a9be"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">15924</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Codes for the representation of names of scripts</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1332,9 +1332,9 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_1d401bf2-8492-d4bd-2544-3ef86decc6d9" normative="false" obligation="informative" semx-id="_1d401bf2-8492-d4bd-2544-3ef86decc6d9" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso15489_1" type="standard" schema-version="v1.5.6" anchor="iso15489_1" semx-id="_9e8e5c6c-b0b0-898f-982e-cb5cbd6b88d5"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">15489</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Records management — Part 1: Concepts and principles</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+</annex><bibliography><references id="_ab7f02d6-30ca-02c2-5e9c-a7d547f670e1" normative="false" obligation="informative" semx-id="_ab7f02d6-30ca-02c2-5e9c-a7d547f670e1" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso15489_1" type="standard" schema-version="v1.5.6" anchor="iso15489_1" semx-id="_9bcf22d0-e8f0-0938-ef5c-868025da3da1"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">15489</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information and documentation — Records management — Part 1: Concepts and principles</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1429,8 +1429,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso-iec_10746-1" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1" semx-id="_19368f00-d5b3-df1b-a746-c80f1689bd8e"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">10746</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Open Distributed Processing — Reference model: Overview — Part 1:</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="iso-iec_10746-1" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1" semx-id="_868e4b65-174e-4c3d-5144-86bca17b51bd"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">10746</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Open Distributed Processing — Reference model: Overview — Part 1:</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1525,9 +1525,9 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso-iec_10746-3" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3" semx-id="_76f4a95c-7507-1087-7614-04318ffb60e7"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">10746</span>-<span class="stddocPartNumber">3</span>:<span class="stdyear">1996</span><fn id="_426d832e-0c41-a42d-58cf-ab56f14f40c1" reference="5" original-reference="_1ee94ed4-3efd-4931-ada7-5772423c8d80" target="_5deb2a4b-5ac7-e5a5-684a-f13765884f29"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_426d832e-0c41-a42d-58cf-ab56f14f40c1">5</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+</bibitem><bibitem id="iso-iec_10746-3" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3" semx-id="_9d8c7b6a-e5d5-33ee-8370-da159e2e3908"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">10746</span>-<span class="stddocPartNumber">3</span>:<span class="stdyear">1996</span><fn id="_426d832e-0c41-a42d-58cf-ab56f14f40c1" reference="5" original-reference="_1dcad09b-d977-4ee5-ae38-5abc61bd4f5d" target="_5deb2a4b-5ac7-e5a5-684a-f13765884f29"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_426d832e-0c41-a42d-58cf-ab56f14f40c1">5</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Open Distributed Processing — Reference Model: Architecture</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1639,9 +1639,9 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso27000" type="standard" schema-version="v1.5.6" anchor="iso27000" semx-id="_7fc60cba-08b7-3293-c100-944c613a633a"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">27000</span>:<span class="stdyear">2009</span><fn id="_d58c1fb4-35ce-7c3f-e25c-162934121132" reference="6" original-reference="_6177b987-ce98-411d-bbae-3fe02dffcb7a" target="_5e1661a2-2ffe-2502-e47b-8bbd6ae95f1a"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_d58c1fb4-35ce-7c3f-e25c-162934121132">6</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+</bibitem><bibitem id="iso27000" type="standard" schema-version="v1.5.6" anchor="iso27000" semx-id="_5acd49a3-da58-bfce-7b01-0f158e1675ab"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="stddocNumber">27000</span>:<span class="stdyear">2009</span><fn id="_d58c1fb4-35ce-7c3f-e25c-162934121132" reference="6" original-reference="_6a70efad-7bf3-4faf-9319-c5dcf38249d2" target="_5e1661a2-2ffe-2502-e47b-8bbd6ae95f1a"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_d58c1fb4-35ce-7c3f-e25c-162934121132">6</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Information technology — Security techniques — Information security management systems — Overview and vocabulary</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 

@@ -247,9 +247,9 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_e7a7256d-d210-f014-fa08-dcb05f917af3" normative="false" obligation="informative" semx-id="_e7a7256d-d210-f014-fa08-dcb05f917af3" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso9000" type="standard" schema-version="v1.5.6" anchor="iso9000" semx-id="_d5f59cf6-5350-13ae-9e5e-586bfb33fbee"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">9000</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Quality management systems — Fundamentals and vocabulary</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+</annex><bibliography><references id="_add5f19e-75d6-1667-c931-d341463c5e9b" normative="false" obligation="informative" semx-id="_add5f19e-75d6-1667-c931-d341463c5e9b" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso9000" type="standard" schema-version="v1.5.6" anchor="iso9000" semx-id="_79b9c8bc-8702-d4f4-db13-dd921fc08023"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">9000</span>:<span class="stdyear">2015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Quality management systems — Fundamentals and vocabulary</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Quality management systems</title>
 
@@ -341,8 +341,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.5.6" anchor="iso9241_11" semx-id="_ee2e50d7-24bd-867f-2d3c-6ea279b840e7"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">9241</span>-<span class="stddocPartNumber">11</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="iso9241_11" type="standard" schema-version="v1.5.6" anchor="iso9241_11" semx-id="_889a6cab-e248-d35e-cb40-8e3dd4b73860"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">9241</span>-<span class="stddocPartNumber">11</span>:<span class="stdyear">2018</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Ergonomics of human-system interaction</title>
 
@@ -431,8 +431,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso17027" type="standard" schema-version="v1.5.6" anchor="iso17027" semx-id="_34d144a4-99fb-2906-22a2-5a711fa3cc54"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="doctype">TS</span> <span class="stddocNumber">17027</span>:<span class="stdyear">2014</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Conformity assessment — Vocabulary related to competence of persons used for certification of persons</span></em></formattedref>
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="iso17027" type="standard" schema-version="v1.5.6" anchor="iso17027" semx-id="_a761125c-ac3e-5d93-d51e-2bed36a7ea34"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO/IEC</span> <span class="doctype">TS</span> <span class="stddocNumber">17027</span>:<span class="stdyear">2014</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Conformity assessment — Vocabulary related to competence of persons used for certification of persons</span></em></formattedref>
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conformity assessment</title>
 

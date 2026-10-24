@@ -1270,18 +1270,18 @@ deionized water such as Lugols.<fn id="_24c2c962-296c-05c0-8989-5839d32bc379" re
 <example id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" anchor="samplecode">
 <name id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_f79cfb4b-6963-487f-be67-01ae6ccc99dc">1</callout>
+%w{a b c}.each do |x| <callout target="_90372e28-c540-460f-88f1-214b1fdd2646">1</callout>
   puts x
-end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_f79cfb4b-6963-487f-be67-01ae6ccc99dc"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor="_90372e28-c540-460f-88f1-214b1fdd2646"><p id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation></sourcecode>
 
 
 </example>
 </appendix>
-</annex><bibliography><references id="_18712f5a-d618-2465-1604-3e758dd124fc" normative="true" obligation="informative">
+</annex><bibliography><references id="_df68a5d1-0092-326b-6b54-5b81c2b8d986" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_f4a05f0d-60c0-ded7-6d7d-8289dae623ef" type="standard" schema-version="v1.5.6" anchor="ISO712">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_65c3bfe4-f722-a73b-584b-f91094b4e0e1" type="standard" schema-version="v1.5.6" anchor="ISO712">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1490,8 +1490,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_712bbc9d-2181-a6d0-f73a-acf337353451" type="standard" schema-version="v1.5.6" anchor="ISO6646">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_80e2d120-8296-4c33-734e-e63082022bba" type="standard" schema-version="v1.5.6" anchor="ISO6646">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1688,8 +1688,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_3c32cd3f-53cc-7107-0281-0fff4ab728f0" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_8ae4bb97-66f8-de97-31a1-01ab3c6a8093" type="standard" schema-version="v1.5.6" anchor="ISO8351-1">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1782,8 +1782,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_d0de5809-dd4f-0ddb-5a49-fc8e1772a9ee" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_535f133c-cb5c-71c5-b797-cbb4aa89eac1" type="standard" schema-version="v1.5.6" anchor="ISO8351-2">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1960,8 +1960,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><language>en</language><script>Latn</script>
 </bibitem>
-<bibitem id="_feb3006d-9317-4907-a4fa-ad88438a7d80" type="standard" schema-version="v1.5.6" anchor="ISO20483">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_d65846a5-b7b7-d6f8-9717-bd3c7fa11fd4" type="standard" schema-version="v1.5.6" anchor="ISO20483">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -2059,8 +2059,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_441c8e73-359f-5692-ef6c-36a0df4c366c" type="standard" schema-version="v1.5.6" anchor="ISO24333">
-  <fetched>2026-10-21</fetched>
+<bibitem id="_5903b04c-66bc-561b-a28d-b394b71991d8" type="standard" schema-version="v1.5.6" anchor="ISO24333">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2169,9 +2169,9 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_5d21bd71-7873-105c-5ad2-ad7838bf31fc" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_099c9032-bd81-82f5-45d7-bec0f177d14c" type="standard" schema-version="v1.5.6" anchor="ISO3696">
-  <fetched>2026-10-21</fetched>
+</references><references id="_0126d541-1df4-19e5-fb58-db5ebee26529" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_18bcca8f-6405-3820-0277-4b8e916dd9cb" type="standard" schema-version="v1.5.6" anchor="ISO3696">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2329,8 +2329,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_39ac278e-326e-cfdd-be4c-f3f47facf55c" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_67c604a5-0727-13c4-1a65-e0b317f5afc6" type="standard" schema-version="v1.5.6" anchor="ISO5725-1">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2528,8 +2528,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_d8858d03-a6aa-42a7-6951-e088738190a2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_91f438f9-c421-2cf4-2e60-f1ee530e9716" type="standard" schema-version="v1.5.6" anchor="ISO5725-2">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2727,8 +2727,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_d818352e-f872-8674-8521-5839b07fd664" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_9f8318bb-41bf-e4c6-669d-54f4036472e9" type="standard" schema-version="v1.5.6" anchor="ISO6322-1">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -2934,8 +2934,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_fff1f15c-9e73-2cac-b962-fe38d1c4b667" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_3c2ee77c-8a7c-17d7-4e70-8cd2b5a59bd3" type="standard" schema-version="v1.5.6" anchor="ISO6322-2">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3112,8 +3112,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9182cf7b-b159-efd7-303f-565056f3d530" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_4b02a86a-3e9e-a09f-568b-c0f02f90a6ad" type="standard" schema-version="v1.5.6" anchor="ISO6322-3">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3291,8 +3291,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9f4b21ab-8513-3a85-3192-625dffd5ad6d" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_6197df82-e2bc-b2ad-c856-fcf29cd17906" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3390,8 +3390,8 @@ end</body><callout-annotation id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" anchor=
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_e5318cac-176e-0af7-92d5-6bafde2d571a" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-10-21</fetched>
+</bibitem><bibitem id="_4ee7839e-2d9e-e932-7a4b-42407f9634f2" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-10-24</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
