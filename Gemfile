@@ -20,7 +20,5 @@ gem "metanorma", github: "metanorma/metanorma", branch: "main"
 gem "metanorma-taste", github: "metanorma/metanorma-taste", branch: "main"
 gem "metanorma-utils", github: "metanorma/metanorma-utils", branch: "main"
 
-gem "relaton", "~> 3.0"
-gem "relaton-render", "~> 3.0"
-gem "pubid", "~> 2.0"
 gem "moxml", github: "lutaml/moxml", branch: "main"
+gem "relaton-cli", "~> 3.0"
