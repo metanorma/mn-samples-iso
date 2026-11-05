@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
 
@@ -12,7 +12,7 @@
 <title language="fr" type="title-intro">Produits pétroliers — Combustibles (classe F)</title>
 
 <title language="fr" type="title-main">Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
-<docidentifier type="ISO" primary="true">ISO/FDPAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/FDPAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDPAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/FDPAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"/><date type="updated"/><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDPAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/FDPAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-50.00:en</docidentifier><docidentifier type="iso-undated">ISO/FDPAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/FDPAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"/><date type="updated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -36,7 +36,7 @@
 <name>Classifications and specifications</name>
 <identifier id="_7b3eb9bd-1e2e-0efb-d932-709e488970f6">SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_7b3eb9bd-1e2e-0efb-d932-709e488970f6">SC 4</semx></tt></fmt-identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition language="">1</edition><edition language="en">first edition</edition><language current="true">en</language><script current="true">Latn</script><status><stage abbreviation="FDPAS" language="">50</stage><stage abbreviation="FDPAS" language="en">Final Draft Publicly Available Specification</stage><stage abbreviation="FDPAS" language="en" type="firstpage">FINAL DRAFT Publicly Available Specification</stage><stage abbreviation="FDPAS" language="en" type="coverpage">FINAL DRAFT<br/>Publicly Available Specification</stage><substage>60</substage></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">publicly-available-specification</doctype><doctype language="en">Publicly Available Specification</doctype><flavor>iso</flavor><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="FDPAS">Publicly Available Specification Final Draft</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">publicly-available-specification</doctype><doctype language="en">Publicly Available Specification</doctype><flavor>iso</flavor><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="FDPAS">Final Draft Publicly Available Specification</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
 standardization at the following addresses:
 
 * ISO Online browsing platform: available at https://www.iso.org/obp[]
@@ -254,7 +254,7 @@ sourcecode .nt {
 <name id="_b16f2956-bbd9-bdba-7e26-5deb0471fd33">headset</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_3eb8471e-9cd7-051e-2b3f-51997a6940a4"><strong><semx element="expression/name" source="_b16f2956-bbd9-bdba-7e26-5deb0471fd33">headset</semx></strong></semx></p></fmt-preferred>
-<definition id="_02443190-dc9a-ce01-d132-f52fcd07f7dc" semx-id="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><verbal-definition semx-id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d" id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d"><p semx-id="_4c614cff-869d-0d7c-5aed-190cdb346d63" original-id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept><errormsg>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></errormsg></concept> combined with a <concept><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone"/></concept></p></verbal-definition></definition><fmt-definition id="_94b3a6b5-5e00-01fa-4caf-d6bc44463461"><semx element="definition" source="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><p id="_4c614cff-869d-0d7c-5aed-190cdb346d63" semx-id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept id="_8871f9d7-29d3-1b31-9da9-9ab83f656529"><errormsg>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></errormsg></concept><fmt-concept><semx element="concept" source="_8871f9d7-29d3-1b31-9da9-9ab83f656529"><strong>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></strong></semx></fmt-concept> combined with a <concept id="_015a5786-dd8b-8059-b29b-37225ca82f32"><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone" id="_080676fb-09ea-d30c-3ca3-e7f1f5ee9c80"/></concept><fmt-concept><semx element="concept" source="_015a5786-dd8b-8059-b29b-37225ca82f32"><em>microphone</em> <semx element="xref" source="_080676fb-09ea-d30c-3ca3-e7f1f5ee9c80">(<fmt-xref target="term-microphone"><span class="citesec"><semx element="autonum" source="terms">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-microphone">5</semx></span></fmt-xref>)</semx></semx></fmt-concept></p></semx></fmt-definition>
+<definition id="_02443190-dc9a-ce01-d132-f52fcd07f7dc" semx-id="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><verbal-definition semx-id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d" id="_0c24b245-1fba-91b4-6b02-0f80296a2e5d"><p semx-id="_4c614cff-869d-0d7c-5aed-190cdb346d63" original-id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept id="_4ad7c7ea-cf17-8936-a045-5545e33619f8"><errormsg>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></errormsg></concept><fmt-concept><semx element="concept" source="_4ad7c7ea-cf17-8936-a045-5545e33619f8"><strong>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></strong></semx></fmt-concept> combined with a <concept id="_d06d7be1-0460-81a0-9ab2-3cbd32bd2a6e"><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone"/></concept><fmt-concept><semx element="concept" source="_d06d7be1-0460-81a0-9ab2-3cbd32bd2a6e"><em>microphone</em></semx></fmt-concept></p></verbal-definition></definition><fmt-definition id="_8c903a51-aaec-85ce-3478-a6e6c0f6e545"><semx element="definition" source="_02443190-dc9a-ce01-d132-f52fcd07f7dc"><p id="_4c614cff-869d-0d7c-5aed-190cdb346d63" semx-id="_4c614cff-869d-0d7c-5aed-190cdb346d63"><concept><errormsg>term <tt>headphones</tt>, display <tt>headphone</tt> not resolved via ID <tt>headphones</tt></errormsg></concept> combined with a <concept><refterm>microphone</refterm><renderterm>microphone</renderterm><xref target="term-microphone" id="_ccc84724-73b1-b014-86ea-7a59e926295a"/><semx element="xref" source="_ccc84724-73b1-b014-86ea-7a59e926295a"><fmt-xref target="term-microphone"><span class="citesec"><semx element="autonum" source="terms">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-microphone">5</semx></span></fmt-xref></semx></concept></p></semx></fmt-definition>
 
 
  <source status="identical" type="authoritative" id="_0c04bf58-4cda-3008-eae2-bab13b20beaa"><origin bibitemid="iso20109" type="inline" citeas="ISO 20109:2016"><localityStack><locality type="clause"><referenceFrom>3.5</referenceFrom></locality></localityStack></origin>
@@ -284,10 +284,10 @@ sourcecode .nt {
 
 
 
-<references id="_8490af72-f342-e7e9-0475-4c78e6f355e8" normative="true" obligation="informative" semx-id="_8490af72-f342-e7e9-0475-4c78e6f355e8" displayorder="6">
-<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_b6f00105-d0ca-ae1d-d0a3-164021a1bf75"><span class="fmt-caption-label"><semx element="autonum" source="_8490af72-f342-e7e9-0475-4c78e6f355e8">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_8490af72-f342-e7e9-0475-4c78e6f355e8">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="iso8217" type="standard" schema-version="v1.5.6" anchor="iso8217" semx-id="_d0eb4c91-298f-2874-326f-459a5e54b1a9"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8217</span>:<span class="stdyear">2017</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Fuels (class F) — Specifications of marine fuels</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<references id="_8d9c77c5-42bc-028c-710a-a2c53e91f8a7" normative="true" obligation="informative" semx-id="_8d9c77c5-42bc-028c-710a-a2c53e91f8a7" displayorder="6">
+<title id="_708516f3-5914-33c4-8001-a64c25fdd45e" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_b6f00105-d0ca-ae1d-d0a3-164021a1bf75"><span class="fmt-caption-label"><semx element="autonum" source="_8d9c77c5-42bc-028c-710a-a2c53e91f8a7">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_708516f3-5914-33c4-8001-a64c25fdd45e">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_8d9c77c5-42bc-028c-710a-a2c53e91f8a7">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+<bibitem id="iso8217" type="standard" schema-version="v1.5.6" anchor="iso8217" semx-id="_1aaa04b5-f8b8-cf96-033d-7c449aafa9f6"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8217</span>:<span class="stdyear">2017</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Fuels (class F) — Specifications of marine fuels</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -389,9 +389,9 @@ sourcecode .nt {
 </annex><annex id="annex-2" anchor="annex-2" inline-header="false" obligation="informative" semx-id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" autonum="B" displayorder="10">
 <title id="_38912b60-070a-410d-615b-dd33dc647eef" semx-id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title><fmt-title id="_c442612f-1226-2c0b-05af-e8cda4b7077e"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef"><strong>Annex Two</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="annex-2">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_38912b60-070a-410d-615b-dd33dc647eef">Annex Two</semx></variant-title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca" semx-id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_0014733a-33d9-f04e-4443-10aeb2758023" normative="false" obligation="informative" semx-id="_0014733a-33d9-f04e-4443-10aeb2758023" displayorder="11">
-<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso_3015" type="standard" schema-version="v1.5.6" anchor="iso_3015" semx-id="_0c53ba06-bea1-c40d-4362-e2da40d42949"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum and related products from natural or synthetic sources — Determination of cloud point</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</annex><bibliography><references id="_6948b729-dee4-19d5-3fae-c0574ebb7dd4" normative="false" obligation="informative" semx-id="_6948b729-dee4-19d5-3fae-c0574ebb7dd4" displayorder="11">
+<title id="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f6fe7add-d1a9-0682-793c-fa2b1a09ca57"><semx element="title" source="_f4c2bd32-4b9f-c7bf-65fa-4a5120f569d3">Bibliography</semx></fmt-title><bibitem id="iso_3015" type="standard" schema-version="v1.5.6" anchor="iso_3015" semx-id="_e1cf7e88-3d25-903d-0382-0531362ed911"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3015</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum and related products from natural or synthetic sources — Determination of cloud point</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -414,7 +414,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:72765:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/27/72765.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 3015</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 3015</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 3015(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:3015:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3015</docidentifier>
   <docnumber>3015</docnumber>
@@ -440,7 +439,7 @@ sourcecode .nt {
         
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
 
-        <identifier id="_9fbcf887-2984-5c59-bd5f-b0144fa72e30">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_9fbcf887-2984-5c59-bd5f-b0144fa72e30">ISO/TC 28</semx></tt></fmt-identifier>
+        <identifier id="_a9e66009-b03b-5139-e127-93b96c71a21f">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_a9e66009-b03b-5139-e127-93b96c71a21f">ISO/TC 28</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -526,7 +525,7 @@ sourcecode .nt {
             
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
 
-            <identifier id="_e443d0df-a9e1-af87-bec6-31735a2643e6">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_e443d0df-a9e1-af87-bec6-31735a2643e6">ISO/TC 28</semx></tt></fmt-identifier>
+            <identifier id="_85fff7bc-58bd-3c7c-a162-8ae0cf657ab7">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_85fff7bc-58bd-3c7c-a162-8ae0cf657ab7">ISO/TC 28</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -569,8 +568,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso_3016" type="standard" schema-version="v1.5.6" anchor="iso_3016" semx-id="_be1e83f4-a11e-7d62-ac74-0ffed4b63dba"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum and related products from natural or synthetic sources — Determination of pour point</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="iso_3016" type="standard" schema-version="v1.5.6" anchor="iso_3016" semx-id="_06f82be7-bde9-a3c6-0807-40a32b8acaba"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum and related products from natural or synthetic sources — Determination of pour point</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -593,7 +592,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:73386:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/33/73386.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 3016</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 3016</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 3016(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:3016:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3016</docidentifier>
   <docnumber>3016</docnumber>
@@ -619,7 +617,7 @@ sourcecode .nt {
         
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
 
-        <identifier id="_53706cc4-c697-442a-88d9-cad1cefc9407">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_53706cc4-c697-442a-88d9-cad1cefc9407">ISO/TC 28</semx></tt></fmt-identifier>
+        <identifier id="_13c5a24f-f9dd-d526-ef5e-90a386647ab5">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_13c5a24f-f9dd-d526-ef5e-90a386647ab5">ISO/TC 28</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -705,7 +703,7 @@ sourcecode .nt {
             
 <name>Petroleum and related products, fuels and lubricants from natural or synthetic sources</name>
 
-            <identifier id="_45c45615-8691-cbce-412e-5c8b08aab6fd">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_45c45615-8691-cbce-412e-5c8b08aab6fd">ISO/TC 28</semx></tt></fmt-identifier>
+            <identifier id="_da9ddba1-fa0b-60b7-a8c5-b862749ed4a8">ISO/TC 28</identifier><fmt-identifier><tt><semx element="identifier" source="_da9ddba1-fa0b-60b7-a8c5-b862749ed4a8">ISO/TC 28</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -748,8 +746,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso_10307-1" type="standard" schema-version="v1.5.6" anchor="iso_10307-1" semx-id="_a0fc1d9b-7b9d-1f1a-132a-44757a54de5f"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">10307</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Total sediment in residual fuel oils — Part 1: Determination by hot filtration</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="iso_10307-1" type="standard" schema-version="v1.5.6" anchor="iso_10307-1" semx-id="_71b86b8a-466a-e8a8-1576-470bf2c95302"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">10307</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Total sediment in residual fuel oils — Part 1: Determination by hot filtration</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -853,8 +851,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso_10307-2" type="standard" schema-version="v1.5.6" anchor="iso_10307-2" semx-id="_9cdb9341-b63a-3a38-dd6d-9fcce3492b45"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">10307</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Total sediment in residual fuel oils — Part 2: Determination using standard procedures for ageing</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="iso_10307-2" type="standard" schema-version="v1.5.6" anchor="iso_10307-2" semx-id="_81123855-ee18-ebaf-e562-cb817668b5c2"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">10307</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Petroleum products — Total sediment in residual fuel oils — Part 2: Determination using standard procedures for ageing</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -965,8 +963,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso20109" type="standard" schema-version="v1.5.6" anchor="iso20109" semx-id="_aecf5b68-7236-32de-b095-93026c856138"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">20109</span>:<span class="stdyear">2016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Simultaneous interpreting — Equipment — Requirements</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="iso20109" type="standard" schema-version="v1.5.6" anchor="iso20109" semx-id="_b08b626b-871a-162c-37f8-24319eaafb95"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">20109</span>:<span class="stdyear">2016</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Simultaneous interpreting — Equipment — Requirements</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Simultaneous interpreting</title>
 
@@ -1051,8 +1049,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="iso22259" type="standard" schema-version="v1.5.6" anchor="iso22259" semx-id="_b1d30bd4-fd03-902c-115c-f169b53cfe01"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">22259</span>:<span class="stdyear">2019</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Conference systems — Equipment — Requirements</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="iso22259" type="standard" schema-version="v1.5.6" anchor="iso22259" semx-id="_f18189aa-290a-52e8-f957-6f4b83189e48"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">22259</span>:<span class="stdyear">2019</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Conference systems — Equipment — Requirements</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conference systems</title>
 

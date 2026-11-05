@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Principles and rules for the structure and drafting of ISO and IEC documents</title>
 
@@ -16,7 +16,7 @@
 <title language="fr" type="title-main">Principes et règles de structure et de rédaction des documents ISO et IEC</title>
 
 <title language="fr" type="title-part-prefix">Partie 2</title>
-<docidentifier type="ISO" primary="true">ISO DIR:2018</docidentifier><docidentifier type="iso-reference">ISO DIR:2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2018</docidentifier><docidentifier type="iso-undated">ISO DIR</docidentifier><docidentifier type="iso-with-lang">ISO DIR:2018(en)</docidentifier><date type="updated"/><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO DIR 2:2018</docidentifier><docidentifier type="iso-reference">ISO DIR 2:2018(E)</docidentifier><docidentifier type="URN">urn:iso:doc:iso:dir:2:2018</docidentifier><docidentifier type="iso-undated">ISO DIR 2</docidentifier><docidentifier type="iso-with-lang">ISO DIR 2:2018(en)</docidentifier><date type="updated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -30,7 +30,7 @@
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="authorizer"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></contributor><edition>8</edition><language>en</language><script>Latn</script><status><stage abbreviation="IS">60</stage><substage>60</substage></status><copyright><from>2018</from><owner><organization>
+<abbreviation>ISO</abbreviation></organization></contributor><edition>8</edition><language>en</language><script>Latn</script><status><stage abbreviation="DIR">60</stage><substage>60</substage></status><copyright><from>2018</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>directive</doctype><flavor>iso</flavor><structuredidentifier><project-number part="2">ISO </project-number></structuredidentifier><stagename abbreviation="DIR">Directives</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>true</stage-published></semantic-metadata>
 <presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><UnitsML xmlns="https://schema.unitsml.org/unitsml/1.0"><UnitSet><Unit dimensionURL="#D_L2M-1" id="U_rad.m2.kg-1">
@@ -1333,14 +1333,14 @@
       <mstyle mathvariant="normal">
         <mi>rad</mi>
       </mstyle>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>m</mi>
         </mstyle>
         <mn>2</mn>
       </msup>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>kg</mi>
@@ -1528,7 +1528,7 @@
       <mstyle mathvariant="normal">
         <mi>W</mi>
       </mstyle>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>m</mi>
@@ -1538,7 +1538,7 @@
           <mn>1</mn>
         </mrow>
       </msup>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>K</mi>
@@ -4819,7 +4819,7 @@
       <mstyle mathvariant="normal">
         <mi>kg</mi>
       </mstyle>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>m</mi>
@@ -5088,11 +5088,11 @@
 <td id="_f7374405-4d96-0770-d102-ccac17f25fe2" valign="top" align="left"/><td id="_8cdb0578-731b-228d-c3c3-a7bba629eccc" valign="top" align="left"/></tr><tr id="_05d5b4c0-a3b6-fd2e-ea78-d13fbe24929a"><td id="_902a6172-241b-c697-438e-2b6426b80fba" valign="top" align="left">Other issues</td>
 <td id="_95a39978-ecbd-d07d-cab5-96b2b5d867f8" valign="top" align="left"/><td id="_0a0a5843-9b6f-4906-8c9e-5f1ca1c1da66" valign="top" align="left"/><td id="_07d705c1-a702-1775-aa03-5ae4e0ea5dff" valign="top" align="left"/></tr></tbody>
 </table>
-</annex><annex id="_2b74b7ab-aaf9-e229-ac17-7b421b861ee9" anchor="annex_b" inline-header="false" obligation="normative">
+</annex><annex id="_4e5385a1-1fdc-2556-3929-773c06957b31" anchor="annex_b" inline-header="false" obligation="normative">
 <title id="_36ca25f8-c5cb-b535-d568-aad4b7b82bb7">Quantities and units</title>
 <p id="_6e0dafd4-e465-35f4-cff7-edea4e54c5cc"><xref target="table_b-1"/> lists provisions that are specified elsewhere in the ISO/IEC Directives, Part 2, or in the particular International Standards dealing with quantities and units.</p>
 
-<table id="_4acb2ad8-cda6-ebb8-8e61-0a1e105ea695" anchor="table_b-1">
+<table id="_bbc6495b-a95c-1366-81d1-4936017738e3" anchor="table_b-1">
 <name id="_b5364c41-b189-a8d4-026d-2a950fbbda5d">Quantities and units</name>
 <thead><tr id="_24be1008-bec7-0e9d-de82-dc8df16cf1e6"><th id="_736e47c5-9ca5-bf4e-ce5d-b4662498ca1c" valign="top" align="left">Aspect to be considered</th>
 <th id="_2547a748-7e91-e54e-c039-881982e911a6" valign="top" align="left">Explanations and examples</th>
@@ -5173,7 +5173,7 @@
       <mstyle mathvariant="normal">
         <mi>km</mi>
       </mstyle>
-      <mi rspace="thickmathspace">⁢</mi>
+      <mo rspace="thickmathspace">⁢</mo>
       <msup>
         <mstyle mathvariant="normal">
           <mi>h</mi>
@@ -5246,10 +5246,10 @@
 </table>
 </example>
 </td>
-</tr><tr id="_578450c9-2fb4-595e-7089-c5a22c3c4edc"><td id="_06153b61-80a5-c09b-b3db-1d70bd70eb74" valign="top" align="left">Use of +, − and ± signs as a monadic operator</td>
-<td id="_535b1dab-6ef1-a883-a4da-30d907d1772a" valign="top" align="left"><p id="_b7459df5-e44a-571b-8e04-8c39422960af">A plus or minus sign before a number (or quantity), used to indicate “same sign” or “change of sign”, is a monadic operator and shall not be separated from the number by a space.</p>
+</tr><tr id="_137c8593-57dd-c049-310e-409d1941da13"><td id="_06153b61-80a5-c09b-b3db-1d70bd70eb74" valign="top" align="left">Use of +, − and ± signs as a monadic operator</td>
+<td id="_1986e790-b94c-5ac3-5f74-7de38fd2b60b" valign="top" align="left"><p id="_b7459df5-e44a-571b-8e04-8c39422960af">A plus or minus sign before a number (or quantity), used to indicate “same sign” or “change of sign”, is a monadic operator and shall not be separated from the number by a space.</p>
 
-<example id="_cf623fb5-e8ee-6444-f037-c099410e0b68"><p id="_b86cf469-cf1f-2ca8-7779-28a5d08d8fe9">A Celsius temperature from <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<example id="_9cde33d9-f068-b509-8fee-b3eca4564875"><p id="_f511de3b-459e-2b03-aeeb-32beed225cd9">A Celsius temperature from <stem block="false" type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mo>−</mo>
     <mn>7</mn>
@@ -5287,7 +5287,7 @@
     <mi>t</mi>
     <mi>e</mi>
     <mi>m</mi>
-    <mo>:</mo>
+    </mstyle>
     <mrow>
       <mo>[</mo>
       <mo>−</mo>
@@ -5303,9 +5303,8 @@
       </mrow>
       <mo/>
     </mrow>
-  </mstyle>
-</math><asciimath>5 "unitsml(degC)"] +
-Tolerance stem:[-5 "unitsml(cm)"</asciimath></stem> on the length of the square.</p>
+  </math>
+</stem> on the length of the square.</p>
 </example>
 </td>
 </tr><tr id="_296e74b9-7aec-bbd9-619d-d2d6c55d28d3"><td id="_879c0a46-881d-e472-1b62-f18e81402489" valign="top" align="left">Use of +, −, ±, × , · , =, &gt; and &lt; signs as dyadic operators or to express relations</td>

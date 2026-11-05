@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Petroleum products — Fuels (class F) — Considerations for fuel suppliers and users regarding marine fuel quality in view of the implementation of maximum 0,50 % sulfur in 2020</title>
 
@@ -12,7 +12,7 @@
 <title language="fr" type="title-intro">Produits pétroliers — Combustibles (classe F)</title>
 
 <title language="fr" type="title-main">Considérations à l’usage des fournisseurs de combustibles et des utilisateurs pour la qualité des combustibles pour la marine en vue de la mise en application de la teneur maximale en soufre de 0,50 % en 2020</title>
-<docidentifier type="ISO" primary="true">ISO/FDPAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/FDPAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-50.60:en</docidentifier><docidentifier type="iso-undated">ISO/FDPAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/FDPAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"/><date type="updated"/><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDPAS 23263:2019</docidentifier><docidentifier type="iso-reference">ISO/FDPAS 23263:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:pas:23263:stage-50.00:en</docidentifier><docidentifier type="iso-undated">ISO/FDPAS 23263</docidentifier><docidentifier type="iso-with-lang">ISO/FDPAS 23263:2019(en)</docidentifier><docidentifier type="iso-tc">23263</docidentifier><docnumber>23263</docnumber><date type="published"><on>2019-09</on></date><date type="circulated"/><date type="updated"/><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -36,7 +36,7 @@
 <name>Classifications and specifications</name>
 <identifier>SC 4</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><language>en</language><script>Latn</script><status><stage abbreviation="FDPAS">50</stage><substage>60</substage></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>publicly-available-specification</doctype><flavor>iso</flavor><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="FDPAS">Publicly Available Specification Final Draft</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>publicly-available-specification</doctype><flavor>iso</flavor><ics><code>75.160.20</code><text>Liquid fuels</text></ics><structuredidentifier><project-number>ISO 23263</project-number></structuredidentifier><stagename abbreviation="FDPAS">Final Draft Publicly Available Specification</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
 <presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
@@ -227,10 +227,10 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_8490af72-f342-e7e9-0475-4c78e6f355e8" normative="true" obligation="informative">
+</annex><bibliography><references id="_8d9c77c5-42bc-028c-710a-a2c53e91f8a7" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_d0eb4c91-298f-2874-326f-459a5e54b1a9" type="standard" schema-version="v1.5.6" anchor="iso8217">
-  <fetched>2026-10-27</fetched>
+<bibitem id="_1aaa04b5-f8b8-cf96-033d-7c449aafa9f6" type="standard" schema-version="v1.5.6" anchor="iso8217">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -326,9 +326,9 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_0014733a-33d9-f04e-4443-10aeb2758023" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_0c53ba06-bea1-c40d-4362-e2da40d42949" type="standard" schema-version="v1.5.6" anchor="iso_3015">
-  <fetched>2026-10-27</fetched>
+</references><references id="_6948b729-dee4-19d5-3fae-c0574ebb7dd4" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_e1cf7e88-3d25-903d-0382-0531362ed911" type="standard" schema-version="v1.5.6" anchor="iso_3015">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -351,7 +351,6 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:72765:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/27/72765.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3015</docidentifier>
-  <docidentifier type="iso-undated">ISO 3015</docidentifier>
   <docidentifier type="iso-reference">ISO 3015(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3015:stage-90.93</docidentifier>
   <docnumber>3015</docnumber>
@@ -506,8 +505,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_be1e83f4-a11e-7d62-ac74-0ffed4b63dba" type="standard" schema-version="v1.5.6" anchor="iso_3016">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_06f82be7-bde9-a3c6-0807-40a32b8acaba" type="standard" schema-version="v1.5.6" anchor="iso_3016">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum and related products from natural or synthetic sources</title>
 
@@ -530,7 +529,6 @@
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:73386:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/07/33/73386.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 3016</docidentifier>
-  <docidentifier type="iso-undated">ISO 3016</docidentifier>
   <docidentifier type="iso-reference">ISO 3016(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:3016:stage-90.93</docidentifier>
   <docnumber>3016</docnumber>
@@ -685,8 +683,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a0fc1d9b-7b9d-1f1a-132a-44757a54de5f" type="standard" schema-version="v1.5.6" anchor="iso_10307-1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_71b86b8a-466a-e8a8-1576-470bf2c95302" type="standard" schema-version="v1.5.6" anchor="iso_10307-1">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -790,8 +788,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9cdb9341-b63a-3a38-dd6d-9fcce3492b45" type="standard" schema-version="v1.5.6" anchor="iso_10307-2">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_81123855-ee18-ebaf-e562-cb817668b5c2" type="standard" schema-version="v1.5.6" anchor="iso_10307-2">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Petroleum products</title>
 
@@ -902,8 +900,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_aecf5b68-7236-32de-b095-93026c856138" type="standard" schema-version="v1.5.6" anchor="iso20109">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_b08b626b-871a-162c-37f8-24319eaafb95" type="standard" schema-version="v1.5.6" anchor="iso20109">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Simultaneous interpreting</title>
 
@@ -988,8 +986,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_b1d30bd4-fd03-902c-115c-f169b53cfe01" type="standard" schema-version="v1.5.6" anchor="iso22259">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_f18189aa-290a-52e8-f957-6f4b83189e48" type="standard" schema-version="v1.5.6" anchor="iso22259">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conference systems</title>
 

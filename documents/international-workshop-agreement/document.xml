@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Competence of standards professionals — In companies</title>
 
@@ -10,7 +10,7 @@
 <title language="en" type="title-part-prefix">Part 1</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">ISO/FDIS IWA 30-1.2:2019</docidentifier><docidentifier type="iso-reference">ISO/FDIS IWA 30-1.2:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:IWA 30:-1:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDIS IWA 30-1.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDIS IWA 30-1.2:2019(en)</docidentifier><docidentifier type="iso-tc">IWA/30-1</docidentifier><docnumber>IWA 30</docnumber><date type="published"><on>2019-08-19</on></date><date type="circulated"><on>2018-10-04</on></date><date type="updated"><on>2019-10-15</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/FDIS IWA 30-1.2:2019</docidentifier><docidentifier type="iso-reference">ISO/FDIS IWA 30-1.2:2019(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:IWA 30:-1:stage-50.00.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDIS IWA 30-1.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDIS IWA 30-1.2:2019(en)</docidentifier><docidentifier type="iso-tc">IWA/30-1</docidentifier><docnumber>IWA 30</docnumber><date type="published"><on>2019-08-19</on></date><date type="circulated"><on>2018-10-04</on></date><date type="updated"><on>2019-10-15</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -185,9 +185,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_bbc9f1e7-788b-a1a7-e7aa-9f599c2e397b" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_1c8ca632-cd21-7e48-dbc2-a2898099624b" type="standard" schema-version="v1.5.6" anchor="iso9000">
-  <fetched>2026-10-27</fetched>
+</references><references id="_7c9b0731-17fb-070b-c4f0-3d1240ebbc04" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_788768fe-398c-0397-202e-cae48918bf20" type="standard" schema-version="v1.5.6" anchor="iso9000">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Quality management systems</title>
 
@@ -279,8 +279,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_a871691d-572c-559c-ee9f-34a0325c25ad" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_7132859c-994a-b175-60da-20112c913a0a" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Ergonomics of human-system interaction</title>
 
@@ -369,8 +369,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_c680c112-556e-38ab-a232-c26156bf1eee" type="standard" schema-version="v1.5.6" anchor="iso17027">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_9a93e1f2-a764-9027-82ab-eeba53e3e236" type="standard" schema-version="v1.5.6" anchor="iso17027">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conformity assessment</title>
 

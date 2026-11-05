@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
@@ -20,7 +20,7 @@
 <title language="fr" type="title-part">Riz (en chinois)</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">ISO/CD 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/CD 17301-1:2016()</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.92:zh</docidentifier><docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/CD 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-30.00:zh</docidentifier><docidentifier type="iso-undated">ISO/CD 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/CD 17301-1:2016(zh)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -44,7 +44,7 @@
 <name>Rice Group</name>
 <identifier id="_a81dd8ac-042a-478a-8388-27413db952fd">WG 3</identifier><fmt-identifier><tt><semx element="identifier" source="_a81dd8ac-042a-478a-8388-27413db952fd">WG 3</semx></tt></fmt-identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition language="">2</edition><edition language="zh">第第二版</edition><version>2016-05-01</version><language current="true">zh</language><script current="true">Hans</script><status><stage abbreviation="CD" language="">30</stage><stage abbreviation="CD" language="zh">委员会草案</stage><substage>92</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="zh">国际标准</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="CD">Committee Draft International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="zh">国际标准</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="CD">Committee Draft for International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
 standardization at the following addresses:
 
 * ISO Online browsing platform: available at https://www.iso.org/obp[]
@@ -182,8 +182,8 @@ sourcecode .nt {
 
 
 
-<clause id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" type="scope" inline-header="false" obligation="normative" semx-id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-10-27"/>
-<title id="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6" semx-id="_8551449a-f71a-14e8-a42b-794adca773d5">范围<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-10-27"/></title><fmt-title depth="1" id="_be2ea6e7-f581-53b8-4e87-bd48973989c8"><span class="fmt-caption-label"><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6">范　围</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></fmt-xref-label>
+<clause id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" type="scope" inline-header="false" obligation="normative" semx-id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-05"/>
+<title id="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6" semx-id="_8551449a-f71a-14e8-a42b-794adca773d5">范围<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-05"/></title><fmt-title depth="1" id="_be2ea6e7-f581-53b8-4e87-bd48973989c8"><span class="fmt-caption-label"><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6">范　围</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></fmt-xref-label>
 <p id="_1f9853e7-e082-4f49-a1fa-eb99ab2344ae" semx-id="_1f9853e7-e082-4f49-a1fa-eb99ab2344ae">本文件规定了稻米（<em>Oryza sativa L.</em>）的最低要求和测试方法。</p>
 
 <p id="_2c3b3ce5-e4d9-e6a9-370c-3183705ca5e6" semx-id="_2c3b3ce5-e4d9-e6a9-370c-3183705ca5e6">适用于直接或修复后适用于人类食用的糙米，糙米，精米和碾米。</p>
@@ -304,7 +304,7 @@ sourcecode .nt {
 <name language="en" id="_d2be94b9-a33c-05d4-67e5-9fceca082c1a">damaged kernel</name><name language="zh" id="_f48b7473-2e40-412a-9e1b-0738dbb297a9">损内核</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_de567945-cd2a-3248-dd2a-6027b39ac9c3"><strong><semx element="expression/name" source="_d2be94b9-a33c-05d4-67e5-9fceca082c1a">damaged kernel</semx></strong></semx></p></fmt-preferred>
-<definition id="_37760dba-773b-505f-41c3-e41b099479d3" semx-id="_37760dba-773b-505f-41c3-e41b099479d3"><verbal-definition semx-id="_1d4c5a4f-b47c-12fd-86d8-82e3abdf2202" id="_1d4c5a4f-b47c-12fd-86d8-82e3abdf2202"><p semx-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2" original-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept></p></verbal-definition></definition><fmt-definition id="_347fb5a8-00f1-a825-fd7b-7c3c8680aca1"><semx element="definition" source="_37760dba-773b-505f-41c3-e41b099479d3"><p id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2" semx-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <concept id="_7eaaa0fa-582f-2493-724e-30994cd866ee"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_315f54a3-27cd-7168-b745-1dcdd38a07ba"/></concept><fmt-concept><semx element="concept" source="_7eaaa0fa-582f-2493-724e-30994cd866ee"><em>HDK</em> <semx element="xref" source="_315f54a3-27cd-7168-b745-1dcdd38a07ba">(<fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_954b2387-76c5-387e-3bdb-2a985cce0aac">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref>)</semx></semx></fmt-concept></p></semx></fmt-definition>
+<definition id="_37760dba-773b-505f-41c3-e41b099479d3" semx-id="_37760dba-773b-505f-41c3-e41b099479d3"><verbal-definition semx-id="_1d4c5a4f-b47c-12fd-86d8-82e3abdf2202" id="_1d4c5a4f-b47c-12fd-86d8-82e3abdf2202"><p semx-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2" original-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <concept id="_f907fa6a-84a3-1f73-8082-f13005f695ad"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept><fmt-concept><semx element="concept" source="_f907fa6a-84a3-1f73-8082-f13005f695ad"><em>HDK</em></semx></fmt-concept></p></verbal-definition></definition><fmt-definition id="_a0521c01-1eb7-a3bf-e8fd-924274ed5860"><semx element="definition" source="_37760dba-773b-505f-41c3-e41b099479d3"><p id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2" semx-id="_e3f2abab-0d94-cc34-0bfe-a609133f7ae2">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_0c33dd8f-eb6c-24f3-e0e2-ebcc3e31a797"/><semx element="xref" source="_0c33dd8f-eb6c-24f3-e0e2-ebcc3e31a797"><fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_954b2387-76c5-387e-3bdb-2a985cce0aac">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref></semx></concept></p></semx></fmt-definition>
  </term>
 
 <term id="term-immature-kernel-未成熟内核" anchor="term-immature-kernel-未成熟内核" semx-id="_0bba29eb-40d7-b3bc-eb37-eeaac7ea0160"><fmt-name id="_8c0bdb69-7f82-ff61-535c-c9b06efb76f1"><span class="fmt-caption-label"><semx element="autonum" source="_954b2387-76c5-387e-3bdb-2a985cce0aac">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel-未成熟内核">9</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_954b2387-76c5-387e-3bdb-2a985cce0aac">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel-未成熟内核">9</semx></fmt-xref-label><preferred id="_5d812b2e-77ae-6323-8805-b24a39546133"><expression>
@@ -790,13 +790,13 @@ sourcecode .nt {
 
 
 
-<references id="_33cc0f9f-cd62-5c3d-7eee-1203df15e471" normative="true" obligation="informative" semx-id="_33cc0f9f-cd62-5c3d-7eee-1203df15e471" displayorder="6">
-<title id="_8f299b3c-2b6f-6b02-4f2d-864d739fd731" semx-id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><fmt-title depth="1" id="_849aa1f3-8064-3cdf-184e-609c043dcba2"><span class="fmt-caption-label"><semx element="autonum" source="_33cc0f9f-cd62-5c3d-7eee-1203df15e471">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f299b3c-2b6f-6b02-4f2d-864d739fd731">规范性引用文件</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_33cc0f9f-cd62-5c3d-7eee-1203df15e471">2</semx></fmt-xref-label><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07" semx-id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
+<references id="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195" normative="true" obligation="informative" semx-id="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195" displayorder="6">
+<title id="_8f299b3c-2b6f-6b02-4f2d-864d739fd731" semx-id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><fmt-title depth="1" id="_849aa1f3-8064-3cdf-184e-609c043dcba2"><span class="fmt-caption-label"><semx element="autonum" source="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f299b3c-2b6f-6b02-4f2d-864d739fd731">规范性引用文件</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195">2</semx></fmt-xref-label><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07" semx-id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 
 
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_b9eca394-9d25-2adf-769d-ed02e7704af5"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_dca2a2ae-d039-2864-51eb-5935c7037430" reference="1" original-reference="_7b2db107-9ab2-4007-bf59-8f16f9c9b013" target="_847bd9c2-250c-def6-db40-64f0b0fbdbf6"><p>撤回。</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dca2a2ae-d039-2864-51eb-5935c7037430">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-， </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Determination of moisture content — Reference method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_50f95418-40ad-d1c8-3ad0-677bb51f500e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_dca2a2ae-d039-2864-51eb-5935c7037430" reference="1" original-reference="_442ca794-0912-4db3-b5f8-3f72e70866aa" target="_847bd9c2-250c-def6-db40-64f0b0fbdbf6"><p>撤回。</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dca2a2ae-d039-2864-51eb-5935c7037430">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Determination of moisture content — Reference method_. Report no. 712. 第Fourth版. Geneva: International Organization for Standardization, ISO 712. iso-reference ISO 712(E). URN urn:iso:std:iso:712:stage-95.99. Available from: https://www.iso.org/standard/44807.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -825,7 +825,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 712</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 712(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:712:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 712</docidentifier>
   <docnumber>712</docnumber>
@@ -851,7 +850,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_80c428e1-ba7a-e710-c49a-a59b96a58949">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_80c428e1-ba7a-e710-c49a-a59b96a58949">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_d5f36d58-3b53-3def-265f-6bf7b472e3b0">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d5f36d58-3b53-3def-265f-6bf7b472e3b0">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -952,7 +951,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_8cb6cdf5-225a-66e2-e461-071f57952e8a">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_8cb6cdf5-225a-66e2-e461-071f57952e8a">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_734f3207-c6b5-e67a-9dd0-fe728b91b42c">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_734f3207-c6b5-e67a-9dd0-fe728b91b42c">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1005,8 +1004,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_6f5dfaf8-188d-1ef5-b56a-ba10699b031a"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_4d29159e-6c5d-046d-0750-3ad3a4646d04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. 第Third版. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1029,7 +1028,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6646</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6646(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6646:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6646</docidentifier>
   <docnumber>6646</docnumber>
@@ -1055,7 +1053,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_d7eaf406-c7e3-467e-2edc-d5ecdc59da2c">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d7eaf406-c7e3-467e-2edc-d5ecdc59da2c">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_b40da6cd-bddf-f109-9d35-ae3314477af9">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_b40da6cd-bddf-f109-9d35-ae3314477af9">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1150,7 +1148,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_eb5d6ca5-9902-3f38-72ef-d3b20fdacfed">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_eb5d6ca5-9902-3f38-72ef-d3b20fdacfed">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_a32d189d-880d-124b-82be-9c8d7e399039">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_a32d189d-880d-124b-82be-9c8d7e399039">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1203,8 +1201,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_bed4ad6d-043c-6382-bc98-25bdc95276ae"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_c60c04c3-e6fe-1666-8f43-01e4ffbee19e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1297,8 +1295,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_91580728-2891-1285-9fb9-f3a3378a4548"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_c5228e67-a124-ff7f-0427-196485292320"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1327,7 +1325,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:8351:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 8351-2</docidentifier>
   <docnumber>8351</docnumber>
@@ -1353,7 +1350,7 @@ sourcecode .nt {
         
 <name>Packaging</name>
 
-        <identifier id="_bbaee73a-ccc2-adb7-f1e3-0a71c6350705">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_bbaee73a-ccc2-adb7-f1e3-0a71c6350705">ISO/TC 122</semx></tt></fmt-identifier>
+        <identifier id="_f33b6652-9bf2-60d4-a54b-013ec7e2f822">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_f33b6652-9bf2-60d4-a54b-013ec7e2f822">ISO/TC 122</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1435,7 +1432,7 @@ sourcecode .nt {
             
 <name>Packaging</name>
 
-            <identifier id="_625a3fef-0756-ec13-6842-ae2e471de604">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_625a3fef-0756-ec13-6842-ae2e471de604">ISO/TC 122</semx></tt></fmt-identifier>
+            <identifier id="_32826baf-74ba-df45-7061-3f5911e1c006">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_32826baf-74ba-df45-7061-3f5911e1c006">ISO/TC 122</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1469,14 +1466,14 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_e0b2d907-8212-d38e-a606-eac5f51a5dbf" reference="2" original-reference="_c235236f-2d2b-4119-ba3d-c4ea9da21210" target="_fab453f5-af01-0a8a-5996-1efd9f552744"><p>准备中。（出版时阶段为ISO / DIS 16634）</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>， </biblio-tag><formattedref><em><span class="stddocTitle">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em></formattedref>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_e0b2d907-8212-d38e-a606-eac5f51a5dbf" reference="2" original-reference="_fab56ab0-0523-4867-8022-67d4f2461e6e" target="_fab453f5-af01-0a8a-5996-1efd9f552744"><p>准备中。（出版时阶段为ISO / DIS 16634）</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>， </biblio-tag><formattedref><em><span class="stddocTitle">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em>.</formattedref>
 <title format="text/plain">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note><language>zh</language><script>Hans</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_05628c9c-9813-be7c-2c66-5324049c5fb8"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_1ddea5e6-e7f1-115b-37d9-7789358d9339"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. 第Second版. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1574,8 +1571,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_62b26cc3-266d-d4eb-8c80-75efc90b6bb6"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_f11ffcaa-056d-ac67-e206-09e3a8edd224"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. 第First版. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1844,35 +1841,35 @@ sourcecode .nt {
 <title id="_cac965df-342f-3285-6d98-c8cfcea65739" semx-id="_ee8e0de7-8888-db9d-8b93-83c2c39faad9">测试报告</title><fmt-title depth="2" id="_d4c1a7e5-b5f2-0e3f-a193-7795dbce58ac"><span class="fmt-caption-label"><semx element="autonum" source="AnnexA">A</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_908063b7-461d-a895-0b20-11b604805600">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_cac965df-342f-3285-6d98-c8cfcea65739">测试报告</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="AnnexA">A</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_908063b7-461d-a895-0b20-11b604805600">7</semx></fmt-xref-label>
 <p id="_4ab8025d-1e37-8780-fe15-22b745474d7c" semx-id="_4ab8025d-1e37-8780-fe15-22b745474d7c">按照<xref target="clause7" id="_c3572298-00d2-1ca3-e762-67b043606788"/><semx element="xref" source="_c3572298-00d2-1ca3-e762-67b043606788"><fmt-xref target="clause7"><span class="citesec"><span class="fmt-element-name">条</span><semx element="autonum" source="clause7">7</semx></span></fmt-xref></semx>中的规定报告结果。</p>
 </clause>
-</annex><annex id="AnnexB" anchor="AnnexB" inline-header="false" obligation="informative" semx-id="_695eb6dd-ebd8-20d8-e979-2f9eb3d205e4" autonum="B" displayorder="15">
+</annex><annex id="AnnexB" anchor="AnnexB" inline-header="false" obligation="informative" semx-id="_3ba71188-a1ce-8dd3-a4f1-0392a30baf23" autonum="B" displayorder="15">
 <title id="_1c954ff4-cbb4-8fb9-bc12-d7d98ace1f93" semx-id="_f466680c-25bb-a50f-e892-b9258292f23d">蒸米饭中糯米含量的测定</title><fmt-title id="_1cbfd0cb-8b4d-00ab-f786-4f5a4f601c2d"><strong><span class="fmt-caption-label"><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexB">B</semx></span></strong><br/><span class="fmt-obligation">（资料性附录）</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_1c954ff4-cbb4-8fb9-bc12-d7d98ace1f93"><strong>蒸米饭中糯米含量的测定</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexB">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexB">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_1c954ff4-cbb4-8fb9-bc12-d7d98ace1f93">蒸米饭中糯米含量的测定</semx></variant-title>
 <clause id="_f85d9898-ba3d-fa45-1454-be55be631433" inline-header="false" obligation="informative" semx-id="_f85d9898-ba3d-fa45-1454-be55be631433">
 <title id="_25da1b14-b394-3a4f-7d53-e9e645fe999c" semx-id="_32fb8c5b-5b18-e782-789a-a8a879524e10">原理</title><fmt-title depth="2" id="_164c464e-ae9e-fa0e-98e6-af85d30d8412"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f85d9898-ba3d-fa45-1454-be55be631433">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_25da1b14-b394-3a4f-7d53-e9e645fe999c">原理</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f85d9898-ba3d-fa45-1454-be55be631433">1</semx></fmt-xref-label>
 <p id="_f1513914-65e7-6d8c-4005-5e3d4fb825ba" semx-id="_f1513914-65e7-6d8c-4005-5e3d4fb825ba">糯米粒在碘溶液中染色时具有红棕色，而非糯米粒显示深蓝色。</p>
 </clause>
 
-<clause id="_8df67b8e-0f9c-4d29-f153-e52eb15aad32" inline-header="false" obligation="informative" semx-id="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">
-<title id="_f9d1d907-cba4-3c6f-5ae9-234426f353b1" semx-id="_eda2c451-dd09-54aa-a751-06b8965f4821">仪器</title><fmt-title depth="2" id="_5891c7ec-6c0e-b932-c21e-040b2a39cb09"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_f9d1d907-cba4-3c6f-5ae9-234426f353b1">仪器</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx></fmt-xref-label>
+<clause id="_8827f82f-c560-3728-32c5-be996b27a8d7" inline-header="false" obligation="informative" semx-id="_8827f82f-c560-3728-32c5-be996b27a8d7">
+<title id="_f9d1d907-cba4-3c6f-5ae9-234426f353b1" semx-id="_eda2c451-dd09-54aa-a751-06b8965f4821">仪器</title><fmt-title depth="2" id="_5891c7ec-6c0e-b932-c21e-040b2a39cb09"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_f9d1d907-cba4-3c6f-5ae9-234426f353b1">仪器</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx></fmt-xref-label>
 <p id="_fc47260e-274a-1aa4-2fbc-44cc00d8412d" semx-id="_fc47260e-274a-1aa4-2fbc-44cc00d8412d">通常的实验室设备，特别是以下。</p>
 
 <clause id="AnnexB-2-1" anchor="AnnexB-2-1" inline-header="true" obligation="informative" semx-id="_03bef1ee-4af4-4faa-ea07-d32fb1873d9b">
-<title id="_ca160c27-1b40-d8d4-0606-ed2fa451bb9f" semx-id="_b2e5d4a9-fa1b-163a-a152-0fa7254d6e8d">秤，</title><fmt-title depth="3" id="_c3a9373e-4270-dd5e-7e9a-1c708f76ed32"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_ca160c27-1b40-d8d4-0606-ed2fa451bb9f">秤，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></fmt-xref-label>
+<title id="_ca160c27-1b40-d8d4-0606-ed2fa451bb9f" semx-id="_b2e5d4a9-fa1b-163a-a152-0fa7254d6e8d">秤，</title><fmt-title depth="3" id="_c3a9373e-4270-dd5e-7e9a-1c708f76ed32"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_ca160c27-1b40-d8d4-0606-ed2fa451bb9f">秤，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></fmt-xref-label>
 <p id="_73e96d39-5551-7e6d-8d9f-869ee482685e" semx-id="_73e96d39-5551-7e6d-8d9f-869ee482685e">能够称量到最接近的0.01克。</p>
 </clause>
 
 <clause id="AnnexB-2-2" anchor="AnnexB-2-2" inline-header="true" obligation="informative" semx-id="_a673fc43-5178-41d6-452e-2101d04c25c1">
-<title id="_9c3b7a12-1b07-88c7-9ca5-9470c2f4a4b7" semx-id="_edbbbcb2-cbd0-3f85-1bda-e8666c354609">玻璃烧杯,</title><fmt-title depth="3" id="_9b02794c-77b4-0858-e7c5-f92aebb36027"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_9c3b7a12-1b07-88c7-9ca5-9470c2f4a4b7">玻璃烧杯,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></fmt-xref-label>
+<title id="_9c3b7a12-1b07-88c7-9ca5-9470c2f4a4b7" semx-id="_edbbbcb2-cbd0-3f85-1bda-e8666c354609">玻璃烧杯,</title><fmt-title depth="3" id="_9b02794c-77b4-0858-e7c5-f92aebb36027"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_9c3b7a12-1b07-88c7-9ca5-9470c2f4a4b7">玻璃烧杯,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></fmt-xref-label>
 <p id="_f6fdc0d6-9b58-f2fc-9aed-bdc0d4dbd462" semx-id="_f6fdc0d6-9b58-f2fc-9aed-bdc0d4dbd462">容量250毫升。</p>
 </clause>
 
 <clause id="AnnexB-2-3" anchor="AnnexB-2-3" inline-header="true" obligation="informative" semx-id="_611dd2e0-3985-8783-d8d2-a8c264d28884">
-<title id="_44e278ab-c6c8-217f-718b-3e1de6f859a3" semx-id="_9b9dfd67-47d3-8fae-4b38-cd70fb4eed7b">小白色彩色碗，</title><fmt-title depth="3" id="_2a4bc5e0-6906-24c7-3044-689d9f234fe6"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_44e278ab-c6c8-217f-718b-3e1de6f859a3">小白色彩色碗，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></fmt-xref-label>
+<title id="_44e278ab-c6c8-217f-718b-3e1de6f859a3" semx-id="_9b9dfd67-47d3-8fae-4b38-cd70fb4eed7b">小白色彩色碗，</title><fmt-title depth="3" id="_2a4bc5e0-6906-24c7-3044-689d9f234fe6"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_44e278ab-c6c8-217f-718b-3e1de6f859a3">小白色彩色碗，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></fmt-xref-label>
 <p id="_83c8bb79-6570-e27b-c66d-11356b0ef5ce" semx-id="_83c8bb79-6570-e27b-c66d-11356b0ef5ce">或任何合适尺寸的白色容器。</p>
 </clause>
 
-<clause id="AnnexB-2-4" anchor="AnnexB-2-4" inline-header="true" obligation="informative" semx-id="_f8035fe0-050b-2590-8b66-e82fc39d3f0c">
-<title id="_bb04af20-b086-fb9a-f754-65224208bc54" semx-id="_efdadd41-25d4-1364-825d-b83ba9b2e5fa">铁丝筛，</title><fmt-title depth="3" id="_021ca85e-a72a-21ff-e66d-8a2c3e7cabc3"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_bb04af20-b086-fb9a-f754-65224208bc54">铁丝筛，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></fmt-xref-label>
-<p id="_dc6877ed-7637-6ceb-9183-ba536bf3d7dc" semx-id="_dc6877ed-7637-6ceb-9183-ba536bf3d7dc">长圆形的孔(1 mm <stem block="false" type="MathML" id="_9cf7c893-eeb1-d8a3-f515-6747b4d3ab70"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<clause id="AnnexB-2-4" anchor="AnnexB-2-4" inline-header="true" obligation="informative" semx-id="_73eafa74-c7fc-22f9-9dfd-3068475048c4">
+<title id="_bb04af20-b086-fb9a-f754-65224208bc54" semx-id="_efdadd41-25d4-1364-825d-b83ba9b2e5fa">铁丝筛，</title><fmt-title depth="3" id="_021ca85e-a72a-21ff-e66d-8a2c3e7cabc3"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_bb04af20-b086-fb9a-f754-65224208bc54">铁丝筛，</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></fmt-xref-label>
+<p id="_3cb44b87-ebdb-12f6-4032-bbd8f91e585e" semx-id="_3cb44b87-ebdb-12f6-4032-bbd8f91e585e">长圆形的孔(1 mm <stem block="false" type="MathML" id="_dacf149b-d2fd-aedd-2b4a-8d622b259d1f"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1892,7 +1889,7 @@ sourcecode .nt {
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+0.02),(0):}</asciimath></stem><fmt-stem type="MathML"><semx element="stem" source="_9cf7c893-eeb1-d8a3-f515-6747b4d3ab70"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</stem><fmt-stem type="MathML"><semx element="stem" source="_dacf149b-d2fd-aedd-2b4a-8d622b259d1f"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1912,7 +1909,7 @@ sourcecode .nt {
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+0.02),(0):}</asciimath></semx></fmt-stem> mm <stem block="false" type="MathML" id="_ba78d780-75b8-3179-d3ae-db0622e02aaf"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</semx></fmt-stem> mm <stem block="false" type="MathML" id="_ba78d780-75b8-3179-d3ae-db0622e02aaf"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mo>×</mo>
   </mstyle>
@@ -1920,7 +1917,7 @@ sourcecode .nt {
   <mstyle displaystyle="false">
     <mo>×</mo>
   </mstyle>
-</math><asciimath>times</asciimath></semx></fmt-stem> 20 mm <stem block="false" type="MathML" id="_34830bc8-b6c8-d716-359b-11aca8651789"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math><asciimath>times</asciimath></semx></fmt-stem> 20 mm <stem block="false" type="MathML" id="_c3260325-f15a-60ca-8e89-9c8e04231a60"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1941,7 +1938,7 @@ sourcecode .nt {
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+2),(-1):}</asciimath></stem><fmt-stem type="MathML"><semx element="stem" source="_34830bc8-b6c8-d716-359b-11aca8651789"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</stem><fmt-stem type="MathML"><semx element="stem" source="_c3260325-f15a-60ca-8e89-9c8e04231a60"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1962,19 +1959,19 @@ sourcecode .nt {
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+2),(-1):}</asciimath></semx></fmt-stem> mm）。</p>
+</math>}</semx></fmt-stem> mm）。</p>
 </clause>
 
 <clause id="AnnexB-2-5" anchor="AnnexB-2-5" inline-header="true" obligation="informative" semx-id="_c9521ee0-759d-b4a4-9b2e-4e2c730e0044">
-<title id="_6517fa05-9393-c0c8-bcaa-04b315f92f22" semx-id="_0d7efc0e-0744-61eb-f2b7-0eccc650657a">搅拌棒。</title><fmt-title depth="3" id="_65f6ccfb-b645-633b-8788-b9d9a1d7ac7e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_6517fa05-9393-c0c8-bcaa-04b315f92f22">搅拌棒。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></fmt-xref-label>
+<title id="_6517fa05-9393-c0c8-bcaa-04b315f92f22" semx-id="_0d7efc0e-0744-61eb-f2b7-0eccc650657a">搅拌棒。</title><fmt-title depth="3" id="_65f6ccfb-b645-633b-8788-b9d9a1d7ac7e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_6517fa05-9393-c0c8-bcaa-04b315f92f22">搅拌棒。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></fmt-xref-label>
 </clause>
 
 <clause id="AnnexB-2-6" anchor="AnnexB-2-6" inline-header="true" obligation="informative" semx-id="_1299b460-eb96-e971-452f-e360eb515e1b">
-<title id="_b7a1afa9-aeb0-1d5f-5089-8f27388136fb" semx-id="_2b0db306-2fcd-dd0b-9e9a-737d1dc54f96">镊子或钳子。</title><fmt-title depth="3" id="_bb476131-3b17-46cf-fb2b-3e05932e044e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_b7a1afa9-aeb0-1d5f-5089-8f27388136fb">镊子或钳子。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></fmt-xref-label>
+<title id="_b7a1afa9-aeb0-1d5f-5089-8f27388136fb" semx-id="_2b0db306-2fcd-dd0b-9e9a-737d1dc54f96">镊子或钳子。</title><fmt-title depth="3" id="_bb476131-3b17-46cf-fb2b-3e05932e044e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_b7a1afa9-aeb0-1d5f-5089-8f27388136fb">镊子或钳子。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></fmt-xref-label>
 </clause>
 
 <clause id="AnnexB-2-7" anchor="AnnexB-2-7" inline-header="true" obligation="informative" semx-id="_8d4d2134-4737-cc9f-e74d-5b7cbbdc7561">
-<title id="_75fcfc3d-01cc-ac3d-936a-01be8f6aafd5" semx-id="_4cdd8639-af95-1410-d01c-7e58a560e72f">棉纸。</title><fmt-title depth="3" id="_582315eb-50d6-8927-de78-61603b6d9874"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_75fcfc3d-01cc-ac3d-936a-01be8f6aafd5">棉纸。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></fmt-xref-label>
+<title id="_75fcfc3d-01cc-ac3d-936a-01be8f6aafd5" semx-id="_4cdd8639-af95-1410-d01c-7e58a560e72f">棉纸。</title><fmt-title depth="3" id="_582315eb-50d6-8927-de78-61603b6d9874"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_75fcfc3d-01cc-ac3d-936a-01be8f6aafd5">棉纸。</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></fmt-xref-label>
 </clause>
 </clause>
 
@@ -2008,16 +2005,16 @@ sourcecode .nt {
 
 <clause id="_2a062c0a-f87c-598a-c667-cfcd3c0037e0" inline-header="false" obligation="informative" semx-id="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">
 <title id="_00507f95-9c1e-55ff-d48c-edfca7c335da" semx-id="_46d971a1-097a-4073-4d87-6a11dca4bb3c">判定</title><fmt-title depth="2" id="_e69a7bf0-e76a-1110-784c-d8b8848d70ae"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_00507f95-9c1e-55ff-d48c-edfca7c335da">判定</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx></fmt-xref-label>
-<clause id="_7d15de52-fea7-7e99-726b-7e2fbfc4173f" inline-header="true" obligation="informative" semx-id="_7d15de52-fea7-7e99-726b-7e2fbfc4173f"><fmt-title depth="3" id="_4f5f0c94-4b46-8acd-31ca-086c07b35f24"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_7d15de52-fea7-7e99-726b-7e2fbfc4173f">1</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_7d15de52-fea7-7e99-726b-7e2fbfc4173f">1</semx></fmt-xref-label><p id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c" semx-id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2" id="_b956feaf-6b43-c0b1-6ab8-7f8e9ecf4739"/><semx element="xref" source="_b956feaf-6b43-c0b1-6ab8-7f8e9ecf4739"><fmt-xref target="AnnexB-2-2"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span></fmt-xref></semx>）。</p>
+<clause id="_7d15de52-fea7-7e99-726b-7e2fbfc4173f" inline-header="true" obligation="informative" semx-id="_7d15de52-fea7-7e99-726b-7e2fbfc4173f"><fmt-title depth="3" id="_4f5f0c94-4b46-8acd-31ca-086c07b35f24"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_7d15de52-fea7-7e99-726b-7e2fbfc4173f">1</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_7d15de52-fea7-7e99-726b-7e2fbfc4173f">1</semx></fmt-xref-label><p id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c" semx-id="_6ec1b3dd-2e52-5cd1-a864-1b3dd72e369c">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2" id="_b956feaf-6b43-c0b1-6ab8-7f8e9ecf4739"/><semx element="xref" source="_b956feaf-6b43-c0b1-6ab8-7f8e9ecf4739"><fmt-xref target="AnnexB-2-2"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span></fmt-xref></semx>）。</p>
 </clause>
 
-<clause id="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9" inline-header="true" obligation="informative" semx-id="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9"><fmt-title depth="3" id="_351a4491-c9de-4230-9fb1-c7f86b1707e9"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9">2</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9">2</semx></fmt-xref-label><p id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16" semx-id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16">加入足够的碘工作溶液（<xref target="AnnexB-3-3" id="_83ea754e-edcb-9558-b325-88006a85a962"/><semx element="xref" source="_83ea754e-edcb-9558-b325-88006a85a962"><fmt-xref target="AnnexB-3-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4d9c40bb-0ca4-d34d-33b4-4c96c91e9a2e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-3-3">3</semx></span></fmt-xref></semx>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5" id="_61304c84-9c9b-4c43-d0bd-18747afe3b25"/><semx element="xref" source="_61304c84-9c9b-4c43-d0bd-18747afe3b25"><fmt-xref target="AnnexB-2-5"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span></fmt-xref></semx>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
+<clause id="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9" inline-header="true" obligation="informative" semx-id="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9"><fmt-title depth="3" id="_351a4491-c9de-4230-9fb1-c7f86b1707e9"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9">2</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_d3d543c9-d9a9-cd49-5540-8e5be0f44ad9">2</semx></fmt-xref-label><p id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16" semx-id="_5c4b2b0f-c92f-f788-0d52-67e1982afb16">加入足够的碘工作溶液（<xref target="AnnexB-3-3" id="_83ea754e-edcb-9558-b325-88006a85a962"/><semx element="xref" source="_83ea754e-edcb-9558-b325-88006a85a962"><fmt-xref target="AnnexB-3-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4d9c40bb-0ca4-d34d-33b4-4c96c91e9a2e">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-3-3">3</semx></span></fmt-xref></semx>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5" id="_61304c84-9c9b-4c43-d0bd-18747afe3b25"/><semx element="xref" source="_61304c84-9c9b-4c43-d0bd-18747afe3b25"><fmt-xref target="AnnexB-2-5"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span></fmt-xref></semx>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
 </clause>
 
-<clause id="_32f024a3-d350-3400-6e89-49d0af9fafe8" inline-header="true" obligation="informative" semx-id="_32f024a3-d350-3400-6e89-49d0af9fafe8"><fmt-title depth="3" id="_4693396e-7ccf-95c2-7557-22200152a848"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_32f024a3-d350-3400-6e89-49d0af9fafe8">3</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_32f024a3-d350-3400-6e89-49d0af9fafe8">3</semx></fmt-xref-label><p id="_b9557c13-d774-d7df-64c9-be32a58cccc6" semx-id="_b9557c13-d774-d7df-64c9-be32a58cccc6">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4" id="_58c85df9-2039-76de-40be-357bc7e6e12c"/><semx element="xref" source="_58c85df9-2039-76de-40be-357bc7e6e12c"><fmt-xref target="AnnexB-2-4"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span></fmt-xref></semx>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7" id="_b31c9f26-4715-2bab-ae77-049c6d930199"/><semx element="xref" source="_b31c9f26-4715-2bab-ae77-049c6d930199"><fmt-xref target="AnnexB-2-7"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span></fmt-xref></semx>）上以吸收多余的液体。</p>
+<clause id="_32f024a3-d350-3400-6e89-49d0af9fafe8" inline-header="true" obligation="informative" semx-id="_32f024a3-d350-3400-6e89-49d0af9fafe8"><fmt-title depth="3" id="_4693396e-7ccf-95c2-7557-22200152a848"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_32f024a3-d350-3400-6e89-49d0af9fafe8">3</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_32f024a3-d350-3400-6e89-49d0af9fafe8">3</semx></fmt-xref-label><p id="_b9557c13-d774-d7df-64c9-be32a58cccc6" semx-id="_b9557c13-d774-d7df-64c9-be32a58cccc6">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4" id="_58c85df9-2039-76de-40be-357bc7e6e12c"/><semx element="xref" source="_58c85df9-2039-76de-40be-357bc7e6e12c"><fmt-xref target="AnnexB-2-4"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span></fmt-xref></semx>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7" id="_b31c9f26-4715-2bab-ae77-049c6d930199"/><semx element="xref" source="_b31c9f26-4715-2bab-ae77-049c6d930199"><fmt-xref target="AnnexB-2-7"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span></fmt-xref></semx>）上以吸收多余的液体。</p>
 </clause>
 
-<clause id="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf" inline-header="true" obligation="informative" semx-id="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf"><fmt-title depth="3" id="_b95b63cd-5cf7-ea2e-9d26-8335eb41db32"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf">4</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf">4</semx></fmt-xref-label><p id="_9d821ddf-743a-813c-3168-e9e6b224b36c" semx-id="_9d821ddf-743a-813c-3168-e9e6b224b36c">将染色的核仁倒入碗中（<xref target="AnnexB-2-3" id="_1df36074-805c-d6a2-4859-33a53f212a46"/><semx element="xref" source="_1df36074-805c-d6a2-4859-33a53f212a46"><fmt-xref target="AnnexB-2-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span></fmt-xref></semx>）。 使用镊子或镊子（<xref target="AnnexB-2-6" id="_326cc9e5-3ac5-5def-2fb0-03435f0cee89"/><semx element="xref" source="_326cc9e5-3ac5-5def-2fb0-03435f0cee89"><fmt-xref target="AnnexB-2-6"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8df67b8e-0f9c-4d29-f153-e52eb15aad32">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span></fmt-xref></semx>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
+<clause id="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf" inline-header="true" obligation="informative" semx-id="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf"><fmt-title depth="3" id="_b95b63cd-5cf7-ea2e-9d26-8335eb41db32"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf">4</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_14cc364d-41e7-9f53-14e7-d6fd1be5ddbf">4</semx></fmt-xref-label><p id="_9d821ddf-743a-813c-3168-e9e6b224b36c" semx-id="_9d821ddf-743a-813c-3168-e9e6b224b36c">将染色的核仁倒入碗中（<xref target="AnnexB-2-3" id="_1df36074-805c-d6a2-4859-33a53f212a46"/><semx element="xref" source="_1df36074-805c-d6a2-4859-33a53f212a46"><fmt-xref target="AnnexB-2-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span></fmt-xref></semx>）。 使用镊子或镊子（<xref target="AnnexB-2-6" id="_326cc9e5-3ac5-5def-2fb0-03435f0cee89"/><semx element="xref" source="_326cc9e5-3ac5-5def-2fb0-03435f0cee89"><fmt-xref target="AnnexB-2-6"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_8827f82f-c560-3728-32c5-be996b27a8d7">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span></fmt-xref></semx>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
 </clause>
 
 <clause id="_f50706ed-33e9-140f-312b-91bf8c582f5a" inline-header="true" obligation="informative" semx-id="_f50706ed-33e9-140f-312b-91bf8c582f5a"><fmt-title depth="3" id="_f4a97c54-492b-350b-0af0-c30a387c0502"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f50706ed-33e9-140f-312b-91bf8c582f5a">5</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_2a062c0a-f87c-598a-c667-cfcd3c0037e0">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f50706ed-33e9-140f-312b-91bf8c582f5a">5</semx></fmt-xref-label><p id="_0a469f5c-10ae-f54f-6136-1d18f9226d60" semx-id="_0a469f5c-10ae-f54f-6136-1d18f9226d60">将糯米部分（<stem block="false" type="MathML" id="_e7ffa30f-eb45-72f9-d9f3-66f4c8e958c9"><math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2428,9 +2425,9 @@ sourcecode .nt {
 </tr></tbody>
 <fmt-footnote-container><fmt-fn-body id="_110b455d-f79b-a713-64b9-09b813b1ef72" target="_faec79b3-b31d-db7a-3320-604aee58f448" reference="a"><semx element="fn" source="_faec79b3-b31d-db7a-3320-604aee58f448"><p id="_82171d4c-5d47-a5cf-19ca-f05b9265c8a9" semx-id="_82171d4c-5d47-a5cf-19ca-f05b9265c8a9"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_faec79b3-b31d-db7a-3320-604aee58f448">a</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>半熟米</p>
 </semx></fmt-fn-body></fmt-footnote-container></table>
-</annex><bibliography><references id="_da5c7d0f-9556-c67f-d447-dfe19c0c2f02" normative="false" obligation="informative" semx-id="_da5c7d0f-9556-c67f-d447-dfe19c0c2f02" displayorder="18">
-<title id="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08" semx-id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><fmt-title depth="1" id="_73b72e32-8b15-e44e-8c3f-c57b78d26f30"><semx element="title" source="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08">参考文献</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_339c568d-be6a-f554-d8a0-0f40a9db3450"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</annex><bibliography><references id="_be7eb2ed-1f74-ed14-3abc-0c89ebac6695" normative="false" obligation="informative" semx-id="_be7eb2ed-1f74-ed14-3abc-0c89ebac6695" displayorder="18">
+<title id="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08" semx-id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><fmt-title depth="1" id="_73b72e32-8b15-e44e-8c3f-c57b78d26f30"><semx element="title" source="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08">参考文献</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_fa55d4ed-50b0-b197-da1e-17e3e9767276"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. 第First版. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2453,7 +2450,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 3696</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 3696(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:3696:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3696</docidentifier>
   <docnumber>3696</docnumber>
@@ -2479,7 +2475,7 @@ sourcecode .nt {
         
 <name>Chemistry</name>
 
-        <identifier id="_bb1f74e5-a49b-ec3d-d5b4-6a328b366bd8">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_bb1f74e5-a49b-ec3d-d5b4-6a328b366bd8">ISO/TC 47</semx></tt></fmt-identifier>
+        <identifier id="_49fc2bcb-4713-a4d2-94f2-91cb0adf132e">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_49fc2bcb-4713-a4d2-94f2-91cb0adf132e">ISO/TC 47</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2555,7 +2551,7 @@ sourcecode .nt {
             
 <name>Chemistry</name>
 
-            <identifier id="_c2905190-a113-fb9e-f859-27e5e5eaf3f1">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_c2905190-a113-fb9e-f859-27e5e5eaf3f1">ISO/TC 47</semx></tt></fmt-identifier>
+            <identifier id="_5520b453-c00e-a824-39d0-fca75282817a">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_5520b453-c00e-a824-39d0-fca75282817a">ISO/TC 47</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2588,8 +2584,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_fd88253d-3409-6a22-b6e6-28585e6ba4f9"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_82cb1faa-8763-ffd8-1245-b67f04598ee2"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. 第Second版. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1. Available from: https://www.iso.org/standard/69418.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2612,7 +2608,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-1</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
   <docnumber>5725</docnumber>
@@ -2638,7 +2633,7 @@ sourcecode .nt {
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_9c48caf2-ff60-81f5-2cc4-109c4a5bc4aa">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_9c48caf2-ff60-81f5-2cc4-109c4a5bc4aa">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_d7f8d9b3-f07d-f69d-b9ea-aaac97c8d351">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_d7f8d9b3-f07d-f69d-b9ea-aaac97c8d351">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2734,7 +2729,7 @@ sourcecode .nt {
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_29a05baa-db7e-55e3-1b53-c5d1217143e2">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_29a05baa-db7e-55e3-1b53-c5d1217143e2">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_ff7a932b-79c6-5e9d-04b0-a63087d436df">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_ff7a932b-79c6-5e9d-04b0-a63087d436df">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2787,8 +2782,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_105b7181-85c5-c818-62d5-024bb37d09ba"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_ba01e52d-ec48-924a-84b7-7bdc508315c0"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. 第Second版. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/69419.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2811,7 +2806,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier>
   <docnumber>5725</docnumber>
@@ -2837,7 +2831,7 @@ sourcecode .nt {
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_ed65fc8c-c21a-ec7c-8555-830631ad086e">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_ed65fc8c-c21a-ec7c-8555-830631ad086e">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_0b492fe8-fdf3-e194-01ed-4ff93d35f5fc">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_0b492fe8-fdf3-e194-01ed-4ff93d35f5fc">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2933,7 +2927,7 @@ sourcecode .nt {
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_37018056-11ef-5906-78b6-1801919fc0d7">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_37018056-11ef-5906-78b6-1801919fc0d7">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2986,8 +2980,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_6968a43e-405a-17c9-f9f2-3b9bc06f1728"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_53e7dcf8-f892-3e25-c699-a15480feddf3"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3010,7 +3004,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri><docidentifier type="metanorma-ordinal">[4]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-1:stage-90.92</docidentifier><docidentifier scope="biblio-tag">ISO 6322-1</docidentifier>
   <docnumber>6322</docnumber>
@@ -3036,7 +3029,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_5b0b0758-38db-69f7-97e5-8ef2db691612">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_5b0b0758-38db-69f7-97e5-8ef2db691612">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_96b3c3ba-cfc9-d935-ebfb-d5d175061fad">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_96b3c3ba-cfc9-d935-ebfb-d5d175061fad">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3136,7 +3129,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_5606c559-2832-d102-d272-7bf356910ffe">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_5606c559-2832-d102-d272-7bf356910ffe">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_cbf26e8e-4e61-cfad-1305-08cc21538b13">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cbf26e8e-4e61-cfad-1305-08cc21538b13">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3193,8 +3186,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_2b5308ae-7ca1-a521-0597-d81e291ca96b"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_1563eded-aeaf-51f4-39cd-6bd3a9c22da5"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3217,7 +3210,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri><docidentifier type="metanorma-ordinal">[5]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-2</docidentifier>
   <docnumber>6322</docnumber>
@@ -3243,7 +3235,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_cf02850b-d0af-5a72-12ea-93ec7ccb05c5">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cf02850b-d0af-5a72-12ea-93ec7ccb05c5">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_f784eb46-5a47-17b4-3362-196f7a747d7b">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_f784eb46-5a47-17b4-3362-196f7a747d7b">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3329,7 +3321,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_7de50c3f-86ea-c85d-b558-dd7af23d0de2">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_7de50c3f-86ea-c85d-b558-dd7af23d0de2">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_2b161d43-cb1e-8605-6c19-42b25e5ca82b">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_2b161d43-cb1e-8605-6c19-42b25e5ca82b">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3371,8 +3363,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_0432ec24-ecd7-a29e-0ffa-9246665e3930"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_1ebf64bf-1ad9-88b5-4bb1-1898f740c05e"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3395,7 +3387,6 @@ sourcecode .nt {
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri><docidentifier type="metanorma-ordinal">[6]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-3:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-3</docidentifier>
   <docnumber>6322</docnumber>
@@ -3421,7 +3412,7 @@ sourcecode .nt {
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_9748f709-6698-ad6d-5589-5ba15dd0aba6">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_9748f709-6698-ad6d-5589-5ba15dd0aba6">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_d291f217-aa4a-644a-35ec-47c7ee4d93d4">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d291f217-aa4a-644a-35ec-47c7ee4d93d4">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3507,7 +3498,7 @@ sourcecode .nt {
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_285e718f-967d-a5e6-a6a5-ad59f43663a3">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_285e718f-967d-a5e6-a6a5-ad59f43663a3">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_679d68ff-7994-8b5c-6e5d-7ec8a9b8a861">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_679d68ff-7994-8b5c-6e5d-7ec8a9b8a861">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3550,8 +3541,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_f31953c0-c44c-4981-9745-b644d4c03184"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_531604d3-6fe9-3b19-e9b2-07985249af3e"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. 第Third版. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3649,8 +3640,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_bda8a343-2e55-f7b9-cdc9-2f986f34c632"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_fc86f1ff-53bc-47d4-2449-573e5a6e97c4"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. 第First版. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3728,7 +3719,7 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_cd2851cb-3ebb-24eb-5aae-273ca95b31fa"><biblio-tag>[9]<tab/><span class="stdpublisher">IEC</span> <span class="stddocNumber">61010</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref><em><span class="stddocTitle">测量，控制和实验室用电气设备的安全要求 第2部分：加热材料的实验室设备的特殊要求， Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em></formattedref>
+</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_cd2851cb-3ebb-24eb-5aae-273ca95b31fa"><biblio-tag>[9]<tab/><span class="stdpublisher">IEC</span> <span class="stddocNumber">61010</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref><em><span class="stddocTitle">测量，控制和实验室用电气设备的安全要求 第2部分：加热材料的实验室设备的特殊要求， Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em>. International Electrotechnical Commission.</formattedref>
 <title format="text/plain">测量，控制和实验室用电气设备的安全要求 第2部分：加热材料的实验室设备的特殊要求， Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</title><docidentifier type="metanorma-ordinal">[9]</docidentifier>
 <docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docidentifier scope="biblio-tag">IEC 61010-2:1998</docidentifier><docnumber>61010-2</docnumber><date type="published"><on>1998</on></date><contributor><role type="publisher"/><organization>
 <name>International Electrotechnical Commission</name>
@@ -3785,9 +3776,9 @@ sourcecode .nt {
 
 
 </references></bibliography>
-<annotation-container><annotation date="2026-10-27" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" to="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">
+<annotation-container><annotation date="2026-11-05" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" to="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
-</annotation><fmt-annotation-body date="2026-10-27" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
+</annotation><fmt-annotation-body date="2026-11-05" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
 </semx></fmt-annotation-body>
 <annotation id="_e037e2f2-0d45-c003-54e2-197588f98296" reviewer="ISO" from="foreword" to="foreword" type="review" date="2017-01-01T00:00:00Z" semx-id="_e037e2f2-0d45-c003-54e2-197588f98296"><p semx-id="_54c7b85c-f241-0dbe-b91a-cdc310506203" original-id="_54c7b85c-f241-0dbe-b91a-cdc310506203">每个文件中都应有前言部分。 通用文本在这里显示，不包含要求，建议或权限。</p>

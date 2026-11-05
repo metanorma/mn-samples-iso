@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
 <title language="en" type="title-main">Guidelines for addressing climate change in standards</title>
-<docidentifier type="ISO" primary="true">ISO/FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO/FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.60.v2:en</docidentifier><docidentifier type="iso-undated">ISO/FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO/FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><date type="updated"><on>2020-07-10</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO FDGuide 99999.2:2020</docidentifier><docidentifier type="iso-reference">ISO FDGuide 99999.2:2020(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:guide:99999:stage-50.00.v2:en</docidentifier><docidentifier type="iso-undated">ISO FDGuide 99999.2</docidentifier><docidentifier type="iso-with-lang">ISO FDGuide 99999.2:2020(en)</docidentifier><docidentifier type="iso-tc">99999</docidentifier><docnumber>99999</docnumber><date type="published"><on>2020-07-10</on></date><date type="circulated"><on>2020-06-05</on></date><date type="updated"><on>2020-07-10</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -193,9 +193,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_7aeac21b-35a4-3d88-3497-ad04a52f155c" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_54be6d1e-5f3c-e564-45ce-e49f49a516c2" type="standard" schema-version="v1.5.6" anchor="iso140001">
-  <fetched>2026-10-27</fetched>
+</references><references id="_a4fa2094-a74e-99d6-f473-e5b37c13ce18" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_4cded6ef-9c46-a20b-639e-a2c54dc922e0" type="standard" schema-version="v1.5.6" anchor="iso140001">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
@@ -303,8 +303,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_39e72dcf-2d1e-1dbe-4947-37263ffc285f" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_e5b5cf08-29a6-721d-b67a-9154cab07deb" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
@@ -408,8 +408,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_b1a871e5-ab6f-0692-95c6-b8212cc8f896" type="standard" schema-version="v1.5.6" anchor="iso31000">
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="_c743bf87-0585-a45f-e092-220ffa379ad9" type="standard" schema-version="v1.5.6" anchor="iso31000">
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Risk management</title>
 
@@ -499,8 +499,8 @@
   </relation>
   <relation type="obsoletedBy">
     <bibitem>
-      <formattedref>ISO/CD 31000</formattedref>
-      <docidentifier type="ISO" primary="true">ISO/CD 31000</docidentifier>
+      <formattedref>ISO/DIS 31000</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/DIS 31000</docidentifier>
     </bibitem>
 
   </relation>

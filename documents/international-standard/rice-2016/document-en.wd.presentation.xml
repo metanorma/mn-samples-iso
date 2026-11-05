@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.0" schema-version="v2.2.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.4" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (WD)</title>
 
@@ -20,7 +20,7 @@
 <title language="fr" type="title-part">Riz (WD)</title>
 
 <title language="fr" type="title-part-prefix">Partie 1</title>
-<docidentifier type="ISO" primary="true">ISO/AWI 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/AWI 17301-1:2016(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-20.00:en</docidentifier><docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/AWI 17301-1:2016(en)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
+<docidentifier type="ISO" primary="true">ISO/AWI 17301-1:2016</docidentifier><docidentifier type="iso-reference">ISO/AWI 17301-1:2016(E)</docidentifier><docidentifier type="URN">urn:iso:std:iso:17301:-1:stage-10.99:en</docidentifier><docidentifier type="iso-undated">ISO/AWI 17301-1</docidentifier><docidentifier type="iso-with-lang">ISO/AWI 17301-1:2016(en)</docidentifier><docidentifier type="iso-tc">17301</docidentifier><docnumber>17301</docnumber><date type="updated"><on>2016-05-01</on></date><contributor><role type="author"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>International Organization for Standardization</name>
@@ -48,7 +48,7 @@
 <name>Amylose in rice</name>
 <identifier id="_5b315856-8c50-7966-2f19-5048eca4963d">WG 4</identifier><fmt-identifier><tt><semx element="identifier" source="_5b315856-8c50-7966-2f19-5048eca4963d">WG 4</semx></tt></fmt-identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition language="">2</edition><edition language="en">second edition</edition><version>2016-05-01</version><language current="true">en</language><script current="true">Latn</script><status><stage abbreviation="AWI" language="">20</stage><stage abbreviation="AWI" language="en">Working draft</stage><substage>00</substage></status><copyright><from>2016</from><owner><organization>
 <name>International Organization for Standardization</name>
-<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="en">International Standard</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="AWI">International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
+<abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype language="">international-standard</doctype><doctype language="en">International Standard</doctype><flavor>iso</flavor><ics><code>67.060</code><text>Cereals, pulses and derived products</text></ics><structuredidentifier><project-number part="1">ISO 17301</project-number></structuredidentifier><stagename abbreviation="AWI">Approved Work Item for International Standard</stagename></ext></bibdata><localized-strings><localized-string key="term_def_boilerplate" language="en">ISO and IEC maintain terminology databases for use in
 standardization at the following addresses:
 
 * ISO Online browsing platform: available at https://www.iso.org/obp[]
@@ -248,7 +248,7 @@ sourcecode .nt {
 
 
 
-<definition id="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4" semx-id="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4"><verbal-definition semx-id="_e0fd98b1-e4cf-8d88-d02a-d7085b408ff6" id="_e0fd98b1-e4cf-8d88-d02a-d7085b408ff6"><p semx-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95" original-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95"><concept><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy"/></concept> from which the husk only has been removed</p></verbal-definition></definition><fmt-definition id="_5aa8099b-033d-0c31-fb92-db370c33a9db"><semx element="definition" source="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4"><p id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95" semx-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95"><concept id="_b5ffe7e7-825a-49de-a421-774eb1537c54"><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy" id="_852356fd-aafc-5339-d72d-a88f922f9fac"/></concept><fmt-concept><semx element="concept" source="_b5ffe7e7-825a-49de-a421-774eb1537c54"><em>paddy</em> <semx element="xref" source="_852356fd-aafc-5339-d72d-a88f922f9fac">(<fmt-xref target="term-paddy"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-paddy">1</semx></span></fmt-xref>)</semx></semx></fmt-concept> from which the husk only has been removed</p></semx></fmt-definition>
+<definition id="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4" semx-id="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4"><verbal-definition semx-id="_e0fd98b1-e4cf-8d88-d02a-d7085b408ff6" id="_e0fd98b1-e4cf-8d88-d02a-d7085b408ff6"><p semx-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95" original-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95"><concept id="_25b85414-6e7f-9cbd-3ba7-072657ac8867"><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy"/></concept><fmt-concept><semx element="concept" source="_25b85414-6e7f-9cbd-3ba7-072657ac8867"><em>paddy</em></semx></fmt-concept> from which the husk only has been removed</p></verbal-definition></definition><fmt-definition id="_66831b29-74bb-a420-b2e1-0fb4413a19d6"><semx element="definition" source="_9cc28edb-eac6-ea91-1c78-77e9bd063ee4"><p id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95" semx-id="_662a66fd-d171-1a8c-1c99-4c628c8f9e95"><concept><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy" id="_d65a25ba-5fba-3873-85e0-23f958f7e0f6"/><semx element="xref" source="_d65a25ba-5fba-3873-85e0-23f958f7e0f6"><fmt-xref target="term-paddy"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-paddy">1</semx></span></fmt-xref></semx></concept> from which the husk only has been removed</p></semx></fmt-definition>
 
 
  <source status="modified" type="authoritative" id="_d320c3ac-f869-78c3-14e4-007a29765bae"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
@@ -266,7 +266,7 @@ sourcecode .nt {
 
 
 
-<definition id="_32289b43-9dd9-5943-3537-7b84fde6a351" semx-id="_32289b43-9dd9-5943-3537-7b84fde6a351"><verbal-definition semx-id="_a9f2cc6e-5721-83c8-d1cf-14701cc03dc7" id="_a9f2cc6e-5721-83c8-d1cf-14701cc03dc7"><p semx-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c" original-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c"><concept><refterm>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice"/></concept> from which almost all of the bran and embryo have been removed by milling</p></verbal-definition></definition><fmt-definition id="_cfcf37c2-8835-5801-f082-f58012de75ee"><semx element="definition" source="_32289b43-9dd9-5943-3537-7b84fde6a351"><p id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c" semx-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c"><concept id="_47cbe88c-4258-7f66-f7ad-7db782c18759"><refterm>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice" id="_16d8b477-5be3-bd25-54ee-6906e21625aa"/></concept><fmt-concept><semx element="concept" source="_47cbe88c-4258-7f66-f7ad-7db782c18759"><em>husked rice</em> <semx element="xref" source="_16d8b477-5be3-bd25-54ee-6906e21625aa">(<fmt-xref target="term-husked-rice"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-husked-rice">2</semx></span></fmt-xref>)</semx></semx></fmt-concept> from which almost all of the bran and embryo have been removed by milling</p></semx></fmt-definition>
+<definition id="_32289b43-9dd9-5943-3537-7b84fde6a351" semx-id="_32289b43-9dd9-5943-3537-7b84fde6a351"><verbal-definition semx-id="_a9f2cc6e-5721-83c8-d1cf-14701cc03dc7" id="_a9f2cc6e-5721-83c8-d1cf-14701cc03dc7"><p semx-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c" original-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c"><concept id="_9b050cf4-6a31-8219-d114-9a491da6ff36"><refterm>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice"/></concept><fmt-concept><semx element="concept" source="_9b050cf4-6a31-8219-d114-9a491da6ff36"><em>husked rice</em></semx></fmt-concept> from which almost all of the bran and embryo have been removed by milling</p></verbal-definition></definition><fmt-definition id="_3889d560-ca09-00a1-0205-9b79e5cc8b21"><semx element="definition" source="_32289b43-9dd9-5943-3537-7b84fde6a351"><p id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c" semx-id="_9d6808f6-0f1d-7676-583e-6dd57b824d0c"><concept><refterm>husked rice</refterm><renderterm>husked rice</renderterm><xref target="term-husked-rice" id="_eec68102-5d61-27c1-909b-9503c5c376fd"/><semx element="xref" source="_eec68102-5d61-27c1-909b-9503c5c376fd"><fmt-xref target="term-husked-rice"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-husked-rice">2</semx></span></fmt-xref></semx></concept> from which almost all of the bran and embryo have been removed by milling</p></semx></fmt-definition>
 
 
  <source status="identical" type="authoritative" id="_131986d3-2ced-9707-6507-dc69bcce7146"><origin bibitemid="ISO7301" type="inline" citeas="ISO 7301:2011"><localityStack><locality type="clause"><referenceFrom>3.3</referenceFrom></locality></localityStack></origin>
@@ -276,7 +276,7 @@ sourcecode .nt {
 <name id="_05c97794-bcba-c0e4-4718-9fdadda7f0b6">parboiled rice</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_af7e7064-37ff-ef20-0c5a-c7e07e40c11b"><strong><semx element="expression/name" source="_05c97794-bcba-c0e4-4718-9fdadda7f0b6">parboiled rice</semx></strong></semx></p></fmt-preferred>
-<definition id="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229" semx-id="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229"><verbal-definition semx-id="_01aacd3d-098f-929e-f116-bc2c48eadbc7" id="_01aacd3d-098f-929e-f116-bc2c48eadbc7"><p semx-id="_c67cc20f-472d-e246-950c-011d6be42aed" original-id="_c67cc20f-472d-e246-950c-011d6be42aed">rice whose starch has been fully gelatinized by soaking <concept><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy"/></concept> in water followed by a heat treatment and a drying process</p></verbal-definition></definition><fmt-definition id="_e9f98ca6-6bf5-1707-2109-dcbd46a66e50"><semx element="definition" source="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229"><p id="_c67cc20f-472d-e246-950c-011d6be42aed" semx-id="_c67cc20f-472d-e246-950c-011d6be42aed">rice whose starch has been fully gelatinized by soaking <concept id="_2a8d2e38-4290-8e24-b846-191ad6589952"><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy" id="_19745fbb-0909-cd51-09fc-c7de6922f01b"/></concept><fmt-concept><semx element="concept" source="_2a8d2e38-4290-8e24-b846-191ad6589952"><em>paddy</em> <semx element="xref" source="_19745fbb-0909-cd51-09fc-c7de6922f01b">(<fmt-xref target="term-paddy"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-paddy">1</semx></span></fmt-xref>)</semx></semx></fmt-concept> in water followed by a heat treatment and a drying process</p></semx></fmt-definition>
+<definition id="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229" semx-id="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229"><verbal-definition semx-id="_01aacd3d-098f-929e-f116-bc2c48eadbc7" id="_01aacd3d-098f-929e-f116-bc2c48eadbc7"><p semx-id="_c67cc20f-472d-e246-950c-011d6be42aed" original-id="_c67cc20f-472d-e246-950c-011d6be42aed">rice whose starch has been fully gelatinized by soaking <concept id="_d497b19a-c250-0872-b2b5-dd179181e815"><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy"/></concept><fmt-concept><semx element="concept" source="_d497b19a-c250-0872-b2b5-dd179181e815"><em>paddy</em></semx></fmt-concept> in water followed by a heat treatment and a drying process</p></verbal-definition></definition><fmt-definition id="_f3f04940-91cf-fb24-befc-e8f28fb54cf5"><semx element="definition" source="_f4b5a268-bcf4-b2c0-1585-a11a1e96d229"><p id="_c67cc20f-472d-e246-950c-011d6be42aed" semx-id="_c67cc20f-472d-e246-950c-011d6be42aed">rice whose starch has been fully gelatinized by soaking <concept><refterm>paddy</refterm><renderterm>paddy</renderterm><xref target="term-paddy" id="_a35f81e6-0f63-3573-9d1b-e21f06233ee1"/><semx element="xref" source="_a35f81e6-0f63-3573-9d1b-e21f06233ee1"><fmt-xref target="term-paddy"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-paddy">1</semx></span></fmt-xref></semx></concept> in water followed by a heat treatment and a drying process</p></semx></fmt-definition>
  </term>
 
 <term id="term-waxy-rice" anchor="term-waxy-rice" semx-id="_af903304-3c13-5f9c-7053-d81f5e939f9c"><fmt-name id="_f4e6cc19-c9d2-1cb3-9080-ecf789d7d783"><span class="fmt-caption-label"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-waxy-rice">5</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-waxy-rice">5</semx></fmt-xref-label><preferred id="_8611b634-832e-fbe0-51b7-ba3deeb72d7d"><expression>
@@ -327,7 +327,7 @@ sourcecode .nt {
 <name id="_875aa2a6-054e-d714-f804-e31ba129d0ea">damaged kernel</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_46a5143b-64c5-b4bc-9374-547f0a0010a3"><strong><semx element="expression/name" source="_875aa2a6-054e-d714-f804-e31ba129d0ea">damaged kernel</semx></strong></semx></p></fmt-preferred>
-<definition id="_80930bbe-d1cc-bc57-9b6c-ad15a787feff" semx-id="_80930bbe-d1cc-bc57-9b6c-ad15a787feff"><verbal-definition semx-id="_92eeaa62-81a5-07b9-d143-e35fbfa9475d" id="_92eeaa62-81a5-07b9-d143-e35fbfa9475d"><p semx-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e" original-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e">kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding  <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept></p></verbal-definition></definition><fmt-definition id="_42b4fd94-9667-b449-de29-f72e203149b8"><semx element="definition" source="_80930bbe-d1cc-bc57-9b6c-ad15a787feff"><p id="_baa0d9db-4c72-37e8-0196-4a0965a4251e" semx-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e">kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding  <concept id="_2c917b8c-8f47-f4fb-d3b2-a744ba129200"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_fa99ba01-14a1-07dc-2283-623512775b3b"/></concept><fmt-concept><semx element="concept" source="_2c917b8c-8f47-f4fb-d3b2-a744ba129200"><em>HDK</em> <semx element="xref" source="_fa99ba01-14a1-07dc-2283-623512775b3b">(<fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref>)</semx></semx></fmt-concept></p></semx></fmt-definition>
+<definition id="_80930bbe-d1cc-bc57-9b6c-ad15a787feff" semx-id="_80930bbe-d1cc-bc57-9b6c-ad15a787feff"><verbal-definition semx-id="_92eeaa62-81a5-07b9-d143-e35fbfa9475d" id="_92eeaa62-81a5-07b9-d143-e35fbfa9475d"><p semx-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e" original-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e">kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding  <concept id="_09ddfe0e-5fd2-d0b6-0f96-25cd3e743564"><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK"/></concept><fmt-concept><semx element="concept" source="_09ddfe0e-5fd2-d0b6-0f96-25cd3e743564"><em>HDK</em></semx></fmt-concept></p></verbal-definition></definition><fmt-definition id="_f56ad5ed-c810-6c71-027f-e1e495c8a995"><semx element="definition" source="_80930bbe-d1cc-bc57-9b6c-ad15a787feff"><p id="_baa0d9db-4c72-37e8-0196-4a0965a4251e" semx-id="_baa0d9db-4c72-37e8-0196-4a0965a4251e">kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding  <concept><refterm>HDK</refterm><renderterm>HDK</renderterm><xref target="term-HDK" id="_52f41868-4b10-fae5-9c4e-ecbaf8c64a4d"/><semx element="xref" source="_52f41868-4b10-fae5-9c4e-ecbaf8c64a4d"><fmt-xref target="term-HDK"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-HDK">7</semx></span></fmt-xref></semx></concept></p></semx></fmt-definition>
  </term>
 
 <term id="term-immature-kernel" anchor="term-immature-kernel" semx-id="_05d33eaf-f092-b592-61a7-2d1648cad19a"><fmt-name id="_1aa75351-6c7f-4b3a-c2bd-e2ac8e05f9c7"><span class="fmt-caption-label"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel">9</semx></span></fmt-name><fmt-xref-label><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-immature-kernel">9</semx></fmt-xref-label><preferred id="_2714954a-65aa-c2a0-51c1-014834531180"><expression>
@@ -396,7 +396,7 @@ sourcecode .nt {
 <name id="_de2ab790-69ec-af12-9614-efe9eee14078">gel state</name>
 </expression>
 </preferred><fmt-preferred><p><semx element="preferred" source="_4dba7f0e-5a50-6abe-1ceb-d4186d8f60df"><strong><semx element="expression/name" source="_de2ab790-69ec-af12-9614-efe9eee14078">gel state</semx></strong></semx></p></fmt-preferred>
-<definition id="_4d25df12-4f64-f3b6-5557-1d8c814f716f" semx-id="_4d25df12-4f64-f3b6-5557-1d8c814f716f"><verbal-definition semx-id="_b88e5634-bdd5-bc18-447e-d9b3b365ad90" id="_b88e5634-bdd5-bc18-447e-d9b3b365ad90"><p semx-id="_1143637b-e62e-a597-4066-11072428bbe3" original-id="_1143637b-e62e-a597-4066-11072428bbe3">condition reached as a consequence of <concept><refterm>gelatinization</refterm><renderterm>gelatinization</renderterm><xref target="term-gelatinization"/></concept>, when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p></verbal-definition></definition><fmt-definition id="_8fc8b89c-2d7e-cf86-8c7b-4be45c1c8fde"><semx element="definition" source="_4d25df12-4f64-f3b6-5557-1d8c814f716f"><p id="_1143637b-e62e-a597-4066-11072428bbe3" semx-id="_1143637b-e62e-a597-4066-11072428bbe3">condition reached as a consequence of <concept id="_2c030aee-2500-5809-f915-c1bf8ee437f3"><refterm>gelatinization</refterm><renderterm>gelatinization</renderterm><xref target="term-gelatinization" id="_55a4ecf9-7a4e-8e7f-987d-d84bb46759c2"/></concept><fmt-concept><semx element="concept" source="_2c030aee-2500-5809-f915-c1bf8ee437f3"><em>gelatinization</em> <semx element="xref" source="_55a4ecf9-7a4e-8e7f-987d-d84bb46759c2">(<fmt-xref target="term-gelatinization"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-gelatinization">13</semx></span></fmt-xref>)</semx></semx></fmt-concept>, when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p></semx></fmt-definition>
+<definition id="_4d25df12-4f64-f3b6-5557-1d8c814f716f" semx-id="_4d25df12-4f64-f3b6-5557-1d8c814f716f"><verbal-definition semx-id="_b88e5634-bdd5-bc18-447e-d9b3b365ad90" id="_b88e5634-bdd5-bc18-447e-d9b3b365ad90"><p semx-id="_1143637b-e62e-a597-4066-11072428bbe3" original-id="_1143637b-e62e-a597-4066-11072428bbe3">condition reached as a consequence of <concept id="_c5b44d7b-b340-1bfe-dd80-760402895f7b"><refterm>gelatinization</refterm><renderterm>gelatinization</renderterm><xref target="term-gelatinization"/></concept><fmt-concept><semx element="concept" source="_c5b44d7b-b340-1bfe-dd80-760402895f7b"><em>gelatinization</em></semx></fmt-concept>, when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p></verbal-definition></definition><fmt-definition id="_3c8fcfd2-1a53-42f4-6250-4ef21a260ce6"><semx element="definition" source="_4d25df12-4f64-f3b6-5557-1d8c814f716f"><p id="_1143637b-e62e-a597-4066-11072428bbe3" semx-id="_1143637b-e62e-a597-4066-11072428bbe3">condition reached as a consequence of <concept><refterm>gelatinization</refterm><renderterm>gelatinization</renderterm><xref target="term-gelatinization" id="_55d3ae74-6b06-30b4-09be-ec68a1137c76"/><semx element="xref" source="_55d3ae74-6b06-30b4-09be-ec68a1137c76"><fmt-xref target="term-gelatinization"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-gelatinization">13</semx></span></fmt-xref></semx></concept>, when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p></semx></fmt-definition>
 
 
  <source status="identical" type="authoritative" id="_168c8121-d190-1222-ba38-a6ff499d6129"><origin bibitemid="ISO14864" type="inline" citeas="ISO 14864:1998"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
@@ -417,7 +417,7 @@ sourcecode .nt {
   </mstyle>
 </math>
     <asciimath>t_90</asciimath>
-  </stem></p><p semx-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a" original-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a">time necessary for 90 % of the kernels to pass from their natural state to the <concept><refterm>gel state</refterm><renderterm>gel state</renderterm><xref target="term-gel-state"/></concept></p></verbal-definition></definition><fmt-definition id="_68d66303-5a97-735e-69e4-8d5e11ec3eac"><semx element="definition" source="_74a3e4ff-ce35-93e2-90f3-2969d64a03f3"><p id="_9ad10a93-0142-116a-84a7-e69be2263259" semx-id="_9ad10a93-0142-116a-84a7-e69be2263259">
+  </stem></p><p semx-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a" original-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a">time necessary for 90 % of the kernels to pass from their natural state to the <concept id="_fc0984af-31ed-ea8f-f24d-d4fbd9c72cc4"><refterm>gel state</refterm><renderterm>gel state</renderterm><xref target="term-gel-state"/></concept><fmt-concept><semx element="concept" source="_fc0984af-31ed-ea8f-f24d-d4fbd9c72cc4"><em>gel state</em></semx></fmt-concept></p></verbal-definition></definition><fmt-definition id="_a045a30f-0c99-f5ad-0fb4-37638dbd3826"><semx element="definition" source="_74a3e4ff-ce35-93e2-90f3-2969d64a03f3"><p id="_9ad10a93-0142-116a-84a7-e69be2263259" semx-id="_9ad10a93-0142-116a-84a7-e69be2263259">
   <stem block="false" type="MathML" id="_a9fb826d-ab35-fd58-4dee-efbdb5505ecd">
     <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
@@ -438,7 +438,7 @@ sourcecode .nt {
   </mstyle>
 </math>
     <asciimath>t_90</asciimath>
-  </semx></fmt-stem></p><p id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a" semx-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a">time necessary for 90 % of the kernels to pass from their natural state to the <concept id="_1fea2ffe-64eb-158b-19ef-236393d8d186"><refterm>gel state</refterm><renderterm>gel state</renderterm><xref target="term-gel-state" id="_ae38655f-fe08-e292-de6b-df23c433891e"/></concept><fmt-concept><semx element="concept" source="_1fea2ffe-64eb-158b-19ef-236393d8d186"><em>gel state</em> <semx element="xref" source="_ae38655f-fe08-e292-de6b-df23c433891e">(<fmt-xref target="term-gel-state"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-gel-state">14</semx></span></fmt-xref>)</semx></semx></fmt-concept></p></semx></fmt-definition>
+  </semx></fmt-stem></p><p id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a" semx-id="_e4f48a93-94da-a946-cbc4-21b8f9b89a7a">time necessary for 90 % of the kernels to pass from their natural state to the <concept><refterm>gel state</refterm><renderterm>gel state</renderterm><xref target="term-gel-state" id="_a1c0f7f4-4276-6a0b-bfca-1a3ddee17b58"/><semx element="xref" source="_a1c0f7f4-4276-6a0b-bfca-1a3ddee17b58"><fmt-xref target="term-gel-state"><span class="citesec"><semx element="autonum" source="_b102744b-0074-350d-0bc2-68b0a71de70a">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="term-gel-state">14</semx></span></fmt-xref></semx></concept></p></semx></fmt-definition>
 
 
 
@@ -817,11 +817,11 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
 
 
 
-<references id="_a23a68e4-3bde-7c94-834c-f8dc34bb5354" normative="true" obligation="informative" semx-id="_a23a68e4-3bde-7c94-834c-f8dc34bb5354" displayorder="6">
-<title id="_96fce99f-ce1f-b184-eb60-fb7c71327943" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_a2937195-675d-b7a1-9845-2a52dfd58ebe"><span class="fmt-caption-label"><semx element="autonum" source="_a23a68e4-3bde-7c94-834c-f8dc34bb5354">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_96fce99f-ce1f-b184-eb60-fb7c71327943">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_a23a68e4-3bde-7c94-834c-f8dc34bb5354">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_b9d0c25d-c21f-5877-cc58-a4d57efeb1c1"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_1aa40a0c-0bcc-8e1f-2a5a-a7259463c021" reference="1" original-reference="_4382c605-d1f4-4544-86f0-8e2796412498" target="_e4150b96-a79f-92e9-46f4-49266338e75b"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_1aa40a0c-0bcc-8e1f-2a5a-a7259463c021">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Determination of moisture content — Reference method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<references id="_c3b6a340-c65f-6a9d-ccad-2d763a70e626" normative="true" obligation="informative" semx-id="_c3b6a340-c65f-6a9d-ccad-2d763a70e626" displayorder="6">
+<title id="_96fce99f-ce1f-b184-eb60-fb7c71327943" semx-id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><fmt-title depth="1" id="_a2937195-675d-b7a1-9845-2a52dfd58ebe"><span class="fmt-caption-label"><semx element="autonum" source="_c3b6a340-c65f-6a9d-ccad-2d763a70e626">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_96fce99f-ce1f-b184-eb60-fb7c71327943">Normative references</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="_c3b6a340-c65f-6a9d-ccad-2d763a70e626">2</semx></fmt-xref-label><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025" semx-id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_d7a4c45a-ead0-36bf-734a-6d74a5a4a669"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_1aa40a0c-0bcc-8e1f-2a5a-a7259463c021" reference="1" original-reference="_cd6e6937-fa92-4b64-8695-07c60128fe08" target="_e4150b96-a79f-92e9-46f4-49266338e75b"><p>Withdrawn.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_1aa40a0c-0bcc-8e1f-2a5a-a7259463c021">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Determination of moisture content — Reference method</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -850,7 +850,6 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:44807:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/04/48/44807.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 712</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 712</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 712(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:712:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 712</docidentifier>
   <docnumber>712</docnumber>
@@ -876,7 +875,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_c1ebf523-e04c-96cc-6e12-4f1b7b9d4e2a">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_c1ebf523-e04c-96cc-6e12-4f1b7b9d4e2a">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_d9324a20-318a-d9f5-b4d1-843cdf509bce">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_d9324a20-318a-d9f5-b4d1-843cdf509bce">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -977,7 +976,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_b46dd1d1-740a-5ccf-db82-9077e51329f0">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_b46dd1d1-740a-5ccf-db82-9077e51329f0">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_adf26ea5-4b4b-082c-b9db-f269726b3599">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_adf26ea5-4b4b-082c-b9db-f269726b3599">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1030,8 +1029,8 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_6f5dfaf8-188d-1ef5-b56a-ba10699b031a"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_4d29159e-6c5d-046d-0750-3ad3a4646d04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Determination of the potential milling yield from paddy and from husked rice</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1054,7 +1053,6 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:51072:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/10/51072.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 6646</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6646</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6646(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6646:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6646</docidentifier>
   <docnumber>6646</docnumber>
@@ -1080,7 +1078,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_00917d67-7471-e013-57f5-e74b05fa7a06">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_00917d67-7471-e013-57f5-e74b05fa7a06">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_89d669d0-7503-5349-071c-057757d862d2">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_89d669d0-7503-5349-071c-057757d862d2">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1175,7 +1173,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_85f683de-8a24-5005-84b2-07490f5a1904">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_85f683de-8a24-5005-84b2-07490f5a1904">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_01a00720-f301-bbcb-6831-ac38f8c0caa1">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_01a00720-f301-bbcb-6831-ac38f8c0caa1">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1228,8 +1226,8 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_bed4ad6d-043c-6382-bc98-25bdc95276ae"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_c60c04c3-e6fe-1666-8f43-01e4ffbee19e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 1: Paper sacks</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1322,8 +1320,8 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_91580728-2891-1285-9fb9-f3a3378a4548"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_c5228e67-a124-ff7f-0427-196485292320"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1352,7 +1350,6 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:1818:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/18/1818.detail.rss</uri>
   <docidentifier type="ISO" primary="true">ISO 8351-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 8351-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 8351-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:8351:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 8351-2</docidentifier>
   <docnumber>8351</docnumber>
@@ -1378,7 +1375,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
         
 <name>Packaging</name>
 
-        <identifier id="_a4920e2e-d694-a4cc-b54b-1ffccd7d24e9">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_a4920e2e-d694-a4cc-b54b-1ffccd7d24e9">ISO/TC 122</semx></tt></fmt-identifier>
+        <identifier id="_76242d1f-0c78-0032-e38c-164967830657">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_76242d1f-0c78-0032-e38c-164967830657">ISO/TC 122</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -1460,7 +1457,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
             
 <name>Packaging</name>
 
-            <identifier id="_aeedab0d-b6c2-3442-d326-541c2f615a95">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_aeedab0d-b6c2-3442-d326-541c2f615a95">ISO/TC 122</semx></tt></fmt-identifier>
+            <identifier id="_e3510f95-37f4-b188-842d-38cc9843bd9c">ISO/TC 122</identifier><fmt-identifier><tt><semx element="identifier" source="_e3510f95-37f4-b188-842d-38cc9843bd9c">ISO/TC 122</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -1494,15 +1491,15 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ed935d6d-d881-a4ab-6825-10690c866955"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_a7b4dedd-7e7e-d9ec-c9d5-36bd96fa452a" reference="2" original-reference="_5ba1c1ab-a28a-4719-a7d8-2517732611f9" target="_6ae505df-8389-2952-cc78-537f20522069"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_a7b4dedd-7e7e-d9ec-c9d5-36bd96fa452a">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
-, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em></formattedref>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ed935d6d-d881-a4ab-6825-10690c866955"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_a7b4dedd-7e7e-d9ec-c9d5-36bd96fa452a" reference="2" original-reference="_8f296081-8285-4094-9592-e09b18132883" target="_6ae505df-8389-2952-cc78-537f20522069"><p>Under preparation. (Stage at the time of publication ISO/DIS 16634)</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_a7b4dedd-7e7e-d9ec-c9d5-36bd96fa452a">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em>.</formattedref>
 <title format="text/plain">Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">Under preparation. (Stage at the time of publication ISO/DIS 16634)</note><language>en</language><script>Latn</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_05628c9c-9813-be7c-2c66-5324049c5fb8"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_1ddea5e6-e7f1-115b-37d9-7789358d9339"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1600,8 +1597,8 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_62b26cc3-266d-d4eb-8c80-75efc90b6bb6"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_f11ffcaa-056d-ac67-e206-09e3a8edd224"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Cereals and cereal products — Sampling</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1870,35 +1867,35 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
 <title id="_3f2aabc2-b422-7d11-0f00-b5dc865aa56a" semx-id="_6907294f-0e77-0bb1-eb93-bdaf102b113d">Test report</title><fmt-title depth="2" id="_56d5b5e5-1039-b955-5676-13b2d8ab810a"><span class="fmt-caption-label"><semx element="autonum" source="AnnexA">A</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_9664c37f-5e68-e9de-9888-fb24523d4f3e">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_3f2aabc2-b422-7d11-0f00-b5dc865aa56a">Test report</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="AnnexA">A</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_9664c37f-5e68-e9de-9888-fb24523d4f3e">7</semx></fmt-xref-label>
 <p id="_1096d6de-c5bf-b067-44b7-f422bcf2efe6" semx-id="_1096d6de-c5bf-b067-44b7-f422bcf2efe6">Report the results as specified in <xref target="clause7" id="_9732da53-683e-d0d5-db3f-b5fb3990446e"/><semx element="xref" source="_9732da53-683e-d0d5-db3f-b5fb3990446e"><fmt-xref target="clause7"><span class="citesec"><span class="fmt-element-name">Clause</span> <semx element="autonum" source="clause7">7</semx></span></fmt-xref></semx>.</p>
 </clause>
-</annex><annex id="AnnexB" anchor="AnnexB" inline-header="false" obligation="informative" semx-id="_8e48eff6-8989-2545-d0f9-bbe71d051cbc" autonum="B" displayorder="15">
+</annex><annex id="AnnexB" anchor="AnnexB" inline-header="false" obligation="informative" semx-id="_15944202-ec94-cd21-bcc4-e30c5581fa2c" autonum="B" displayorder="15">
 <title id="_b2c4afa2-d520-2433-28a9-8b08ec4537ce" semx-id="_4b026aca-d90f-1e40-2282-cca353b039c8">Determination of the waxy rice content of parboiled rice</title><fmt-title id="_2b78ed78-aeda-ac2f-9cc7-d4909c11429c"><strong><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="AnnexB">B</semx></span></strong><br/><span class="fmt-obligation">(informative)</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_b2c4afa2-d520-2433-28a9-8b08ec4537ce"><strong>Determination of the waxy rice content of parboiled rice</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Annex</span> <semx element="autonum" source="AnnexB">B</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="AnnexB">B</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_b2c4afa2-d520-2433-28a9-8b08ec4537ce">Determination of the waxy rice content of parboiled rice</semx></variant-title>
 <clause id="_f1e90616-83fc-8a48-e9d5-b340bfef3b98" inline-header="false" obligation="informative" semx-id="_f1e90616-83fc-8a48-e9d5-b340bfef3b98">
 <title id="_22023813-1bfa-a13d-f6c2-44044ecf6197" semx-id="_191c6dff-fb5e-d20b-f0fe-f17d3b495a76">Principle</title><fmt-title depth="2" id="_5c4e140c-f946-520a-e122-69b3b3dfd39c"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f1e90616-83fc-8a48-e9d5-b340bfef3b98">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_22023813-1bfa-a13d-f6c2-44044ecf6197">Principle</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_f1e90616-83fc-8a48-e9d5-b340bfef3b98">1</semx></fmt-xref-label>
 <p id="_c46b5a80-734c-aa9d-a45b-2c7520908959" semx-id="_c46b5a80-734c-aa9d-a45b-2c7520908959">Waxy rice kernels have a reddish brown colour when stained in an iodine solution, while non-waxy rice kernels show a dark blue colour.</p>
 </clause>
 
-<clause id="_4e8304c4-9d71-5e24-7362-d5da218d3031" inline-header="false" obligation="informative" semx-id="_4e8304c4-9d71-5e24-7362-d5da218d3031">
-<title id="_722ed8da-9040-c004-e032-a571be6b8527" semx-id="_fce6fed1-f844-3a72-bc07-aba2b09c073e">Apparatus</title><fmt-title depth="2" id="_13923660-496c-e561-8197-b2e4bc3c964f"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_722ed8da-9040-c004-e032-a571be6b8527">Apparatus</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx></fmt-xref-label>
+<clause id="_353c811f-885c-9bec-a1c1-ed1c60003496" inline-header="false" obligation="informative" semx-id="_353c811f-885c-9bec-a1c1-ed1c60003496">
+<title id="_722ed8da-9040-c004-e032-a571be6b8527" semx-id="_fce6fed1-f844-3a72-bc07-aba2b09c073e">Apparatus</title><fmt-title depth="2" id="_13923660-496c-e561-8197-b2e4bc3c964f"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_722ed8da-9040-c004-e032-a571be6b8527">Apparatus</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx></fmt-xref-label>
 <p id="_0c0158c8-0adc-cfa7-5b46-61a31758a2ec" semx-id="_0c0158c8-0adc-cfa7-5b46-61a31758a2ec">The usual laboratory apparatus and, in particular, the following.</p>
 
 <clause id="AnnexB-2-1" anchor="AnnexB-2-1" inline-header="true" obligation="informative" semx-id="_83defda3-5830-fb93-2e9d-58814ab9dbdf">
-<title id="_85319bd7-b3f0-ade8-d4de-b2390de8fe02" semx-id="_0da30111-443b-0c07-7a74-60fb173a535a">Balance,</title><fmt-title depth="3" id="_bc38521d-416b-a224-51d1-6285663ed2f7"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_85319bd7-b3f0-ade8-d4de-b2390de8fe02">Balance,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></fmt-xref-label>
+<title id="_85319bd7-b3f0-ade8-d4de-b2390de8fe02" semx-id="_0da30111-443b-0c07-7a74-60fb173a535a">Balance,</title><fmt-title depth="3" id="_bc38521d-416b-a224-51d1-6285663ed2f7"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_85319bd7-b3f0-ade8-d4de-b2390de8fe02">Balance,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-1">1</semx></fmt-xref-label>
 <p id="_1fae9dcf-04fb-2755-c8e5-4f275b48af82" semx-id="_1fae9dcf-04fb-2755-c8e5-4f275b48af82">capable of weighing to the nearest 0,01 g.</p>
 </clause>
 
 <clause id="AnnexB-2-2" anchor="AnnexB-2-2" inline-header="true" obligation="informative" semx-id="_66951cd5-e815-58a7-f5f2-b6e821591c53">
-<title id="_847d1616-82f2-b9e5-2f8c-088e2b508c4e" semx-id="_912afc39-f5b1-fb04-f4a3-f5ab92e9b416">Glass beaker,</title><fmt-title depth="3" id="_68440e8c-3116-9597-09ca-c5f63bc69f84"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_847d1616-82f2-b9e5-2f8c-088e2b508c4e">Glass beaker,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></fmt-xref-label>
+<title id="_847d1616-82f2-b9e5-2f8c-088e2b508c4e" semx-id="_912afc39-f5b1-fb04-f4a3-f5ab92e9b416">Glass beaker,</title><fmt-title depth="3" id="_68440e8c-3116-9597-09ca-c5f63bc69f84"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_847d1616-82f2-b9e5-2f8c-088e2b508c4e">Glass beaker,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></fmt-xref-label>
 <p id="_2b77dc13-cf38-a9fb-399e-dd1ea52f7967" semx-id="_2b77dc13-cf38-a9fb-399e-dd1ea52f7967">of capacity 250 ml.</p>
 </clause>
 
 <clause id="AnnexB-2-3" anchor="AnnexB-2-3" inline-header="true" obligation="informative" semx-id="_83eb7f64-cf4f-6099-f8b2-a0b7c4dfb048">
-<title id="_046cea9b-4d1e-0c28-c63f-c28ec82529e0" semx-id="_2fa925d0-c8a6-dd4d-369a-eef4e07f7849">Small white colour bowls,</title><fmt-title depth="3" id="_caa4b04c-e18d-2747-23a8-e60cf49718ea"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_046cea9b-4d1e-0c28-c63f-c28ec82529e0">Small white colour bowls,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></fmt-xref-label>
+<title id="_046cea9b-4d1e-0c28-c63f-c28ec82529e0" semx-id="_2fa925d0-c8a6-dd4d-369a-eef4e07f7849">Small white colour bowls,</title><fmt-title depth="3" id="_caa4b04c-e18d-2747-23a8-e60cf49718ea"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_046cea9b-4d1e-0c28-c63f-c28ec82529e0">Small white colour bowls,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></fmt-xref-label>
 <p id="_7459bc0e-e887-7099-cf16-d0c2b01603de" semx-id="_7459bc0e-e887-7099-cf16-d0c2b01603de">or any white colour container of a suitable size.</p>
 </clause>
 
-<clause id="AnnexB-2-4" anchor="AnnexB-2-4" inline-header="true" obligation="informative" semx-id="_870f3922-68dc-1ad7-67c2-a3ff729ff940">
-<title id="_bb687b6b-d592-5f80-2e4c-e95a31470242" semx-id="_eab01c8d-9f38-15dc-f604-e15814917d52">Wire sieve,</title><fmt-title depth="3" id="_a1628d0a-2eb2-cd5f-a1a4-974078f26e69"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_bb687b6b-d592-5f80-2e4c-e95a31470242">Wire sieve,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></fmt-xref-label>
-<p id="_ea542220-3716-fc06-ff0e-72bd89723173" semx-id="_ea542220-3716-fc06-ff0e-72bd89723173">with long rounded apertures of <stem block="false" type="MathML" id="_a3e0534d-1645-71e6-cb87-f689ea625553"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<clause id="AnnexB-2-4" anchor="AnnexB-2-4" inline-header="true" obligation="informative" semx-id="_a804b75b-fb73-5f72-39f2-e3fc8f8bc145">
+<title id="_bb687b6b-d592-5f80-2e4c-e95a31470242" semx-id="_eab01c8d-9f38-15dc-f604-e15814917d52">Wire sieve,</title><fmt-title depth="3" id="_a1628d0a-2eb2-cd5f-a1a4-974078f26e69"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_bb687b6b-d592-5f80-2e4c-e95a31470242">Wire sieve,</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></fmt-xref-label>
+<p id="_405db72b-8878-d865-6250-b1859ff1a02c" semx-id="_405db72b-8878-d865-6250-b1859ff1a02c">with long rounded apertures of <stem block="false" type="MathML" id="_a3e0534d-1645-71e6-cb87-f689ea625553"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo>(</mo>
@@ -1932,7 +1929,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>(1 "unitsml(mm)"</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_07485bc4-6851-90d2-87ef-9dbf9c2eabf1"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math><asciimath>(1 "unitsml(mm)"</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_4bb1916b-5e99-cdfb-084b-069ee090c7ee"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1952,7 +1949,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+0.02),(0):}</asciimath></stem><fmt-stem type="MathML"><semx element="stem" source="_07485bc4-6851-90d2-87ef-9dbf9c2eabf1"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</stem><fmt-stem type="MathML"><semx element="stem" source="_4bb1916b-5e99-cdfb-084b-069ee090c7ee"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -1972,7 +1969,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+0.02),(0):}</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_32953f48-a9b1-13b1-b3a3-d40707dd1b90"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</semx></fmt-stem> <stem block="false" type="MathML" id="_32953f48-a9b1-13b1-b3a3-d40707dd1b90"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mo rspace="thickmathspace">⁢</mo>
     <mrow xref="U_mm">
@@ -2034,7 +2031,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>xx (20 "unitsml(mm)"</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_d13aeb17-8de9-dcb5-8de4-66e95803cfdc"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math><asciimath>xx (20 "unitsml(mm)"</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_36d4e7ca-ee96-01a4-3921-869c4dcdcd31"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -2055,7 +2052,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+2),(-1):}</asciimath></stem><fmt-stem type="MathML"><semx element="stem" source="_d13aeb17-8de9-dcb5-8de4-66e95803cfdc"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</stem><fmt-stem type="MathML"><semx element="stem" source="_36d4e7ca-ee96-01a4-3921-869c4dcdcd31"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mrow>
       <mo/>
@@ -2076,7 +2073,7 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
       <mo/>
     </mrow>
   </mstyle>
-</math><asciimath>{:(+2),(-1):}</asciimath></semx></fmt-stem> <stem block="false" type="MathML" id="_a6e4005f-7b12-c627-986f-7d475bb77f0c"><math xmlns="http://www.w3.org/1998/Math/MathML">
+</math>}</semx></fmt-stem> <stem block="false" type="MathML" id="_a6e4005f-7b12-c627-986f-7d475bb77f0c"><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle displaystyle="false">
     <mo rspace="thickmathspace">⁢</mo>
     <mrow xref="U_mm">
@@ -2106,15 +2103,15 @@ values for <stem block="false" type="MathML" id="_eab74fd3-af8c-19b5-c6e0-ae10b4
 </clause>
 
 <clause id="AnnexB-2-5" anchor="AnnexB-2-5" inline-header="true" obligation="informative" semx-id="_a620e57f-da21-8689-c1d8-52161f3ec7ae">
-<title id="_e8211b13-736e-5a1c-6fbb-828f17bc07ed" semx-id="_e0823697-2a38-ebb8-beeb-61d8b5a1efaa">Stirrer rod.</title><fmt-title depth="3" id="_29cf4062-a8dd-c53c-4e66-eb92ac241f0e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_e8211b13-736e-5a1c-6fbb-828f17bc07ed">Stirrer rod.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></fmt-xref-label>
+<title id="_e8211b13-736e-5a1c-6fbb-828f17bc07ed" semx-id="_e0823697-2a38-ebb8-beeb-61d8b5a1efaa">Stirrer rod.</title><fmt-title depth="3" id="_29cf4062-a8dd-c53c-4e66-eb92ac241f0e"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_e8211b13-736e-5a1c-6fbb-828f17bc07ed">Stirrer rod.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></fmt-xref-label>
 </clause>
 
 <clause id="AnnexB-2-6" anchor="AnnexB-2-6" inline-header="true" obligation="informative" semx-id="_9e1a45d6-4751-f051-4bc3-8167b6eeb227">
-<title id="_e7cc1133-44e5-4c3f-9ac7-38a699d7ee1f" semx-id="_12ec1804-3d14-2db6-88d8-75f80dc9500d">Tweezers or forceps.</title><fmt-title depth="3" id="_322108e0-f0ff-c61f-3c6b-87e0a8d4f394"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_e7cc1133-44e5-4c3f-9ac7-38a699d7ee1f">Tweezers or forceps.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></fmt-xref-label>
+<title id="_e7cc1133-44e5-4c3f-9ac7-38a699d7ee1f" semx-id="_12ec1804-3d14-2db6-88d8-75f80dc9500d">Tweezers or forceps.</title><fmt-title depth="3" id="_322108e0-f0ff-c61f-3c6b-87e0a8d4f394"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_e7cc1133-44e5-4c3f-9ac7-38a699d7ee1f">Tweezers or forceps.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></fmt-xref-label>
 </clause>
 
 <clause id="AnnexB-2-7" anchor="AnnexB-2-7" inline-header="true" obligation="informative" semx-id="_e451bd6c-4867-7481-e7e8-36a4ee4a8e34">
-<title id="_2c9d8d8c-2b03-21ed-11df-da8f99b85813" semx-id="_66aebc3c-2fa8-b700-b8b8-9a9e51f86e02">Tissue paper.</title><fmt-title depth="3" id="_995108a5-3796-4b21-cfff-6548f18e45bc"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_2c9d8d8c-2b03-21ed-11df-da8f99b85813">Tissue paper.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></fmt-xref-label>
+<title id="_2c9d8d8c-2b03-21ed-11df-da8f99b85813" semx-id="_66aebc3c-2fa8-b700-b8b8-9a9e51f86e02">Tissue paper.</title><fmt-title depth="3" id="_995108a5-3796-4b21-cfff-6548f18e45bc"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_2c9d8d8c-2b03-21ed-11df-da8f99b85813">Tissue paper.</semx></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></fmt-xref-label>
 </clause>
 </clause>
 
@@ -2149,16 +2146,16 @@ deionized water such as Lugols.<fn id="_24c2c962-296c-05c0-8989-5839d32bc379" re
 
 <clause id="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46" inline-header="false" obligation="informative" semx-id="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">
 <title id="_e2ff2960-ca5e-af7d-c9b4-60df59f2c9a0" semx-id="_46fa5ad0-74ed-bd5c-b301-f88411243a4a">Determination</title><fmt-title depth="2" id="_0cfbea18-d5ef-048b-c536-cccfff158d1a"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_e2ff2960-ca5e-af7d-c9b4-60df59f2c9a0">Determination</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Clause</span> <semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx></fmt-xref-label>
-<clause id="_45def8a1-f00e-2103-e430-954d98d7bf2a" inline-header="true" obligation="informative" semx-id="_45def8a1-f00e-2103-e430-954d98d7bf2a"><fmt-title depth="3" id="_5547a074-6841-76d9-69cf-4bbf900c0c2d"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_45def8a1-f00e-2103-e430-954d98d7bf2a">1</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_45def8a1-f00e-2103-e430-954d98d7bf2a">1</semx></fmt-xref-label><p id="_969d933f-a885-3463-704e-91744b672951" semx-id="_969d933f-a885-3463-704e-91744b672951">Weigh a portion of about 100 g of milled rice and put it into a glass beaker (<xref target="AnnexB-2-2" id="_d5263b85-2ce3-6c5c-8e46-8ad440993223"/><semx element="xref" source="_d5263b85-2ce3-6c5c-8e46-8ad440993223"><fmt-xref target="AnnexB-2-2"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span></fmt-xref></semx>).</p>
+<clause id="_45def8a1-f00e-2103-e430-954d98d7bf2a" inline-header="true" obligation="informative" semx-id="_45def8a1-f00e-2103-e430-954d98d7bf2a"><fmt-title depth="3" id="_5547a074-6841-76d9-69cf-4bbf900c0c2d"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_45def8a1-f00e-2103-e430-954d98d7bf2a">1</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_45def8a1-f00e-2103-e430-954d98d7bf2a">1</semx></fmt-xref-label><p id="_969d933f-a885-3463-704e-91744b672951" semx-id="_969d933f-a885-3463-704e-91744b672951">Weigh a portion of about 100 g of milled rice and put it into a glass beaker (<xref target="AnnexB-2-2" id="_d5263b85-2ce3-6c5c-8e46-8ad440993223"/><semx element="xref" source="_d5263b85-2ce3-6c5c-8e46-8ad440993223"><fmt-xref target="AnnexB-2-2"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-2">2</semx></span></fmt-xref></semx>).</p>
 </clause>
 
-<clause id="_ec61512e-0bc5-6680-4559-608c2db07e75" inline-header="true" obligation="informative" semx-id="_ec61512e-0bc5-6680-4559-608c2db07e75"><fmt-title depth="3" id="_6f1e6ae9-dbfc-5860-e1e3-afa3492a7b08"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_ec61512e-0bc5-6680-4559-608c2db07e75">2</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_ec61512e-0bc5-6680-4559-608c2db07e75">2</semx></fmt-xref-label><p id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1" semx-id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1">Add enough iodine working solution (<xref target="AnnexB-3-3" id="_83088e53-61c6-beb1-2355-a752c207b5d5"/><semx element="xref" source="_83088e53-61c6-beb1-2355-a752c207b5d5"><fmt-xref target="AnnexB-3-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_a01dec63-c64b-faae-abe8-f19612779b74">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-3-3">3</semx></span></fmt-xref></semx>) to soak the kernels, and stir (<xref target="AnnexB-2-5" id="_caaafca2-7a6b-d060-daa5-113279923688"/><semx element="xref" source="_caaafca2-7a6b-d060-daa5-113279923688"><fmt-xref target="AnnexB-2-5"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span></fmt-xref></semx>) until all the kernels are submerged under the solution. Let the kernels soak in the solution for 30 s.</p>
+<clause id="_ec61512e-0bc5-6680-4559-608c2db07e75" inline-header="true" obligation="informative" semx-id="_ec61512e-0bc5-6680-4559-608c2db07e75"><fmt-title depth="3" id="_6f1e6ae9-dbfc-5860-e1e3-afa3492a7b08"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_ec61512e-0bc5-6680-4559-608c2db07e75">2</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_ec61512e-0bc5-6680-4559-608c2db07e75">2</semx></fmt-xref-label><p id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1" semx-id="_60e108df-1c97-5e1b-0ea6-138fbcaee8a1">Add enough iodine working solution (<xref target="AnnexB-3-3" id="_83088e53-61c6-beb1-2355-a752c207b5d5"/><semx element="xref" source="_83088e53-61c6-beb1-2355-a752c207b5d5"><fmt-xref target="AnnexB-3-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_a01dec63-c64b-faae-abe8-f19612779b74">3</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-3-3">3</semx></span></fmt-xref></semx>) to soak the kernels, and stir (<xref target="AnnexB-2-5" id="_caaafca2-7a6b-d060-daa5-113279923688"/><semx element="xref" source="_caaafca2-7a6b-d060-daa5-113279923688"><fmt-xref target="AnnexB-2-5"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-5">5</semx></span></fmt-xref></semx>) until all the kernels are submerged under the solution. Let the kernels soak in the solution for 30 s.</p>
 </clause>
 
-<clause id="_c6560d92-a347-9b3f-204b-513c085b1037" inline-header="true" obligation="informative" semx-id="_c6560d92-a347-9b3f-204b-513c085b1037"><fmt-title depth="3" id="_ea93cfc0-0f2c-cec7-c089-314b9c62e29d"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_c6560d92-a347-9b3f-204b-513c085b1037">3</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_c6560d92-a347-9b3f-204b-513c085b1037">3</semx></fmt-xref-label><p id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9" semx-id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9">Pour the rice and solution into a wire sieve (<xref target="AnnexB-2-4" id="_7341321d-75ee-22ea-8349-c7336c8fad96"/><semx element="xref" source="_7341321d-75ee-22ea-8349-c7336c8fad96"><fmt-xref target="AnnexB-2-4"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span></fmt-xref></semx>), and shake the basket slightly in order to drain out the solution. Then place the wire sieve on a piece of tissue paper (<xref target="AnnexB-2-7" id="_8f2bff26-85e0-00af-63cc-2819e4644b6b"/><semx element="xref" source="_8f2bff26-85e0-00af-63cc-2819e4644b6b"><fmt-xref target="AnnexB-2-7"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span></fmt-xref></semx>) to absorb the excess liquid.</p>
+<clause id="_c6560d92-a347-9b3f-204b-513c085b1037" inline-header="true" obligation="informative" semx-id="_c6560d92-a347-9b3f-204b-513c085b1037"><fmt-title depth="3" id="_ea93cfc0-0f2c-cec7-c089-314b9c62e29d"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_c6560d92-a347-9b3f-204b-513c085b1037">3</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_c6560d92-a347-9b3f-204b-513c085b1037">3</semx></fmt-xref-label><p id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9" semx-id="_08de47f3-8bbd-830f-5d5c-a267d9b6b3b9">Pour the rice and solution into a wire sieve (<xref target="AnnexB-2-4" id="_7341321d-75ee-22ea-8349-c7336c8fad96"/><semx element="xref" source="_7341321d-75ee-22ea-8349-c7336c8fad96"><fmt-xref target="AnnexB-2-4"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-4">4</semx></span></fmt-xref></semx>), and shake the basket slightly in order to drain out the solution. Then place the wire sieve on a piece of tissue paper (<xref target="AnnexB-2-7" id="_8f2bff26-85e0-00af-63cc-2819e4644b6b"/><semx element="xref" source="_8f2bff26-85e0-00af-63cc-2819e4644b6b"><fmt-xref target="AnnexB-2-7"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-7">7</semx></span></fmt-xref></semx>) to absorb the excess liquid.</p>
 </clause>
 
-<clause id="_e77402fc-7023-712e-c20d-fd407fd33a6c" inline-header="true" obligation="informative" semx-id="_e77402fc-7023-712e-c20d-fd407fd33a6c"><fmt-title depth="3" id="_ee54be4d-4c09-2da8-de57-4c841e1609d9"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_e77402fc-7023-712e-c20d-fd407fd33a6c">4</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_e77402fc-7023-712e-c20d-fd407fd33a6c">4</semx></fmt-xref-label><p id="_52e73dcb-fc57-4336-a618-af0452ed32fe" semx-id="_52e73dcb-fc57-4336-a618-af0452ed32fe">Pour the stained kernels into a bowl (<xref target="AnnexB-2-3" id="_3c374284-5049-7ebe-b7fc-46386ace4178"/><semx element="xref" source="_3c374284-5049-7ebe-b7fc-46386ace4178"><fmt-xref target="AnnexB-2-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span></fmt-xref></semx>). Using tweezers or forceps (<xref target="AnnexB-2-6" id="_ff2aa43f-9928-a8da-d7be-3441d7dfcab5"/><semx element="xref" source="_ff2aa43f-9928-a8da-d7be-3441d7dfcab5"><fmt-xref target="AnnexB-2-6"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4e8304c4-9d71-5e24-7362-d5da218d3031">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span></fmt-xref></semx>), separate the reddish brown kernels of waxy rice from the dark blue kernels of non-waxy rice.</p>
+<clause id="_e77402fc-7023-712e-c20d-fd407fd33a6c" inline-header="true" obligation="informative" semx-id="_e77402fc-7023-712e-c20d-fd407fd33a6c"><fmt-title depth="3" id="_ee54be4d-4c09-2da8-de57-4c841e1609d9"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_e77402fc-7023-712e-c20d-fd407fd33a6c">4</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_e77402fc-7023-712e-c20d-fd407fd33a6c">4</semx></fmt-xref-label><p id="_52e73dcb-fc57-4336-a618-af0452ed32fe" semx-id="_52e73dcb-fc57-4336-a618-af0452ed32fe">Pour the stained kernels into a bowl (<xref target="AnnexB-2-3" id="_3c374284-5049-7ebe-b7fc-46386ace4178"/><semx element="xref" source="_3c374284-5049-7ebe-b7fc-46386ace4178"><fmt-xref target="AnnexB-2-3"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-3">3</semx></span></fmt-xref></semx>). Using tweezers or forceps (<xref target="AnnexB-2-6" id="_ff2aa43f-9928-a8da-d7be-3441d7dfcab5"/><semx element="xref" source="_ff2aa43f-9928-a8da-d7be-3441d7dfcab5"><fmt-xref target="AnnexB-2-6"><span class="citeapp"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_353c811f-885c-9bec-a1c1-ed1c60003496">2</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="AnnexB-2-6">6</semx></span></fmt-xref></semx>), separate the reddish brown kernels of waxy rice from the dark blue kernels of non-waxy rice.</p>
 </clause>
 
 <clause id="_965d88bb-6320-a5f1-0c10-1c0895678ecc" inline-header="true" obligation="informative" semx-id="_965d88bb-6320-a5f1-0c10-1c0895678ecc"><fmt-title depth="3" id="_69ff1f84-2f0c-7032-8210-5d97adda6a83"><span class="fmt-caption-label"><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_965d88bb-6320-a5f1-0c10-1c0895678ecc">5</semx></span></fmt-title><fmt-xref-label><semx element="autonum" source="AnnexB">B</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_4ed77608-ccec-799e-c9f1-1cf6ddcf7f46">5</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="_965d88bb-6320-a5f1-0c10-1c0895678ecc">5</semx></fmt-xref-label><p id="_0bde940e-b809-0b73-4b79-0b6ccafd34c0" semx-id="_0bde940e-b809-0b73-4b79-0b6ccafd34c0">Weigh the waxy rice portion (<stem block="false" type="MathML" id="_4cae36bc-e211-3f23-196f-64f9c7b7f732"><math xmlns="http://www.w3.org/1998/Math/MathML">
@@ -2584,13 +2581,13 @@ deionized water such as Lugols.<fn id="_24c2c962-296c-05c0-8989-5839d32bc379" re
 <example id="samplecode" anchor="samplecode" semx-id="_b759a45e-3fb5-5bd1-942f-263318e2daaa" autonum="">
 <name id="_e8c5f712-3126-6196-a938-ed68c8f9bfef" semx-id="_903236dc-2da7-261c-6a8b-263a7d8ef069">Sample Code</name><fmt-name id="_f9cfa8a6-ea73-ffae-ec76-810983840b68"><span class="fmt-caption-label"><span class="fmt-element-name">EXAMPLE</span></span><span class="fmt-caption-delim"> — </span><semx element="name" source="_e8c5f712-3126-6196-a938-ed68c8f9bfef">Sample Code</semx></fmt-name><fmt-xref-label><span class="fmt-element-name">Example</span></fmt-xref-label><fmt-xref-label container="_9342d374-fc4b-024e-b51a-4e0b744d99de"><span class="fmt-xref-container"><span class="fmt-xref-container"><span class="fmt-element-name">Annex</span> <semx element="autonum" source="_149853e2-447a-1295-aa99-763d28d190a4">E</semx></span><span class="fmt-comma">,</span> <span class="fmt-element-name">Appendix</span> <semx element="autonum" source="_9342d374-fc4b-024e-b51a-4e0b744d99de">1</semx></span><span class="fmt-comma">,</span> <span class="fmt-element-name">Example</span></fmt-xref-label>
 <sourcecode id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" lang="ruby" semx-id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89"><body>puts "Hello, world."
-%w{a b c}.each do |x| <callout target="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5">1</callout>
+%w{a b c}.each do |x| <callout target="_bdea19b3-bd36-46f8-8fc5-af70c8acecb0">1</callout>
   puts x
-end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" semx-id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" original-id="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" id="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
+end</body><callout-annotation anchor="_bdea19b3-bd36-46f8-8fc5-af70c8acecb0" semx-id="_eb57e1a1-d63f-52fe-31a7-a6d52e94d190" original-id="_bdea19b3-bd36-46f8-8fc5-af70c8acecb0" id="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </callout-annotation><fmt-sourcecode lang="ruby" semx-id="_42d8df53-f6ee-7d7c-a87d-0528efc13c89" id="_fed99c13-c3b7-b54b-3aef-f2c2cbd4ed3a"><span class="nb">puts</span> <span class="s2">"Hello, world."</span>
-<span class="sx">%w{a b c}</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">x</span><span class="o">|</span> <span class="c"><callout target="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5">1</callout></span> 
+<span class="sx">%w{a b c}</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">x</span><span class="o">|</span> <span class="c"><callout target="_bdea19b3-bd36-46f8-8fc5-af70c8acecb0">1</callout></span> 
   <span class="nb">puts</span> <span class="n">x</span>
-<span class="k">end</span><dl><name id="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</name><fmt-name id="_3914bdac-a10e-effb-2647-6b69173321bf"><semx element="name" source="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</semx></fmt-name><dt id="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5"><span class="c">1</span></dt>
+<span class="k">end</span><dl><name id="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</name><fmt-name id="_3914bdac-a10e-effb-2647-6b69173321bf"><semx element="name" source="_5f2d52d3-60d1-269b-4ecf-87cd2b527458">Key</semx></fmt-name><dt id="_bdea19b3-bd36-46f8-8fc5-af70c8acecb0"><span class="c">1</span></dt>
 <dd><semx element="callout-annotation" source="_48b96e7a-63d3-7f7f-a540-a55c7d4928d4"><p semx-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc" original-id="_9017e034-fe1b-9bf6-cc5f-829bbbc077cc">This is an annotation</p>
 </semx></dd>
 </dl></fmt-sourcecode></sourcecode>
@@ -2598,9 +2595,9 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
 
 </example>
 </appendix>
-</annex><bibliography><references id="_607b0248-19f9-0d05-c4d1-64b0c0acfd60" normative="false" obligation="informative" semx-id="_607b0248-19f9-0d05-c4d1-64b0c0acfd60" displayorder="19">
-<title id="_3f8543b0-1736-de40-1220-feae7dba2725" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f9e09b00-7822-4e74-fb10-7a8633c8f0bc"><semx element="title" source="_3f8543b0-1736-de40-1220-feae7dba2725">Bibliography</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_339c568d-be6a-f554-d8a0-0f40a9db3450"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</annex><bibliography><references id="_e848dfc5-2e31-f057-ac41-853f02a1c954" normative="false" obligation="informative" semx-id="_e848dfc5-2e31-f057-ac41-853f02a1c954" displayorder="19">
+<title id="_3f8543b0-1736-de40-1220-feae7dba2725" semx-id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><fmt-title depth="1" id="_f9e09b00-7822-4e74-fb10-7a8633c8f0bc"><semx element="title" source="_3f8543b0-1736-de40-1220-feae7dba2725">Bibliography</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_fa55d4ed-50b0-b197-da1e-17e3e9767276"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Water for analytical laboratory use — Specification and test methods</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2623,7 +2620,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:9169:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/00/91/9169.detail.rss</uri><docidentifier type="metanorma-ordinal">[1]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 3696</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 3696</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 3696(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:3696:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 3696</docidentifier>
   <docnumber>3696</docnumber>
@@ -2649,7 +2645,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Chemistry</name>
 
-        <identifier id="_bab9b612-4b82-85db-81a0-0abca757d161">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_bab9b612-4b82-85db-81a0-0abca757d161">ISO/TC 47</semx></tt></fmt-identifier>
+        <identifier id="_c124d4bb-ba42-c0a5-3c3e-08a0b883917e">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_c124d4bb-ba42-c0a5-3c3e-08a0b883917e">ISO/TC 47</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2725,7 +2721,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Chemistry</name>
 
-            <identifier id="_65edab13-d366-124b-fcbb-d38abcb8c4c4">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_65edab13-d366-124b-fcbb-d38abcb8c4c4">ISO/TC 47</semx></tt></fmt-identifier>
+            <identifier id="_0b7f8455-3c25-9b22-54e8-4ac38d67aba7">ISO/TC 47</identifier><fmt-identifier><tt><semx element="identifier" source="_0b7f8455-3c25-9b22-54e8-4ac38d67aba7">ISO/TC 47</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2758,8 +2754,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_fd88253d-3409-6a22-b6e6-28585e6ba4f9"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_82cb1faa-8763-ffd8-1245-b67f04598ee2"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2782,7 +2778,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-1</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
   <docnumber>5725</docnumber>
@@ -2808,7 +2803,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_7acd4b08-eebe-45d8-9287-76eef3d64eb8">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_7acd4b08-eebe-45d8-9287-76eef3d64eb8">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_fd73973e-6260-9d4a-ff8c-46d0cf7735f9">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_fd73973e-6260-9d4a-ff8c-46d0cf7735f9">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -2904,7 +2899,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_013845ae-d494-89cc-f989-8252b92c8258">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_013845ae-d494-89cc-f989-8252b92c8258">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_170de57d-f136-8fe6-1549-981b4900d86e">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_170de57d-f136-8fe6-1549-981b4900d86e">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -2957,8 +2952,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_105b7181-85c5-c818-62d5-024bb37d09ba"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_ba01e52d-ec48-924a-84b7-7bdc508315c0"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2981,7 +2976,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier>
   <docnumber>5725</docnumber>
@@ -3007,7 +3001,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Measurement methods and results</name>
 
-        <identifier id="_898de732-9559-171e-6880-1bdbe1e38c39">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_898de732-9559-171e-6880-1bdbe1e38c39">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+        <identifier id="_930f70eb-0e75-ecf1-431c-992c6ad9e114">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_930f70eb-0e75-ecf1-431c-992c6ad9e114">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3103,7 +3097,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_003e5190-34c0-280f-311a-cbcab5e96b02">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_003e5190-34c0-280f-311a-cbcab5e96b02">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_86e3ebeb-f3f0-a51f-4031-9fd6efd69da2">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_86e3ebeb-f3f0-a51f-4031-9fd6efd69da2">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3156,8 +3150,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_6968a43e-405a-17c9-f9f2-3b9bc06f1728"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_53e7dcf8-f892-3e25-c699-a15480feddf3"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3180,7 +3174,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21396:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21396.detail.rss</uri><docidentifier type="metanorma-ordinal">[4]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-1</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-1(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-1:stage-90.92</docidentifier><docidentifier scope="biblio-tag">ISO 6322-1</docidentifier>
   <docnumber>6322</docnumber>
@@ -3206,7 +3199,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_1de9ef75-5915-d12b-b55f-5b52400a1174">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_1de9ef75-5915-d12b-b55f-5b52400a1174">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_6e2516b0-9985-934f-6e3d-1eacd03caae8">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_6e2516b0-9985-934f-6e3d-1eacd03caae8">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3306,7 +3299,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_a3cbcfe7-8291-1ce9-4c4c-15aa863431aa">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_a3cbcfe7-8291-1ce9-4c4c-15aa863431aa">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_bc3aca8a-64f7-cccd-1a50-1077bb3393eb">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_bc3aca8a-64f7-cccd-1a50-1077bb3393eb">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3363,8 +3356,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_2b5308ae-7ca1-a521-0597-d81e291ca96b"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_1563eded-aeaf-51f4-39cd-6bd3a9c22da5"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 2: Practical recommendations</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3387,7 +3380,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:21395:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/13/21395.detail.rss</uri><docidentifier type="metanorma-ordinal">[5]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-2</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-2:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-2</docidentifier>
   <docnumber>6322</docnumber>
@@ -3413,7 +3405,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_74dde15b-7086-dd5f-b9fb-580f2e6cc2bd">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_74dde15b-7086-dd5f-b9fb-580f2e6cc2bd">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_0743b3e9-06a9-1566-9e19-7e89576ad7dd">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_0743b3e9-06a9-1566-9e19-7e89576ad7dd">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3499,7 +3491,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_9a3f768e-c814-c85e-ae7d-4bd10c98e917">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_9a3f768e-c814-c85e-ae7d-4bd10c98e917">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_9968a06a-670a-b459-1bde-31e36448cfb0">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_9968a06a-670a-b459-1bde-31e36448cfb0">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3541,8 +3533,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_0432ec24-ecd7-a29e-0ffa-9246665e3930"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_1ebf64bf-1ad9-88b5-4bb1-1898f740c05e"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Storage of cereals and pulses — Part 3: Control of attack by pests</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3565,7 +3557,6 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:12614:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/01/26/12614.detail.rss</uri><docidentifier type="metanorma-ordinal">[6]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 6322-3</docidentifier>
-  <docidentifier type="iso-undated">iso-undated ISO 6322-3</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 6322-3(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:6322:-3:stage-90.93</docidentifier><docidentifier scope="biblio-tag">ISO 6322-3</docidentifier>
   <docnumber>6322</docnumber>
@@ -3591,7 +3582,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
         
 <name>Cereals and pulses</name>
 
-        <identifier id="_8bec6083-7690-acd4-1918-d55d6423b6b1">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_8bec6083-7690-acd4-1918-d55d6423b6b1">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+        <identifier id="_26844d45-76de-9d2a-c957-8676b357b36e">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_26844d45-76de-9d2a-c957-8676b357b36e">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
       </subdivision>
       <abbreviation>ISO</abbreviation>
     </organization>
@@ -3677,7 +3668,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
             
 <name>Cereals and pulses</name>
 
-            <identifier id="_69577801-7cfb-ee10-e07f-4b6a1731cee3">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_69577801-7cfb-ee10-e07f-4b6a1731cee3">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
+            <identifier id="_cb2422d4-facb-f593-b01d-fbfadc99a64c">ISO/TC 34/SC 4</identifier><fmt-identifier><tt><semx element="identifier" source="_cb2422d4-facb-f593-b01d-fbfadc99a64c">ISO/TC 34/SC 4</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
@@ -3720,8 +3711,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_f31953c0-c44c-4981-9745-b644d4c03184"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_531604d3-6fe9-3b19-e9b2-07985249af3e"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Specification</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3819,8 +3810,8 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_bda8a343-2e55-f7b9-cdc9-2f986f34c632"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em></formattedref>
-  <fetched>2026-10-27</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_fc86f1ff-53bc-47d4-2449-573e5a6e97c4"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Rice — Evaluation of gelatinization time of kernels during cooking</span></em>.</formattedref>
+  <fetched>2026-11-05</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3898,7 +3889,7 @@ end</body><callout-annotation anchor="_15ba7c2d-e4ee-4cc5-a344-8df30bf740c5" sem
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_1d793697-c106-ffa9-4174-b90fe78ba8ad"><biblio-tag>[9]<tab/><span class="stdpublisher">IEC</span> <span class="stddocNumber">61010</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em></formattedref>
+</bibitem><bibitem anchor="IEC61010-2" id="IEC61010-2" type="standard" semx-id="_1d793697-c106-ffa9-4174-b90fe78ba8ad"><biblio-tag>[9]<tab/><span class="stdpublisher">IEC</span> <span class="stddocNumber">61010</span>-<span class="stddocPartNumber">2</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref><em><span class="stddocTitle">Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</span></em>. International Electrotechnical Commission.</formattedref>
 <title format="text/plain">Safety requirements for electric equipment for measurement, control, and laboratory use — Part 2: Particular requirements for laboratory equipment for the heating of material</title><docidentifier type="metanorma-ordinal">[9]</docidentifier>
 <docidentifier type="IEC">IEC 61010-2:1998</docidentifier><docidentifier scope="biblio-tag">IEC 61010-2:1998</docidentifier><docnumber>61010-2</docnumber><date type="published"><on>1998</on></date><contributor><role type="publisher"/><organization>
 <name>International Electrotechnical Commission</name>
