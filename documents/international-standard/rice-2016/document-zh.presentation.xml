@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods — Rice (in Chinese)</title>
 
@@ -73,7 +73,7 @@ suivantes:
 </localized-string><localized-string key="internal_external_terms_boilerplate" language="zh">% 界定的以及下列术语和定义适用于本文件。
 </localized-string><localized-string key="no_information_available" language="zh">[无资料]</localized-string><localized-string key="term_defined_in" language="zh">（%）</localized-string><localized-string key="binary_and" language="zh">%1<conn>和</conn>%2</localized-string><localized-string key="multiple_and" language="zh">%1<enum-comma>、</enum-comma><conn>和</conn>%2</localized-string><localized-string key="binary_or" language="zh">%1<conn>或</conn>%2</localized-string><localized-string key="multiple_or" language="zh">%1<enum-comma>、</enum-comma><conn>或</conn>%2</localized-string><localized-string key="chain_and" language="zh">%1<conn>和</conn>%2</localized-string><localized-string key="chain_or" language="zh">%1<conn>或</conn>%2</localized-string><localized-string key="chain_from" language="zh">%1<conn>从</conn>%2</localized-string><localized-string key="chain_to" language="zh">%1<conn>到</conn>%2</localized-string><localized-string key="nested_xref" language="zh">%1<comma>,</comma> %2</localized-string><localized-string key="list_nested_xref" language="zh">%1 %2</localized-string><localized-string key="SpelloutRules" language="zh">spellout-ordinal</localized-string><localized-string key="OrdinalRules" language="zh">digits-ordinal</localized-string><localized-string key="note" language="zh">注</localized-string><localized-string key="note_xref" language="zh">注</localized-string><localized-string key="termnote" language="zh">注%</localized-string><localized-string key="para_xref" language="zh">段</localized-string><localized-string key="figure" language="zh">图</localized-string><localized-string key="diagram" language="zh">图表</localized-string><localized-string key="formula" language="zh">公式</localized-string><localized-string key="inequality" language="zh">公式</localized-string><localized-string key="list" language="zh">列项</localized-string><localized-string key="deflist" language="zh">定义列表</localized-string><localized-string key="table" language="zh">表</localized-string><localized-string key="requirement" language="zh">要求</localized-string><localized-string key="recommendation" language="zh">建议</localized-string><localized-string key="permission" language="zh">容許</localized-string><localized-string key="box" language="zh">专栏</localized-string><localized-string key="key" language="zh">说明</localized-string><localized-string key="example" language="zh">示例</localized-string><localized-string key="example_xref" language="zh">示例</localized-string><localized-string key="where" language="zh">式中</localized-string><localized-string key="where_one" language="zh">式中</localized-string><localized-string key="wholeoftext" language="zh">全部</localized-string><localized-string key="draft_label" language="zh">稿</localized-string><localized-string key="inform_annex" language="zh">资料性附录</localized-string><localized-string key="norm_annex" language="zh">规范性附录</localized-string><localized-string key="modified" language="zh">改写</localized-string><localized-string key="adapted" language="zh">改编</localized-string><localized-string key="deprecated" language="zh">被取代</localized-string><localized-string key="source" language="zh">定义</localized-string><localized-string key="and" language="zh">和</localized-string><localized-string key="no_identifier" language="zh">（无标识符）</localized-string><localized-string key="all_parts" language="zh">所有部分</localized-string><localized-string key="edition_ordinal" language="zh">第{{ var1 | ordinal_word: '', '' }}版</localized-string><localized-string key="edition_cardinal" language="zh">第{{ var1 }}版</localized-string><localized-string key="edition" language="zh">版</localized-string><localized-string key="version" language="zh">版本</localized-string><localized-string key="toc_figures" language="zh">数字列表</localized-string><localized-string key="toc_tables" language="zh">表列表</localized-string><localized-string key="toc_recommendations" language="zh">建议清单</localized-string><localized-string key="toc_examples" language="zh">示例列表</localized-string><localized-string key="month_january" language="zh">一月</localized-string><localized-string key="month_february" language="zh">二月</localized-string><localized-string key="month_march" language="zh">三月</localized-string><localized-string key="month_april" language="zh">四月</localized-string><localized-string key="month_may" language="zh">五月</localized-string><localized-string key="month_june" language="zh">六月</localized-string><localized-string key="month_july" language="zh">七月</localized-string><localized-string key="month_august" language="zh">八月</localized-string><localized-string key="month_september" language="zh">九月</localized-string><localized-string key="month_october" language="zh">十月</localized-string><localized-string key="month_november" language="zh">十一月</localized-string><localized-string key="month_december" language="zh">十二月</localized-string><localized-string key="obligation" language="zh">义务</localized-string><localized-string key="admonition.danger" language="zh">危险</localized-string><localized-string key="admonition.warning" language="zh">警告</localized-string><localized-string key="admonition.caution" language="zh">注意</localized-string><localized-string key="admonition.important" language="zh">重要</localized-string><localized-string key="admonition.safety_precautions" language="zh">安全须知</localized-string><localized-string key="admonition.editorial" language="zh">编辑说明</localized-string><localized-string key="title_prefixes.part" language="zh">第{{ var1 }}部分</localized-string><localized-string key="title_prefixes.amendment" language="zh">修正案{{ var1 }}</localized-string><localized-string key="title_prefixes.corrigendum" language="zh">技术勘误{{ var1 }}</localized-string><localized-string key="title_prefixes.addendum" language="zh">增编{{ var1 }}</localized-string><localized-string key="title_prefixes.supplement" language="zh">补充件{{ var1 }}</localized-string><localized-string key="title_prefixes.annex" language="zh">附件{{ var1 }}</localized-string><localized-string key="title_prefixes.appendix" language="zh">附录{{ var1 }}</localized-string><localized-string key="locality.section" language="zh">条</localized-string><localized-string key="locality.clause" language="zh">条</localized-string><localized-string key="locality.part" language="zh">部分</localized-string><localized-string key="locality.paragraph" language="zh">段</localized-string><localized-string key="locality.chapter" language="zh">章</localized-string><localized-string key="locality.page" language="zh">页</localized-string><localized-string key="locality.table" language="zh">表</localized-string><localized-string key="locality.annex" language="zh">附录</localized-string><localized-string key="locality.figure" language="zh">图</localized-string><localized-string key="locality.example" language="zh">示例</localized-string><localized-string key="locality.note" language="zh">注</localized-string><localized-string key="locality.appendix" language="zh">附录</localized-string><localized-string key="grammar_abbrevs.masculine" language="zh">男性性别</localized-string><localized-string key="grammar_abbrevs.feminine" language="zh">阴性</localized-string><localized-string key="grammar_abbrevs.neuter" language="zh">中性的</localized-string><localized-string key="grammar_abbrevs.common" language="zh">通性</localized-string><localized-string key="grammar_abbrevs.singular" language="zh">单数</localized-string><localized-string key="grammar_abbrevs.dual" language="zh">双</localized-string><localized-string key="grammar_abbrevs.plural" language="zh">复数</localized-string><localized-string key="grammar_abbrevs.isPreposition" language="zh">介词</localized-string><localized-string key="grammar_abbrevs.isParticiple" language="zh">分词</localized-string><localized-string key="grammar_abbrevs.isAdjective" language="zh">形容词</localized-string><localized-string key="grammar_abbrevs.isAdverb" language="zh">副词</localized-string><localized-string key="grammar_abbrevs.isNoun" language="zh">名词</localized-string><localized-string key="grammar_abbrevs.isVerb" language="zh">动词</localized-string><localized-string key="relatedterms.deprecates" language="zh">旧词</localized-string><localized-string key="relatedterms.supersedes" language="zh">取替</localized-string><localized-string key="relatedterms.narrower" language="zh">狭义</localized-string><localized-string key="relatedterms.broader" language="zh">广义</localized-string><localized-string key="relatedterms.equivalent" language="zh">同义</localized-string><localized-string key="relatedterms.compare" language="zh">比较</localized-string><localized-string key="relatedterms.contrast" language="zh">对比</localized-string><localized-string key="relatedterms.see" language="zh">见</localized-string><localized-string key="relatedterms.seealso" language="zh">参见</localized-string><localized-string key="punct.colon" language="zh">：</localized-string><localized-string key="punct.comma" language="zh">，</localized-string><localized-string key="punct.enum-comma" language="zh">、</localized-string><localized-string key="punct.semicolon" language="zh">；</localized-string><localized-string key="punct.period" language="zh">。</localized-string><localized-string key="punct.close-paren" language="zh">）</localized-string><localized-string key="punct.open-paren" language="zh">（</localized-string><localized-string key="punct.close-bracket" language="zh">］</localized-string><localized-string key="punct.open-bracket" language="zh">［</localized-string><localized-string key="punct.question-mark" language="zh">？</localized-string><localized-string key="punct.exclamation-mark" language="zh">！</localized-string><localized-string key="punct.emphasis-mark" language="zh">•</localized-string><localized-string key="punct.em-dash" language="zh">⸺</localized-string><localized-string key="punct.en-dash" language="zh">–</localized-string><localized-string key="punct.number-en-dash" language="zh">〜</localized-string><localized-string key="punct.open-quote" language="zh">“</localized-string><localized-string key="punct.close-quote" language="zh">”</localized-string><localized-string key="punct.open-nested-quote" language="zh">’</localized-string><localized-string key="punct.close-nested-quote" language="zh">’</localized-string><localized-string key="punct.ellipse" language="zh">⋯⋯</localized-string><localized-string key="all_rights_reserved" language="zh">版权所有</localized-string><localized-string key="reference_number" language="zh">参考编号</localized-string><localized-string key="reference_number_abbrev" language="zh">参考编号</localized-string><localized-string key="price_based_on" language="zh">价格基于%页</localized-string><localized-string key="descriptor" language="zh">描述符</localized-string><localized-string key="reference" language="zh">参考文献</localized-string><localized-string key="under_preparation" language="zh">制定中。出版时最新状态为%</localized-string><localized-string key="withdrawn" language="zh">撤回 .</localized-string><localized-string key="cancelled_and_replaced" language="zh">已取消并由%取代。</localized-string><localized-string key="date" language="zh">日期</localized-string><localized-string key="secretariat" language="zh">秘书处</localized-string><localized-string key="termsrelated" language="zh">相关术语</localized-string><localized-string key="availablefrom" language="zh">可从</localized-string><localized-string key="voting_begins_on" language="zh">投票开始于</localized-string><localized-string key="voting_terminates_on" language="zh">投票终止于</localized-string><localized-string key="corrected_version" language="zh">修正版本</localized-string><localized-string key="fast-track-procedure" language="zh">快速通道程序</localized-string><localized-string key="classification-UDC" language="zh">通用十进制图书分类法</localized-string><localized-string key="website" language="zh">网站</localized-string><localized-string key="doctype_dict.international-standard" language="zh">国际标准</localized-string><localized-string key="doctype_dict.technical-specification" language="zh">技术规格</localized-string><localized-string key="doctype_dict.technical-report" language="zh">技术报告</localized-string><localized-string key="doctype_dict.publicly-available-specification" language="zh">公开可用的规范</localized-string><localized-string key="doctype_dict.international-workshop-agreement" language="zh">国际研讨会协议</localized-string><localized-string key="doctype_dict.guide" language="zh">指南</localized-string><localized-string key="doctype_dict.amendment" language="zh">修正</localized-string><localized-string key="doctype_dict.addendum" language="zh">附录</localized-string><localized-string key="doctype_dict.supplement" language="zh">补充</localized-string><localized-string key="doctype_dict.extract" language="zh">摘录</localized-string><localized-string key="doctype_dict.technical-corrigendum" language="zh">技术勘误</localized-string><localized-string key="doctype_dict.directive" language="zh">指令</localized-string><localized-string key="doctype_dict.committee-document" language="zh">委员会文件</localized-string><localized-string key="doctype_dict.recommendation" language="zh">ISO推荐</localized-string><localized-string key="stage_dict.00" language="zh">初步工作项</localized-string><localized-string key="stage_dict.10" language="zh">新工作项提案</localized-string><localized-string key="stage_dict.20" language="zh">工作草案</localized-string><localized-string key="stage_dict.30" language="zh">委员会草案</localized-string><localized-string key="40.international-standard" language="zh">国际标准草稿</localized-string><localized-string key="40.technical-specification" language="zh">技术规格草稿</localized-string><localized-string key="40.technical-report" language="zh">技术报告草稿</localized-string><localized-string key="40.publicly-available-specification" language="zh">公开可用的规范草稿</localized-string><localized-string key="40.international-workshop-agreement" language="zh">国际研讨会协议草稿</localized-string><localized-string key="40.guide" language="zh">指南草稿</localized-string><localized-string key="40.amendment" language="zh">修正草稿</localized-string><localized-string key="40.technical-corrigendum" language="zh">技术勘误草稿</localized-string><localized-string key="40.directive" language="zh">指令草稿</localized-string><localized-string key="50.international-standard" language="zh">国际标准最终草案</localized-string><localized-string key="50.technical-specification" language="zh">技术规格最终草案</localized-string><localized-string key="50.technical-report" language="zh">技术报告最终草案</localized-string><localized-string key="50.publicly-available-specification" language="zh">公开可用的规范最终草案</localized-string><localized-string key="50.international-workshop-agreement" language="zh">国际研讨会协议最终草案</localized-string><localized-string key="50.guide" language="zh">指南最终草案</localized-string><localized-string key="50.amendment" language="zh">修正最终草案</localized-string><localized-string key="50.technical-corrigendum" language="zh">技术勘误最终草案</localized-string><localized-string key="50.directive" language="zh">指令最终草案</localized-string><localized-string key="60.international-standard" language="zh">国际标准</localized-string><localized-string key="60.technical-specification" language="zh">技术规格</localized-string><localized-string key="60.technical-report" language="zh">技术报告</localized-string><localized-string key="60.publicly-available-specification" language="zh">公开可用的规范</localized-string><localized-string key="60.international-workshop-agreement" language="zh">国际研讨会协议</localized-string><localized-string key="60.guide" language="zh">指南</localized-string><localized-string key="60.amendment" language="zh">修正</localized-string><localized-string key="60.technical-corrigendum" language="zh">技术勘误</localized-string><localized-string key="60.directive" language="zh">指令</localized-string><localized-string key="stage_dict.90" language="zh">回顾</localized-string><localized-string key="stage_dict.95" language="zh">提款</localized-string><localized-string key="modspec.provision" language="zh">条件</localized-string><localized-string key="language" language="zh">zh</localized-string><localized-string key="script" language="zh">Hans</localized-string></localized-strings>
 <termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><source-highlighter-css>sourcecode table td { padding: 5px; }
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><source-highlighter-css>sourcecode table td { padding: 5px; }
 sourcecode table pre { margin: 0; }
 sourcecode, sourcecode .w {
   color: #444444;
@@ -182,8 +182,8 @@ sourcecode .nt {
 
 
 
-<clause id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" type="scope" inline-header="false" obligation="normative" semx-id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-05"/>
-<title id="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6" semx-id="_8551449a-f71a-14e8-a42b-794adca773d5">范围<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-05"/></title><fmt-title depth="1" id="_be2ea6e7-f581-53b8-4e87-bd48973989c8"><span class="fmt-caption-label"><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6">范　围</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></fmt-xref-label>
+<clause id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" type="scope" inline-header="false" obligation="normative" semx-id="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" end="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-08"/>
+<title id="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6" semx-id="_8551449a-f71a-14e8-a42b-794adca773d5">范围<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" target="_7bb1fe2d-7801-3969-cdb8-25b352a54322" start="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" author="" date="2026-11-08"/></title><fmt-title depth="1" id="_be2ea6e7-f581-53b8-4e87-bd48973989c8"><span class="fmt-caption-label"><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_aa5cc8ca-f3c9-8a17-8b33-2d712c52a2c6">范　围</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">1</semx></fmt-xref-label>
 <p id="_1f9853e7-e082-4f49-a1fa-eb99ab2344ae" semx-id="_1f9853e7-e082-4f49-a1fa-eb99ab2344ae">本文件规定了稻米（<em>Oryza sativa L.</em>）的最低要求和测试方法。</p>
 
 <p id="_2c3b3ce5-e4d9-e6a9-370c-3183705ca5e6" semx-id="_2c3b3ce5-e4d9-e6a9-370c-3183705ca5e6">适用于直接或修复后适用于人类食用的糙米，糙米，精米和碾米。</p>
@@ -790,13 +790,13 @@ sourcecode .nt {
 
 
 
-<references id="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195" normative="true" obligation="informative" semx-id="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195" displayorder="6">
-<title id="_8f299b3c-2b6f-6b02-4f2d-864d739fd731" semx-id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><fmt-title depth="1" id="_849aa1f3-8064-3cdf-184e-609c043dcba2"><span class="fmt-caption-label"><semx element="autonum" source="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f299b3c-2b6f-6b02-4f2d-864d739fd731">规范性引用文件</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_472e94e5-178b-b2f2-cd7a-1c8f9b36a195">2</semx></fmt-xref-label><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07" semx-id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
+<references id="_ef1272b1-0dd2-23c6-fe92-3310c90eb186" normative="true" obligation="informative" semx-id="_ef1272b1-0dd2-23c6-fe92-3310c90eb186" displayorder="6">
+<title id="_8f299b3c-2b6f-6b02-4f2d-864d739fd731" semx-id="_934496b3-e7f6-ec21-7a9c-649ac880a28a">规范性引用文件</title><fmt-title depth="1" id="_849aa1f3-8064-3cdf-184e-609c043dcba2"><span class="fmt-caption-label"><semx element="autonum" source="_ef1272b1-0dd2-23c6-fe92-3310c90eb186">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f299b3c-2b6f-6b02-4f2d-864d739fd731">规范性引用文件</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">条</span><semx element="autonum" source="_ef1272b1-0dd2-23c6-fe92-3310c90eb186">2</semx></fmt-xref-label><p id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07" semx-id="_6305a6aa-bc42-41a8-89a3-2ce787ca5c07">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 
 
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_50f95418-40ad-d1c8-3ad0-677bb51f500e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_dca2a2ae-d039-2864-51eb-5935c7037430" reference="1" original-reference="_442ca794-0912-4db3-b5f8-3f72e70866aa" target="_847bd9c2-250c-def6-db40-64f0b0fbdbf6"><p>撤回。</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dca2a2ae-d039-2864-51eb-5935c7037430">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_dc37cc36-17d1-a975-ca19-e52cd4dfa1b0"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_dca2a2ae-d039-2864-51eb-5935c7037430" reference="1" original-reference="_83eabc50-9af5-4de0-9f6f-404d40374ead" target="_847bd9c2-250c-def6-db40-64f0b0fbdbf6"><p>撤回。</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dca2a2ae-d039-2864-51eb-5935c7037430">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 ， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Determination of moisture content — Reference method_. Report no. 712. 第Fourth版. Geneva: International Organization for Standardization, ISO 712. iso-reference ISO 712(E). URN urn:iso:std:iso:712:stage-95.99. Available from: https://www.iso.org/standard/44807.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -1004,8 +1004,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_4d29159e-6c5d-046d-0750-3ad3a4646d04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. 第Third版. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_068ac975-81c0-938f-3aa3-46e2273fe7e1"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. 第Third版. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1201,8 +1201,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_c60c04c3-e6fe-1666-8f43-01e4ffbee19e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_4b0ed5fe-8fc8-6ec7-b8d5-a348ec74db04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1295,8 +1295,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_c5228e67-a124-ff7f-0427-196485292320"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_ab43844c-6908-94e2-3afc-0a6ca5f50b2f"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. 第First版. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1466,14 +1466,14 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_e0b2d907-8212-d38e-a606-eac5f51a5dbf" reference="2" original-reference="_fab56ab0-0523-4867-8022-67d4f2461e6e" target="_fab453f5-af01-0a8a-5996-1efd9f552744"><p>准备中。（出版时阶段为ISO / DIS 16634）</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>， </biblio-tag><formattedref><em><span class="stddocTitle">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em>.</formattedref>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_ff5f719e-0bae-32c5-fec4-a4ddcfecfaf0"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_e0b2d907-8212-d38e-a606-eac5f51a5dbf" reference="2" original-reference="_fbc15134-1681-4734-b0e3-0167cea32c67" target="_fab453f5-af01-0a8a-5996-1efd9f552744"><p>准备中。（出版时阶段为ISO / DIS 16634）</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>， </biblio-tag><formattedref><em><span class="stddocTitle">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</span></em>.</formattedref>
 <title format="text/plain">谷物，豆类，谷类制品，油料和动物饲料 — 根据Dumas原理测定燃烧的总氮含量并计算粗蛋白含量，Cereals, pulses, milled cereal products, oilseeds and animal feeding stuffs — Determination of the total nitrogen content by combustion according to the Dumas principle and calculation of the crude protein content</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">准备中。（出版时阶段为ISO / DIS 16634）</note><language>zh</language><script>Hans</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_1ddea5e6-e7f1-115b-37d9-7789358d9339"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. 第Second版. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_5e09d3ea-9291-60d6-e928-1cf76c71727e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. 第Second版. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1571,8 +1571,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_f11ffcaa-056d-ac67-e206-09e3a8edd224"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. 第First版. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_025cb860-f435-e4b3-a3f6-354ec68bac61"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. 第First版. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2297,9 +2297,11 @@ sourcecode .nt {
 <name id="_cc138bc8-186e-5eed-71af-9a120b2a5214" semx-id="_c632132b-6bf4-6130-fa40-f8fb5022a5b2">最后阶段：所有的谷物都完全糊化</name><fmt-name id="_b18959f5-e799-4d95-7d2b-a8878e278c52"><span class="fmt-caption-label"><semx element="autonum" source="_5a54d560-8c10-862f-c8bb-227dca6d9844">c</semx><span class="fmt-label-delim">）</span></span><span class="fmt-caption-delim">  </span><semx element="name" source="_cc138bc8-186e-5eed-71af-9a120b2a5214">最后阶段：所有的谷物都完全糊化</semx></fmt-name><fmt-xref-label><span class="fmt-element-name">图</span><semx element="autonum" source="AnnexC">C</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="figureC-2">2</semx> <semx element="autonum" source="_5a54d560-8c10-862f-c8bb-227dca6d9844">c</semx><span class="fmt-autonum-delim">)</span></fmt-xref-label>
 <image id="_b560a716-db1a-628e-0fa3-2edd2822363d" src="data:image/png;base64,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" mimetype="image/png" height="auto" width="auto" filename="images/c2-c.png" semx-id="_b560a716-db1a-628e-0fa3-2edd2822363d"/></figure>
 </figure>
-</annex><annex id="AnnexD" anchor="AnnexD" inline-header="false" obligation="informative" semx-id="_44d5ea12-5b5d-d145-b065-5b2523282ba3" autonum="D" displayorder="17">
+</annex><annex id="AnnexD" anchor="AnnexD" inline-header="false" obligation="informative" semx-id="_b5d05049-3b72-891e-f97b-42a2e39d3669" autonum="D" displayorder="17">
 <title id="_004513e0-6b45-771a-0ab0-76b51d38c29f" semx-id="_4f6eb8d4-cd47-4366-bb40-4979f118e09c">稻谷产量的实验室间试验结果</title><fmt-title id="_0f5c8786-70f1-374b-8e37-1257eeeb944b"><strong><span class="fmt-caption-label"><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexD">D</semx></span></strong><br/><span class="fmt-obligation">（资料性附录）</span><span class="fmt-caption-delim"><br/><br/></span><semx element="title" source="_004513e0-6b45-771a-0ab0-76b51d38c29f"><strong>稻谷产量的实验室间试验结果</strong></semx></fmt-title><fmt-xref-label><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexD">D</semx></fmt-xref-label><variant-title type="toc"><span class="fmt-caption-label"><span class="fmt-element-name">附件</span><semx element="autonum" source="AnnexD">D</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_004513e0-6b45-771a-0ab0-76b51d38c29f">稻谷产量的实验室间试验结果</semx></variant-title>
-<p id="_c6aca223-0c79-a578-54af-030d4237d319" semx-id="_c6aca223-0c79-a578-54af-030d4237d319">ENR [水稻研究中心（意大利）]在根据<eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1" id="_f93b05b7-aba7-e908-4351-9ab1178dc9f9"/><semx element="eref" source="_f93b05b7-aba7-e908-4351-9ab1178dc9f9"><fmt-xref type="inline" target="ISO5725-1"><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span></fmt-xref></semx>和<eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2" id="_8f8d6d4a-cb12-89bf-572a-ce5acf77f667"/><semx element="eref" source="_8f8d6d4a-cb12-89bf-572a-ce5acf77f667"><fmt-xref type="inline" target="ISO5725-2"><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span></fmt-xref></semx>要求下，於 15个实验室的参与下进行了实验室间实验<eref type="footnote" bibitemid="ref15" citeas="[13]" id="_e5df5880-ada9-23f7-4dbb-114d9a08e771"/><semx element="eref" source="_e5df5880-ada9-23f7-4dbb-114d9a08e771">参考文献 <sup><fmt-xref type="footnote" target="ref15">[13]</fmt-xref></sup></semx>。 每个实验室对四种不同类型的核进行了三次测定。统计结果显示在<xref target="tableD-1" id="_db46f187-520a-e464-e6c9-fe57a8ae8d8c"/><semx element="xref" source="_db46f187-520a-e464-e6c9-fe57a8ae8d8c"><fmt-xref target="tableD-1"><span class="citetbl"><span class="fmt-element-name">表</span><semx element="autonum" source="AnnexD">D</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="tableD-1">1</semx></span></fmt-xref></semx>中。</p>
+<p id="_4f4e381e-39d5-f4f0-4301-22d44dc13e7e" semx-id="_4f4e381e-39d5-f4f0-4301-22d44dc13e7e">ENR [水稻研究中心（意大利）]在根据<eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1" id="_f93b05b7-aba7-e908-4351-9ab1178dc9f9"/><semx element="eref" source="_f93b05b7-aba7-e908-4351-9ab1178dc9f9"><fmt-xref type="inline" target="ISO5725-1"><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span></fmt-xref></semx>和<eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2" id="_8f8d6d4a-cb12-89bf-572a-ce5acf77f667"/><semx element="eref" source="_8f8d6d4a-cb12-89bf-572a-ce5acf77f667"><fmt-xref type="inline" target="ISO5725-2"><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span></fmt-xref></semx><fn id="_a32e15e9-a8ed-8c94-dddd-6c1bf233ecab" reference="3" semx-id="_a32e15e9-a8ed-8c94-dddd-6c1bf233ecab" original-reference="1" target="_0a1dc33c-e1b6-5f33-0aec-1d8cfbadc3b0"><p id="_a2960f85-9c5d-a5eb-c991-e7d1018ca909" semx-id="_a2960f85-9c5d-a5eb-c991-e7d1018ca909">撤回 .</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_a32e15e9-a8ed-8c94-dddd-6c1bf233ecab">3</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>要求下，於
+15个实验室的参与下进行了实验室间实验<eref type="footnote" bibitemid="ref15" citeas="[13]" id="_dcd40e8a-0cbc-70e1-9fdc-2c6eb1f072a2"/><semx element="eref" source="_dcd40e8a-0cbc-70e1-9fdc-2c6eb1f072a2">参考文献 <sup><fmt-xref type="footnote" target="ref15">[13]</fmt-xref></sup></semx>。 每个实验室对四种不同类型的核进行了三次测定。
+统计结果显示在<xref target="tableD-1" id="_f7507bce-3c78-7c85-41cc-d5550d63c314"/><semx element="xref" source="_f7507bce-3c78-7c85-41cc-d5550d63c314"><fmt-xref target="tableD-1"><span class="citetbl"><span class="fmt-element-name">表</span><semx element="autonum" source="AnnexD">D</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="tableD-1">1</semx></span></fmt-xref></semx>中。</p>
 
 <table id="tableD-1" anchor="tableD-1" semx-id="_9b051396-ca80-6582-13ef-ecba820c4f1e" autonum="D.1">
 <name id="_61795959-12f3-49c8-a043-1fbc75abd76e" semx-id="_6b175362-d3d5-23ba-3e6a-2ef0fea3fdb2">糙米产量的可重复性和重复性</name><fmt-name id="_4ddebdcf-d367-31ba-6d0b-4eac2eaeb401"><span class="fmt-caption-label"><span class="fmt-element-name">表</span><semx element="autonum" source="AnnexD">D</semx><span class="fmt-autonum-delim">。</span><semx element="autonum" source="tableD-1">1</semx></span><span class="fmt-caption-delim"> — </span><semx element="name" source="_61795959-12f3-49c8-a043-1fbc75abd76e">糙米产量的可重复性和重复性</semx></fmt-name><fmt-xref-label><span class="fmt-element-name">表</span><semx element="autonum" source="AnnexD">D</semx><span class="fmt-autonum-delim">.</span><semx element="autonum" source="tableD-1">1</semx></fmt-xref-label>
@@ -2425,9 +2427,9 @@ sourcecode .nt {
 </tr></tbody>
 <fmt-footnote-container><fmt-fn-body id="_110b455d-f79b-a713-64b9-09b813b1ef72" target="_faec79b3-b31d-db7a-3320-604aee58f448" reference="a"><semx element="fn" source="_faec79b3-b31d-db7a-3320-604aee58f448"><p id="_82171d4c-5d47-a5cf-19ca-f05b9265c8a9" semx-id="_82171d4c-5d47-a5cf-19ca-f05b9265c8a9"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_faec79b3-b31d-db7a-3320-604aee58f448">a</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>半熟米</p>
 </semx></fmt-fn-body></fmt-footnote-container></table>
-</annex><bibliography><references id="_be7eb2ed-1f74-ed14-3abc-0c89ebac6695" normative="false" obligation="informative" semx-id="_be7eb2ed-1f74-ed14-3abc-0c89ebac6695" displayorder="18">
-<title id="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08" semx-id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><fmt-title depth="1" id="_73b72e32-8b15-e44e-8c3f-c57b78d26f30"><semx element="title" source="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08">参考文献</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_fa55d4ed-50b0-b197-da1e-17e3e9767276"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. 第First版. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</annex><bibliography><references id="_3f6cf2f3-a439-ff10-76d1-fdf0807e54cf" normative="false" obligation="informative" semx-id="_3f6cf2f3-a439-ff10-76d1-fdf0807e54cf" displayorder="18">
+<title id="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08" semx-id="_1e65784a-e82e-401d-73b0-d0770e7c5870">参考文献</title><fmt-title depth="1" id="_73b72e32-8b15-e44e-8c3f-c57b78d26f30"><semx element="title" source="_0d6fec44-3fde-9caa-ee3c-96398c8b7a08">参考文献</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_a7ad4f99-1774-cebb-b4dd-549a9afe0b99"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. 第First版. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2584,8 +2586,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_82cb1faa-8763-ffd8-1245-b67f04598ee2"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. 第Second版. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1. Available from: https://www.iso.org/standard/69418.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_e0de8476-f6e4-cc18-eb5d-6e7ff10d291e"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. 第First版. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1:stage-95.99. Available from: https://www.iso.org/standard/11833.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2604,12 +2606,12 @@ sourcecode .nt {
   
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
-  <uri type="src">https://www.iso.org/standard/69418.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
+  <uri type="src">https://www.iso.org/standard/11833.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier>
-  <docidentifier type="URN">URN urn:iso:std:iso:5725:-1</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
+  <docidentifier type="URN">URN urn:iso:std:iso:5725:-1:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
   <docnumber>5725</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -2638,7 +2640,7 @@ sourcecode .nt {
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
-  <edition>2</edition>
+  <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
@@ -2647,7 +2649,7 @@ sourcecode .nt {
     <substage>60</substage>
   </status>
   <copyright>
-    <from>2023</from>
+    <from>1994</from>
     <owner>
       <organization>
         
@@ -2658,20 +2660,20 @@ sourcecode .nt {
   </copyright>
   <relation type="obsoletes">
     <bibitem>
-      <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+      <formattedref>ISO 5725:1986</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
       <date type="published">
-        <on>1998-02-05</on>
+        <on>1986-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
+  <relation type="updatedBy">
     <bibitem>
-      <formattedref>ISO 5725-1:1994</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+      <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
       <date type="published">
-        <on>1994-12-22</on>
+        <on>1998-02-05</on>
       </date>
     </bibitem>
 
@@ -2696,16 +2698,16 @@ sourcecode .nt {
       
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
-      <uri type="src">https://www.iso.org/standard/69418.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>
+      <uri type="src">https://www.iso.org/standard/11833.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
       <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
-      <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
+      <docidentifier type="iso-reference">ISO 5725-1:1994(E)</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2023-07-20</on>
+        <on>1994-12-22</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2734,17 +2736,17 @@ sourcecode .nt {
           <abbreviation>ISO</abbreviation>
         </organization>
       </contributor>
-      <edition>2</edition>
+      <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract language="en" script="Latn">This document —     introduces conditions, constraints and resources necessary to evaluate a measurement method or a result; —     defines an organizational scheme for the acquisition of trueness and precision data by study; —     provides the necessary definitions, statistical model and principles for ISO 5725 (all parts). —     is not applicable to proficiency testing or production of the reference item that has their own standards (ISO 13528, respectively and ISO Guide 35). This document is concerned exclusively with measurement methods which yield results on a continuous scale and give a single value as the test result, although this single value may be the outcome of a calculation from a set of observations. It defines values which describe, in quantitative terms, the ability of a measurement method to give a true result (trueness) or to replicate a given result (precision). Thus, there is an implication that exactly the identical item is being measured, in exactly the same way, and that the measurement process is under control. This document may be applied to a very wide range of test items, including gas, liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the test item. This document does not include methods of calculation that are described in the other parts.</abstract>
+      <abstract language="en" script="Latn">The purpose is to outline the general principles to be understood when assessing accuracy (trueness and precision) of measurement methods and results, and in applications, and to establish practical estimations of the various measures by experiment. Is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result. May be applied to a very wide range of materials, including liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the material.</abstract>
       <status>
         <stage>60</stage>
         <substage>60</substage>
       </status>
       <copyright>
-        <from>2023</from>
+        <from>1994</from>
         <owner>
           <organization>
             
@@ -2755,20 +2757,20 @@ sourcecode .nt {
       </copyright>
       <relation type="obsoletes">
         <bibitem>
-          <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+          <formattedref>ISO 5725:1986</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
           <date type="published">
-            <on>1998-02-05</on>
+            <on>1986-09-18</on>
           </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
+      <relation type="updatedBy">
         <bibitem>
-          <formattedref>ISO 5725-1:1994</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+          <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
           <date type="published">
-            <on>1994-12-22</on>
+            <on>1998-02-05</on>
           </date>
         </bibitem>
 
@@ -2782,8 +2784,9 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_ba01e52d-ec48-924a-84b7-7bdc508315c0"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. 第Second版. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/69419.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_482f4975-267c-f296-b600-66ccf9b035fe"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span><fn id="_df93681d-9e0e-c75d-039e-ffecfa8ccb7a" reference="7" original-reference="_a51d067d-9a3b-4f52-b6cd-edad864c8fb4" target="_d3bdf1f6-2593-b635-ecb6-939397b8b8f6"><p>撤回。</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_df93681d-9e0e-c75d-039e-ffecfa8ccb7a">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. 第First版. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/11834.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2802,9 +2805,9 @@ sourcecode .nt {
   
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
-  <uri type="src">https://www.iso.org/standard/69419.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
+  <uri type="src">https://www.iso.org/standard/11834.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier>
@@ -2836,16 +2839,16 @@ sourcecode .nt {
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
-  <edition>2</edition>
-  <language>en</language>
+  <edition>1</edition>
+  <note type="Unpublished-Status"><p id="_97775df2-5248-636c-de41-52de7950eb78" semx-id="_97775df2-5248-636c-de41-52de7950eb78">撤回 .</p></note><language>en</language>
   <language>fr</language>
   <script>Latn</script>
   <status>
-    <stage>60</stage>
-    <substage>60</substage>
+    <stage>95</stage>
+    <substage>99</substage>
   </status>
   <copyright>
-    <from>2019</from>
+    <from>1994</from>
     <owner>
       <organization>
         
@@ -2856,15 +2859,22 @@ sourcecode .nt {
   </copyright>
   <relation type="obsoletes">
     <bibitem>
-      <formattedref>ISO 5725-2:1994</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+      <formattedref>ISO 5725:1986</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
       <date type="published">
-        <on>1994-12-22</on>
+        <on>1986-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 15725-2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 15725-2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
     <bibitem>
       <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
@@ -2894,16 +2904,16 @@ sourcecode .nt {
       
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
-      <uri type="src">https://www.iso.org/standard/69419.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>
+      <uri type="src">https://www.iso.org/standard/11834.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
       <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
-      <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>
+      <docidentifier type="iso-reference">ISO 5725-2:1994(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2019-12-06</on>
+        <on>1994-12-22</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2927,22 +2937,22 @@ sourcecode .nt {
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
       </contributor>
-      <edition>2</edition>
-      <language>en</language>
+      <edition>1</edition>
+      <note type="Unpublished-Status"><p id="_fb0da6a4-0666-e0cc-784e-c3bcd01f79ef" semx-id="_fb0da6a4-0666-e0cc-784e-c3bcd01f79ef">撤回 .</p></note><language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract language="en" script="Latn">1.1 This document — amplifies the general principles for designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment; — provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods; — provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. NOTE Modifications to this basic method for particular purposes are given in other parts of ISO 5725. 1.2 It is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result, although this single value can be the outcome of a calculation from a set of observations. 1.3 It assumes that in the design and performance of the precision experiment, all the principles as laid down in ISO 5725-1 are observed. The basic method uses the same number of test results in each laboratory, with each laboratory analysing the same levels of test sample; i.e. a balanced uniform-level experiment. The basic method applies to procedures that have been standardized and are in regular use in a number of laboratories. 1.4 The statistical model of ISO 5725-1:1994, Clause 5, is accepted as a suitable basis for the interpretation and analysis of the test results, the distribution of which is approximately normal. 1.5 The basic method, as described in this document, (usually) estimates the precision of a measurement method: a) when it is required to determine the repeatability and reproducibility standard deviations as defined in ISO 5725-1; b) when the materials to be used are homogeneous, or when the effects of heterogeneity can be included in the precision values; and c) when the use of a balanced uniform-level layout is acceptable. 1.6 The same approach can be used to make a preliminary estimate of precision for measurement methods which have not reached standardization or are not in routine use.</abstract>
+      <abstract language="en" script="Latn">Amplifies the general principles to be observed in designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment, provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods, provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. Annex B provides practical examples of estimating the precision of measurement methods by experiment.</abstract>
       <status>
-        <stage>60</stage>
-        <substage>60</substage>
+        <stage>95</stage>
+        <substage>99</substage>
       </status>
       <copyright>
-        <from>2019</from>
+        <from>1994</from>
         <owner>
           <organization>
             
@@ -2953,15 +2963,22 @@ sourcecode .nt {
       </copyright>
       <relation type="obsoletes">
         <bibitem>
-          <formattedref>ISO 5725-2:1994</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+          <formattedref>ISO 5725:1986</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
           <date type="published">
-            <on>1994-12-22</on>
+            <on>1986-09-18</on>
           </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/WD 15725-2</formattedref>
+          <docidentifier type="ISO" primary="true">ISO/WD 15725-2</docidentifier>
+        </bibitem>
+
+      </relation>
+      <relation type="updatedBy">
         <bibitem>
           <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
           <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
@@ -2980,8 +2997,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_53e7dcf8-f892-3e25-c699-a15480feddf3"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_b2de3cfb-56cb-a743-a596-812b22b97418"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3186,8 +3203,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_1563eded-aeaf-51f4-39cd-6bd3a9c22da5"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_ca6a101a-9f41-928c-7b68-ff2e8c7e7a38"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3363,8 +3380,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_1ebf64bf-1ad9-88b5-4bb1-1898f740c05e"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_c674ccca-34e5-a6a8-dfd6-ccdd53be6b57"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. 第Second版. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3541,8 +3558,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_531604d3-6fe9-3b19-e9b2-07985249af3e"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. 第Third版. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_641b313d-0f4b-852a-a794-c870eff45a4c"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. 第Third版. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3640,8 +3657,8 @@ sourcecode .nt {
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_fc86f1ff-53bc-47d4-2449-573e5a6e97c4"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. 第First版. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_cda6f277-7358-c519-666f-77b4c3aae9ef"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>， </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. 第First版. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3776,9 +3793,9 @@ sourcecode .nt {
 
 
 </references></bibliography>
-<annotation-container><annotation date="2026-11-05" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" to="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">
+<annotation-container><annotation date="2026-11-08" reviewer="Metanorma" id="_ff9a0350-e2b9-f983-0acb-6b7017d97c67" from="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae" to="_7cd12d9b-84d9-f212-d916-5ebf23ce0eae">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
-</annotation><fmt-annotation-body date="2026-11-05" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
+</annotation><fmt-annotation-body date="2026-11-08" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_7bb1fe2d-7801-3969-cdb8-25b352a54322"><semx element="annotation" source="_ff9a0350-e2b9-f983-0acb-6b7017d97c67">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
 </semx></fmt-annotation-body>
 <annotation id="_e037e2f2-0d45-c003-54e2-197588f98296" reviewer="ISO" from="foreword" to="foreword" type="review" date="2017-01-01T00:00:00Z" semx-id="_e037e2f2-0d45-c003-54e2-197588f98296"><p semx-id="_54c7b85c-f241-0dbe-b91a-cdc310506203" original-id="_54c7b85c-f241-0dbe-b91a-cdc310506203">每个文件中都应有前言部分。 通用文本在这里显示，不包含要求，建议或权限。</p>
@@ -3789,4 +3806,4 @@ sourcecode .nt {
 <p id="_3b146673-ec88-a0bc-1a2b-f78f763fbf6e" semx-id="_3b146673-ec88-a0bc-1a2b-f78f763fbf6e">有关前言的更多信息，请参阅 <strong>ISO / IEC指令，2016年第2部分，第12章</strong>。</p>
 </semx></fmt-annotation-body></annotation-container><fmt-footnote-container><fmt-fn-body id="_847bd9c2-250c-def6-db40-64f0b0fbdbf6" target="_dca2a2ae-d039-2864-51eb-5935c7037430" reference="1"><semx element="fn" source="_dca2a2ae-d039-2864-51eb-5935c7037430"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dca2a2ae-d039-2864-51eb-5935c7037430">1</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>撤回。</p></semx></fmt-fn-body><fmt-fn-body id="_fab453f5-af01-0a8a-5996-1efd9f552744" target="_e0b2d907-8212-d38e-a606-eac5f51a5dbf" reference="2"><semx element="fn" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e0b2d907-8212-d38e-a606-eac5f51a5dbf">2</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>准备中。（出版时阶段为ISO / DIS 16634）</p></semx></fmt-fn-body><fmt-fn-body id="_0a1dc33c-e1b6-5f33-0aec-1d8cfbadc3b0" target="_472930fd-2f33-87cb-e703-daf8ea8b000b" reference="3"><semx element="fn" source="_472930fd-2f33-87cb-e703-daf8ea8b000b"><p id="_9fa2a968-fa6b-7978-1155-aa41b76243c2" semx-id="_9fa2a968-fa6b-7978-1155-aa41b76243c2"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_472930fd-2f33-87cb-e703-daf8ea8b000b">3</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>撤回 .</p></semx></fmt-fn-body><fmt-fn-body id="_268cb08d-3b31-3023-516f-996998195a4c" target="_238579e4-d1e5-9f74-0c3f-195507368d1d" reference="4"><semx element="fn" source="_238579e4-d1e5-9f74-0c3f-195507368d1d"><p id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e" semx-id="_2366bd7a-8905-6455-f24a-d45e56fdeb2e"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_238579e4-d1e5-9f74-0c3f-195507368d1d">4</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>从前表示为15％（m/米）。</p>
 </semx></fmt-fn-body><fmt-fn-body id="_c07c8c6b-6e77-c313-0ee4-7dcefec905a1" target="_51dbc564-710a-08fd-02f1-08410d243264" reference="5"><semx element="fn" source="_51dbc564-710a-08fd-02f1-08410d243264"><p id="_e6a70f5a-d9ac-a25a-2e55-168afe765e01" semx-id="_e6a70f5a-d9ac-a25a-2e55-168afe765e01"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_51dbc564-710a-08fd-02f1-08410d243264">5</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>准备中。（出版时阶段为ISO / DIS 16634）</p></semx></fmt-fn-body><fmt-fn-body id="_31ec3a25-bbad-5586-eabf-ce7f19421bf7" target="_0de4be79-3750-1055-d482-3e0eee6ef780" reference="6"><semx element="fn" source="_0de4be79-3750-1055-d482-3e0eee6ef780"><p id="_8be1b5c3-84d3-7da6-720b-75a465cf8552" semx-id="_8be1b5c3-84d3-7da6-720b-75a465cf8552"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_0de4be79-3750-1055-d482-3e0eee6ef780">6</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Lugols是商业上合适的产品的一个例子。 这些信息是为了方便本文档的用户而提供的，并不构成对此产品的认可。</p>
-</semx></fmt-fn-body></fmt-footnote-container></metanorma>
+</semx></fmt-fn-body><fmt-fn-body id="_d3bdf1f6-2593-b635-ecb6-939397b8b8f6" target="_df93681d-9e0e-c75d-039e-ffecfa8ccb7a" reference="7"><semx element="fn" source="_df93681d-9e0e-c75d-039e-ffecfa8ccb7a"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_df93681d-9e0e-c75d-039e-ffecfa8ccb7a">7</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>撤回。</p></semx></fmt-fn-body></fmt-footnote-container></metanorma>

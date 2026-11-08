@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="presentation" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Cereals and pulses — Specifications and test methods (in French) — Rice</title>
 
@@ -65,7 +65,7 @@ suivantes:
 </localized-string><localized-string key="internal_external_terms_boilerplate" language="fr">Pour les besoins du présent document, les termes et définitions de % ainsi que les suivants, s’appliquent.
 </localized-string><localized-string key="no_information_available" language="fr">[PAS D’INFORMATION DISPONIBLE]</localized-string><localized-string key="term_defined_in" language="fr">(%)</localized-string><localized-string key="binary_and" language="fr">%1 <conn>et</conn> %2</localized-string><localized-string key="multiple_and" language="fr">%1<enum-comma>,</enum-comma> <conn>et</conn> %2</localized-string><localized-string key="binary_or" language="fr">%1 <conn>ou</conn> %2</localized-string><localized-string key="multiple_or" language="fr">%1<enum-comma>,</enum-comma> <conn>ou</conn> %2</localized-string><localized-string key="chain_and" language="fr">%1 <conn>et</conn> %2</localized-string><localized-string key="chain_or" language="fr">%1 <conn>ou</conn> %2</localized-string><localized-string key="chain_from" language="fr">%1 <conn>de</conn> %2</localized-string><localized-string key="chain_to" language="fr">%1 <conn>à</conn> %2</localized-string><localized-string key="nested_xref" language="fr">%1<comma>,</comma> %2</localized-string><localized-string key="list_nested_xref" language="fr">%1 %2</localized-string><localized-string key="ordinal_keys.0" language="fr">gender</localized-string><localized-string key="ordinal_keys.1" language="fr">number</localized-string><localized-string key="SpelloutRules.m_sg" language="fr">spellout-ordinal-masculine</localized-string><localized-string key="SpelloutRules.f_sg" language="fr">spellout-ordinal-feminine</localized-string><localized-string key="SpelloutRules.m_pl" language="fr">spellout-ordinal-masculine-plural</localized-string><localized-string key="SpelloutRules.f_pl" language="fr">spellout-ordinal-feminine-plural</localized-string><localized-string key="OrdinalRules.m_sg" language="fr">digits-ordinal-masculine</localized-string><localized-string key="OrdinalRules.f_sg" language="fr">digits-ordinal-feminine</localized-string><localized-string key="OrdinalRules.m_pl" language="fr">digits-ordinal-masculine-plural</localized-string><localized-string key="OrdinalRules.f_pl" language="fr">digits-ordinal-feminine-plural</localized-string><localized-string key="note" language="fr">NOTE</localized-string><localized-string key="note_xref" language="fr">Note</localized-string><localized-string key="termnote" language="fr">Note % à l’article</localized-string><localized-string key="para_xref" language="fr">Alinéa</localized-string><localized-string key="figure" language="fr">Figure</localized-string><localized-string key="diagram" language="fr">Diagramme</localized-string><localized-string key="formula" language="fr">Formule</localized-string><localized-string key="inequality" language="fr">Formule</localized-string><localized-string key="list" language="fr">Liste</localized-string><localized-string key="deflist" language="fr">Liste de définitions</localized-string><localized-string key="table" language="fr">Tableau</localized-string><localized-string key="requirement" language="fr">Exigence</localized-string><localized-string key="recommendation" language="fr">Recommandation</localized-string><localized-string key="permission" language="fr">Autorisation</localized-string><localized-string key="box" language="fr">Encadré</localized-string><localized-string key="key" language="fr">Légende</localized-string><localized-string key="example" language="fr">EXEMPLE</localized-string><localized-string key="example_xref" language="fr">Exemple</localized-string><localized-string key="where" language="fr">où</localized-string><localized-string key="where_one" language="fr">où</localized-string><localized-string key="wholeoftext" language="fr">Ensemble du texte</localized-string><localized-string key="draft_label" language="fr">brouillon</localized-string><localized-string key="inform_annex" language="fr">informative</localized-string><localized-string key="norm_annex" language="fr">normative</localized-string><localized-string key="modified" language="fr">modifié</localized-string><localized-string key="adapted" language="fr">adapté</localized-string><localized-string key="deprecated" language="fr">DÉCONSEILLÉ</localized-string><localized-string key="source" language="fr">SOURCE</localized-string><localized-string key="edition" language="fr">édition</localized-string><localized-string key="version" language="fr">version</localized-string><localized-string key="and" language="fr">et</localized-string><localized-string key="no_identifier" language="fr">(PAS D'IDENTIFIANT)</localized-string><localized-string key="all_parts" language="fr">toutes les parties</localized-string><localized-string key="edition_ordinal" language="fr">{{ var1 | ordinal_word: 'edition', '' }} édition</localized-string><localized-string key="edition_cardinal" language="fr">édition {{ var1 }}</localized-string><localized-string key="toc_figures" language="fr">Table des figures</localized-string><localized-string key="toc_tables" language="fr">Table des tableaux</localized-string><localized-string key="toc_recommendations" language="fr">Table de recommandations</localized-string><localized-string key="toc_examples" language="fr">Table des exemples</localized-string><localized-string key="month_january" language="fr">Janvier</localized-string><localized-string key="month_february" language="fr">Février</localized-string><localized-string key="month_march" language="fr">Mars</localized-string><localized-string key="month_april" language="fr">Avril</localized-string><localized-string key="month_may" language="fr">Mai</localized-string><localized-string key="month_june" language="fr">Juin</localized-string><localized-string key="month_july" language="fr">Juillet</localized-string><localized-string key="month_august" language="fr">Août</localized-string><localized-string key="month_september" language="fr">Septembre</localized-string><localized-string key="month_october" language="fr">Octobre</localized-string><localized-string key="month_november" language="fr">Novembre</localized-string><localized-string key="month_december" language="fr">Décembre</localized-string><localized-string key="obligation" language="fr">Obligation</localized-string><localized-string key="admonition.danger" language="fr">Danger</localized-string><localized-string key="admonition.warning" language="fr">Avertissement</localized-string><localized-string key="admonition.caution" language="fr">Attention</localized-string><localized-string key="admonition.important" language="fr">Important</localized-string><localized-string key="admonition.safety_precautions" language="fr">Précautions de Sécurité</localized-string><localized-string key="admonition.editorial" language="fr">Note éditoriale</localized-string><localized-string key="title_prefixes.part" language="fr">Partie {{ var1 }}</localized-string><localized-string key="title_prefixes.amendment" language="fr">AMENDEMENT {{ var1 }}</localized-string><localized-string key="title_prefixes.corrigendum" language="fr">RECTIFICATIF TECHNIQUE {{ var1 }}</localized-string><localized-string key="title_prefixes.addendum" language="fr">ADDITIF {{ var1 }}</localized-string><localized-string key="title_prefixes.supplement" language="fr">SUPPLÉMENT {{ var1 }}</localized-string><localized-string key="title_prefixes.annex" language="fr">Annexe {{ var1 }}</localized-string><localized-string key="title_prefixes.appendix" language="fr">Appendice {{ var1 }}</localized-string><localized-string key="title_prefixes.extract" language="fr">EXTRAIT {{ var1 }}</localized-string><localized-string key="locality.section" language="fr">Section</localized-string><localized-string key="locality.clause" language="fr">Article</localized-string><localized-string key="locality.definition" language="fr">Définition</localized-string><localized-string key="locality.part" language="fr">Partie</localized-string><localized-string key="locality.paragraph" language="fr">Alinéa</localized-string><localized-string key="locality.chapter" language="fr">Chapitre</localized-string><localized-string key="locality.page" language="fr">Page</localized-string><localized-string key="locality.table" language="fr">Tableau</localized-string><localized-string key="locality.annex" language="fr">Annexe</localized-string><localized-string key="locality.figure" language="fr">Figure</localized-string><localized-string key="locality.example" language="fr">Exemple</localized-string><localized-string key="locality.note" language="fr">Note</localized-string><localized-string key="locality.formula" language="fr">Formule</localized-string><localized-string key="locality.appendix" language="fr">Appendice</localized-string><localized-string key="grammar_abbrevs.masculine" language="fr">masc</localized-string><localized-string key="grammar_abbrevs.feminine" language="fr">fem</localized-string><localized-string key="grammar_abbrevs.neuter" language="fr">neut</localized-string><localized-string key="grammar_abbrevs.common" language="fr">épicène</localized-string><localized-string key="grammar_abbrevs.singular" language="fr">sg</localized-string><localized-string key="grammar_abbrevs.dual" language="fr">duel</localized-string><localized-string key="grammar_abbrevs.plural" language="fr">pl</localized-string><localized-string key="grammar_abbrevs.isPreposition" language="fr">prép</localized-string><localized-string key="grammar_abbrevs.isParticiple" language="fr">part</localized-string><localized-string key="grammar_abbrevs.isAdjective" language="fr">adj</localized-string><localized-string key="grammar_abbrevs.isAdverb" language="fr">adv</localized-string><localized-string key="grammar_abbrevs.isNoun" language="fr">subst</localized-string><localized-string key="grammar_abbrevs.isVerb" language="fr">vb</localized-string><localized-string key="relatedterms.deprecates" language="fr">déprécie</localized-string><localized-string key="relatedterms.supersedes" language="fr">remplace</localized-string><localized-string key="relatedterms.narrower" language="fr">plus étroit</localized-string><localized-string key="relatedterms.broader" language="fr">plus large</localized-string><localized-string key="relatedterms.equivalent" language="fr">équivalent</localized-string><localized-string key="relatedterms.compare" language="fr">comparez</localized-string><localized-string key="relatedterms.contrast" language="fr">contrastez</localized-string><localized-string key="relatedterms.see" language="fr">voir</localized-string><localized-string key="relatedterms.seealso" language="fr">voir aussi</localized-string><localized-string key="Clause.sg" language="fr">Article</localized-string><localized-string key="Clause.pl" language="fr">Articles</localized-string><localized-string key="Definition.sg" language="fr">Définition</localized-string><localized-string key="Definition.pl" language="fr">Définitions</localized-string><localized-string key="Annex.sg" language="fr">Annexe</localized-string><localized-string key="Annex.pl" language="fr">Annexes</localized-string><localized-string key="Appendix.sg" language="fr">Appendice</localized-string><localized-string key="Appendix.pl" language="fr">Appendices</localized-string><localized-string key="Note.sg" language="fr">Note</localized-string><localized-string key="Note.pl" language="fr">Notes</localized-string><localized-string key="Note_%_à_l’article.sg" language="fr">Note % à l’article</localized-string><localized-string key="Note_%_à_l’article.pl" language="fr">Notes % à l’article</localized-string><localized-string key="List.sg" language="fr">Liste</localized-string><localized-string key="List.pl" language="fr">Listes</localized-string><localized-string key="Figure.sg" language="fr">Figure</localized-string><localized-string key="Figure.pl" language="fr">Figures</localized-string><localized-string key="Formula.sg" language="fr">Formule</localized-string><localized-string key="Formula.pl" language="fr">Formules</localized-string><localized-string key="Table.sg" language="fr">Tableau</localized-string><localized-string key="Table.pl" language="fr">Tableaux</localized-string><localized-string key="Requirement.sg" language="fr">Exigence</localized-string><localized-string key="Requirement.pl" language="fr">Exigences</localized-string><localized-string key="Recommendation.sg" language="fr">Recommandation</localized-string><localized-string key="Recommendation.pl" language="fr">Recommandations</localized-string><localized-string key="Permission.sg" language="fr">Autorisation</localized-string><localized-string key="Permission.pl" language="fr">Autorisations</localized-string><localized-string key="Example.sg" language="fr">Exemple</localized-string><localized-string key="Example.pl" language="fr">Exemples</localized-string><localized-string key="Part.sg" language="fr">Partie</localized-string><localized-string key="Part.pl" language="fr">Parties</localized-string><localized-string key="Section.sg" language="fr">Section</localized-string><localized-string key="Section.pl" language="fr">Sections</localized-string><localized-string key="Paragraph.sg" language="fr">Alinéa</localized-string><localized-string key="Paragraph.pl" language="fr">Alinéas</localized-string><localized-string key="Chapter.sg" language="fr">Chapitre</localized-string><localized-string key="Chapter.pl" language="fr">Chapitres</localized-string><localized-string key="Page.sg" language="fr">Page</localized-string><localized-string key="Page.pl" language="fr">Pages</localized-string><localized-string key="grammar.gender" language="fr">f</localized-string><localized-string key="Disposition.sg" language="fr">Disposition</localized-string><localized-string key="Disposition.pl" language="fr">Dispositions</localized-string><localized-string key="Déclaration.sg" language="fr">Déclaration</localized-string><localized-string key="Déclaration.pl" language="fr">Déclarations</localized-string><localized-string key="Descripteur.sg" language="fr">Descripteur</localized-string><localized-string key="Descripteur.pl" language="fr">Descripteurs</localized-string><localized-string key="Référence.sg" language="fr">Référence</localized-string><localized-string key="Référence.pl" language="fr">Références</localized-string><localized-string key="punct.colon" language="fr">:</localized-string><localized-string key="punct.comma" language="fr">,</localized-string><localized-string key="punct.enum-comma" language="fr">,</localized-string><localized-string key="punct.semicolon" language="fr">;</localized-string><localized-string key="punct.period" language="fr">.</localized-string><localized-string key="punct.close-paren" language="fr">)</localized-string><localized-string key="punct.open-paren" language="fr">(</localized-string><localized-string key="punct.close-bracket" language="fr">]</localized-string><localized-string key="punct.open-bracket" language="fr">[</localized-string><localized-string key="punct.question-mark" language="fr">?</localized-string><localized-string key="punct.exclamation-mark" language="fr">!</localized-string><localized-string key="punct.em-dash" language="fr">—</localized-string><localized-string key="punct.en-dash" language="fr">–</localized-string><localized-string key="punct.number-en-dash" language="fr">–</localized-string><localized-string key="punct.open-quote" language="fr">«</localized-string><localized-string key="punct.close-quote" language="fr">»</localized-string><localized-string key="punct.open-nested-quote" language="fr">“</localized-string><localized-string key="punct.close-nested-quote" language="fr">”</localized-string><localized-string key="punct.ellipse" language="fr">…</localized-string><localized-string key="all_rights_reserved" language="fr">Tous droits réservés</localized-string><localized-string key="reference_number" language="fr">Numéro de référence</localized-string><localized-string key="reference_number_abbrev" language="fr">Réf. №</localized-string><localized-string key="price_based_on" language="fr">Prix basé sur % pages</localized-string><localized-string key="price" language="fr">Prix</localized-string><localized-string key="date_first_printing" language="fr">Date de la première impression</localized-string><localized-string key="date_printing" language="fr">Date de la {{ var1 | ordinal_word: '', 'f' }} impression</localized-string><localized-string key="descriptor" language="fr">Descripteur</localized-string><localized-string key="reference" language="fr">Référence</localized-string><localized-string key="under_preparation" language="fr">En cours d'élaboration. Stade au moment de la publication: %.</localized-string><localized-string key="withdrawn" language="fr">Retiré.</localized-string><localized-string key="cancelled_and_replaced" language="fr">Annulé et remplacé par %.</localized-string><localized-string key="date" language="fr">Date</localized-string><localized-string key="secretariat" language="fr">Secrétariat</localized-string><localized-string key="edition_ordinal_old" language="fr">{{ var1 | ordinal_num: 'edition', '' }} ÉDITION</localized-string><localized-string key="edition_replacement" language="fr">Cette {{ var1 | ordinal_word: 'edition', '' }} édition annule et remplace la {{ var2 | ordinal_word: 'edition', '' }} édition</localized-string><localized-string key="termsrelated" language="fr">Termes liés</localized-string><localized-string key="availablefrom" language="fr">Disponible sur</localized-string><localized-string key="voting_begins_on" language="fr">Début de vote</localized-string><localized-string key="voting_terminates_on" language="fr">Vote clos le</localized-string><localized-string key="corrected_version" language="fr">Version corrigée</localized-string><localized-string key="fast-track-procedure" language="fr">Procédure accélérée</localized-string><localized-string key="classification-UDC" language="fr">CDU</localized-string><localized-string key="formerly_id" language="fr">(précédemment %)</localized-string><localized-string key="was_developed_by" language="fr">%1 a été élaboré par %2</localized-string><localized-string key="iso-cen-parallel" language="fr">TRAITEMENT PARALLÈLE ISO/CEN</localized-string><localized-string key="draft_comment_1" language="fr">Ce document est un projet diffusé pour observations et approbation. Il est donc susceptible de modification et ne peut être cité comme norme internationale avant sa publication en tant que telle.</localized-string><localized-string key="draft_comment_2" language="fr">Outre le fait d’être examinés pour établir s’ils sont acceptables à des fins industrielles, technologiques et commerciales, ainsi que du point de vue des utilisateurs, les projets de normes internationales doivent parfois être considérés du point de vue de leur possibilité de devenir des normes pouvant servir de référence dans la réglementation nationale.</localized-string><localized-string key="draft_comment_3" language="fr">Les destinataires du présent projet sont invités à présenter, avec leurs observations, notification des droits de propriété dont ils auraient éventuellement connaissance et à fournir une documentation explicative.</localized-string><localized-string key="website" language="fr">site web</localized-string><localized-string key="doctype_dict.international-standard" language="fr">Norme internationale</localized-string><localized-string key="doctype_dict.technical-specification" language="fr">Spécification technique</localized-string><localized-string key="doctype_dict.technical-report" language="fr">Rapport technique</localized-string><localized-string key="doctype_dict.publicly-available-specification" language="fr">Spécification disponible publiquement</localized-string><localized-string key="doctype_dict.international-workshop-agreement" language="fr">Accord internationale d’atelier</localized-string><localized-string key="doctype_dict.guide" language="fr">Guide</localized-string><localized-string key="doctype_dict.amendment" language="fr">Amendement</localized-string><localized-string key="doctype_dict.addendum" language="fr">Additif</localized-string><localized-string key="doctype_dict.supplement" language="fr">Supplément</localized-string><localized-string key="doctype_dict.extract" language="fr">Extrait</localized-string><localized-string key="doctype_dict.technical-corrigendum" language="fr">Rectificatif technique</localized-string><localized-string key="doctype_dict.directive" language="fr">Directive</localized-string><localized-string key="doctype_dict.committee-document" language="fr">Document du comité</localized-string><localized-string key="doctype_dict.recommendation" language="fr">Recommandation ISO</localized-string><localized-string key="contributor_role_desc_dict.Technical_committee" language="fr">Comité technique</localized-string><localized-string key="stage_dict.00" language="fr">Élément de travail préliminaire</localized-string><localized-string key="stage_dict.10" language="fr">Nouvelle proposition d'élément de travail</localized-string><localized-string key="stage_dict.20" language="fr">Brouillon de travail</localized-string><localized-string key="stage_dict.30" language="fr">Projet de comité</localized-string><localized-string key="40.international-standard" language="fr">Projet Norme internationale</localized-string><localized-string key="40.technical-specification" language="fr">Projet Spécification technique</localized-string><localized-string key="40.technical-report" language="fr">Projet Rapport technique</localized-string><localized-string key="40.publicly-available-specification" language="fr">Projet Spécification disponible publiquement</localized-string><localized-string key="40.international-workshop-agreement" language="fr">Projet Accord internationale d’atelier</localized-string><localized-string key="40.guide" language="fr">Projet Guide</localized-string><localized-string key="40.amendment" language="fr">Projet Amendement</localized-string><localized-string key="40.technical-corrigendum" language="fr">Projet Rectificatif technique</localized-string><localized-string key="40.directive" language="fr">Projet Directive</localized-string><localized-string key="50.international-standard" language="fr">Projet final Norme internationale</localized-string><localized-string key="50.technical-specification" language="fr">Projet final spécification technique</localized-string><localized-string key="50.technical-report" language="fr">Projet final rapport technique</localized-string><localized-string key="50.publicly-available-specification" language="fr">Projet final spécification disponible publiquement</localized-string><localized-string key="50.international-workshop-agreement" language="fr">Projet final l’accord internationale d’atelier</localized-string><localized-string key="50.guide" language="fr">Projet final guide</localized-string><localized-string key="50.amendment" language="fr">Projet final l’amendement</localized-string><localized-string key="50.technical-corrigendum" language="fr">Projet final rectificatif technique</localized-string><localized-string key="50.directive" language="fr">Projet final directive</localized-string><localized-string key="60.international-standard" language="fr">Norme internationale</localized-string><localized-string key="60.technical-specification" language="fr">Spécification technique</localized-string><localized-string key="60.technical-report" language="fr">Rapport technique</localized-string><localized-string key="60.publicly-available-specification" language="fr">Spécification disponible publiquement</localized-string><localized-string key="60.international-workshop-agreement" language="fr">Accord internationale d’atelier</localized-string><localized-string key="60.guide" language="fr">Guide</localized-string><localized-string key="60.amendment" language="fr">Amendement</localized-string><localized-string key="60.technical-corrigendum" language="fr">Rectificatif technique</localized-string><localized-string key="60.directive" language="fr">Directive</localized-string><localized-string key="stage_dict.90" language="fr">Révision</localized-string><localized-string key="stage_dict.95" language="fr">Retrait</localized-string><localized-string key="Projet_Norme_internationale.coverpage" language="fr">PROJET<br/>Norme internationale</localized-string><localized-string key="Projet_Norme_internationale.firstpage" language="fr">PROJET de Norme internationale</localized-string><localized-string key="Projet_Spécification_technique.coverpage" language="fr">PROJET<br/>Spécification technique</localized-string><localized-string key="Projet_Spécification_technique.firstpage" language="fr">PROJET de Spécification technique</localized-string><localized-string key="Projet_Rapport_technique.coverpage" language="fr">PROJET<br/>Rapport technique</localized-string><localized-string key="Projet_Rapport_technique.firstpage" language="fr">PROJET de Rapport technique</localized-string><localized-string key="Projet_Spécification_disponible_publiquement.coverpage" language="fr">PROJET<br/>Spécification disponible publiquement</localized-string><localized-string key="Projet_Spécification_disponible_publiquement.firstpage" language="fr">PROJET de Spécification disponible publiquement</localized-string><localized-string key="Projet_Accord_internationale_d’atelier.coverpage" language="fr">PROJET<br/>Accord internationale d’atelier</localized-string><localized-string key="Projet_Accord_internationale_d’atelier.firstpage" language="fr">PROJET de Accord internationale d’atelier</localized-string><localized-string key="Projet_Guide.coverpage" language="fr">PROJET<br/>Guide</localized-string><localized-string key="Projet_Guide.firstpage" language="fr">PROJET de Guide</localized-string><localized-string key="Projet_Amendement.coverpage" language="fr">PROJET<br/>Amendement</localized-string><localized-string key="Projet_Amendement.firstpage" language="fr">PROJET de Amendement</localized-string><localized-string key="Projet_Rectificatif_technique.coverpage" language="fr">PROJET<br/>Rectificatif technique</localized-string><localized-string key="Projet_Rectificatif_technique.firstpage" language="fr">PROJET de Rectificatif technique</localized-string><localized-string key="Projet_Directive.coverpage" language="fr">PROJET<br/>Directive</localized-string><localized-string key="Projet_Directive.firstpage" language="fr">PROJET de Directive</localized-string><localized-string key="Projet_final_Norme_internationale.coverpage" language="fr">PROJET FINAL<br/>Norme internationale</localized-string><localized-string key="Projet_final_Norme_internationale.firstpage" language="fr">PROJET FINAL de Norme internationale</localized-string><localized-string key="Projet_final_spécification_technique.coverpage" language="fr">PROJET FINAL<br/>Spécification technique</localized-string><localized-string key="Projet_final_spécification_technique.firstpage" language="fr">PROJET FINAL de Spécification technique</localized-string><localized-string key="Projet_final_rapport_technique.coverpage" language="fr">PROJET FINAL<br/>Rapport technique</localized-string><localized-string key="Projet_final_rapport_technique.firstpage" language="fr">PROJET FINAL de Rapport technique</localized-string><localized-string key="Projet_final_spécification_disponible_publiquement.coverpage" language="fr">PROJET FINAL<br/>Spécification disponible publiquement</localized-string><localized-string key="Projet_final_spécification_disponible_publiquement.firstpage" language="fr">PROJET FINAL de Spécification disponible publiquement</localized-string><localized-string key="Projet_final_l’accord_internationale_d’atelier.coverpage" language="fr">PROJET FINAL<br/>Spécification disponible publiquement</localized-string><localized-string key="Projet_final_l’accord_internationale_d’atelier.firstpage" language="fr">PROJET FINAL de Spécification disponible publiquement</localized-string><localized-string key="Projet_final_guide.coverpage" language="fr">PROJET<br/>Guide</localized-string><localized-string key="Projet_final_guide.firstpage" language="fr">PROJET FINAL de Guide</localized-string><localized-string key="Projet_final_l’amendement.coverpage" language="fr">PROJET FINAL<br/>Amendement</localized-string><localized-string key="Projet_final_l’amendement.firstpage" language="fr">PROJET FINAL de Amendement</localized-string><localized-string key="Projet_final_rectificatif_technique.coverpage" language="fr">PROJET FINAL<br/>Rectificatif technique</localized-string><localized-string key="Projet_final_rectificatif_technique.firstpage" language="fr">PROJET FINAL de Rectificatif technique</localized-string><localized-string key="Projet_final_directive.coverpage" language="fr">PROJET FINAL<br/>Directive</localized-string><localized-string key="Projet_final_directive.firstpage" language="fr">PROJET FINAL de Directive</localized-string><localized-string key="modspec.provision" language="fr">Disposition</localized-string><localized-string key="modspec.conformancetest" language="fr">Test de conformité</localized-string><localized-string key="language" language="fr">fr</localized-string><localized-string key="script" language="fr">Latn</localized-string></localized-strings>
 <termdocsource bibitemid="ISO712"/><termdocsource bibitemid="ISO24333"/><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><source-highlighter-css>sourcecode table td { padding: 5px; }
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata><source-highlighter-css>sourcecode table td { padding: 5px; }
 sourcecode table pre { margin: 0; }
 sourcecode, sourcecode .w {
   color: #444444;
@@ -173,8 +173,8 @@ sourcecode .nt {
 
 
 
-<clause id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" type="scope" inline-header="false" obligation="normative" semx-id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_ab9a6712-3039-296e-3105-dd7255efaf88" end="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-05"/>
-<title id="_8f13d675-ee4e-006f-c374-d8af7dd8da41" semx-id="_7ad1c7e2-e05a-e40c-dc13-05c6da8495d4">Domaine d’application<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_ab9a6712-3039-296e-3105-dd7255efaf88" start="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-05"/></title><fmt-title depth="1" id="_c03cc29f-608a-7e6b-1229-81ae5d6558c8"><span class="fmt-caption-label"><semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f13d675-ee4e-006f-c374-d8af7dd8da41">Domaine d’application</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></fmt-xref-label>
+<clause id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" type="scope" inline-header="false" obligation="normative" semx-id="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" displayorder="5"><fmt-annotation-start id="_b80d0420-f181-cc2d-b6a5-a693a964d32f" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_ab9a6712-3039-296e-3105-dd7255efaf88" end="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-08"/>
+<title id="_8f13d675-ee4e-006f-c374-d8af7dd8da41" semx-id="_7ad1c7e2-e05a-e40c-dc13-05c6da8495d4">Domaine d’application<fmt-annotation-end id="_aebe944d-d1f0-44db-c9e9-73df57c97535" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" target="_ab9a6712-3039-296e-3105-dd7255efaf88" start="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" author="" date="2026-11-08"/></title><fmt-title depth="1" id="_c03cc29f-608a-7e6b-1229-81ae5d6558c8"><span class="fmt-caption-label"><semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_8f13d675-ee4e-006f-c374-d8af7dd8da41">Domaine d’application</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">1</semx></fmt-xref-label>
 <p id="_75e8ab68-a14a-3f14-e2d6-7d31586271e6" semx-id="_75e8ab68-a14a-3f14-e2d6-7d31586271e6">Le présent document spécifie les exigences minimales du riz (<em>Oryza sativa</em> L.).</p>
 
 <p id="_c9d9ed9a-c057-f1c1-35f9-df01dbda33bd" semx-id="_c9d9ed9a-c057-f1c1-35f9-df01dbda33bd">Il est applicable aux riz décortiqué, étuvé décortiqué, usiné et étuvé usiné, destinés à la consommation humaine soit directement, soit après usinage.</p>
@@ -767,13 +767,13 @@ sourcecode .nt {
 
 
 
-<references id="_c9dd42d2-bec9-cb4b-21a8-3ce8f9bd3d86" normative="true" obligation="informative" semx-id="_c9dd42d2-bec9-cb4b-21a8-3ce8f9bd3d86" displayorder="6">
-<title id="_6816ef17-f584-07a0-85bb-4ce851d356d9" semx-id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><fmt-title depth="1" id="_843fecb4-368e-4ba7-b401-9a938d82d87b"><span class="fmt-caption-label"><semx element="autonum" source="_c9dd42d2-bec9-cb4b-21a8-3ce8f9bd3d86">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_6816ef17-f584-07a0-85bb-4ce851d356d9">Références normatives</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_c9dd42d2-bec9-cb4b-21a8-3ce8f9bd3d86">2</semx></fmt-xref-label><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e" semx-id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
+<references id="_2cf2bd03-e16d-4c40-4477-de47c463ff16" normative="true" obligation="informative" semx-id="_2cf2bd03-e16d-4c40-4477-de47c463ff16" displayorder="6">
+<title id="_6816ef17-f584-07a0-85bb-4ce851d356d9" semx-id="_4f45c8bd-1ba1-78c9-9db1-428e22601996">Références normatives</title><fmt-title depth="1" id="_843fecb4-368e-4ba7-b401-9a938d82d87b"><span class="fmt-caption-label"><semx element="autonum" source="_2cf2bd03-e16d-4c40-4477-de47c463ff16">2</semx></span><span class="fmt-caption-delim"><tab/></span><semx element="title" source="_6816ef17-f584-07a0-85bb-4ce851d356d9">Références normatives</semx></fmt-title><fmt-xref-label><span class="fmt-element-name">Article</span> <semx element="autonum" source="_2cf2bd03-e16d-4c40-4477-de47c463ff16">2</semx></fmt-xref-label><p id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e" semx-id="_21da3ff3-c14e-d036-ec1a-22dd5da6ee5e">Les documents suivants cités dans le texte constituent, pour tout ou partie de leur contenu, des exigences du présent document. Pour les références datées, seule l’édition citée s’applique. Pour les références non datées, la dernière édition du document de référence s’applique (y compris les éventuels amendements).</p>
 
 
-<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_19dadf33-275b-0a1d-77ce-a2aeca187190"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_350474b6-ec7b-b36b-8b5a-903147edd404" reference="1" original-reference="_b42b0ab0-551d-4cd2-a082-97a8eb332d0c" target="_55b50735-6fff-e6f4-bed2-1cd501388562"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_350474b6-ec7b-b36b-8b5a-903147edd404">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem id="ISO712" type="standard" schema-version="v1.5.6" anchor="ISO712" semx-id="_43998dbc-34b3-e624-d872-022d64ea0375"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">712</span><fn id="_350474b6-ec7b-b36b-8b5a-903147edd404" reference="1" original-reference="_84df679c-7a7b-48d9-afe4-6de65b297180" target="_55b50735-6fff-e6f4-bed2-1cd501388562"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_350474b6-ec7b-b36b-8b5a-903147edd404">1</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Determination of moisture content — Reference method_. Report no. 712. Fourth édition. Geneva: International Organization for Standardization, ISO 712. iso-reference ISO 712(E). URN urn:iso:std:iso:712:stage-95.99. Available from: https://www.iso.org/standard/44807.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -981,8 +981,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_4d29159e-6c5d-046d-0750-3ad3a4646d04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. Third édition. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO6646" type="standard" schema-version="v1.5.6" anchor="ISO6646" semx-id="_068ac975-81c0-938f-3aa3-46e2273fe7e1"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">6646</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Determination of the potential milling yield from paddy and from husked rice_. Report no. 6646. Third édition. Geneva: International Organization for Standardization, ISO 6646. iso-reference ISO 6646(E). URN urn:iso:std:iso:6646:stage-90.93. Available from: https://www.iso.org/standard/51072.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -1178,8 +1178,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_c60c04c3-e6fe-1666-8f43-01e4ffbee19e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. First édition. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO8351-1" type="standard" schema-version="v1.5.6" anchor="ISO8351-1" semx-id="_4b0ed5fe-8fc8-6ec7-b8d5-a348ec74db04"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">1</span>:<span class="stdyear">1994</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 1: Paper sacks_. Report no. 8351. First édition. Geneva: International Organization for Standardization, 1994. ISO 8351-1:1994. iso-undated ISO 8351-1. iso-reference ISO 8351-1:1994(E). URN urn:iso:std:iso:8351:-1:stage-90.92. Available from: https://www.iso.org/standard/15496.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1272,8 +1272,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_c5228e67-a124-ff7f-0427-196485292320"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. First édition. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO8351-2" type="standard" schema-version="v1.5.6" anchor="ISO8351-2" semx-id="_ab43844c-6908-94e2-3afc-0a6ca5f50b2f"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">8351</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Packaging — Method of specification for sacks — Part 2: Sacks made from thermoplastic flexible film_. Report no. 8351. First édition. Geneva: International Organization for Standardization, ISO 8351-2. iso-reference ISO 8351-2(E). URN urn:iso:std:iso:8351:-2:stage-90.93. Available from: https://www.iso.org/standard/1818.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Packaging</title>
 
@@ -1443,15 +1443,15 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_e0b821b0-3238-a460-a847-2986132ebda6"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_c680f52a-125b-a49a-fe70-3912c2d40ac2" reference="2" original-reference="_4f367e57-f96f-49b1-8104-1f049383113a" target="_ebadf908-c117-51fc-ce70-3032f013fa8e"><p>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_c680f52a-125b-a49a-fe70-3912c2d40ac2">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+<bibitem anchor="ISO16634" id="ISO16634" type="standard" semx-id="_e0b821b0-3238-a460-a847-2986132ebda6"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">16634</span>:—<fn id="_c680f52a-125b-a49a-fe70-3912c2d40ac2" reference="2" original-reference="_18401e7f-4474-4416-8989-e19036201167" target="_ebadf908-c117-51fc-ce70-3032f013fa8e"><p>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_c680f52a-125b-a49a-fe70-3912c2d40ac2">2</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
 , </biblio-tag><formattedref><em><span class="stddocTitle">Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux — Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes</span></em>.</formattedref>
 <title format="text/plain">Céréales, légumineuses, produits de mouture des céréales, graines oléagineuses et aliments des animaux — Détermination de la teneur en azote total par combustion selon le principe Dumas et calcul de la teneur en protéines brutes</title>
 <docidentifier type="ISO">ISO 16634:—</docidentifier><docidentifier scope="biblio-tag">ISO 16634:—</docidentifier><docnumber>16634</docnumber><date type="published"><on>–</on></date><contributor><role type="publisher"/><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></contributor><note format="text/plain" type="Unpublished-Status">En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</note><language>fr</language><script>Latn</script>
 </bibitem>
-<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_1ddea5e6-e7f1-115b-37d9-7789358d9339"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. Second édition. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO20483" type="standard" schema-version="v1.5.6" anchor="ISO20483" semx-id="_5e09d3ea-9291-60d6-e928-1cf76c71727e"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">20483</span>:<span class="stdyear">2013</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and pulses — Determination of the nitrogen content and calculation of the crude protein content — Kjeldahl method_. Report no. 20483. Second édition. Geneva: International Organization for Standardization, 2013. ISO 20483:2013. iso-undated ISO 20483. iso-reference ISO 20483:2013(E). URN urn:iso:std:iso:20483:stage-90.93. Available from: https://www.iso.org/standard/59162.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and pulses</title>
 
@@ -1549,8 +1549,8 @@ sourcecode .nt {
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_f11ffcaa-056d-ac67-e206-09e3a8edd224"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. First édition. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+<bibitem id="ISO24333" type="standard" schema-version="v1.5.6" anchor="ISO24333" semx-id="_025cb860-f435-e4b3-a3f6-354ec68bac61"><biblio-tag><span class="stdpublisher">ISO</span> <span class="stddocNumber">24333</span>:<span class="stdyear">2009</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Cereals and cereal products — Sampling_. Report no. 24333. First édition. Geneva: International Organization for Standardization, 2009. ISO 24333:2009. iso-undated ISO 24333. iso-reference ISO 24333:2009(E). URN urn:iso:std:iso:24333:stage-90.92. Available from: https://www.iso.org/standard/42165.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Cereals and cereal products</title>
 
@@ -2456,9 +2456,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 </tr></tbody>
 <fmt-footnote-container><fmt-fn-body id="_0cfb9d15-5e7c-ff41-f41e-56e5a945cb4a" target="_dd179c4c-74f8-64e5-145d-23b7007cd411" reference="a"><semx element="fn" source="_dd179c4c-74f8-64e5-145d-23b7007cd411"><p id="_054574eb-ce39-6b7b-cd3c-f56f137c5d21" semx-id="_054574eb-ce39-6b7b-cd3c-f56f137c5d21"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_dd179c4c-74f8-64e5-145d-23b7007cd411">a</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Riz étuvé.</p>
 </semx></fmt-fn-body></fmt-footnote-container></table>
-</annex><bibliography><references id="_b884e144-f1df-c2aa-30fa-f6751986712c" normative="false" obligation="informative" semx-id="_b884e144-f1df-c2aa-30fa-f6751986712c" displayorder="18">
-<title id="_13a3bcec-f392-c2ab-111d-c16bd6a19c88" semx-id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><fmt-title depth="1" id="_b6fe7716-b4b4-bbb7-d92a-a07452c09209"><semx element="title" source="_13a3bcec-f392-c2ab-111d-c16bd6a19c88">Bibliographie</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_fa55d4ed-50b0-b197-da1e-17e3e9767276"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. First édition. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</annex><bibliography><references id="_1f0ccc74-9696-a9c0-52b5-03dad520ff50" normative="false" obligation="informative" semx-id="_1f0ccc74-9696-a9c0-52b5-03dad520ff50" displayorder="18">
+<title id="_13a3bcec-f392-c2ab-111d-c16bd6a19c88" semx-id="_086fd3ae-8b31-2f2e-6ab5-296a5446feac">Bibliographie</title><fmt-title depth="1" id="_b6fe7716-b4b4-bbb7-d92a-a07452c09209"><semx element="title" source="_13a3bcec-f392-c2ab-111d-c16bd6a19c88">Bibliographie</semx></fmt-title><bibitem id="ISO3696" type="standard" schema-version="v1.5.6" anchor="ISO3696" semx-id="_a7ad4f99-1774-cebb-b4dd-549a9afe0b99"><biblio-tag>[1]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">3696</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Water for analytical laboratory use — Specification and test methods_. Report no. 3696. First édition. Geneva: International Organization for Standardization, ISO 3696. iso-reference ISO 3696(E). URN urn:iso:std:iso:3696:stage-90.93. Available from: https://www.iso.org/standard/9169.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Water for analytical laboratory use</title>
 
@@ -2615,8 +2615,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_82cb1faa-8763-ffd8-1245-b67f04598ee2"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. Second édition. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1. Available from: https://www.iso.org/standard/69418.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO5725-1" type="standard" schema-version="v1.5.6" anchor="ISO5725-1" semx-id="_e0de8476-f6e4-cc18-eb5d-6e7ff10d291e"><biblio-tag>[2]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions_. Report no. 5725. First édition. Geneva: International Organization for Standardization, ISO 5725-1. iso-reference ISO 5725-1(E). URN urn:iso:std:iso:5725:-1:stage-95.99. Available from: https://www.iso.org/standard/11833.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2635,12 +2635,12 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
-  <uri type="src">https://www.iso.org/standard/69418.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
+  <uri type="src">https://www.iso.org/standard/11833.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri><docidentifier type="metanorma-ordinal">[2]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-1</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-1(E)</docidentifier>
-  <docidentifier type="URN">URN urn:iso:std:iso:5725:-1</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
+  <docidentifier type="URN">URN urn:iso:std:iso:5725:-1:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-1</docidentifier>
   <docnumber>5725</docnumber>
   <contributor>
     <role type="publisher"/>
@@ -2669,7 +2669,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
-  <edition>2</edition>
+  <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
@@ -2678,7 +2678,7 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
     <substage>60</substage>
   </status>
   <copyright>
-    <from>2023</from>
+    <from>1994</from>
     <owner>
       <organization>
         
@@ -2689,20 +2689,20 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   </copyright>
   <relation type="obsoletes">
     <bibitem>
-      <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+      <formattedref>ISO 5725:1986</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
       <date type="published">
-        <on>1998-02-05</on>
+        <on>1986-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
+  <relation type="updatedBy">
     <bibitem>
-      <formattedref>ISO 5725-1:1994</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+      <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
       <date type="published">
-        <on>1994-12-22</on>
+        <on>1998-02-05</on>
       </date>
     </bibitem>
 
@@ -2727,16 +2727,16 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 1: Principes généraux et définitions</title>
 
-      <uri type="src">https://www.iso.org/standard/69418.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69418:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69418.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 5725-1:2023</docidentifier>
+      <uri type="src">https://www.iso.org/standard/11833.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11833:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11833.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
       <docidentifier type="iso-undated">ISO 5725-1</docidentifier>
-      <docidentifier type="iso-reference">ISO 5725-1:2023(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:5725:-1</docidentifier>
+      <docidentifier type="iso-reference">ISO 5725-1:1994(E)</docidentifier>
+      <docidentifier type="URN">urn:iso:std:iso:5725:-1:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2023-07-20</on>
+        <on>1994-12-22</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2765,17 +2765,17 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
           <abbreviation>ISO</abbreviation>
         </organization>
       </contributor>
-      <edition>2</edition>
+      <edition>1</edition>
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract language="en" script="Latn">This document —     introduces conditions, constraints and resources necessary to evaluate a measurement method or a result; —     defines an organizational scheme for the acquisition of trueness and precision data by study; —     provides the necessary definitions, statistical model and principles for ISO 5725 (all parts). —     is not applicable to proficiency testing or production of the reference item that has their own standards (ISO 13528, respectively and ISO Guide 35). This document is concerned exclusively with measurement methods which yield results on a continuous scale and give a single value as the test result, although this single value may be the outcome of a calculation from a set of observations. It defines values which describe, in quantitative terms, the ability of a measurement method to give a true result (trueness) or to replicate a given result (precision). Thus, there is an implication that exactly the identical item is being measured, in exactly the same way, and that the measurement process is under control. This document may be applied to a very wide range of test items, including gas, liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the test item. This document does not include methods of calculation that are described in the other parts.</abstract>
+      <abstract language="en" script="Latn">The purpose is to outline the general principles to be understood when assessing accuracy (trueness and precision) of measurement methods and results, and in applications, and to establish practical estimations of the various measures by experiment. Is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result. May be applied to a very wide range of materials, including liquids, powders and solid objects, manufactured or naturally occurring, provided that due consideration is given to any heterogeneity of the material.</abstract>
       <status>
         <stage>60</stage>
         <substage>60</substage>
       </status>
       <copyright>
-        <from>2023</from>
+        <from>1994</from>
         <owner>
           <organization>
             
@@ -2786,20 +2786,20 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       </copyright>
       <relation type="obsoletes">
         <bibitem>
-          <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
+          <formattedref>ISO 5725:1986</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
           <date type="published">
-            <on>1998-02-05</on>
+            <on>1986-09-18</on>
           </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
+      <relation type="updatedBy">
         <bibitem>
-          <formattedref>ISO 5725-1:1994</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-1:1994</docidentifier>
+          <formattedref>ISO 5725-1:1994/Cor 1:1998</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725-1:1994/Cor 1:1998</docidentifier>
           <date type="published">
-            <on>1994-12-22</on>
+            <on>1998-02-05</on>
           </date>
         </bibitem>
 
@@ -2813,8 +2813,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_ba01e52d-ec48-924a-84b7-7bdc508315c0"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. Second édition. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/69419.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO5725-2" type="standard" schema-version="v1.5.6" anchor="ISO5725-2" semx-id="_0c878db4-9c40-ce63-c01f-45f4f57d9cce"><biblio-tag>[3]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">5725</span>-<span class="stddocPartNumber">2</span><fn id="_aca09455-2b2d-8151-a52e-3c1b1a6e3344" reference="7" original-reference="_e834fcde-73c2-44b9-b059-ad6aee233aad" target="_3610df8c-376d-2bba-a776-9f156b84f32f"><p>Retiré.</p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_aca09455-2b2d-8151-a52e-3c1b1a6e3344">7</semx><span class="fmt-label-delim">)</span></sup></span></fmt-fn-label></fn>
+, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Accuracy (trueness and precision) of measurement methods and results — Part 2: Basic method for the determination of repeatability and reproducibility of a standard measurement method_. Report no. 5725. First édition. Geneva: International Organization for Standardization, ISO 5725-2. iso-reference ISO 5725-2(E). URN urn:iso:std:iso:5725:-2:stage-95.99. Available from: https://www.iso.org/standard/11834.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Accuracy (trueness and precision) of measurement methods and results</title>
 
@@ -2833,9 +2834,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
-  <uri type="src">https://www.iso.org/standard/69419.html</uri>
-  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
-  <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
+  <uri type="src">https://www.iso.org/standard/11834.html</uri>
+  <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
+  <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri><docidentifier type="metanorma-ordinal">[3]</docidentifier>
   <docidentifier type="ISO" primary="true">ISO 5725-2</docidentifier>
   <docidentifier type="iso-reference">iso-reference ISO 5725-2(E)</docidentifier>
   <docidentifier type="URN">URN urn:iso:std:iso:5725:-2:stage-95.99</docidentifier><docidentifier scope="biblio-tag">ISO 5725-2</docidentifier>
@@ -2867,16 +2868,16 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       <abbreviation>ISO</abbreviation>
     </organization>
   </contributor>
-  <edition>2</edition>
-  <language>en</language>
+  <edition>1</edition>
+  <note type="Unpublished-Status"><p id="_f3391b3c-a52c-f039-d7ae-9a5aa6e11558" semx-id="_f3391b3c-a52c-f039-d7ae-9a5aa6e11558">Retiré.</p></note><language>en</language>
   <language>fr</language>
   <script>Latn</script>
   <status>
-    <stage>60</stage>
-    <substage>60</substage>
+    <stage>95</stage>
+    <substage>99</substage>
   </status>
   <copyright>
-    <from>2019</from>
+    <from>1994</from>
     <owner>
       <organization>
         
@@ -2887,15 +2888,22 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   </copyright>
   <relation type="obsoletes">
     <bibitem>
-      <formattedref>ISO 5725-2:1994</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+      <formattedref>ISO 5725:1986</formattedref>
+      <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
       <date type="published">
-        <on>1994-12-22</on>
+        <on>1986-09-18</on>
       </date>
     </bibitem>
 
   </relation>
-  <relation type="obsoletes">
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 15725-2</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 15725-2</docidentifier>
+    </bibitem>
+
+  </relation>
+  <relation type="updatedBy">
     <bibitem>
       <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
@@ -2925,16 +2933,16 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       
 <title language="fr" script="Latn" type="main">Exactitude (justesse et fidélité) des résultats et méthodes de mesure — Partie 2: Méthode de base pour la détermination de la répétabilité et de la reproductibilité d’une méthode de mesure normalisée</title>
 
-      <uri type="src">https://www.iso.org/standard/69419.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69419:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/06/94/69419.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 5725-2:2019</docidentifier>
+      <uri type="src">https://www.iso.org/standard/11834.html</uri>
+      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:11834:en</uri>
+      <uri type="rss">https://www.iso.org/contents/data/standard/01/18/11834.detail.rss</uri>
+      <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
       <docidentifier type="iso-undated">ISO 5725-2</docidentifier>
-      <docidentifier type="iso-reference">ISO 5725-2:2019(E)</docidentifier>
+      <docidentifier type="iso-reference">ISO 5725-2:1994(E)</docidentifier>
       <docidentifier type="URN">urn:iso:std:iso:5725:-2:stage-95.99</docidentifier>
       <docnumber>5725</docnumber>
       <date type="published">
-        <on>2019-12-06</on>
+        <on>1994-12-22</on>
       </date>
       <contributor>
         <role type="publisher"/>
@@ -2958,22 +2966,22 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
             
 <name>Measurement methods and results</name>
 
-            <identifier id="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_233ae7b6-0920-0c7e-81d9-010904fa95b8">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
+            <identifier id="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</identifier><fmt-identifier><tt><semx element="identifier" source="_c153248c-eee6-a86d-c777-097109065cf6">ISO/TC 69/SC 6</semx></tt></fmt-identifier>
           </subdivision>
           <abbreviation>ISO</abbreviation>
         </organization>
       </contributor>
-      <edition>2</edition>
-      <language>en</language>
+      <edition>1</edition>
+      <note type="Unpublished-Status"><p id="_45af353f-f7ba-ac10-0339-35dddf2bcb8c" semx-id="_45af353f-f7ba-ac10-0339-35dddf2bcb8c">Retiré.</p></note><language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract language="en" script="Latn">1.1 This document — amplifies the general principles for designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment; — provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods; — provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. NOTE Modifications to this basic method for particular purposes are given in other parts of ISO 5725. 1.2 It is concerned exclusively with measurement methods which yield measurements on a continuous scale and give a single value as the test result, although this single value can be the outcome of a calculation from a set of observations. 1.3 It assumes that in the design and performance of the precision experiment, all the principles as laid down in ISO 5725-1 are observed. The basic method uses the same number of test results in each laboratory, with each laboratory analysing the same levels of test sample; i.e. a balanced uniform-level experiment. The basic method applies to procedures that have been standardized and are in regular use in a number of laboratories. 1.4 The statistical model of ISO 5725-1:1994, Clause 5, is accepted as a suitable basis for the interpretation and analysis of the test results, the distribution of which is approximately normal. 1.5 The basic method, as described in this document, (usually) estimates the precision of a measurement method: a) when it is required to determine the repeatability and reproducibility standard deviations as defined in ISO 5725-1; b) when the materials to be used are homogeneous, or when the effects of heterogeneity can be included in the precision values; and c) when the use of a balanced uniform-level layout is acceptable. 1.6 The same approach can be used to make a preliminary estimate of precision for measurement methods which have not reached standardization or are not in routine use.</abstract>
+      <abstract language="en" script="Latn">Amplifies the general principles to be observed in designing experiments for the numerical estimation of the precision of measurement methods by means of a collaborative interlaboratory experiment, provides a detailed practical description of the basic method for routine use in estimating the precision of measurement methods, provides guidance to all personnel concerned with designing, performing or analysing the results of the tests for estimating precision. Annex B provides practical examples of estimating the precision of measurement methods by experiment.</abstract>
       <status>
-        <stage>60</stage>
-        <substage>60</substage>
+        <stage>95</stage>
+        <substage>99</substage>
       </status>
       <copyright>
-        <from>2019</from>
+        <from>1994</from>
         <owner>
           <organization>
             
@@ -2984,15 +2992,22 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
       </copyright>
       <relation type="obsoletes">
         <bibitem>
-          <formattedref>ISO 5725-2:1994</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 5725-2:1994</docidentifier>
+          <formattedref>ISO 5725:1986</formattedref>
+          <docidentifier type="ISO" primary="true">ISO 5725:1986</docidentifier>
           <date type="published">
-            <on>1994-12-22</on>
+            <on>1986-09-18</on>
           </date>
         </bibitem>
 
       </relation>
-      <relation type="obsoletes">
+      <relation type="obsoletedBy">
+        <bibitem>
+          <formattedref>ISO/WD 15725-2</formattedref>
+          <docidentifier type="ISO" primary="true">ISO/WD 15725-2</docidentifier>
+        </bibitem>
+
+      </relation>
+      <relation type="updatedBy">
         <bibitem>
           <formattedref>ISO 5725-2:1994/Cor 1:2002</formattedref>
           <docidentifier type="ISO" primary="true">ISO 5725-2:1994/Cor 1:2002</docidentifier>
@@ -3011,8 +3026,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_53e7dcf8-f892-3e25-c699-a15480feddf3"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-1" type="standard" schema-version="v1.5.6" anchor="ISO6322-1" semx-id="_b2de3cfb-56cb-a743-a596-812b22b97418"><biblio-tag>[4]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">1</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 1: General recommendations for the keeping of cereals_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-1. iso-reference ISO 6322-1(E). URN urn:iso:std:iso:6322:-1:stage-90.92. Available from: https://www.iso.org/standard/21396.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3217,8 +3232,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_1563eded-aeaf-51f4-39cd-6bd3a9c22da5"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-2" type="standard" schema-version="v1.5.6" anchor="ISO6322-2" semx-id="_ca6a101a-9f41-928c-7b68-ff2e8c7e7a38"><biblio-tag>[5]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">2</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 2: Practical recommendations_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-2. iso-reference ISO 6322-2(E). URN urn:iso:std:iso:6322:-2:stage-90.93. Available from: https://www.iso.org/standard/21395.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3394,8 +3409,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_1ebf64bf-1ad9-88b5-4bb1-1898f740c05e"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO6322-3" type="standard" schema-version="v1.5.6" anchor="ISO6322-3" semx-id="_c674ccca-34e5-a6a8-dfd6-ccdd53be6b57"><biblio-tag>[6]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">6322</span>-<span class="stddocPartNumber">3</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Storage of cereals and pulses — Part 3: Control of attack by pests_. Report no. 6322. Second édition. Geneva: International Organization for Standardization, ISO 6322-3. iso-reference ISO 6322-3(E). URN urn:iso:std:iso:6322:-3:stage-90.93. Available from: https://www.iso.org/standard/12614.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Storage of cereals and pulses</title>
 
@@ -3572,8 +3587,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_531604d3-6fe9-3b19-e9b2-07985249af3e"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. Third édition. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO7301" type="standard" schema-version="v1.5.6" anchor="ISO7301" semx-id="_641b313d-0f4b-852a-a794-c870eff45a4c"><biblio-tag>[7]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">7301</span>:<span class="stdyear">2011</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Specification_. Report no. 7301. Third édition. Geneva: International Organization for Standardization, 2011. ISO 7301:2011. iso-undated ISO 7301. iso-reference ISO 7301:2011(E). URN urn:iso:std:iso:7301:stage-95.99. Available from: https://www.iso.org/standard/50935.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3671,8 +3686,8 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_fc86f1ff-53bc-47d4-2449-573e5a6e97c4"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. First édition. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="ISO14864" type="standard" schema-version="v1.5.6" anchor="ISO14864" semx-id="_cda6f277-7358-c519-666f-77b4c3aae9ef"><biblio-tag>[8]<tab/><span class="stdpublisher">ISO</span> <span class="stddocNumber">14864</span>:<span class="stdyear">1998</span>, </biblio-tag><formattedref>INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO). _Rice — Evaluation of gelatinization time of kernels during cooking_. Report no. 14864. First édition. Geneva: International Organization for Standardization, 1998. ISO 14864:1998. iso-undated ISO 14864. iso-reference ISO 14864:1998(E). URN urn:iso:std:iso:14864:stage-90.93. Available from: https://www.iso.org/standard/25793.html.</formattedref>
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -3809,9 +3824,9 @@ potassium dans de l’eau déionisée, par exemple Lugols<fn id="_2164abaa-fc3a-
 </references></bibliography>
 <fmt-footnote-container><fmt-fn-body id="_55b50735-6fff-e6f4-bed2-1cd501388562" target="_350474b6-ec7b-b36b-8b5a-903147edd404" reference="1"><semx element="fn" source="_350474b6-ec7b-b36b-8b5a-903147edd404"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_350474b6-ec7b-b36b-8b5a-903147edd404">1</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Retiré.</p></semx></fmt-fn-body><fmt-fn-body id="_ebadf908-c117-51fc-ce70-3032f013fa8e" target="_c680f52a-125b-a49a-fe70-3912c2d40ac2" reference="2"><semx element="fn" source="_c680f52a-125b-a49a-fe70-3912c2d40ac2"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_c680f52a-125b-a49a-fe70-3912c2d40ac2">2</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p></semx></fmt-fn-body><fmt-fn-body id="_c16da58f-9325-8d65-7c2b-15e1c440f43a" target="_4d7c0bed-6176-b2e7-5fbd-d28bff7a3a07" reference="3"><semx element="fn" source="_4d7c0bed-6176-b2e7-5fbd-d28bff7a3a07"><p id="_823029c3-d0de-a050-847e-d014e73c4971" semx-id="_823029c3-d0de-a050-847e-d014e73c4971"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_4d7c0bed-6176-b2e7-5fbd-d28bff7a3a07">3</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Retiré.</p></semx></fmt-fn-body><fmt-fn-body id="_db2fb59f-6a58-a119-9e16-584309dde2fc" target="_2d128f15-5d9e-af1c-555b-bcb03b360153" reference="4"><semx element="fn" source="_2d128f15-5d9e-af1c-555b-bcb03b360153"><p id="_80022297-2154-36e0-65b4-6428bbe28002" semx-id="_80022297-2154-36e0-65b4-6428bbe28002"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_2d128f15-5d9e-af1c-555b-bcb03b360153">4</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Auparavant indiqué comme 15 % (<em>m/m</em>).</p>
 </semx></fmt-fn-body><fmt-fn-body id="_4c78fff7-7f6c-39e8-5a07-9854c09afb62" target="_e48f6eaa-eba8-b9a2-12b2-592d21485392" reference="5"><semx element="fn" source="_e48f6eaa-eba8-b9a2-12b2-592d21485392"><p id="_509cc5ad-a941-75c7-e75c-6d97271b875c" semx-id="_509cc5ad-a941-75c7-e75c-6d97271b875c"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_e48f6eaa-eba8-b9a2-12b2-592d21485392">5</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>En cours d’élaboration. (Stade au moment de la publication ISO/DIS 16634).</p></semx></fmt-fn-body><fmt-fn-body id="_d7096374-8b1a-0747-78cb-6fb86d2d3e3b" target="_2164abaa-fc3a-74e7-7064-20c76daf7fdb" reference="6"><semx element="fn" source="_2164abaa-fc3a-74e7-7064-20c76daf7fdb"><p id="_cdfa3200-229d-b0ec-a6a9-758122af7f48" semx-id="_cdfa3200-229d-b0ec-a6a9-758122af7f48"><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_2164abaa-fc3a-74e7-7064-20c76daf7fdb">6</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Lugols est un exemple de produit approprié disponible sur le marché. Cette information est donnée à l’intention des utilisateurs du présent document et ne signifie nullement que l’ISO approuve ou recommande l’emploi exclusif du produit ainsi désigné.</p>
-</semx></fmt-fn-body></fmt-footnote-container><annotation-container><annotation date="2026-11-05" reviewer="Metanorma" id="_dcf4dae0-2e3e-3f97-0e99-c1d23c1cb960" from="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" to="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">
+</semx></fmt-fn-body><fmt-fn-body id="_3610df8c-376d-2bba-a776-9f156b84f32f" target="_aca09455-2b2d-8151-a52e-3c1b1a6e3344" reference="7"><semx element="fn" source="_aca09455-2b2d-8151-a52e-3c1b1a6e3344"><p><fmt-fn-label><span class="fmt-caption-label"><sup><semx element="autonum" source="_aca09455-2b2d-8151-a52e-3c1b1a6e3344">7</semx></sup></span><span class="fmt-caption-delim"><tab/></span></fmt-fn-label>Retiré.</p></semx></fmt-fn-body></fmt-footnote-container><annotation-container><annotation date="2026-11-08" reviewer="Metanorma" id="_dcf4dae0-2e3e-3f97-0e99-c1d23c1cb960" from="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07" to="_6b3c224b-98bc-4a9e-0079-4ddaf1dcec07">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
-</annotation><fmt-annotation-body date="2026-11-05" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_ab9a6712-3039-296e-3105-dd7255efaf88"><semx element="annotation" source="_dcf4dae0-2e3e-3f97-0e99-c1d23c1cb960">
+</annotation><fmt-annotation-body date="2026-11-08" reviewer="Metanorma" from="_b80d0420-f181-cc2d-b6a5-a693a964d32f" to="_aebe944d-d1f0-44db-c9e9-73df57c97535" id="_ab9a6712-3039-296e-3105-dd7255efaf88"><semx element="annotation" source="_dcf4dae0-2e3e-3f97-0e99-c1d23c1cb960">
 <p><strong>Metadata warnings:</strong></p> <p>Secretariat is missing.</p>
 </semx></fmt-annotation-body>
 </annotation-container></metanorma>

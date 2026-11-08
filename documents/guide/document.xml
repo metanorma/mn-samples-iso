@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Guidelines for addressing climate change in standards</title>
 
@@ -25,7 +25,7 @@
 </subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2020-07-10</version><language>en</language><script>Latn</script><status><stage abbreviation="FDGUIDE">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>guide</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>13.020.01</code><text>Environment and environmental protection in general</text></ics><structuredidentifier><project-number>ISO 99999</project-number></structuredidentifier><stagename abbreviation="FDGUIDE">Final Draft Guide</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -193,9 +193,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_a4fa2094-a74e-99d6-f473-e5b37c13ce18" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_4cded6ef-9c46-a20b-639e-a2c54dc922e0" type="standard" schema-version="v1.5.6" anchor="iso140001">
-  <fetched>2026-11-05</fetched>
+</references><references id="_e1e996a9-ebad-56f6-2f22-14ab8a21e77d" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_3c1d6b95-df4d-e40b-e0b7-428bbef98e57" type="standard" schema-version="v1.5.6" anchor="iso140001">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Environmental management systems</title>
 
@@ -303,8 +303,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_e5b5cf08-29a6-721d-b67a-9154cab07deb" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_8a5f35ab-0662-efef-5b03-21370b082064" type="standard" schema-version="v1.5.6" anchor="iso14064_1">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Greenhouse gases</title>
 
@@ -408,8 +408,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_c743bf87-0585-a45f-e092-220ffa379ad9" type="standard" schema-version="v1.5.6" anchor="iso31000">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_ad10304a-7eec-4ff0-5e3a-c5027a55740e" type="standard" schema-version="v1.5.6" anchor="iso31000">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Risk management</title>
 

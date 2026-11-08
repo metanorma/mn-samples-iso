@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Competence of standards professionals — In companies</title>
 
@@ -35,7 +35,7 @@
 </subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2019-10-15</version><language>en</language><script>Latn</script><status><stage abbreviation="FDIS">50</stage><substage>60</substage><iteration>2</iteration></status><copyright><from>2019</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>international-workshop-agreement</doctype><flavor>iso</flavor><ics><code>01.120</code><text>Standardization. General rules</text></ics><ics><code>03.100.30</code><text>Management of human resources</text></ics><structuredidentifier><project-number part="1">ISO IWA 30</project-number></structuredidentifier><stagename abbreviation="FDIS">Final Draft International Standard</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_aa705764-de78-2c83-46a4-9e648d4472ef" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -185,9 +185,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_7c9b0731-17fb-070b-c4f0-3d1240ebbc04" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_788768fe-398c-0397-202e-cae48918bf20" type="standard" schema-version="v1.5.6" anchor="iso9000">
-  <fetched>2026-11-05</fetched>
+</references><references id="_d52de7e5-c0aa-34e2-86e3-0e21bc9b7b7d" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_20209daa-d8ea-1056-0e8e-6337b6efd487" type="standard" schema-version="v1.5.6" anchor="iso9000">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Quality management systems</title>
 
@@ -279,8 +279,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_7132859c-994a-b175-60da-20112c913a0a" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_0ca93a3d-aaa0-2bbd-0cfd-a4dda524ad3b" type="standard" schema-version="v1.5.6" anchor="iso9241_11">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Ergonomics of human-system interaction</title>
 
@@ -369,8 +369,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9a93e1f2-a764-9027-82ab-eeba53e3e236" type="standard" schema-version="v1.5.6" anchor="iso17027">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_dc8b5e0b-baa7-e7e4-df32-5a0e9911da15" type="standard" schema-version="v1.5.6" anchor="iso17027">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Conformity assessment</title>
 

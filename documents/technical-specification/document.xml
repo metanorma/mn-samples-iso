@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Fire safety — Statistical data collection — Vocabulary</title>
 
@@ -41,7 +41,7 @@
 <identifier>TC 92</identifier><identifier type="full">TC 92</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2020-08-06</version><language>en</language><script>Latn</script><status><stage abbreviation="FDTS">50</stage><substage>60</substage></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-specification</doctype><flavor>iso</flavor><ics><code>01.040.13</code><text>Environment. Health protection. Safety (Vocabularies)</text></ics><ics><code>13.220.20</code><text>Fire protection</text></ics><structuredidentifier><project-number part="2">ISO 17755-2</project-number></structuredidentifier><stagename abbreviation="FDTS">Final Draft Technical Specification</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -239,9 +239,9 @@
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
 </annex><bibliography><references id="_08e4a7cd-1a73-9a2a-4dac-fc841681bf21" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_1e0e85f2-a241-464a-90af-046b5883d60f">There are no normative references in this document.</p>
-</references><references id="_45a166c8-90d8-a43b-41a9-f065acd2f1bf" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_44ed13c4-0ff8-e2df-165a-f266f462aacf" type="standard" schema-version="v1.5.6" anchor="ISO7301">
-  <fetched>2026-11-05</fetched>
+</references><references id="_7fd3acac-ae5c-3efb-9f0b-d4c1c9975701" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_0ca8b5ef-757d-3a2f-f9dd-4730abb4a6e9" type="standard" schema-version="v1.5.6" anchor="ISO7301">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -339,8 +339,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_0e60f055-ab72-78d3-bc9b-7a2cfeaea521" type="standard" schema-version="v1.5.6" anchor="iso13943">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_4ea9524f-b93a-9999-c969-55949351cbb8" type="standard" schema-version="v1.5.6" anchor="iso13943">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -436,8 +436,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_2961edeb-2444-c5e5-0044-fa7bfb19df1c" type="standard" schema-version="v1.5.6" anchor="ISO14864">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_7b75c111-269f-b50b-cc57-298cf4c577d1" type="standard" schema-version="v1.5.6" anchor="ISO14864">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Rice</title>
 
@@ -515,8 +515,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_73f081c2-d8bb-2cc1-896f-48e8de3293a8" type="standard" schema-version="v1.5.6" anchor="isotr17755">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_b9fb2ad7-ed8e-d8a3-8530-f2758e5909bc" type="standard" schema-version="v1.5.6" anchor="isotr17755">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Fire safety</title>
 
@@ -602,8 +602,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_08db6cdb-ea27-a7e3-5d97-a7e1f89d4859" type="standard" schema-version="v1.5.6" anchor="isots19677">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_01e580b2-3a98-8d11-1dd6-48782b501553" type="standard" schema-version="v1.5.6" anchor="isots19677">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-main">Guidelines for assessing the adverse impact of wildland fires on the environment and to people through environmental exposure</title>
 

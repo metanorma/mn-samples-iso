@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">Information technology — Document description and processing languages — Guidelines for translation between ISO/IEC 26300 and ISO/IEC 29500 document formats</title>
 
@@ -31,7 +31,7 @@
 <identifier>SC 34</identifier></subdivision><abbreviation>ISO</abbreviation></organization></contributor><edition>1</edition><version>2011-12</version><language>en</language><script>Latn</script><status><stage abbreviation="FDTR">50</stage><substage>60</substage></status><copyright><from>2011</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>technical-report</doctype><flavor>iso</flavor><ics><code>35.060</code><text>Languages used in information technology</text></ics><structuredidentifier><project-number>ISO 29166</project-number></structuredidentifier><stagename abbreviation="FDTR">Final Draft Technical Report</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>false</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>1989</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>1989</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_1ac749d8-50de-9e5a-be08-8e0bb1eef33f" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative"><p id="_bd68d22e-f082-3fc3-5fb4-7d4cd7473f6a" anchor="boilerplate-year">© <span class="std_publisher">ISO </span><span class="date">2011</span></p>
@@ -242,10 +242,10 @@
 </annex><annex id="_375e8029-b2d2-cdfe-575d-1b463e9faef6" anchor="annex-2" inline-header="false" obligation="informative">
 <title id="_4d4e0e87-0b14-2df0-e06f-b749ed5115f8">Annex Two</title>
 <p id="_eead8ae9-215f-c7ef-f9de-dbfad2afcaca">This is an informative annex.</p>
-</annex><bibliography><references id="_2908cce3-a4c9-05a6-7775-0d34f8c66ee3" normative="true" obligation="informative">
+</annex><bibliography><references id="_c4751549-6cb7-d9e5-f094-a198550dedc6" normative="true" obligation="informative">
 <title id="_270c5ee6-077e-f285-ff95-287984a30140">Normative references</title><p id="_49996d2b-65c1-916b-9bbf-42b933aa0025">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</p>
-<bibitem id="_590470f8-4113-2204-1b9e-990f2d41945d" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_181d9d23-9094-63a3-1524-63c14e268b39" type="standard" schema-version="v1.5.6" anchor="iso-iec_26300">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -404,8 +404,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_c7783b4e-ade1-5f8e-d6fe-f6d0b1c857bd" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_bc51e767-2531-ab46-10ff-e1923f2ea6ae" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-1">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -537,8 +537,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_7f8f0d3f-e1c8-fdbd-9fe7-28e358b36b35" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_40302ea6-bbde-880b-bd1b-d50f52fd2a8f" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-2">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -660,8 +660,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_53a2114d-7e37-adb1-0207-6358b2b6e9bd" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_66757bfc-904f-e7cd-ac53-23f7acc72d68" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-3">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -776,8 +776,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_507749aa-53a7-bc87-8945-0c11f0dcd159" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_acd196e0-934a-d19f-0114-31d213c50532" type="standard" schema-version="v1.5.6" anchor="iso-iec_29500-4">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -910,8 +910,8 @@
   </place>
 </bibitem>
 
-<bibitem id="_9a84f174-52cd-8cdf-a1d9-464a375465a0" type="standard" schema-version="v1.5.6" anchor="ISO5127">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_8f5a0466-2547-5a11-7fd6-b6e357709a82" type="standard" schema-version="v1.5.6" anchor="ISO5127">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1115,8 +1115,8 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-<bibitem id="_7d432419-b216-19d0-6cb2-012a56f8aa08" type="standard" schema-version="v1.5.6" anchor="ISO15924">
-  <fetched>2026-11-05</fetched>
+<bibitem id="_2d6feb00-fc92-2bce-8f7b-3c75dde92e83" type="standard" schema-version="v1.5.6" anchor="ISO15924">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1274,9 +1274,9 @@
     <city>Geneva</city>
   </place>
 </bibitem>
-</references><references id="_8b400caa-3c41-185e-b0a2-b6ad31c6e173" normative="false" obligation="informative">
-<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_9fa1d445-fa9d-8ed7-9716-42b64607b94b" type="standard" schema-version="v1.5.6" anchor="iso15489_1">
-  <fetched>2026-11-05</fetched>
+</references><references id="_59e99eab-d081-640f-0e79-c16b1bf298e6" normative="false" obligation="informative">
+<title id="_50ceb1e1-516f-2673-d73d-4f0c58b4d023">Bibliography</title><bibitem id="_a47c8e43-5ffb-61db-753b-28a2717df260" type="standard" schema-version="v1.5.6" anchor="iso15489_1">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information and documentation</title>
 
@@ -1371,8 +1371,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_e8ac8da8-83a0-cefa-0f3e-a99b16c3b25f" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_7f41555e-bd23-319a-8106-cfa14402027c" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-1">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1467,8 +1467,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_ad9d6762-404f-179b-d90b-4713c1fd18f7" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_511fe0a7-a23d-133c-6bac-d0895b45786c" type="standard" schema-version="v1.5.6" anchor="iso-iec_10746-3">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 
@@ -1580,8 +1580,8 @@
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_c0be5c77-2c61-f5c3-43d7-73f9e7cd2bf5" type="standard" schema-version="v1.5.6" anchor="iso27000">
-  <fetched>2026-11-05</fetched>
+</bibitem><bibitem id="_1b25f458-c03f-0150-5cda-00658001fced" type="standard" schema-version="v1.5.6" anchor="iso27000">
+  <fetched>2026-11-08</fetched>
   
 <title language="en" script="Latn" type="title-intro">Information technology</title>
 

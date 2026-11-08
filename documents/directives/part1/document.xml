@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.4" schema-version="v2.3.0" flavor="iso">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="3.5.6" schema-version="v2.3.0" flavor="iso">
 <bibdata type="standard">
 <title language="en" type="main">ISO/IEC Directives — Procedures for the technical work</title>
 
@@ -33,7 +33,7 @@
 <abbreviation>ISO</abbreviation></organization></contributor><edition>16</edition><language>en</language><script>Latn</script><status><stage abbreviation="DIR">60</stage><substage>60</substage></status><copyright><from>2020</from><owner><organization>
 <name>International Organization for Standardization</name>
 <abbreviation>ISO</abbreviation></organization></owner></copyright><ext><doctype>directive</doctype><flavor>iso</flavor><structuredidentifier><project-number part="1">ISO </project-number></structuredidentifier><stagename abbreviation="DIR">Directives</stagename></ext></bibdata><metanorma-extension><semantic-metadata><stage-published>true</stage-published></semantic-metadata>
-<presentation-metadata><document-scheme>2013</document-scheme><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
+<presentation-metadata><document-scheme>2013</document-scheme><output-extensions>xml,html,doc,html_alt,pdf,rxl</output-extensions><toc-heading-levels>2</toc-heading-levels><html-toc-heading-levels>2</html-toc-heading-levels><doc-toc-heading-levels>3</doc-toc-heading-levels><pdf-toc-heading-levels>3</pdf-toc-heading-levels></presentation-metadata></metanorma-extension>
 <boilerplate><copyright-statement>
 
 <clause id="_63526b4e-205a-fb23-57e6-585a586412eb" anchor="boilerplate-copyright-default" inline-header="false" obligation="normative">
@@ -2616,7 +2616,7 @@
 
 <clause id="_a398d0f1-eccd-492d-bf89-80788319d8bf" anchor="scls-H-5" inline-header="false" obligation="normative"><p id="_5cbd4d52-5355-ac93-9592-d38d00af8b6a">Registration functions undertaken by the registration authority under the provisions of the relevant International Standard shall require no financial contribution from ISO or IEC or their members. This would not preclude, however, the charging for services provided by the registration authority if duly authorized by the council board.</p>
 </clause>
-</annex><annex id="_08a2f1f8-92c6-8d3e-c390-82a84c585777" anchor="annexI" inline-header="false" obligation="normative">
+</annex><annex id="_53993f52-ad3d-96fa-b99d-32e3e9c16c4f" anchor="annexI" inline-header="false" obligation="normative">
 <title id="_cc308f4f-bf2c-f74c-55c8-3d93657e8163">Guideline for Implementation of the Common Patent Policy for ITU-T/ITU-R/ISO/IEC</title>
 <p id="_7cfb096c-ec25-7b37-985e-3f239a8dcc3a">The latest edition of the Guidelines for Implementation of the Common Patent Policy for ITU-T/ITU-R/ISO/IEC are available on the ISO website through the following link (including the forms in Word or Excel formats):</p>
 
@@ -2646,7 +2646,7 @@
 
 <p id="_e227ddf1-da4c-23a4-20c3-785713217b29" align="center">Revision 2, effective 26 June 2015</p>
 
-<clause id="_7aba717d-ba0c-5426-60a4-f93b325d5681" inline-header="false" obligation="normative">
+<clause id="_950828a4-b37a-6238-76e6-d83dc38a3059" inline-header="false" obligation="normative">
 <title id="_e7220e19-25c2-53fc-cba3-1e017ac807a8">Part I – Common guidelines</title>
 <clause id="_85b5fff8-cb20-1ddf-2f36-3491878bf4d5" anchor="scls-I-1" inline-header="false" obligation="normative">
 <title id="_a7e947cd-8cb5-f848-2733-b194bc6382a1">Purpose</title>
@@ -2700,9 +2700,9 @@
 <p id="_5f7648bf-f0cb-9f30-8aa8-029fcb7ea445">Whether the identification of the Patent took place before or after the approval of the Recommendation | Deliverable, if the Patent Holder is unwilling to license under paragraph 2.1 or 2.2 of the Patent Policy, the Organizations will promptly advise the Technical Bodies responsible for the affected Recommendation | Deliverable so that appropriate action can be taken. Such action will include, but may not be limited to, a review of the Recommendation | Deliverable or its draft in order to remove the potential conflict or to further examine and clarify the technical considerations causing the conflict.</p>
 </clause>
 
-<clause id="_24a9872e-0afa-0c76-30f9-d84c9db23238" anchor="scls-I-4" inline-header="false" obligation="normative">
+<clause id="_266bd599-4c46-8db7-c870-8f43fa5270be" anchor="scls-I-4" inline-header="false" obligation="normative">
 <title id="_b74bd3b6-fef4-3620-dab8-5da676e2b134">Patent Statement and Licensing Declaration Form</title>
-<clause id="_c659d07f-ce6a-d86c-6353-a4c94019bc23" anchor="scls-I-4-1" inline-header="false" obligation="normative">
+<clause id="_9548e2b2-9173-d388-d4d9-daa28f27efa9" anchor="scls-I-4-1" inline-header="false" obligation="normative">
 <title id="_0245d034-0212-7477-bc59-86a31188dd2d">The purpose of the Declaration Form</title>
 <p id="_a6c060e2-dfa3-521f-f4ca-ac67177e0034">To provide clear information in the Patent Information databases of each Organization, Patent Holders have to use the Declaration Form, which is available on the web site of each Organization (the Declaration Form is included in Annex 2 for information purposes). They must be sent to the Organizations for the attention, for ITU, of the Directors of the TSB or the BR or, for ISO or IEC, of the CEOs. The purpose of the Declaration Form is to ensure a standardized submission to the respective Organizations of the declarations being made by Patent Holders.</p>
 
@@ -2712,7 +2712,7 @@
 
 <p id="_b2454741-d405-367d-6a6b-5f0d3f94a125">Multiple Declaration Forms are appropriate if the Patent Holder wishes to identify several Patents and classifies them in different options of the Declaration Form for the same Recommendation | Deliverable or if the Patent Holder classifies different claims of a complex patent in different options of the Declaration Form.</p>
 
-<p id="_ea22231d-2b1b-1787-e824-a924b08c11e8">Information contained in a Declaration Form may be corrected in case of obvious errors, such as a typographical mistake in a standard or patent reference number. The licensing declaration contained in the Declaration Form remains in force unless it is superseded by another Declaration Form containing more favourable licensing terms and conditions from a licensee’s perspective reflecting (a) a change in commitment from option 3 to either option 1 or option 2, (b) a change in commitment from option 2 to option 1 or © un-checking one or more sub-options contained within option 1 or 2.</p>
+<p id="_1e6d6661-0c7a-11e2-879e-ebae9494add9">Information contained in a Declaration Form may be corrected in case of obvious errors, such as a typographical mistake in a standard or patent reference number. The licensing declaration contained in the Declaration Form remains in force unless it is superseded by another Declaration Form containing more favourable licensing terms and conditions from a licensee’s perspective reflecting (a) a change in commitment from option 3 to either option 1 or option 2, (b) a change in commitment from option 2 to option 1 or (c) un-checking one or more sub-options contained within option 1 or 2.</p>
 </clause>
 
 <clause id="_04027e5b-2faa-8d48-b684-9bab37bd3aae" anchor="scls-I-4-2" inline-header="false" obligation="normative">
