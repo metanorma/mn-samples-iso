@@ -1,0 +1,7 @@
+WARNING: font '/config/fonts/google/inter/Inter-Italic[opsz,wght].ttf' from the fontist manifest file is the variable font and doesn't supported by Apache FOP!
+WARNING: font '/config/fonts/google/inter/Inter[opsz,wght].ttf' from the fontist manifest file is the variable font and doesn't supported by Apache FOP!
+WARNING: Font 'Inter,normal,400' (font family 'Inter', style 'normal', weight 'normal/400') doesn't exist. Replaced by 'NotoSans-Regular' (/github/home/.metanorma/fonts/NotoSans-Regular.ttf).
+WARNING: Font 'Inter,normal,700' (font family 'Inter', style 'normal', weight 'bold/700') doesn't exist. Replaced by 'NotoSans-Bold' (/github/home/.metanorma/fonts/NotoSans-Bold.ttf).
+WARNING: Font 'Inter,italic,400' (font family 'Inter', style 'italic', weight 'normal/400') doesn't exist. Replaced by 'NotoSans-Italic' (/github/home/.metanorma/fonts/NotoSans-Italic.ttf).
+WARNING: Font 'Inter,italic,700' (font family 'Inter', style 'italic', weight 'bold/700') doesn't exist. Replaced by 'NotoSans-BoldItalic' (/github/home/.metanorma/fonts/NotoSans-BoldItalic.ttf).
+
